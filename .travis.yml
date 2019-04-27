@@ -1,0 +1,25 @@
+language: node_js
+sudo: true
+node_js: node
+cache:
+  directories:
+    - node_modules
+install:
+  - yarn
+before_script:
+  - git config user.name "Travis-CI"
+  - git config user.email "willin@willin.org"
+  - git remote rm origin
+  - git remote add origin https://${GH_TOKEN}@${GH_REF}
+  - git checkout master
+script: yarn start
+after_success:
+  - git add -A .
+  - git status
+  - git commit -a -m "Travis-CI Deployed to Github"
+  - git push origin master
+  - echo -e "Done\n"
+env:
+  global:
+    - GH_REF: github.com/xibang/github-trending.git
+    - secure: "B498VUcmjdWIi43h9mDtof1jZ+7vdoHdANPrzNQogFb4NmwjzyAhQKbj+rZT+q/aDP8TJpOZOkQEaFwHgHszTBlGXezsSgzfFiuYfOiHZEoB26o8PZaycvOtX5yTgM17ADia+brHJLDvY2D+T9S3YGXJk1W+IRhjPFFmvu9ydGB3cHjzAok/74sw19dDthQTSGcgzgxu4YBxJtAku/vSsjDJG+QgiDcySc6Cn4QaTqiO8lPSxkn/4Eyhjqs2wyqrvqomOSVxowk8jEDXkIRRCfddWiXnS54bgkampDI7iaBdP3FKrHIBojFlsJytRGLl5kbWFHr5GHLvxdL4+iy0rAFK2CKMUTnBa0hBzs8xibHrOxVCrdmxEVhV3J6WaaoSYcPVEfSpcMOa51c8A2aOABQEJM/yexidzcVLk/wDOjJDz4N/VS8PmIJ6T3jSqcFSJ3Nd+iCUtXGrWtPWK3egPX1RlnSAHZQuw1G2QAh1DWyDd6ndu+chSyJ4QLpg4xyIP6oEvcO6y4cG9RCz7whg6hwtlHlQ2Xzq3brZeAZQNw9ByCq8fuJ7Lkx1l8VMHS6yaWJzAkflvvFgMF9HFHA8kftmxicAX4ckNDSc7gouIh2ImxtEk5XyDWLrOr/UKerDrARJYmZ3GvwdBv/cTiTsSbNpgh6mGsG2Atu/9EIWycg="
