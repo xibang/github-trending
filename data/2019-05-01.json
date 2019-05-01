@@ -1,0 +1,174 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "lang": "CSS",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "cn": false
+  },
+  {
+    "title": "palmerhq/tsdx",
+    "url": "https://github.com/palmerhq/tsdx",
+    "lang": "TypeScript",
+    "desc": "Zero-config CLI for TypeScript package development",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "cn": false
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "lang": "JavaScript",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "cn": false
+  },
+  {
+    "title": "S-March/smarchWatch_PUBLIC",
+    "url": "https://github.com/S-March/smarchWatch_PUBLIC",
+    "lang": "C",
+    "desc": "",
+    "cn": false
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "cn": true
+  },
+  {
+    "title": "shipshapecode/shepherd",
+    "url": "https://github.com/shipshapecode/shepherd",
+    "lang": "JavaScript",
+    "desc": "Guide your users through a tour of your app",
+    "cn": false
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU",
+    "cn": false
+  },
+  {
+    "title": "vadimdemedes/pastel",
+    "url": "https://github.com/vadimdemedes/pastel",
+    "lang": "JavaScript",
+    "desc": "🎨 Framework for effortlessly building Ink apps",
+    "cn": false
+  },
+  {
+    "title": "Microsoft/SymCrypt",
+    "url": "https://github.com/Microsoft/SymCrypt",
+    "lang": "C",
+    "desc": "Cryptographic library",
+    "cn": false
+  },
+  {
+    "title": "vislyhq/stretch",
+    "url": "https://github.com/vislyhq/stretch",
+    "lang": "Rust",
+    "desc": "High performance flexbox implementation written in rust",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识",
+    "cn": true
+  },
+  {
+    "title": "cknd/stackprinter",
+    "url": "https://github.com/cknd/stackprinter",
+    "lang": "Python",
+    "desc": "Debugging-friendly tracebacks for Python",
+    "cn": false
+  },
+  {
+    "title": "Quorafind/golang-developer-roadmap-cn",
+    "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+    "desc": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。",
+    "cn": true
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "p-ranav/pprint",
+    "url": "https://github.com/p-ranav/pprint",
+    "lang": "C++",
+    "desc": "Pretty Printer for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "soul-lang/SOUL",
+    "url": "https://github.com/soul-lang/SOUL",
+    "lang": "JavaScript",
+    "desc": "The SOUL programming language and API",
+    "cn": false
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "lang": "Python",
+    "desc": "Never use print for debugging again",
+    "cn": false
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "lang": "Java",
+    "desc": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "cn": true
+  },
+  {
+    "title": "kaina404/FlutterDouBan",
+    "url": "https://github.com/kaina404/FlutterDouBan",
+    "lang": "Dart",
+    "desc": "🔥🔥🔥Flutter豆瓣客户端,全网最100%还原豆瓣客户端。首页、书影音、小组、市集及个人中心，一个不拉 https://img.xuvip.top/douyademo.mp4",
+    "cn": true
+  },
+  {
+    "title": "mwouts/jupytext",
+    "url": "https://github.com/mwouts/jupytext",
+    "lang": "JupyterNotebook",
+    "desc": "Jupyter notebooks as Markdown documents, Julia, Python or R scripts",
+    "cn": false
+  }
+]
