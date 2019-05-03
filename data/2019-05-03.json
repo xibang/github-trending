@@ -1,0 +1,173 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "lang": "CSS",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "cn": true
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "lang": "Go",
+    "desc": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "cn": false
+  },
+  {
+    "title": "pytorch/botorch",
+    "url": "https://github.com/pytorch/botorch",
+    "lang": "Python",
+    "desc": "Bayesian optimization in PyTorch",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "czy36mengfei/tensorflow2_tutorials_chinese",
+    "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese",
+    "lang": "JupyterNotebook",
+    "desc": "tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials",
+    "cn": true
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "facebook/Ax",
+    "url": "https://github.com/facebook/Ax",
+    "lang": "JupyterNotebook",
+    "desc": "Adaptive Experimentation Platform",
+    "cn": false
+  },
+  {
+    "title": "agentofuser/ipfs-deploy",
+    "url": "https://github.com/agentofuser/ipfs-deploy",
+    "lang": "JavaScript",
+    "desc": "Zero-Config CLI to Deploy Static Websites to IPFS",
+    "cn": false
+  },
+  {
+    "title": "faastjs/faast.js",
+    "url": "https://github.com/faastjs/faast.js",
+    "lang": "TypeScript",
+    "desc": "Serverless batch computing made simple.",
+    "cn": false
+  },
+  {
+    "title": "vadimdemedes/pastel",
+    "url": "https://github.com/vadimdemedes/pastel",
+    "lang": "JavaScript",
+    "desc": "🎨 Framework for effortlessly building Ink apps",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "Novvum/graphql-birdseye",
+    "url": "https://github.com/Novvum/graphql-birdseye",
+    "lang": "TypeScript",
+    "desc": "View any GraphQL schema as a dynamic and interactive graph. 🦅",
+    "cn": false
+  },
+  {
+    "title": "palmerhq/tsdx",
+    "url": "https://github.com/palmerhq/tsdx",
+    "lang": "TypeScript",
+    "desc": "Zero-config CLI for TypeScript package development",
+    "cn": false
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well",
+    "cn": false
+  },
+  {
+    "title": "jefflombard/ui-libraries",
+    "url": "https://github.com/jefflombard/ui-libraries",
+    "desc": "A collection of UI Frameworks and their platform implementations.",
+    "cn": false
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "lang": "Python",
+    "desc": "Never use print for debugging again",
+    "cn": false
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "lang": "Go",
+    "desc": "Official golang DEXON fullnode implementation",
+    "cn": false
+  },
+  {
+    "title": "indragiek/InAppViewDebugger",
+    "url": "https://github.com/indragiek/InAppViewDebugger",
+    "lang": "Swift",
+    "desc": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+    "cn": false
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "lang": "JavaScript",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "cn": false
+  },
+  {
+    "title": "S-March/smarchWatch_PUBLIC",
+    "url": "https://github.com/S-March/smarchWatch_PUBLIC",
+    "lang": "C",
+    "desc": "",
+    "cn": false
+  }
+]
