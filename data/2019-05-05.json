@@ -1,0 +1,175 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "leetcode题解，记录自己的leetcode解题之路。",
+    "cn": true
+  },
+  {
+    "title": "mlabouardy/komiser",
+    "url": "https://github.com/mlabouardy/komiser",
+    "lang": "Go",
+    "desc": "AWS Environment Inspector 👮",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "lang": "Go",
+    "desc": "Official golang DEXON fullnode implementation",
+    "cn": false
+  },
+  {
+    "title": "indragiek/InAppViewDebugger",
+    "url": "https://github.com/indragiek/InAppViewDebugger",
+    "lang": "Swift",
+    "desc": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "manifold-systems/manifold",
+    "url": "https://github.com/manifold-systems/manifold",
+    "lang": "Java",
+    "desc": "Manifold re-energizes Java with powerful features like Type-safe Metaprogramming, Structural Typing, and Extension Methods.",
+    "cn": false
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "lang": "Go",
+    "desc": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "cn": false
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "lang": "CSS",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "cn": false
+  },
+  {
+    "title": "lib-pku/libpku",
+    "url": "https://github.com/lib-pku/libpku",
+    "lang": "JavaScript",
+    "desc": "贵校课程资料民间整理",
+    "cn": true
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "cn": false
+  },
+  {
+    "title": "GoogleCloudPlatform/terraformer",
+    "url": "https://github.com/GoogleCloudPlatform/terraformer",
+    "lang": "Go",
+    "desc": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform).",
+    "cn": false
+  },
+  {
+    "title": "czy36mengfei/tensorflow2_tutorials_chinese",
+    "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese",
+    "lang": "JupyterNotebook",
+    "desc": "tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials",
+    "cn": true
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The largest Node.js best practices list (April 2019)",
+    "cn": false
+  },
+  {
+    "title": "monzo/response",
+    "url": "https://github.com/monzo/response",
+    "lang": "JavaScript",
+    "desc": "Monzo's real-time incident response and reporting tool ⚡️",
+    "cn": false
+  },
+  {
+    "title": "faastjs/faast.js",
+    "url": "https://github.com/faastjs/faast.js",
+    "lang": "TypeScript",
+    "desc": "Serverless batch computing made simple.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "liamg/tml",
+    "url": "https://github.com/liamg/tml",
+    "lang": "Go",
+    "desc": "🌈💻🎨 A tiny markup language for terminal output. Makes formatting output in CLI apps easier!",
+    "cn": false
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries accross different industries.",
+    "cn": false
+  },
+  {
+    "title": "aimerforreimu/auxpi",
+    "url": "https://github.com/aimerforreimu/auxpi",
+    "lang": "Go",
+    "desc": "🍭 集合多家 API 的新一代图床",
+    "cn": true
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  }
+]
