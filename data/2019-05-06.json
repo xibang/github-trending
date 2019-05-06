@@ -1,0 +1,175 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "leetcode题解，记录自己的leetcode解题之路。",
+    "cn": true
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "aimerforreimu/auxpi",
+    "url": "https://github.com/aimerforreimu/auxpi",
+    "lang": "Go",
+    "desc": "🍭 集合多家 API 的新一代图床",
+    "cn": true
+  },
+  {
+    "title": "eBay/beam",
+    "url": "https://github.com/eBay/beam",
+    "lang": "Go",
+    "desc": "A distributed knowledge graph store",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "lang": "Java",
+    "desc": "Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
+    "cn": false
+  },
+  {
+    "title": "mlabouardy/komiser",
+    "url": "https://github.com/mlabouardy/komiser",
+    "lang": "Go",
+    "desc": "AWS Environment Inspector 👮",
+    "cn": false
+  },
+  {
+    "title": "indragiek/InAppViewDebugger",
+    "url": "https://github.com/indragiek/InAppViewDebugger",
+    "lang": "Swift",
+    "desc": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+    "cn": false
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "lang": "Go",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "cn": true
+  },
+  {
+    "title": "txthinking/mr2",
+    "url": "https://github.com/txthinking/mr2",
+    "lang": "Go",
+    "desc": "Expose local server to external network",
+    "cn": false
+  },
+  {
+    "title": "czy36mengfei/tensorflow2_tutorials_chinese",
+    "url": "https://github.com/czy36mengfei/tensorflow2_tutorials_chinese",
+    "lang": "JupyterNotebook",
+    "desc": "tensorflow2中文教程，持续更新(当前版本:tensorflow2.0)，tag: tensorflow 2.0 tutorials",
+    "cn": true
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "lang": "CSS",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "firmai/industry-machine-learning",
+    "url": "https://github.com/firmai/industry-machine-learning",
+    "desc": "A curated list of applied machine learning and data science notebooks and libraries accross different industries.",
+    "cn": false
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The largest Node.js best practices list (April 2019)",
+    "cn": false
+  },
+  {
+    "title": "alcarithemad/zfsp",
+    "url": "https://github.com/alcarithemad/zfsp",
+    "lang": "Python",
+    "desc": "ZFS, in Python, without reading the original C.",
+    "cn": false
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "lang": "Go",
+    "desc": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "cn": false
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "lang": "Python",
+    "desc": "Never use print for debugging again",
+    "cn": false
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "lang": "Go",
+    "desc": "Official golang DEXON fullnode implementation",
+    "cn": false
+  },
+  {
+    "title": "GoogleCloudPlatform/terraformer",
+    "url": "https://github.com/GoogleCloudPlatform/terraformer",
+    "lang": "Go",
+    "desc": "CLI tool to generate terraform files from existing infrastructure (reverse Terraform). Infrastructure to Code",
+    "cn": false
+  }
+]
