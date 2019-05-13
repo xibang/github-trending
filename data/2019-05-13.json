@@ -1,0 +1,175 @@
+[
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "machinelearningmindset/machine-learning-course",
+    "url": "https://github.com/machinelearningmindset/machine-learning-course",
+    "lang": "Python",
+    "desc": "💬 Machine Learning Course with Python",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "GoogleChromeLabs/comlink",
+    "url": "https://github.com/GoogleChromeLabs/comlink",
+    "lang": "JavaScript",
+    "desc": "Comlink makes WebWorkers enjoyable.",
+    "cn": false
+  },
+  {
+    "title": "jolaleye/cssfx",
+    "url": "https://github.com/jolaleye/cssfx",
+    "lang": "Vue",
+    "desc": "✨ Beautifully simple click-to-copy CSS effects",
+    "cn": false
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "lang": "Go",
+    "desc": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C",
+    "desc": "open source driving agent",
+    "cn": false
+  },
+  {
+    "title": "go101/go101",
+    "url": "https://github.com/go101/go101",
+    "lang": "HTML",
+    "desc": "An online book focusing on Go syntax/semantics.",
+    "cn": false
+  },
+  {
+    "title": "victorvoid/dinoql",
+    "url": "https://github.com/victorvoid/dinoql",
+    "lang": "JavaScript",
+    "desc": "A customizable GraphQL style query language for interacting with JavaScript objects.",
+    "cn": false
+  },
+  {
+    "title": "kkuchta/css-only-chat",
+    "url": "https://github.com/kkuchta/css-only-chat",
+    "lang": "Ruby",
+    "desc": "A truly monstrous async web chat using no JS whatsoever on the frontend",
+    "cn": false
+  },
+  {
+    "title": "hiroppy/fusuma",
+    "url": "https://github.com/hiroppy/fusuma",
+    "lang": "JavaScript",
+    "desc": "✍️Fusuma makes slides with Markdown easily.",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "dgryski/go-perfbook",
+    "url": "https://github.com/dgryski/go-perfbook",
+    "desc": "Thoughts on Go performance optimization",
+    "cn": false
+  },
+  {
+    "title": "chvin/react-tetris",
+    "url": "https://github.com/chvin/react-tetris",
+    "lang": "JavaScript",
+    "desc": "Use React, Redux, Immutable to code Tetris. 🎮",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "tensorflow/graphics",
+    "url": "https://github.com/tensorflow/graphics",
+    "lang": "Python",
+    "desc": "TensorFlow Graphics: Differentiable Graphics Layers for TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter_web",
+    "url": "https://github.com/flutter/flutter_web",
+    "lang": "Dart",
+    "desc": "Bring your Flutter code to web browsers",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  },
+  {
+    "title": "TDAmeritrade/stumpy",
+    "url": "https://github.com/TDAmeritrade/stumpy",
+    "lang": "Python",
+    "desc": "STUMPY is a powerful and scalable Python library that can be used for a variety of time series data mining tasks",
+    "cn": false
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "lang": "Go",
+    "desc": "Brings SQL and AI together.",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  }
+]
