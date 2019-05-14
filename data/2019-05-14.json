@@ -1,0 +1,176 @@
+[
+  {
+    "title": "lettier/3d-game-shaders-for-beginners",
+    "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
+    "lang": "C++",
+    "desc": "🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "machinelearningmindset/machine-learning-course",
+    "url": "https://github.com/machinelearningmindset/machine-learning-course",
+    "lang": "Python",
+    "desc": "💬 Machine Learning Course with Python",
+    "cn": false
+  },
+  {
+    "title": "HFO4/gameboy.live",
+    "url": "https://github.com/HFO4/gameboy.live",
+    "lang": "Go",
+    "desc": "🕹️ A basic gameboy emulator with terminal \"Cloud Gaming\" support",
+    "cn": false
+  },
+  {
+    "title": "STVIR/pysot",
+    "url": "https://github.com/STVIR/pysot",
+    "lang": "Python",
+    "desc": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "Rocketseat/unform",
+    "url": "https://github.com/Rocketseat/unform",
+    "lang": "TypeScript",
+    "desc": "ReactJS form library to create uncontrolled form structures with nested fields, validations and much more!",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C",
+    "desc": "open source driving agent",
+    "cn": false
+  },
+  {
+    "title": "GoogleChromeLabs/comlink",
+    "url": "https://github.com/GoogleChromeLabs/comlink",
+    "lang": "JavaScript",
+    "desc": "Comlink makes WebWorkers enjoyable.",
+    "cn": false
+  },
+  {
+    "title": "jolaleye/cssfx",
+    "url": "https://github.com/jolaleye/cssfx",
+    "lang": "Vue",
+    "desc": "✨ Beautifully simple click-to-copy CSS effects",
+    "cn": false
+  },
+  {
+    "title": "hiroppy/fusuma",
+    "url": "https://github.com/hiroppy/fusuma",
+    "lang": "JavaScript",
+    "desc": "✍️Fusuma makes slides with Markdown easily.",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "chvin/react-tetris",
+    "url": "https://github.com/chvin/react-tetris",
+    "lang": "JavaScript",
+    "desc": "Use React, Redux, Immutable to code Tetris. 🎮",
+    "cn": false
+  },
+  {
+    "title": "kkuchta/css-only-chat",
+    "url": "https://github.com/kkuchta/css-only-chat",
+    "lang": "Ruby",
+    "desc": "A truly monstrous async web chat using no JS whatsoever on the frontend",
+    "cn": false
+  },
+  {
+    "title": "KunMinX/Linkage-RecyclerView",
+    "url": "https://github.com/KunMinX/Linkage-RecyclerView",
+    "lang": "Java",
+    "desc": "即使不用饿了么订餐，也请务必收藏好该库！🔥 一行代码即可接入，二级联动订餐列表 - Even if you don't order by Eleme, please be sure to collect the library! 🔥 This secondary linkage list widget can be accessed by minimum one line of code. Supporting by RecyclerView & AndroidX.",
+    "cn": true
+  },
+  {
+    "title": "andycall/RCRE",
+    "url": "https://github.com/andycall/RCRE",
+    "lang": "TypeScript",
+    "desc": "Build complex applications without tears",
+    "cn": false
+  },
+  {
+    "title": "wandb/client",
+    "url": "https://github.com/wandb/client",
+    "lang": "Python",
+    "desc": "The official cli and python API client for W&B",
+    "cn": false
+  },
+  {
+    "title": "victorvoid/dinoql",
+    "url": "https://github.com/victorvoid/dinoql",
+    "lang": "JavaScript",
+    "desc": "A customizable GraphQL style query language for interacting with JavaScript objects.",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "lang": "Go",
+    "desc": "Brings SQL and AI together.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  }
+]
