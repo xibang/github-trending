@@ -1,0 +1,174 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful.",
+    "cn": false
+  },
+  {
+    "title": "stewartmcgown/uds",
+    "url": "https://github.com/stewartmcgown/uds",
+    "lang": "Python",
+    "desc": "Unlimited Drive Storage by splitting binary files into base64",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "machinelearningmindset/machine-learning-course",
+    "url": "https://github.com/machinelearningmindset/machine-learning-course",
+    "lang": "Python",
+    "desc": "💬 Machine Learning Course with Python",
+    "cn": false
+  },
+  {
+    "title": "lettier/3d-game-shaders-for-beginners",
+    "url": "https://github.com/lettier/3d-game-shaders-for-beginners",
+    "lang": "C++",
+    "desc": "🎮 A step-by-step guide on how to implement SSAO, depth of field, lighting, normal mapping, and more for your 3D game.",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "nunomaduro/phpinsights",
+    "url": "https://github.com/nunomaduro/phpinsights",
+    "lang": "PHP",
+    "desc": "💡Instant PHP quality checks from your console",
+    "cn": false
+  },
+  {
+    "title": "microsoft/SPTAG",
+    "url": "https://github.com/microsoft/SPTAG",
+    "lang": "C++",
+    "desc": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",
+    "cn": false
+  },
+  {
+    "title": "reakit/reakit",
+    "url": "https://github.com/reakit/reakit",
+    "lang": "TypeScript",
+    "desc": "Toolkit for building accessible rich web apps with React",
+    "cn": false
+  },
+  {
+    "title": "containership/konstellate",
+    "url": "https://github.com/containership/konstellate",
+    "lang": "Clojure",
+    "desc": "Free and Open Source GUI to Visualize Kubernetes Applications.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "IAIK/ZombieLoad",
+    "url": "https://github.com/IAIK/ZombieLoad",
+    "lang": "C",
+    "desc": "Proof-of-concept for the ZombieLoad attack",
+    "cn": false
+  },
+  {
+    "title": "FudanNLP/nlp-beginner",
+    "url": "https://github.com/FudanNLP/nlp-beginner",
+    "desc": "NLP上手教程",
+    "cn": true
+  },
+  {
+    "title": "jolaleye/cssfx",
+    "url": "https://github.com/jolaleye/cssfx",
+    "lang": "Vue",
+    "desc": "✨ Beautifully simple click-to-copy CSS effects",
+    "cn": false
+  },
+  {
+    "title": "timsainb/tensorflow2-generative-models",
+    "url": "https://github.com/timsainb/tensorflow2-generative-models",
+    "lang": "JupyterNotebook",
+    "desc": "Implementations of a number of generative models in Tensorflow 2. GAN, VAE, Seq2Seq, VAEGAN, GAIA, Spectrogram Inversion. Everything is self contained in a jupyter notebook for easy export to colab.",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "team-reactype/ReacType",
+    "url": "https://github.com/team-reactype/ReacType",
+    "lang": "TypeScript",
+    "desc": "🧪 Prototyping Tool for exporting React/Typescript Applications!",
+    "cn": false
+  },
+  {
+    "title": "reZach/my-budget",
+    "url": "https://github.com/reZach/my-budget",
+    "lang": "JavaScript",
+    "desc": "Free, open source offline cross-platform budgeting solution built with Electron.",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  }
+]
