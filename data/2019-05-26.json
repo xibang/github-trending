@@ -1,0 +1,173 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "scrumpy/tiptap",
+    "url": "https://github.com/scrumpy/tiptap",
+    "lang": "JavaScript",
+    "desc": "A rich-text editor for Vue.js",
+    "cn": false
+  },
+  {
+    "title": "videoflow/videoflow",
+    "url": "https://github.com/videoflow/videoflow",
+    "lang": "Python",
+    "desc": "Python framework that facilitates the quick development of complex video analysis applications and other series-processing based applications in a multiprocessing environment.",
+    "cn": false
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful.",
+    "cn": false
+  },
+  {
+    "title": "afshinea/stanford-cs-221-artificial-intelligence",
+    "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+    "desc": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "Eugeny/terminus",
+    "url": "https://github.com/Eugeny/terminus",
+    "lang": "TypeScript",
+    "desc": "A terminal for a more modern age",
+    "cn": false
+  },
+  {
+    "title": "imfunniee/gitfolio",
+    "url": "https://github.com/imfunniee/gitfolio",
+    "lang": "JavaScript",
+    "desc": "personal website + blog for every github user",
+    "cn": false
+  },
+  {
+    "title": "chris104957/maildown",
+    "url": "https://github.com/chris104957/maildown",
+    "lang": "Python",
+    "desc": "A super simple CLI for sending emails",
+    "cn": false
+  },
+  {
+    "title": "cloudkj/scar",
+    "url": "https://github.com/cloudkj/scar",
+    "lang": "JavaScript",
+    "desc": "Deploy static websites in seconds - with HTTPS, a global CDN, and custom domains.",
+    "cn": false
+  },
+  {
+    "title": "pixijs/pixi.js",
+    "url": "https://github.com/pixijs/pixi.js",
+    "lang": "JavaScript",
+    "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "cn": false
+  },
+  {
+    "title": "shunliz/Machine-Learning",
+    "url": "https://github.com/shunliz/Machine-Learning",
+    "lang": "Python",
+    "desc": "机器学习原理",
+    "cn": true
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "lang": "JavaScript",
+    "desc": "A full-featured download manager.",
+    "cn": false
+  },
+  {
+    "title": "STVIR/pysot",
+    "url": "https://github.com/STVIR/pysot",
+    "lang": "Python",
+    "desc": "SenseTime Research platform for single object tracking, implementing algorithms like SiamRPN and SiamMask.",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "jogendra/LoadingShimmer",
+    "url": "https://github.com/jogendra/LoadingShimmer",
+    "lang": "Swift",
+    "desc": "An easy way to add a shimmering effect to any view with just one line of code. It is useful as an unobtrusive loading indicator.",
+    "cn": false
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  }
+]
