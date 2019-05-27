@@ -1,0 +1,172 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "sghall/react-vertex",
+    "url": "https://github.com/sghall/react-vertex",
+    "lang": "JavaScript",
+    "desc": "◾️ React Vertex | Hooks-based WebGL library for React",
+    "cn": false
+  },
+  {
+    "title": "scrumpy/tiptap",
+    "url": "https://github.com/scrumpy/tiptap",
+    "lang": "JavaScript",
+    "desc": "A rich-text editor for Vue.js",
+    "cn": false
+  },
+  {
+    "title": "benmahr/RenZhengfei",
+    "url": "https://github.com/benmahr/RenZhengfei",
+    "desc": "任正非思想",
+    "cn": true
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "seungeunrho/minimalRL",
+    "url": "https://github.com/seungeunrho/minimalRL",
+    "lang": "Python",
+    "desc": "Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "afshinea/stanford-cs-221-artificial-intelligence",
+    "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+    "desc": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence",
+    "cn": false
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful.",
+    "cn": false
+  },
+  {
+    "title": "XiaoMi/Gaea",
+    "url": "https://github.com/XiaoMi/Gaea",
+    "lang": "Go",
+    "desc": "Gaea is a mysql proxy, it's developed by xiaomi b2c-systech team.",
+    "cn": false
+  },
+  {
+    "title": "shunliz/Machine-Learning",
+    "url": "https://github.com/shunliz/Machine-Learning",
+    "lang": "Python",
+    "desc": "机器学习原理",
+    "cn": true
+  },
+  {
+    "title": "agalwood/Motrix",
+    "url": "https://github.com/agalwood/Motrix",
+    "lang": "JavaScript",
+    "desc": "A full-featured download manager.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "pixijs/pixi.js",
+    "url": "https://github.com/pixijs/pixi.js",
+    "lang": "JavaScript",
+    "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "lang": "JavaScript",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "cn": false
+  },
+  {
+    "title": "chris104957/maildown",
+    "url": "https://github.com/chris104957/maildown",
+    "lang": "Python",
+    "desc": "A super simple CLI for sending emails",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "TachibanaSuzume/WHMCS_PLUGINS",
+    "url": "https://github.com/TachibanaSuzume/WHMCS_PLUGINS",
+    "lang": "PHP",
+    "desc": "某些人非得逼大家都别赚钱了是吧",
+    "cn": true
+  }
+]
