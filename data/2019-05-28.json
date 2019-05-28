@@ -1,0 +1,173 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "seungeunrho/minimalRL",
+    "url": "https://github.com/seungeunrho/minimalRL",
+    "lang": "Python",
+    "desc": "Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)",
+    "cn": false
+  },
+  {
+    "title": "synox/youtube-dl-interactive",
+    "url": "https://github.com/synox/youtube-dl-interactive",
+    "lang": "JavaScript",
+    "desc": "Interactively select the quality and format for youtube-dl",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "sghall/react-vertex",
+    "url": "https://github.com/sghall/react-vertex",
+    "lang": "JavaScript",
+    "desc": "◾️ React Vertex | Hooks-based WebGL library for React",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "afshinea/stanford-cs-221-artificial-intelligence",
+    "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+    "desc": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence",
+    "cn": false
+  },
+  {
+    "title": "anacoimbrag/android-developer-roadmap",
+    "url": "https://github.com/anacoimbrag/android-developer-roadmap",
+    "desc": "Android Developer Roadmap 2019",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "smooth-code/xstyled",
+    "url": "https://github.com/smooth-code/xstyled",
+    "lang": "JavaScript",
+    "desc": "Consistent theme based CSS for styled-components 💅",
+    "cn": false
+  },
+  {
+    "title": "scrumpy/tiptap",
+    "url": "https://github.com/scrumpy/tiptap",
+    "lang": "JavaScript",
+    "desc": "A rich-text editor for Vue.js",
+    "cn": false
+  },
+  {
+    "title": "kezhenxu94/mini-github",
+    "url": "https://github.com/kezhenxu94/mini-github",
+    "lang": "JavaScript",
+    "desc": "GitHub WeChat Mini Program (可能是功能最全的 GitHub 微信小程序)",
+    "cn": true
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "jaywcjlove/awesome-mac",
+    "url": "https://github.com/jaywcjlove/awesome-mac",
+    "lang": "JavaScript",
+    "desc": " Now we have become very big, Different from the original idea. Collect premium software in various categories.",
+    "cn": false
+  },
+  {
+    "title": "smallnest/dive-to-gosync-workshop",
+    "url": "https://github.com/smallnest/dive-to-gosync-workshop",
+    "lang": "Go",
+    "desc": "深入Go并发编程研讨课",
+    "cn": true
+  },
+  {
+    "title": "ef-eng/graphql-query-rewriter",
+    "url": "https://github.com/ef-eng/graphql-query-rewriter",
+    "lang": "TypeScript",
+    "desc": "Seamlessly turn breaking GraphQL changes into non-breaking changes",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "lang": "Java",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "cn": true
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "pixijs/pixi.js",
+    "url": "https://github.com/pixijs/pixi.js",
+    "lang": "JavaScript",
+    "desc": "The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  }
+]
