@@ -1,0 +1,174 @@
+[
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "cn": false
+  },
+  {
+    "title": "pirate/wireguard-docs",
+    "url": "https://github.com/pirate/wireguard-docs",
+    "lang": "Shell",
+    "desc": "The Missing WireGuard Documentation: Setup, Usage, Configuration, and a full example for server-to-server VPN with roaming clients & public peers.",
+    "cn": false
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "sdras/cssgridgenerator",
+    "url": "https://github.com/sdras/cssgridgenerator",
+    "lang": "Vue",
+    "desc": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+    "cn": false
+  },
+  {
+    "title": "penrose/penrose",
+    "url": "https://github.com/penrose/penrose",
+    "lang": "Haskell",
+    "desc": "Create beautiful diagrams just by typing mathematical notation in plain text.",
+    "cn": false
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "Raathigesh/fabulous",
+    "url": "https://github.com/Raathigesh/fabulous",
+    "lang": "TypeScript",
+    "desc": "🎨 CSS properties sidebar for VS Code",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "eashish93/imgsquash",
+    "url": "https://github.com/eashish93/imgsquash",
+    "lang": "JavaScript",
+    "desc": "Simple image compression full website code written in node, react and next.js framework. Easy to deploy as a microservice.",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "learnbyexample/Command-line-text-processing",
+    "url": "https://github.com/learnbyexample/Command-line-text-processing",
+    "lang": "Shell",
+    "desc": "⚡️ From finding text to search and replace, from sorting to beautifying text and more 🎨",
+    "cn": false
+  },
+  {
+    "title": "xuperchain/xuperunion",
+    "url": "https://github.com/xuperchain/xuperunion",
+    "lang": "Go",
+    "desc": "A highly flexible blockchain architecture with great transaction performance.",
+    "cn": false
+  },
+  {
+    "title": "synox/youtube-dl-interactive",
+    "url": "https://github.com/synox/youtube-dl-interactive",
+    "lang": "JavaScript",
+    "desc": "Interactively select the quality and format for youtube-dl",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "anacoimbrag/android-developer-roadmap",
+    "url": "https://github.com/anacoimbrag/android-developer-roadmap",
+    "desc": "Android Developer Roadmap 2019",
+    "cn": false
+  },
+  {
+    "title": "areslabs/alita",
+    "url": "https://github.com/areslabs/alita",
+    "lang": "JavaScript",
+    "desc": "一套把React Native代码转换成微信小程序代码的转换引擎工具",
+    "cn": true
+  }
+]
