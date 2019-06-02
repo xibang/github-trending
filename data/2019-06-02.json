@@ -1,0 +1,175 @@
+[
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "lang": "Haskell",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "cn": false
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "lang": "JavaScript",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "cn": false
+  },
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "lang": "JavaScript",
+    "desc": "a package registry for anything, but mostly javascript",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "cn": false
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "JavaScript",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "cn": false
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "lang": "Java",
+    "desc": "✍ Halo 可能是最好的 Java 博客系统",
+    "cn": true
+  },
+  {
+    "title": "FormidableLabs/urql",
+    "url": "https://github.com/FormidableLabs/urql",
+    "lang": "TypeScript",
+    "desc": "A highly customizable and versatile GraphQL client for React",
+    "cn": false
+  },
+  {
+    "title": "0xd4d/dnSpy",
+    "url": "https://github.com/0xd4d/dnSpy",
+    "lang": "C#",
+    "desc": ".NET debugger and assembly editor",
+    "cn": false
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "thomasahle/sunfish",
+    "url": "https://github.com/thomasahle/sunfish",
+    "lang": "Python",
+    "desc": "Sunfish: a Python Chess Engine in 111 lines of code",
+    "cn": false
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "lang": "Go",
+    "desc": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+    "cn": false
+  },
+  {
+    "title": "mholt/PapaParse",
+    "url": "https://github.com/mholt/PapaParse",
+    "lang": "JavaScript",
+    "desc": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "cn": false
+  },
+  {
+    "title": "vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "url": "https://github.com/vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "lang": "Python",
+    "desc": "Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros",
+    "cn": false
+  },
+  {
+    "title": "RedisGears/EdgeRealtimeVideoAnalytics",
+    "url": "https://github.com/RedisGears/EdgeRealtimeVideoAnalytics",
+    "lang": "Python",
+    "desc": "An example of using Redis Streams, RedisGears, RedisAI and RedisTimeSeries for Realtime Video Analytics (i.e. counting people)",
+    "cn": false
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "lang": "Python",
+    "desc": "PyTorch image models, scripts, pretrained weights -- (SE)ResNet/ResNeXT, DPN, EfficientNet, MobileNet-V3/V2/V1, MNASNet, Single-Path NAS, FBNet, and more",
+    "cn": false
+  },
+  {
+    "title": "zhihu/rucene",
+    "url": "https://github.com/zhihu/rucene",
+    "lang": "Rust",
+    "desc": "Rust port of Lucene",
+    "cn": false
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "steniowagner/mindCast",
+    "url": "https://github.com/steniowagner/mindCast",
+    "lang": "JavaScript",
+    "desc": "A React-Native streaming-audio app that provides knowledge in the form of Podcasts.",
+    "cn": false
+  }
+]
