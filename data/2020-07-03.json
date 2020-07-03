@@ -1,10 +1,24 @@
 [
   {
-    "title": "NervJS/taro",
-    "url": "https://github.com/NervJS/taro",
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
     "lang": "JavaScript",
-    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
-    "cn": true
+    "desc": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "cn": false
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "cn": false
+  },
+  {
+    "title": "diego3g/electron-typescript-react",
+    "url": "https://github.com/diego3g/electron-typescript-react",
+    "lang": "JavaScript",
+    "desc": "An Electron boilerplate including TypeScript, React, Jest and ESLint.",
+    "cn": false
   },
   {
     "title": "microsoft/cascadia-code",
@@ -14,118 +28,10 @@
     "cn": false
   },
   {
-    "title": "tinode/chat",
-    "url": "https://github.com/tinode/chat",
-    "lang": "Go",
-    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
-    "cn": false
-  },
-  {
-    "title": "bradtraversy/vanillawebprojects",
-    "url": "https://github.com/bradtraversy/vanillawebprojects",
-    "lang": "JavaScript",
-    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
-    "cn": false
-  },
-  {
-    "title": "WeiYe-Jing/datax-web",
-    "url": "https://github.com/WeiYe-Jing/datax-web",
-    "lang": "Java",
-    "desc": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
-    "cn": true
-  },
-  {
-    "title": "nvm-sh/nvm",
-    "url": "https://github.com/nvm-sh/nvm",
-    "lang": "Shell",
-    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-    "cn": false
-  },
-  {
-    "title": "jpmorganchase/python-training",
-    "url": "https://github.com/jpmorganchase/python-training",
-    "lang": "JupyterNotebook",
-    "desc": "Python training for business analysts and traders",
-    "cn": false
-  },
-  {
-    "title": "elastic/detection-rules",
-    "url": "https://github.com/elastic/detection-rules",
-    "lang": "Python",
-    "desc": "Rules for the Detection Engine in Elastic Security",
-    "cn": false
-  },
-  {
-    "title": "hoanhan101/ultimate-go",
-    "url": "https://github.com/hoanhan101/ultimate-go",
-    "lang": "Go",
-    "desc": "Ultimate Go study guide",
-    "cn": false
-  },
-  {
-    "title": "poloclub/cnn-explainer",
-    "url": "https://github.com/poloclub/cnn-explainer",
-    "lang": "JavaScript",
-    "desc": "Learning Convolutional Neural Networks with Interactive Visualization.",
-    "cn": false
-  },
-  {
-    "title": "react-hook-form/react-hook-form",
-    "url": "https://github.com/react-hook-form/react-hook-form",
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
     "lang": "TypeScript",
-    "desc": "📋 React Hooks for forms validation (Web + React Native)",
-    "cn": false
-  },
-  {
-    "title": "alibaba/DataX",
-    "url": "https://github.com/alibaba/DataX",
-    "lang": "Java"
-  },
-  {
-    "title": "vlang/v",
-    "url": "https://github.com/vlang/v",
-    "lang": "V",
-    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
-    "cn": false
-  },
-  {
-    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
-    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
-    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
-    "cn": false
-  },
-  {
-    "title": "NARKOZ/hacker-scripts",
-    "url": "https://github.com/NARKOZ/hacker-scripts",
-    "lang": "JavaScript",
-    "desc": "Based on a true story",
-    "cn": false
-  },
-  {
-    "title": "snipsnapdev/snipsnap",
-    "url": "https://github.com/snipsnapdev/snipsnap",
-    "desc": "The ultimate snippets collection for VS Code",
-    "cn": false
-  },
-  {
-    "title": "coodict/python3-in-one-pic",
-    "url": "https://github.com/coodict/python3-in-one-pic",
-    "lang": "JupyterNotebook",
-    "desc": "Learn python3 in one picture.",
-    "cn": false
-  },
-  {
-    "title": "PrestaShop/PrestaShop",
-    "url": "https://github.com/PrestaShop/PrestaShop",
-    "lang": "PHP",
-    "desc": "PrestaShop offers a fully scalable open source ecommerce solution.",
-    "cn": false
-  },
-  {
-    "title": "trungk18/jira-clone-angular",
-    "url": "https://github.com/trungk18/jira-clone-angular",
-    "lang": "TypeScript",
-    "desc": "A simplified Jira clone built with Angular 9 and Akita",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
     "cn": false
   },
   {
@@ -136,17 +42,127 @@
     "cn": false
   },
   {
-    "title": "johannesjo/super-productivity",
-    "url": "https://github.com/johannesjo/super-productivity",
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
     "lang": "TypeScript",
-    "desc": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
     "cn": false
   },
   {
-    "title": "microsoft/BotBuilder-Samples",
-    "url": "https://github.com/microsoft/BotBuilder-Samples",
-    "lang": "C#",
-    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "lang": "JavaScript",
+    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "cn": true
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "lang": "Java",
+    "desc": "Open Source, Distributed, RESTful Search Engine",
+    "cn": false
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "lang": "Go",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "cn": false
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "lang": "JupyterNotebook",
+    "desc": "Python training for business analysts and traders",
+    "cn": false
+  },
+  {
+    "title": "felangel/cubit",
+    "url": "https://github.com/felangel/cubit",
+    "lang": "Dart",
+    "desc": "Cubit is a lightweight state management solution. It is a subset of the bloc package that does not rely on events and instead uses methods to emit new states.",
+    "cn": false
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "desc": "Collection of Summer 2021 tech internships!",
+    "cn": false
+  },
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "lang": "TypeScript",
+    "desc": "A beautiful Redis GUI 🔥",
+    "cn": false
+  },
+  {
+    "title": "BetaSu/just-react",
+    "url": "https://github.com/BetaSu/just-react",
+    "lang": "JavaScript",
+    "desc": "React技术揭秘",
+    "cn": true
+  },
+  {
+    "title": "DataStax-Academy/cassandra-workshop-series",
+    "url": "https://github.com/DataStax-Academy/cassandra-workshop-series",
+    "lang": "Python",
+    "desc": "All materials for the Cassandra Workshop Series in a single place",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "lang": "Go",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "cn": false
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go",
+    "desc": "Ultimate Go study guide",
+    "cn": false
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "lang": "JavaScript",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "cn": true
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "cn": false
+  },
+  {
+    "title": "kotartemiy/pygooglenews",
+    "url": "https://github.com/kotartemiy/pygooglenews",
+    "lang": "Python",
+    "desc": "If Google News had a Python library",
+    "cn": false
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python",
+    "desc": "Zulip server - powerful open source team chat",
+    "cn": false
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "lang": "TypeScript",
+    "desc": "Vite & Vue powered static site generator",
     "cn": false
   },
   {
@@ -154,19 +170,6 @@
     "url": "https://github.com/mui-org/material-ui",
     "lang": "JavaScript",
     "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
-    "cn": false
-  },
-  {
-    "title": "loveunk/Deep-learning-books",
-    "url": "https://github.com/loveunk/Deep-learning-books",
-    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
-    "cn": false
-  },
-  {
-    "title": "unoplatform/uno",
-    "url": "https://github.com/unoplatform/uno",
-    "lang": "C#",
-    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
     "cn": false
   }
 ]
