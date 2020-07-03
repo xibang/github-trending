@@ -1,0 +1,172 @@
+[
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "lang": "JavaScript",
+    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "cn": true
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "lang": "Python",
+    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "cn": false
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "lang": "Go",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/vanillawebprojects",
+    "url": "https://github.com/bradtraversy/vanillawebprojects",
+    "lang": "JavaScript",
+    "desc": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+    "cn": false
+  },
+  {
+    "title": "WeiYe-Jing/datax-web",
+    "url": "https://github.com/WeiYe-Jing/datax-web",
+    "lang": "Java",
+    "desc": "DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。",
+    "cn": true
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "cn": false
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "lang": "JupyterNotebook",
+    "desc": "Python training for business analysts and traders",
+    "cn": false
+  },
+  {
+    "title": "elastic/detection-rules",
+    "url": "https://github.com/elastic/detection-rules",
+    "lang": "Python",
+    "desc": "Rules for the Detection Engine in Elastic Security",
+    "cn": false
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go",
+    "desc": "Ultimate Go study guide",
+    "cn": false
+  },
+  {
+    "title": "poloclub/cnn-explainer",
+    "url": "https://github.com/poloclub/cnn-explainer",
+    "lang": "JavaScript",
+    "desc": "Learning Convolutional Neural Networks with Interactive Visualization.",
+    "cn": false
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "lang": "TypeScript",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "cn": false
+  },
+  {
+    "title": "alibaba/DataX",
+    "url": "https://github.com/alibaba/DataX",
+    "lang": "Java"
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "lang": "JavaScript",
+    "desc": "Based on a true story",
+    "cn": false
+  },
+  {
+    "title": "snipsnapdev/snipsnap",
+    "url": "https://github.com/snipsnapdev/snipsnap",
+    "desc": "The ultimate snippets collection for VS Code",
+    "cn": false
+  },
+  {
+    "title": "coodict/python3-in-one-pic",
+    "url": "https://github.com/coodict/python3-in-one-pic",
+    "lang": "JupyterNotebook",
+    "desc": "Learn python3 in one picture.",
+    "cn": false
+  },
+  {
+    "title": "PrestaShop/PrestaShop",
+    "url": "https://github.com/PrestaShop/PrestaShop",
+    "lang": "PHP",
+    "desc": "PrestaShop offers a fully scalable open source ecommerce solution.",
+    "cn": false
+  },
+  {
+    "title": "trungk18/jira-clone-angular",
+    "url": "https://github.com/trungk18/jira-clone-angular",
+    "lang": "TypeScript",
+    "desc": "A simplified Jira clone built with Angular 9 and Akita",
+    "cn": false
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "lang": "Python",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "cn": false
+  },
+  {
+    "title": "johannesjo/super-productivity",
+    "url": "https://github.com/johannesjo/super-productivity",
+    "lang": "TypeScript",
+    "desc": "To-do list & time tracker for programmers and other digital workers with Jira, Github, and Gitlab integration",
+    "cn": false
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "lang": "C#",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "cn": false
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "lang": "JavaScript",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "cn": false
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "cn": false
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "cn": false
+  }
+]

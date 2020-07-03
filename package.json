@@ -22,12 +22,12 @@
   },
   "homepage": "https://github.com/xibang/github-trending#readme",
   "devDependencies": {
-    "eslint": "^4.19.1",
-    "eslint-config-willin": "^1.0.2",
-    "eslint-plugin-import": "^2.17.2"
+    "eslint": "^7.3.1",
+    "eslint-config-willin": "^1.0.3",
+    "eslint-plugin-import": "^2.22.0"
   },
   "dependencies": {
-    "axios": "^0.18.1",
-    "cheerio": "^1.0.0-rc.2"
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
   }
 }

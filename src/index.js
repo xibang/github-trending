@@ -22,21 +22,15 @@ const formatDate = (inputPattern, inputDate) => {
   return pattern;
 };
 
-axios.get('https://github.com/trending?_pjax=%23container', {
-  headers: {
-    'X-PJAX': 'true',
-    'X-PJAX-Container': '#container',
-    'X-Requested-With': 'XMLHttpRequest'
-  }
-}).then(({ data }) => {
+axios.get('https://github.com/trending').then(({ data }) => {
   const $ = cheerio.load(data);
   const arr = [];
-  $('.repo-list li').each((i, elm) => {
+  $('.Box .Box-row').each((i, elm) => {
     const lang = $(elm).find('[itemprop="programmingLanguage"]');
-    const desc = $(elm).find('.py-1');
+    const desc = $(elm).find('p.text-gray');
     const item = {
-      title: $(elm).find('h3 a').text().replace(/\s/g, ''),
-      url: `https://github.com${$(elm).find('h3 a').attr('href')}`
+      title: $(elm).find('h1 a').text().replace(/\s/g, ''),
+      url: `https://github.com${$(elm).find('h1 a').attr('href')}`
     };
     if (lang.length !== 0) {
       item.lang = lang.text().replace(/\s/g, '');
