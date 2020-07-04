@@ -1,0 +1,173 @@
+[
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "lang": "TypeScript",
+    "desc": "A beautiful Redis GUI 🔥",
+    "cn": false
+  },
+  {
+    "title": "diego3g/electron-typescript-react",
+    "url": "https://github.com/diego3g/electron-typescript-react",
+    "lang": "JavaScript",
+    "desc": "An Electron boilerplate including TypeScript, React, Jest and ESLint.",
+    "cn": false
+  },
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "lang": "JavaScript",
+    "desc": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "cn": false
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
+    "cn": false
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "lang": "Go",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "cn": false
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "cn": false
+  },
+  {
+    "title": "wenjianzhang/go-admin",
+    "url": "https://github.com/wenjianzhang/go-admin",
+    "lang": "Go",
+    "desc": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login",
+    "cn": true
+  },
+  {
+    "title": "mozilla-mobile/fenix",
+    "url": "https://github.com/mozilla-mobile/fenix",
+    "lang": "Kotlin",
+    "desc": "Firefox Preview",
+    "cn": false
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "lang": "TypeScript",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "cn": false
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go",
+    "desc": "Ultimate Go study guide",
+    "cn": false
+  },
+  {
+    "title": "trungk18/jira-clone-angular",
+    "url": "https://github.com/trungk18/jira-clone-angular",
+    "lang": "TypeScript",
+    "desc": "A simplified Jira clone built with Angular 9 and Akita",
+    "cn": false
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "lang": "Dart",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "cn": false
+  },
+  {
+    "title": "eemlcommunity/PracticalSessions2020",
+    "url": "https://github.com/eemlcommunity/PracticalSessions2020",
+    "lang": "JupyterNotebook",
+    "desc": "Repository for tutorial sessions at EEML2020",
+    "cn": false
+  },
+  {
+    "title": "GauravSingh9356/J.A.R.V.I.S",
+    "url": "https://github.com/GauravSingh9356/J.A.R.V.I.S",
+    "lang": "Python",
+    "desc": "python powered Intelligent System",
+    "cn": false
+  },
+  {
+    "title": "yangyutu/EssentialMath",
+    "url": "https://github.com/yangyutu/EssentialMath",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "bradtraversy/breaking-bad-cast",
+    "url": "https://github.com/bradtraversy/breaking-bad-cast",
+    "lang": "JavaScript",
+    "desc": "App to show cast info for breaking bad",
+    "cn": false
+  },
+  {
+    "title": "B-Software/Warde",
+    "url": "https://github.com/B-Software/Warde",
+    "lang": "CSS",
+    "desc": "Simple and minimalistic server dashboard",
+    "cn": false
+  },
+  {
+    "title": "Devs-Garden/jsonbase",
+    "url": "https://github.com/Devs-Garden/jsonbase",
+    "lang": "JavaScript",
+    "desc": "A database software completely built as JSON files in backend. A powerful, portable and simple database works on top of JSON files. It is like a database software, currently having basic CRUD operation features. You can use this as a backend for your ReST APIs as well. The software is completely free and opensource. We are coming up with new fea…",
+    "cn": false
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "cn": false
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "desc": "Collection of Summer 2021 tech internships!",
+    "cn": false
+  },
+  {
+    "title": "mhxion/awesome-discord-communities",
+    "url": "https://github.com/mhxion/awesome-discord-communities",
+    "lang": "Python",
+    "desc": "A curated list of awesome Discord communities for programmers",
+    "cn": false
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "cn": false
+  },
+  {
+    "title": "midwayjs/midway",
+    "url": "https://github.com/midwayjs/midway",
+    "lang": "TypeScript",
+    "desc": "🍔 Midway is a Node.js Serverless Framework for front-end/full-stack developers. Build the application for next decade. Works on AWS, Aliyun, Tencent-Cloud and traditional VM/Container. Super easy integrate with React and Vue. 🌈",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "seanmonstar/warp",
+    "url": "https://github.com/seanmonstar/warp",
+    "lang": "Rust",
+    "desc": "A super-easy, composable, web server framework for warp speeds.",
+    "cn": false
+  }
+]
