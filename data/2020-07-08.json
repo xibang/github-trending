@@ -1,0 +1,176 @@
+[
+  {
+    "title": "HSEIreland/covid-tracker-app",
+    "url": "https://github.com/HSEIreland/covid-tracker-app",
+    "lang": "TypeScript",
+    "desc": "COVID Tracker App Repository",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "HackerPoet/NonEuclidean",
+    "url": "https://github.com/HackerPoet/NonEuclidean",
+    "lang": "C++",
+    "desc": "A Non-Euclidean Rendering Engine for 3D scenes.",
+    "cn": false
+  },
+  {
+    "title": "google/skywater-pdk",
+    "url": "https://github.com/google/skywater-pdk",
+    "lang": "Python",
+    "desc": "Open source process design kit for usage with SkyWater Technology Foundry's 130nm node.",
+    "cn": false
+  },
+  {
+    "title": "spotify/backstage",
+    "url": "https://github.com/spotify/backstage",
+    "lang": "TypeScript",
+    "desc": "Backstage is an open platform for building developer portals",
+    "cn": false
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "lang": "C++",
+    "desc": "A modern formatting library",
+    "cn": false
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "cn": false
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "lang": "Python",
+    "desc": "Find pearls on open-source seashore 分享 GitHub 上有趣、入门级的开源项目",
+    "cn": true
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "cn": false
+  },
+  {
+    "title": "dask/dask-tutorial",
+    "url": "https://github.com/dask/dask-tutorial",
+    "lang": "JupyterNotebook",
+    "desc": "Dask tutorial",
+    "cn": false
+  },
+  {
+    "title": "bitcoinbook/bitcoinbook",
+    "url": "https://github.com/bitcoinbook/bitcoinbook",
+    "lang": "Python",
+    "desc": "Mastering Bitcoin 2nd Edition - Programming the Open Blockchain",
+    "cn": false
+  },
+  {
+    "title": "facebookresearch/TaBERT",
+    "url": "https://github.com/facebookresearch/TaBERT",
+    "lang": "Python",
+    "desc": "This repository contains source code for the TaBERT model, a pre-trained language model for learning joint representations of natural language utterances and (semi-)structured tables for semantic parsing. TaBERT is pre-trained on a massive corpus of 26M Web tables and their associated natural language context, and could be used as a drop-in repl…",
+    "cn": false
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "cn": true
+  },
+  {
+    "title": "fbdesignpro/sweetviz",
+    "url": "https://github.com/fbdesignpro/sweetviz",
+    "lang": "Python",
+    "desc": "Visualize and compare datasets, target values and associations, with one line of code.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "lang": "JupyterNotebook",
+    "desc": "Summer course content for Neuromatch Academy",
+    "cn": false
+  },
+  {
+    "title": "18380438200/Tiktok",
+    "url": "https://github.com/18380438200/Tiktok",
+    "lang": "Java",
+    "desc": "高仿抖音APP",
+    "cn": true
+  },
+  {
+    "title": "approvers/RADWIMPS",
+    "url": "https://github.com/approvers/RADWIMPS",
+    "lang": "HTML",
+    "desc": "君の then-then-then 世は Promise で Future",
+    "cn": true
+  },
+  {
+    "title": "alibaba/dragonwell8",
+    "url": "https://github.com/alibaba/dragonwell8",
+    "lang": "Shell",
+    "desc": "Alibaba Dragonwell8 JDK",
+    "cn": false
+  },
+  {
+    "title": "invertase/react-native-firebase",
+    "url": "https://github.com/invertase/react-native-firebase",
+    "lang": "JavaScript",
+    "desc": "🔥 A well-tested feature-rich modular Firebase implementation for React Native. Supports both iOS & Android platforms for all Firebase services.",
+    "cn": false
+  },
+  {
+    "title": "jas502n/CVE-2020-5902",
+    "url": "https://github.com/jas502n/CVE-2020-5902",
+    "lang": "Java",
+    "desc": "CVE-2020-5902 BIG-IP",
+    "cn": false
+  },
+  {
+    "title": "huiyadanli/RevokeMsgPatcher",
+    "url": "https://github.com/huiyadanli/RevokeMsgPatcher",
+    "lang": "C#",
+    "desc": "A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）",
+    "cn": true
+  },
+  {
+    "title": "jbesomi/texthero",
+    "url": "https://github.com/jbesomi/texthero",
+    "lang": "Python",
+    "desc": "Text preprocessing, representation and visualization from zero to hero.",
+    "cn": false
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "lang": "JupyterNotebook",
+    "desc": "Google Research",
+    "cn": false
+  },
+  {
+    "title": "iterative/dvc",
+    "url": "https://github.com/iterative/dvc",
+    "lang": "Python",
+    "desc": "🦉Data Version Control | Git for Data & Models",
+    "cn": false
+  }
+]
