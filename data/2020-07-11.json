@@ -1,0 +1,176 @@
+[
+  {
+    "title": "facebook/facebook-ios-sdk",
+    "url": "https://github.com/facebook/facebook-ios-sdk",
+    "lang": "Objective-C",
+    "desc": "Used to integrate the Facebook Platform with your iOS & tvOS apps.",
+    "cn": false
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "lang": "Java",
+    "desc": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "cn": false
+  },
+  {
+    "title": "google/tsunami-security-scanner-plugins",
+    "url": "https://github.com/google/tsunami-security-scanner-plugins",
+    "lang": "Java",
+    "desc": "This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.",
+    "cn": false
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "cn": false
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "cn": false
+  },
+  {
+    "title": "JaidedAI/EasyOCR",
+    "url": "https://github.com/JaidedAI/EasyOCR",
+    "lang": "Python",
+    "desc": "Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai",
+    "cn": false
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell",
+    "desc": "Open source documentation of Microsoft Azure",
+    "cn": false
+  },
+  {
+    "title": "google-research/torchsde",
+    "url": "https://github.com/google-research/torchsde",
+    "lang": "Python",
+    "desc": "Differentiable SDE solvers with GPU support and efficient sensitivity analysis.",
+    "cn": false
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "cn": false
+  },
+  {
+    "title": "Dimillian/RedditOS",
+    "url": "https://github.com/Dimillian/RedditOS",
+    "lang": "Swift",
+    "desc": "A SwiftUI Reddit client for macOS Big Sur",
+    "cn": false
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript",
+    "desc": "A collection of awesome readme templates to display on your profile",
+    "cn": false
+  },
+  {
+    "title": "prometheus/prometheus",
+    "url": "https://github.com/prometheus/prometheus",
+    "lang": "Go",
+    "desc": "The Prometheus monitoring system and time series database.",
+    "cn": false
+  },
+  {
+    "title": "bem/yandex-ui",
+    "url": "https://github.com/bem/yandex-ui",
+    "lang": "TypeScript",
+    "desc": "Yandex UI Kit build on React and bem-react",
+    "cn": false
+  },
+  {
+    "title": "maudzung/Complex-YOLOv4-Pytorch",
+    "url": "https://github.com/maudzung/Complex-YOLOv4-Pytorch",
+    "lang": "Python",
+    "desc": "The PyTorch Implementation based on YOLOv4 of the paper: \"Complex-YOLO: Real-time 3D Object Detection on Point Clouds\"",
+    "cn": false
+  },
+  {
+    "title": "marcotcr/checklist",
+    "url": "https://github.com/marcotcr/checklist",
+    "lang": "JupyterNotebook",
+    "desc": "Beyond Accuracy: Behavioral Testing of NLP models with CheckList",
+    "cn": false
+  },
+  {
+    "title": "iterative/cml",
+    "url": "https://github.com/iterative/cml",
+    "lang": "JavaScript",
+    "desc": "♾️ CML - Continuous Machine Learning or CI/CD for ML",
+    "cn": false
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "qishibo/AnotherRedisDesktopManager",
+    "url": "https://github.com/qishibo/AnotherRedisDesktopManager",
+    "lang": "JavaScript",
+    "desc": "🚀🚀🚀A faster, better and more stable redis desktop manager, compatible with Linux, windows, mac. What's more, it won't crash when loading a large number of keys.",
+    "cn": false
+  },
+  {
+    "title": "cilium/cilium",
+    "url": "https://github.com/cilium/cilium",
+    "lang": "Go",
+    "desc": "eBPF-based Networking, Security, and Observability",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "lang": "Java",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "cn": false
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "cn": false
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "lang": "Python",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "lang": "C#",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "cn": false
+  }
+]
