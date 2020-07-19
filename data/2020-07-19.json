@@ -1,0 +1,170 @@
+[
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners",
+    "cn": false
+  },
+  {
+    "title": "microsoft/ProcMon-for-Linux",
+    "url": "https://github.com/microsoft/ProcMon-for-Linux",
+    "lang": "C++",
+    "desc": "Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system.",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "lang": "TypeScript",
+    "desc": "Define infrastructure resources using programming constructs and provision them using HashiCorp Terraform",
+    "cn": false
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby",
+    "desc": "For empowering community 🌱",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "TypeScript",
+    "desc": "An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.",
+    "cn": false
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "lang": "C++",
+    "desc": "A library that provides an embeddable, persistent key-value store for fast storage.",
+    "cn": false
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark",
+    "desc": "Public interface definitions of Google APIs.",
+    "cn": false
+  },
+  {
+    "title": "adobe/react-spectrum",
+    "url": "https://github.com/adobe/react-spectrum",
+    "lang": "TypeScript",
+    "desc": "A collection of libraries and tools that help you build adaptive, accessible, and robust user experiences.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/ailab",
+    "url": "https://github.com/microsoft/ailab",
+    "lang": "C#",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "cn": false
+  },
+  {
+    "title": "TheAlphamerc/flutter_twitter_clone",
+    "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
+    "lang": "Dart",
+    "desc": "Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage",
+    "cn": false
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "lang": "Kotlin",
+    "desc": "🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "cn": false
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "cn": false
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++",
+    "desc": "Open Source Computer Vision Library",
+    "cn": false
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C",
+    "desc": "Linux kernel source tree",
+    "cn": false
+  },
+  {
+    "title": "KalleHallden/reddit_automations",
+    "url": "https://github.com/KalleHallden/reddit_automations",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python",
+    "desc": "Zulip server - powerful open source team chat",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  },
+  {
+    "title": "jellysquid3/sodium-fabric",
+    "url": "https://github.com/jellysquid3/sodium-fabric",
+    "lang": "Java",
+    "desc": "A Minecraft mod designed to improve frame rates and reduce micro-stutter",
+    "cn": false
+  }
+]
