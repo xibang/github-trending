@@ -1,0 +1,169 @@
+[
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "JavaScript",
+    "desc": "🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀",
+    "cn": true
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "lang": "Go",
+    "desc": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+    "cn": false
+  },
+  {
+    "title": "Requarks/wiki",
+    "url": "https://github.com/Requarks/wiki",
+    "lang": "Vue",
+    "desc": "Wiki.js | A modern, lightweight and powerful wiki app built on Node.js",
+    "cn": false
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "lang": "Python",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "cn": true
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "lang": "JavaScript",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "cn": true
+  },
+  {
+    "title": "umi-top/umi-top.github.io",
+    "url": "https://github.com/umi-top/umi-top.github.io",
+    "lang": "HTML"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "lang": "TypeScript",
+    "desc": "Your window into the Elastic Stack",
+    "cn": false
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "lang": "Kotlin",
+    "desc": "Native Android app using the Apple/Google exposure notification API.",
+    "cn": false
+  },
+  {
+    "title": "luspr/awesome-ml-courses",
+    "url": "https://github.com/luspr/awesome-ml-courses",
+    "desc": "Awesome free machine learning and AI courses with video lectures.",
+    "cn": false
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "cn": false
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "lang": "Dart",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "cn": false
+  },
+  {
+    "title": "lukasz-madon/awesome-remote-job",
+    "url": "https://github.com/lukasz-madon/awesome-remote-job",
+    "desc": "A curated list of awesome remote jobs and resources. Inspired by https://github.com/vinta/awesome-python",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/css-in-readme-like-wat",
+    "url": "https://github.com/sindresorhus/css-in-readme-like-wat",
+    "desc": "Style your readme using CSS with this simple trick",
+    "cn": false
+  },
+  {
+    "title": "d2l-ai/d2l-en",
+    "url": "https://github.com/d2l-ai/d2l-en",
+    "lang": "Python",
+    "desc": "Interactive deep learning book with code, math, and discussions. Available in multi-frameworks.",
+    "cn": false
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "TypeScript",
+    "desc": "An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.",
+    "cn": false
+  },
+  {
+    "title": "upmasked/number-verifier",
+    "url": "https://github.com/upmasked/number-verifier",
+    "lang": "Go",
+    "desc": "Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.",
+    "cn": false
+  },
+  {
+    "title": "LetsUpgrade/AI-ML-July-2020",
+    "url": "https://github.com/LetsUpgrade/AI-ML-July-2020",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "ardanlabs/gotraining",
+    "url": "https://github.com/ardanlabs/gotraining",
+    "lang": "Go",
+    "desc": "Go Training Class Material :",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "cn": false
+  },
+  {
+    "title": "github/renaming",
+    "url": "https://github.com/github/renaming",
+    "desc": "Guidance for changing the default branch name for GitHub repositories",
+    "cn": false
+  },
+  {
+    "title": "SergioBenitez/Rocket",
+    "url": "https://github.com/SergioBenitez/Rocket",
+    "lang": "Rust",
+    "desc": "A web framework for Rust.",
+    "cn": false
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript",
+    "desc": "Headless Chrome Node.js API",
+    "cn": false
+  },
+  {
+    "title": "guipsamora/pandas_exercises",
+    "url": "https://github.com/guipsamora/pandas_exercises",
+    "lang": "JupyterNotebook",
+    "desc": "Practice your pandas skills!",
+    "cn": false
+  }
+]
