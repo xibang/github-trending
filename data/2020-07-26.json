@@ -1,0 +1,169 @@
+[
+  {
+    "title": "czl0325/jetbrains-agent-latest",
+    "url": "https://github.com/czl0325/jetbrains-agent-latest",
+    "desc": "jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。",
+    "cn": true
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "lang": "Go",
+    "desc": "An open source re-implementation of Diablo 2",
+    "cn": false
+  },
+  {
+    "title": "androidx/androidx",
+    "url": "https://github.com/androidx/androidx",
+    "lang": "Java",
+    "desc": "Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.",
+    "cn": false
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "lang": "Kotlin",
+    "desc": "Native Android app using the Apple/Google exposure notification API.",
+    "cn": false
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "lang": "JavaScript",
+    "desc": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "cn": false
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "lang": "JavaScript",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "cn": false
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "lang": "JupyterNotebook",
+    "desc": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "cn": false
+  },
+  {
+    "title": "RustScan/RustScan",
+    "url": "https://github.com/RustScan/RustScan",
+    "lang": "Rust",
+    "desc": "Faster Nmap Scanning with Rust",
+    "cn": false
+  },
+  {
+    "title": "UZ-SLAMLab/ORB_SLAM3",
+    "url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+    "lang": "C++",
+    "desc": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+    "cn": false
+  },
+  {
+    "title": "corona-warn-app/cwa-app-ios",
+    "url": "https://github.com/corona-warn-app/cwa-app-ios",
+    "lang": "Swift",
+    "desc": "Native iOS app using the exposure notification framework from Apple.",
+    "cn": false
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "lang": "C++",
+    "desc": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "cn": false
+  },
+  {
+    "title": "shreyashankar/gpt3-sandbox",
+    "url": "https://github.com/shreyashankar/gpt3-sandbox",
+    "lang": "JavaScript",
+    "desc": "The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.",
+    "cn": false
+  },
+  {
+    "title": "hwayne/awesome-cold-showers",
+    "url": "https://github.com/hwayne/awesome-cold-showers",
+    "desc": "For when people get too hyped up about things",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "cn": false
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "mrdbourke/machine-learning-roadmap",
+    "url": "https://github.com/mrdbourke/machine-learning-roadmap",
+    "desc": "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",
+    "cn": false
+  },
+  {
+    "title": "umi-top/umi-core-js",
+    "url": "https://github.com/umi-top/umi-core-js",
+    "lang": "JavaScript",
+    "desc": "UMI Core JS Library",
+    "cn": false
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "lang": "Shell",
+    "desc": "Rust explained using easy English",
+    "cn": false
+  },
+  {
+    "title": "elyase/awesome-gpt3",
+    "url": "https://github.com/elyase/awesome-gpt3"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "Vimscript",
+    "desc": "Vim-fork focused on extensibility and usability",
+    "cn": false
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "lang": "Python",
+    "desc": "😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。",
+    "cn": true
+  },
+  {
+    "title": "David00/rpi-power-monitor",
+    "url": "https://github.com/David00/rpi-power-monitor",
+    "lang": "Python",
+    "desc": "Raspberry Pi Power Monitor",
+    "cn": false
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "lang": "Python",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes",
+    "cn": false
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop",
+    "desc": "汇总各大互联网公司容易考察的高频leetcode题🔥",
+    "cn": true
+  }
+]
