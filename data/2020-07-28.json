@@ -1,0 +1,146 @@
+[
+  {
+    "title": "UZ-SLAMLab/ORB_SLAM3",
+    "url": "https://github.com/UZ-SLAMLab/ORB_SLAM3",
+    "lang": "C++",
+    "desc": "ORB-SLAM3: An Accurate Open-Source Library for Visual, Visual-Inertial and Multi-Map SLAM",
+    "cn": false
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "lang": "JavaScript",
+    "desc": "⚡ Dynamically generated stats for your github readmes",
+    "cn": false
+  },
+  {
+    "title": "plant99/felicette",
+    "url": "https://github.com/plant99/felicette",
+    "lang": "Python",
+    "desc": "Satellite imagery for dummies.",
+    "cn": false
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "lang": "Kotlin",
+    "desc": "Native Android app using the Apple/Google exposure notification API.",
+    "cn": false
+  },
+  {
+    "title": "radareorg/cutter",
+    "url": "https://github.com/radareorg/cutter",
+    "lang": "C++",
+    "desc": "Free and Open Source Reverse Engineering Platform powered by radare2",
+    "cn": false
+  },
+  {
+    "title": "shreyashankar/gpt3-sandbox",
+    "url": "https://github.com/shreyashankar/gpt3-sandbox",
+    "lang": "JavaScript",
+    "desc": "The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.",
+    "cn": false
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  },
+  {
+    "title": "iamvucms/react-native-instagram-clone",
+    "url": "https://github.com/iamvucms/react-native-instagram-clone",
+    "lang": "TypeScript",
+    "desc": "A React Native app - Clone Instagram mobile app (In progress)",
+    "cn": false
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript",
+    "desc": "A collection of awesome readme templates to display on your profile",
+    "cn": false
+  },
+  {
+    "title": "androidx/androidx",
+    "url": "https://github.com/androidx/androidx",
+    "lang": "Java",
+    "desc": "Development environment for Jetpack Android extension libraries. Synchronized with Jetpack's primary development branch on AOSP.",
+    "cn": false
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "chrisbanes/tivi",
+    "url": "https://github.com/chrisbanes/tivi",
+    "lang": "Kotlin",
+    "desc": "Tivi is a work-in-progress TV show tracking Android app, which connects to Trakt.tv. It is still in its early stages of development and currently only contains two pieces of UI. It is under heavy development.",
+    "cn": false
+  },
+  {
+    "title": "noraj/OSCP-Exam-Report-Template-Markdown",
+    "url": "https://github.com/noraj/OSCP-Exam-Report-Template-Markdown",
+    "lang": "Ruby",
+    "desc": "📙 OSCP Exam Report Template in Markdown",
+    "cn": false
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "mrdbourke/machine-learning-roadmap",
+    "url": "https://github.com/mrdbourke/machine-learning-roadmap",
+    "desc": "A roadmap connecting many of the most important concepts in machine learning, how to learn them and what tools to use to perform them.",
+    "cn": false
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "lang": "Go",
+    "desc": "An open source re-implementation of Diablo 2",
+    "cn": false
+  },
+  {
+    "title": "rappasoft/laravel-boilerplate",
+    "url": "https://github.com/rappasoft/laravel-boilerplate",
+    "lang": "PHP",
+    "desc": "The Laravel Boilerplate Project - https://laravel-boilerplate.com",
+    "cn": false
+  },
+  {
+    "title": "surya-veer/movement-tracking",
+    "url": "https://github.com/surya-veer/movement-tracking",
+    "lang": "Python",
+    "desc": "UP - DOWN - LEFT - RIGHT movement tracking.",
+    "cn": false
+  },
+  {
+    "title": "karanpratapsingh/fullstack-starterkit",
+    "url": "https://github.com/karanpratapsingh/fullstack-starterkit",
+    "lang": "TypeScript",
+    "desc": "GraphQL first full-stack starter kit with Node, React. Powered by TypeScript",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  }
+]
