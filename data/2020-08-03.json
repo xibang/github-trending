@@ -1,0 +1,169 @@
+[
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai"
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "cn": false
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "cn": false
+  },
+  {
+    "title": "IBM/fhe-toolkit-linux",
+    "url": "https://github.com/IBM/fhe-toolkit-linux",
+    "lang": "C++",
+    "desc": "IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "lang": "Rust",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "lang": "JavaScript",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "cn": false
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "lang": "Go",
+    "desc": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "cn": true
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "lang": "Shell",
+    "desc": "Rust explained using easy English",
+    "cn": false
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "lang": "JavaScript",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "desc": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "cn": false
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C",
+    "desc": "Display and control your Android device",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "jantic/DeOldify",
+    "url": "https://github.com/jantic/DeOldify",
+    "lang": "JupyterNotebook",
+    "desc": "A Deep Learning based project for colorizing and restoring old images (and video!)",
+    "cn": false
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust",
+    "desc": "A cat(1) clone with wings.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "timgrossmann/InstaPy",
+    "url": "https://github.com/timgrossmann/InstaPy",
+    "lang": "Python",
+    "desc": "📷 Instagram Bot - Tool for automated Instagram interactions",
+    "cn": false
+  },
+  {
+    "title": "haoel/haoel.github.io",
+    "url": "https://github.com/haoel/haoel.github.io",
+    "lang": "Shell"
+  },
+  {
+    "title": "antoniosarosi/home-cloud",
+    "url": "https://github.com/antoniosarosi/home-cloud",
+    "lang": "JavaScript",
+    "desc": "The \"cloud\" at home",
+    "cn": false
+  },
+  {
+    "title": "JAVClub/core",
+    "url": "https://github.com/JAVClub/core",
+    "lang": "JavaScript",
+    "desc": "🔞 JAVClub - 让你的大姐姐不再走丢",
+    "cn": true
+  },
+  {
+    "title": "cds-snc/covid-alert-app",
+    "url": "https://github.com/cds-snc/covid-alert-app",
+    "lang": "TypeScript",
+    "desc": "Exposure notification client application / Application client de notification d'exposition",
+    "cn": false
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "lang": "Python",
+    "desc": "手写实现李航《统计学习方法》书中全部算法",
+    "cn": true
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "lang": "C++",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "cn": false
+  }
+]
