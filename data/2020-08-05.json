@@ -1,0 +1,164 @@
+[
+  {
+    "title": "glouw/paperview",
+    "url": "https://github.com/glouw/paperview",
+    "lang": "C",
+    "desc": "A high performance X11 animated wallpaper setter",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering",
+    "cn": false
+  },
+  {
+    "title": "sharkdp/bat",
+    "url": "https://github.com/sharkdp/bat",
+    "lang": "Rust",
+    "desc": "A cat(1) clone with wings.",
+    "cn": false
+  },
+  {
+    "title": "gpujs/gpu.js",
+    "url": "https://github.com/gpujs/gpu.js",
+    "lang": "JavaScript",
+    "desc": "GPU Accelerated JavaScript",
+    "cn": false
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "lang": "Python",
+    "desc": "手写实现李航《统计学习方法》书中全部算法",
+    "cn": true
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "IBM/fhe-toolkit-linux",
+    "url": "https://github.com/IBM/fhe-toolkit-linux",
+    "lang": "C++",
+    "desc": "IBM Fully Homomorphic Encryption Toolkit For Linux. This toolkit is a Linux based Docker container that demonstrates computing on encrypted data without decrypting it! The toolkit ships with two demos including a fully encrypted Machine Learning inference with a Neural Network and a Privacy-Preserving key-value search.",
+    "cn": false
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "cn": false
+  },
+  {
+    "title": "python-unsam/UNSAM_2020c2_Python",
+    "url": "https://github.com/python-unsam/UNSAM_2020c2_Python",
+    "desc": "Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM",
+    "cn": false
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "lang": "C++",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "cn": false
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "lang": "HTML",
+    "desc": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "cn": false
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "lang": "Rust",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "lang": "Go",
+    "desc": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "cn": true
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift",
+    "desc": "Elegant HTTP Networking in Swift",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "ChendoChap/ps4-ipv6-uaf",
+    "url": "https://github.com/ChendoChap/ps4-ipv6-uaf",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rbhatia46/Data-Science-Interview-Resources",
+    "url": "https://github.com/rbhatia46/Data-Science-Interview-Resources",
+    "desc": "A repository listing out the potential sources which will help you in preparing for a Data Science/Machine Learning interview. New resources added frequently.",
+    "cn": false
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "lang": "Python",
+    "desc": "Automated decryption tool",
+    "cn": false
+  },
+  {
+    "title": "pycaret/pycaret",
+    "url": "https://github.com/pycaret/pycaret",
+    "lang": "JupyterNotebook",
+    "desc": "An open source, low-code machine learning library in Python",
+    "cn": false
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "lang": "Elixir",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "cn": false
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "lang": "JavaScript",
+    "desc": "Source to app.diagrams.net",
+    "cn": false
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "lang": "JavaScript",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "cn": false
+  }
+]
