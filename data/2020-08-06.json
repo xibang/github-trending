@@ -1,0 +1,168 @@
+[
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "cn": false
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "lang": "Python",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes",
+    "cn": false
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "lang": "Python",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "cn": false
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "lang": "HTML",
+    "desc": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "cn": false
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "lang": "Objective-C",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "cn": false
+  },
+  {
+    "title": "veeral-patel/how-to-secure-anything",
+    "url": "https://github.com/veeral-patel/how-to-secure-anything",
+    "desc": "How to systematically secure anything: a repository about security engineering",
+    "cn": false
+  },
+  {
+    "title": "KFCFans/PowerJob",
+    "url": "https://github.com/KFCFans/PowerJob",
+    "lang": "Java",
+    "desc": "新一代分布式任务调度与计算框架，支持CRON、API、固定频率、固定延迟等调度策略，提供工作流来编排任务解决依赖关系，使用简单，功能强大，文档齐全，欢迎各位接入使用！",
+    "cn": true
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "lang": "C",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "cn": false
+  },
+  {
+    "title": "Vladislav610/QA_bible",
+    "url": "https://github.com/Vladislav610/QA_bible",
+    "desc": "Библия QA это 200++ страниц обновляемой смеси ответов на вопросы с реальных собеседований на QA, перевода интересного контента с зарубежных ресурсов и агрегации материала с отечественных.",
+    "cn": false
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "lang": "Python",
+    "desc": "Automated decryption tool",
+    "cn": false
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview",
+    "cn": false
+  },
+  {
+    "title": "python-unsam/UNSAM_2020c2_Python",
+    "url": "https://github.com/python-unsam/UNSAM_2020c2_Python",
+    "desc": "Curso de programación en Python - 2do cuatrimestre 2020 - UNSAM",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "blackberry/pe_tree",
+    "url": "https://github.com/blackberry/pe_tree",
+    "lang": "Python"
+  },
+  {
+    "title": "gautamkrishnar/blog-post-workflow",
+    "url": "https://github.com/gautamkrishnar/blog-post-workflow",
+    "lang": "JavaScript",
+    "desc": "Show your latest blog posts from any sources or StackOverflow activity on your GitHub profile/project readme automatically using the RSS feed",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "cn": false
+  },
+  {
+    "title": "liupan1890/xiaobaiyang",
+    "url": "https://github.com/liupan1890/xiaobaiyang"
+  },
+  {
+    "title": "jgraph/drawio",
+    "url": "https://github.com/jgraph/drawio",
+    "lang": "JavaScript",
+    "desc": "Source to app.diagrams.net",
+    "cn": false
+  },
+  {
+    "title": "PCrnjak/Faze4-Robotic-arm",
+    "url": "https://github.com/PCrnjak/Faze4-Robotic-arm",
+    "lang": "C++",
+    "desc": "All files for 6 axis robot arm with cycloidal gearboxes .",
+    "cn": false
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript",
+    "desc": "Lens - The Kubernetes IDE",
+    "cn": false
+  },
+  {
+    "title": "ARMmbed/mbed-os",
+    "url": "https://github.com/ARMmbed/mbed-os",
+    "lang": "C",
+    "desc": "Arm Mbed OS is a platform operating system designed for the internet of things",
+    "cn": false
+  },
+  {
+    "title": "chuzhixin/vue-admin-beautiful",
+    "url": "https://github.com/chuzhixin/vue-admin-beautiful",
+    "lang": "Vue",
+    "desc": "🚀vue-admin-beautiful是一款基于vue+element-ui的绝佳的中后台前端开发管理框架（基于vue/cli 4 最新版，同时支持电脑，手机，平板）,他同时是拥有100+页面的大型vue前端单页应用,长期更新维护,感谢您的star,我一直在努力 Vue admin beautiful is an excellent front-end development framework (supporting computers, mobile phones and tablets at the same time), long-term update and maintenance, thank you for your star, I have been workin…",
+    "cn": true
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "lang": "TypeScript",
+    "desc": "Universal dependency update tool that fits into your workflows.",
+    "cn": false
+  },
+  {
+    "title": "airbnb/lottie-ios",
+    "url": "https://github.com/airbnb/lottie-ios",
+    "lang": "Swift",
+    "desc": "An iOS library to natively render After Effects vector animations",
+    "cn": false
+  },
+  {
+    "title": "aws-amplify/amplify-js",
+    "url": "https://github.com/aws-amplify/amplify-js",
+    "lang": "TypeScript",
+    "desc": "A declarative JavaScript library for application development using cloud services.",
+    "cn": false
+  }
+]
