@@ -1,0 +1,171 @@
+[
+  {
+    "title": "openservicemesh/osm",
+    "url": "https://github.com/openservicemesh/osm",
+    "lang": "Go",
+    "desc": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.",
+    "cn": false
+  },
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "lang": "C++",
+    "desc": "Parsing gigabytes of JSON per second",
+    "cn": false
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "lang": "Python",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "cn": false
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell",
+    "desc": "Open source documentation of Microsoft Azure",
+    "cn": false
+  },
+  {
+    "title": "iGhibli/iOS-DeviceSupport",
+    "url": "https://github.com/iGhibli/iOS-DeviceSupport",
+    "lang": "Python",
+    "desc": "This repository holds the device support files for the iOS, and I will update it regularly.",
+    "cn": false
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "desc": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "cn": false
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript",
+    "desc": "Lens - The Kubernetes IDE",
+    "cn": false
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "lang": "Objective-C",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "cn": false
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "cn": false
+  },
+  {
+    "title": "ubisoft/mixer",
+    "url": "https://github.com/ubisoft/mixer",
+    "lang": "Python",
+    "desc": "Add-on for real-time collaboration in Blender.",
+    "cn": false
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "lang": "C",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "cn": false
+  },
+  {
+    "title": "viraptor/reverse-interview",
+    "url": "https://github.com/viraptor/reverse-interview",
+    "desc": "Questions to ask the company during your interview",
+    "cn": false
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+    "cn": true
+  },
+  {
+    "title": "ultralytics/yolov5",
+    "url": "https://github.com/ultralytics/yolov5",
+    "lang": "Python",
+    "desc": "YOLOv5 in PyTorch > ONNX > CoreML > iOS",
+    "cn": false
+  },
+  {
+    "title": "guilhermecapitao/proffy-discovery",
+    "url": "https://github.com/guilhermecapitao/proffy-discovery",
+    "lang": "CSS",
+    "desc": "A proposta do projeto é uma aplicação que possa ligar quem deseja aprender, com quer ensinar. É possível encontrar alunos para o que você leciona, ou encontrar o professor para aquela matéria que você sempre quis aprender mais! Sem que haja nenhuma limitação de área!!",
+    "cn": false
+  },
+  {
+    "title": "PCrnjak/Faze4-Robotic-arm",
+    "url": "https://github.com/PCrnjak/Faze4-Robotic-arm",
+    "lang": "C++",
+    "desc": "All files for 6 axis robot arm with cycloidal gearboxes .",
+    "cn": false
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "lang": "C++",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "cn": false
+  },
+  {
+    "title": "xamarin/XamarinCommunityToolkit",
+    "url": "https://github.com/xamarin/XamarinCommunityToolkit",
+    "lang": "C#",
+    "desc": "The Xamarin Community Toolkit is a collection of Animations, Behaviors, Converters, and Effects for mobile development with Xamarin.Forms. It simplifies and demonstrates common developer tasks building iOS, Android, and UWP apps with Xamarin.Forms.",
+    "cn": false
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "lang": "C++",
+    "desc": "Seamless operability between C++11 and Python",
+    "cn": false
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers.",
+    "cn": false
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "lang": "Java",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "cn": false
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "cn": false
+  },
+  {
+    "title": "KhoaDauTay/learn-python",
+    "url": "https://github.com/KhoaDauTay/learn-python",
+    "lang": "Python"
+  },
+  {
+    "title": "helm/charts",
+    "url": "https://github.com/helm/charts",
+    "lang": "Go",
+    "desc": "Curated applications for Kubernetes",
+    "cn": false
+  }
+]
