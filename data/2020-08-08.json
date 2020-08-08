@@ -1,0 +1,158 @@
+[
+  {
+    "title": "CleverProgrammers/nodejs-zoom-clone",
+    "url": "https://github.com/CleverProgrammers/nodejs-zoom-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "douyu/jupiter",
+    "url": "https://github.com/douyu/jupiter",
+    "lang": "Go",
+    "desc": "Jupiter是斗鱼开源的面向服务治理的Golang微服务框架",
+    "cn": true
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "lang": "Go",
+    "desc": "AWS SDK for the Go programming language.",
+    "cn": false
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "cn": false
+  },
+  {
+    "title": "simdjson/simdjson",
+    "url": "https://github.com/simdjson/simdjson",
+    "lang": "C++",
+    "desc": "Parsing gigabytes of JSON per second",
+    "cn": false
+  },
+  {
+    "title": "aboelkassem/educative.io_courses",
+    "url": "https://github.com/aboelkassem/educative.io_courses",
+    "desc": "this is downloadings of all educative.io free student subscription courses as pdf from GitHub student pack",
+    "cn": false
+  },
+  {
+    "title": "magicleap/Atlas",
+    "url": "https://github.com/magicleap/Atlas",
+    "lang": "Python",
+    "desc": "Atlas: End-to-End 3D Scene Reconstruction from Posed Images",
+    "cn": false
+  },
+  {
+    "title": "openservicemesh/osm",
+    "url": "https://github.com/openservicemesh/osm",
+    "lang": "Go",
+    "desc": "Open Service Mesh (OSM) is a lightweight, extensible, cloud native service mesh that allows users to uniformly manage, secure, and get out-of-the-box observability features for highly dynamic microservice environments.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "cn": false
+  },
+  {
+    "title": "migueldeicaza/gui.cs",
+    "url": "https://github.com/migueldeicaza/gui.cs",
+    "lang": "C#",
+    "desc": "Console-based user interface toolkit for .NET applications.",
+    "cn": false
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "cn": false
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers.",
+    "cn": false
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "lang": "Python",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "cn": false
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript",
+    "desc": "A framework for building native apps with React.",
+    "cn": false
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "lang": "JavaScript",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "cn": false
+  },
+  {
+    "title": "jmdx/TLS-poison",
+    "url": "https://github.com/jmdx/TLS-poison",
+    "lang": "Rust"
+  },
+  {
+    "title": "pybind/pybind11",
+    "url": "https://github.com/pybind/pybind11",
+    "lang": "C++",
+    "desc": "Seamless operability between C++11 and Python",
+    "cn": false
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "lang": "C",
+    "desc": "An open-source big data platform designed and optimized for the Internet of Things (IoT).",
+    "cn": false
+  },
+  {
+    "title": "yanue/V2rayU",
+    "url": "https://github.com/yanue/V2rayU",
+    "lang": "Swift",
+    "desc": "V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等",
+    "cn": true
+  },
+  {
+    "title": "kelseyhightower/mesh",
+    "url": "https://github.com/kelseyhightower/mesh",
+    "desc": "Cloud native service mesh for the rest of us.",
+    "cn": false
+  },
+  {
+    "title": "Malajab/incyber",
+    "url": "https://github.com/Malajab/incyber"
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+    "cn": true
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "lang": "Rust",
+    "desc": "Polkadot Node Implementation",
+    "cn": false
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell",
+    "desc": "Open source documentation of Microsoft Azure",
+    "cn": false
+  }
+]
