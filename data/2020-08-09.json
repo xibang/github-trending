@@ -1,0 +1,169 @@
+[
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "lang": "OCaml",
+    "desc": "Performant type-checking for python.",
+    "cn": false
+  },
+  {
+    "title": "liljencrantz/crush",
+    "url": "https://github.com/liljencrantz/crush",
+    "lang": "Rust",
+    "desc": "Crush is an attempt to make a command line shell that is also a powerful modern programming language.",
+    "cn": false
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "lang": "JavaScript",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "cn": false
+  },
+  {
+    "title": "CleverProgrammers/nodejs-zoom-clone",
+    "url": "https://github.com/CleverProgrammers/nodejs-zoom-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ct-Open-Source/tuya-convert",
+    "url": "https://github.com/ct-Open-Source/tuya-convert",
+    "lang": "Python",
+    "desc": "A collection of scripts to flash Tuya IoT devices to alternative firmwares",
+    "cn": false
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python",
+    "desc": "The easiest way to automate your data",
+    "cn": false
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "lang": "TypeScript",
+    "desc": "The adaptive interface system  for modern web experiences.",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "zoony1337/TikTok-Shares-Botter",
+    "url": "https://github.com/zoony1337/TikTok-Shares-Botter",
+    "lang": "Python",
+    "desc": "Adds TikTok Shares for you.",
+    "cn": false
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers.",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "cn": false
+  },
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "lang": "TypeScript",
+    "desc": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "cn": false
+  },
+  {
+    "title": "salesforce/ai-economist",
+    "url": "https://github.com/salesforce/ai-economist",
+    "lang": "Python",
+    "desc": "Foundation is a flexible, modular, and composable framework to model socio-economic behaviors and dynamics with both agents and governments. This framework can be used in conjunction with reinforcement learning to learn optimal economic policies, as done by the AI Economist (https://www.einstein.ai/the-ai-economist).",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "longjunyu2/MCinaBox",
+    "url": "https://github.com/longjunyu2/MCinaBox",
+    "lang": "Java",
+    "desc": "MCinaBox - A Minecraft Java Edition Launcher on Android",
+    "cn": false
+  },
+  {
+    "title": "JayremntB/facebook-scripts-dom-manipulation",
+    "url": "https://github.com/JayremntB/facebook-scripts-dom-manipulation",
+    "lang": "JavaScript",
+    "desc": "An open-source project includes many scripts with no Access Token needed for Facebook users by directly manipulating the DOM.",
+    "cn": false
+  },
+  {
+    "title": "aristocratos/bpytop",
+    "url": "https://github.com/aristocratos/bpytop",
+    "lang": "Python",
+    "desc": "Linux/OSX/FreeBSD resource monitor",
+    "cn": false
+  },
+  {
+    "title": "kahun/awesome-sysadmin",
+    "url": "https://github.com/kahun/awesome-sysadmin",
+    "desc": "A curated list of amazingly awesome open source sysadmin resources inspired by Awesome PHP.",
+    "cn": false
+  },
+  {
+    "title": "taichi-dev/taichi",
+    "url": "https://github.com/taichi-dev/taichi",
+    "lang": "C++",
+    "desc": "Productive & portable programming language for high-performance, sparse & differentiable computing",
+    "cn": false
+  },
+  {
+    "title": "magicleap/Atlas",
+    "url": "https://github.com/magicleap/Atlas",
+    "lang": "Python",
+    "desc": "Atlas: End-to-End 3D Scene Reconstruction from Posed Images",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "lang": "Rust",
+    "desc": "Polkadot Node Implementation",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  }
+]
