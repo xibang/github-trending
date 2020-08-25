@@ -1,0 +1,163 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook",
+    "desc": "Draft of the fastai book",
+    "cn": false
+  },
+  {
+    "title": "orogene/orogene",
+    "url": "https://github.com/orogene/orogene",
+    "lang": "Rust",
+    "desc": "A next-generation platform and package manager for Node.js-compatible and frontend JavaScript projects!",
+    "cn": false
+  },
+  {
+    "title": "kodekloudhub/certified-kubernetes-administrator-course",
+    "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "lang": "Shell",
+    "desc": "Certified Kubernetes Administrator - CKA Course",
+    "cn": false
+  },
+  {
+    "title": "DevashishPrasad/CascadeTabNet",
+    "url": "https://github.com/DevashishPrasad/CascadeTabNet",
+    "lang": "Python",
+    "desc": "This repository contains the code and implementation details of the CascadeTabNet paper \"CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents\"",
+    "cn": false
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "shervinea/mit-15-003-data-science-tools",
+    "url": "https://github.com/shervinea/mit-15-003-data-science-tools",
+    "desc": "Study guides for MIT's 15.003 Data Science Tools",
+    "cn": false
+  },
+  {
+    "title": "wpine215/msfs-a320neo",
+    "url": "https://github.com/wpine215/msfs-a320neo",
+    "lang": "HTML"
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "cn": false
+  },
+  {
+    "title": "maratonadev-br/desafio-4-2020",
+    "url": "https://github.com/maratonadev-br/desafio-4-2020"
+  },
+  {
+    "title": "remi2257/sudoku-solver",
+    "url": "https://github.com/remi2257/sudoku-solver",
+    "lang": "Python",
+    "desc": "Smart solution to solve sudoku in VR",
+    "cn": false
+  },
+  {
+    "title": "huangrt01/CS-Notes",
+    "url": "https://github.com/huangrt01/CS-Notes",
+    "lang": "Python",
+    "desc": "我的自学笔记，在学习shell和MLSys，整理C++、算法、操作系统，后续学习分布式系统，终身更新。",
+    "cn": true
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C",
+    "desc": "A new bootable USB solution.",
+    "cn": false
+  },
+  {
+    "title": "felipefialho/awesome-made-by-brazilians",
+    "url": "https://github.com/felipefialho/awesome-made-by-brazilians",
+    "desc": "🇧🇷 A collection of amazing open source projects built by brazilian developers",
+    "cn": false
+  },
+  {
+    "title": "nsfw-filter/nsfw-filter",
+    "url": "https://github.com/nsfw-filter/nsfw-filter",
+    "lang": "JavaScript",
+    "desc": "A Google Chrome / Firefox extension that blocks NSFW images from the web pages that you load using TensorFlow JS.",
+    "cn": false
+  },
+  {
+    "title": "maratonadev-br/desafio-3-2020",
+    "url": "https://github.com/maratonadev-br/desafio-3-2020"
+  },
+  {
+    "title": "KevinLage/YouTube-Livestream-Botter",
+    "url": "https://github.com/KevinLage/YouTube-Livestream-Botter",
+    "lang": "Python",
+    "desc": "Simple tool to bot viewers to a YouTube Livestream!",
+    "cn": false
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:",
+    "cn": false
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "lang": "Go",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "TensorSpeech/TensorFlowTTS",
+    "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+    "lang": "Python",
+    "desc": "😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese and Easy to adapt for other languages)",
+    "cn": false
+  },
+  {
+    "title": "s-matyukevich/raspberry-pi-os",
+    "url": "https://github.com/s-matyukevich/raspberry-pi-os",
+    "lang": "C",
+    "desc": "Learning operating system development using Linux kernel and Raspberry Pi",
+    "cn": false
+  },
+  {
+    "title": "OpenIntelWireless/itlwm",
+    "url": "https://github.com/OpenIntelWireless/itlwm",
+    "lang": "C",
+    "desc": "Intel Wi-Fi Drivers",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  }
+]
