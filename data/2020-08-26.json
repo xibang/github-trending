@@ -1,0 +1,164 @@
+[
+  {
+    "title": "wpine215/msfs-a320neo",
+    "url": "https://github.com/wpine215/msfs-a320neo",
+    "lang": "HTML"
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "lang": "Go",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "cn": false
+  },
+  {
+    "title": "kodekloudhub/certified-kubernetes-administrator-course",
+    "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "lang": "Shell",
+    "desc": "Certified Kubernetes Administrator - CKA Course",
+    "cn": false
+  },
+  {
+    "title": "themesberg/volt-bootstrap-5-dashboard",
+    "url": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+    "lang": "HTML",
+    "desc": "⚡️ Volt Bootstrap 5 Admin Dashboard Template with vanilla Javascript",
+    "cn": false
+  },
+  {
+    "title": "princeton-vl/RAFT",
+    "url": "https://github.com/princeton-vl/RAFT",
+    "lang": "Python"
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "lang": "JavaScript",
+    "desc": "The ultimate Free Open Source Solution for team communications.",
+    "cn": false
+  },
+  {
+    "title": "google/latexify_py",
+    "url": "https://github.com/google/latexify_py",
+    "lang": "Python",
+    "desc": "Generates LaTeX math description from Python functions.",
+    "cn": false
+  },
+  {
+    "title": "shervinea/mit-15-003-data-science-tools",
+    "url": "https://github.com/shervinea/mit-15-003-data-science-tools",
+    "desc": "Study guides for MIT's 15.003 Data Science Tools",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "lang": "Vue",
+    "desc": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web",
+    "cn": false
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:",
+    "cn": false
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell",
+    "desc": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+    "cn": false
+  },
+  {
+    "title": "yuantuo666/baiduwp-php",
+    "url": "https://github.com/yuantuo666/baiduwp-php",
+    "lang": "PHP",
+    "desc": "PanDownload网页复刻版",
+    "cn": true
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook",
+    "desc": "Draft of the fastai book",
+    "cn": false
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "lang": "Python",
+    "desc": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "nalexn/clean-architecture-swiftui",
+    "url": "https://github.com/nalexn/clean-architecture-swiftui",
+    "lang": "Swift",
+    "desc": "A demo project showcasing the production setup of the SwiftUI app with Clean Architecture",
+    "cn": false
+  },
+  {
+    "title": "alozano-77/AWS-SAA-C02-Course",
+    "url": "https://github.com/alozano-77/AWS-SAA-C02-Course",
+    "desc": "Personal notes for SAA-C02 test from: https://learn.cantrill.io",
+    "cn": false
+  },
+  {
+    "title": "yhirose/cpp-httplib",
+    "url": "https://github.com/yhirose/cpp-httplib",
+    "lang": "C++",
+    "desc": "A C++ header-only HTTP/HTTPS server and client library",
+    "cn": false
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript",
+    "desc": "Visual Studio Code",
+    "cn": false
+  },
+  {
+    "title": "KevinLage/YouTube-Livestream-Botter",
+    "url": "https://github.com/KevinLage/YouTube-Livestream-Botter",
+    "lang": "Python",
+    "desc": "Simple tool to bot viewers to a YouTube Livestream!",
+    "cn": false
+  },
+  {
+    "title": "ContainerSolutions/kubernetes-examples",
+    "url": "https://github.com/ContainerSolutions/kubernetes-examples",
+    "desc": "Minimal self-contained examples of standard Kubernetes features and patterns in YAML",
+    "cn": false
+  },
+  {
+    "title": "wix/react-native-navigation",
+    "url": "https://github.com/wix/react-native-navigation",
+    "lang": "Java",
+    "desc": "A complete native navigation solution for React Native",
+    "cn": false
+  },
+  {
+    "title": "DevashishPrasad/CascadeTabNet",
+    "url": "https://github.com/DevashishPrasad/CascadeTabNet",
+    "lang": "Python",
+    "desc": "This repository contains the code and implementation details of the CascadeTabNet paper \"CascadeTabNet: An approach for end to end table detection and structure recognition from image-based documents\"",
+    "cn": false
+  }
+]
