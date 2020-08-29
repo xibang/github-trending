@@ -1,0 +1,170 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript",
+    "desc": "Headless Chrome Node.js API",
+    "cn": false
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "desc": "A book for learning the Vim editor",
+    "cn": false
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "lang": "JavaScript",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "cn": false
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "lang": "PHP",
+    "desc": "Docker-based development-only dependency manager; pairs with Valet.",
+    "cn": false
+  },
+  {
+    "title": "expo/expo",
+    "url": "https://github.com/expo/expo",
+    "lang": "Objective-C",
+    "desc": "An open-source platform for making universal native apps with React. Expo runs on Android, iOS, and the web.",
+    "cn": false
+  },
+  {
+    "title": "dimforge/rapier",
+    "url": "https://github.com/dimforge/rapier",
+    "lang": "Rust",
+    "desc": "2D and 3D physics engines focused on performances.",
+    "cn": false
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "lang": "Java",
+    "desc": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.",
+    "cn": false
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "lang": "TypeScript",
+    "desc": "An extension for VS Code that visualizes data during debugging.",
+    "cn": false
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "lang": "Python",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "cn": false
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go",
+    "desc": "The Ultimate Go Study Guide",
+    "cn": false
+  },
+  {
+    "title": "jeanrauwers/mern-course-bootcamp",
+    "url": "https://github.com/jeanrauwers/mern-course-bootcamp",
+    "lang": "JavaScript",
+    "desc": "Complete Free Coding Bootcamp 2020 MERN Stack",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "zhiwehu/Python-programming-exercises",
+    "url": "https://github.com/zhiwehu/Python-programming-exercises",
+    "desc": "100+ Python challenging programming exercises",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "lang": "JavaScript",
+    "desc": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
+    "cn": false
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "lang": "Rust",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "cn": false
+  },
+  {
+    "title": "chriskiehl/Gooey",
+    "url": "https://github.com/chriskiehl/Gooey",
+    "lang": "Python",
+    "desc": "Turn (almost) any Python command line program into a full GUI application with one line",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (August 2020)",
+    "cn": false
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "lang": "JavaScript",
+    "desc": "A set of best practices for JavaScript projects",
+    "cn": false
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python",
+    "desc": "Video discussing this curriculum:",
+    "cn": false
+  },
+  {
+    "title": "cloudreve/Cloudreve",
+    "url": "https://github.com/cloudreve/Cloudreve",
+    "lang": "Go",
+    "desc": "🌩支持多家云存储的云盘系统 (A project helps you build your own cloud in minutes)",
+    "cn": true
+  }
+]
