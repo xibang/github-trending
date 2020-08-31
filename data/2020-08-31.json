@@ -1,0 +1,166 @@
+[
+  {
+    "title": "vinayak-mehta/present",
+    "url": "https://github.com/vinayak-mehta/present",
+    "lang": "Python",
+    "desc": "A terminal-based presentation tool with colors and effects.",
+    "cn": false
+  },
+  {
+    "title": "hoffstadt/DearPyGui",
+    "url": "https://github.com/hoffstadt/DearPyGui",
+    "lang": "C++",
+    "desc": "DearPyGui: A GPU Accelerated Python GUI Framework",
+    "cn": false
+  },
+  {
+    "title": "alandefreitas/matplotplusplus",
+    "url": "https://github.com/alandefreitas/matplotplusplus",
+    "lang": "C++",
+    "desc": "Matplot++: A C++ Graphics Library for Data Visualization 📊🗾",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "webrtc-for-the-curious/webrtc-for-the-curious",
+    "url": "https://github.com/webrtc-for-the-curious/webrtc-for-the-curious",
+    "desc": "WebRTC for the Curious: Go beyond the APIs",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/learn-python",
+    "url": "https://github.com/trekhleb/learn-python",
+    "lang": "Python",
+    "desc": "📚 Playground and cheatsheet for learning Python. Collection of Python scripts that are split by topics and contain code examples with explanations.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "lang": "TypeScript",
+    "desc": "An extension for VS Code that visualizes data during debugging.",
+    "cn": false
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "lang": "JavaScript",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "cn": false
+  },
+  {
+    "title": "airbnb/Showkase",
+    "url": "https://github.com/airbnb/Showkase",
+    "lang": "Kotlin",
+    "desc": "🔦 Showkase is an annotation-processor based Android library that helps you organize, discover, search and visualize Jetpack Compose UI elements",
+    "cn": false
+  },
+  {
+    "title": "LetsUpgrade/Javascript-Essentials",
+    "url": "https://github.com/LetsUpgrade/Javascript-Essentials",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "lang": "JavaScript",
+    "desc": "A set of best practices for JavaScript projects",
+    "cn": false
+  },
+  {
+    "title": "sushiswap/sushiswap",
+    "url": "https://github.com/sushiswap/sushiswap",
+    "lang": "Solidity",
+    "desc": "🍣 SushiSwap smart contracts",
+    "cn": false
+  },
+  {
+    "title": "connorferster/handcalcs",
+    "url": "https://github.com/connorferster/handcalcs",
+    "lang": "Python",
+    "desc": "Python library for converting Python calculations into rendered latex.",
+    "cn": false
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "lang": "Shell",
+    "desc": "Rust explained using easy English",
+    "cn": false
+  },
+  {
+    "title": "OfJAAH/KingOfBugBountyTips",
+    "url": "https://github.com/OfJAAH/KingOfBugBountyTips"
+  },
+  {
+    "title": "LasCC/Hack-Tools",
+    "url": "https://github.com/LasCC/Hack-Tools",
+    "lang": "JavaScript",
+    "desc": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "cn": false
+  },
+  {
+    "title": "KathanP19/HowToHunt",
+    "url": "https://github.com/KathanP19/HowToHunt",
+    "desc": "Some Tutorials and Things to Do while Hunting That Vulnerability.",
+    "cn": false
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "lang": "Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "cn": true
+  },
+  {
+    "title": "jerry-git/learn-python3",
+    "url": "https://github.com/jerry-git/learn-python3",
+    "lang": "Python",
+    "desc": "Jupyter notebooks for teaching/learning Python 3",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 8000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "lang": "PowerShell",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "cn": false
+  },
+  {
+    "title": "tuvtran/project-based-learning",
+    "url": "https://github.com/tuvtran/project-based-learning",
+    "desc": "Curated list of project-based tutorials",
+    "cn": false
+  },
+  {
+    "title": "londonappbrewery/Flutter-Course-Resources",
+    "url": "https://github.com/londonappbrewery/Flutter-Course-Resources",
+    "desc": "Learn to Code While Building Apps - The Complete Flutter Development Bootcamp",
+    "cn": false
+  }
+]
