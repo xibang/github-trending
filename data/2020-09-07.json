@@ -1,0 +1,166 @@
+[
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "lang": "JavaScript",
+    "desc": "A high performance blog template for the 11ty static site generator.",
+    "cn": false
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "lang": "Shell",
+    "desc": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "cn": false
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "lang": "JavaScript",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "cn": false
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "cn": false
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++",
+    "desc": "Bitcoin Core integration/staging tree",
+    "cn": false
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "lang": "Python",
+    "desc": "⚡ Automatically decrypt encryptions without a key, decode encodings, and crack hashes ⚡",
+    "cn": false
+  },
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "lang": "Java",
+    "desc": "JDK main-line development",
+    "cn": false
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "desc": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
+    "cn": false
+  },
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "lang": "Vue",
+    "desc": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "cn": false
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "lang": "Dart"
+  },
+  {
+    "title": "goldbergyoni/javascript-testing-best-practices",
+    "url": "https://github.com/goldbergyoni/javascript-testing-best-practices",
+    "lang": "JavaScript",
+    "desc": "📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2020)",
+    "cn": false
+  },
+  {
+    "title": "vasanthv/talk",
+    "url": "https://github.com/vasanthv/talk",
+    "lang": "JavaScript",
+    "desc": "A group video call for the web. No signups. No downloads.",
+    "cn": false
+  },
+  {
+    "title": "learning-at-home/hivemind",
+    "url": "https://github.com/learning-at-home/hivemind",
+    "lang": "Python",
+    "desc": "Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.",
+    "cn": false
+  },
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "lang": "Python",
+    "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "cn": false
+  },
+  {
+    "title": "du5/free",
+    "url": "https://github.com/du5/free"
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "JaeYeopHan/Interview_Question_for_Beginner",
+    "url": "https://github.com/JaeYeopHan/Interview_Question_for_Beginner",
+    "desc": "👦 👧 Technical-Interview guidelines written for those who started studying programming. I wish you all the best. 👾",
+    "cn": false
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "lang": "Shell",
+    "desc": "High performance Spigot fork that aims to fix gameplay and mechanics inconsistencies",
+    "cn": false
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "cn": false
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "lang": "Dart",
+    "desc": "An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  }
+]
