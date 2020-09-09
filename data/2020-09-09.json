@@ -1,0 +1,167 @@
+[
+  {
+    "title": "CleverProgrammers/react-portfolio",
+    "url": "https://github.com/CleverProgrammers/react-portfolio",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "lang": "JavaScript",
+    "desc": "A high performance blog template for the 11ty static site generator.",
+    "cn": false
+  },
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "lang": "Java",
+    "desc": "JDK main-line development",
+    "cn": false
+  },
+  {
+    "title": "sushiswap/sushiswap-frontend",
+    "url": "https://github.com/sushiswap/sushiswap-frontend",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "cn": false
+  },
+  {
+    "title": "mml-book/mml-book.github.io",
+    "url": "https://github.com/mml-book/mml-book.github.io",
+    "lang": "JupyterNotebook",
+    "desc": "Companion webpage to the book \"Mathematics For Machine Learning\"",
+    "cn": false
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "lang": "Java",
+    "desc": "A collection of algorithms and data structures",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & articles of companies sharing their work on applied data science & machine learning.",
+    "cn": false
+  },
+  {
+    "title": "G4lile0/ESP32-WiFi-Hash-Monster",
+    "url": "https://github.com/G4lile0/ESP32-WiFi-Hash-Monster",
+    "lang": "C",
+    "desc": "WiFi Hash Purple Monster, store EAPOL & PMKID packets in an SD CARD using a M5STACK / ESP32 device",
+    "cn": false
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "lang": "Python",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "cn": false
+  },
+  {
+    "title": "crossoverJie/cim",
+    "url": "https://github.com/crossoverJie/cim",
+    "lang": "Java",
+    "desc": "📲cim(cross IM) 适用于开发者的分布式即时通讯系统",
+    "cn": true
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "desc": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
+    "cn": false
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "lang": "Batchfile",
+    "desc": "大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang",
+    "cn": true
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "lang": "C++",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "cn": false
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python",
+    "desc": "scikit-learn: machine learning in Python",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "cn": true
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "lang": "PHP",
+    "desc": "A PHP framework for web artisans",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "snori74/linuxupskillchallenge",
+    "url": "https://github.com/snori74/linuxupskillchallenge",
+    "lang": "Shell",
+    "desc": "Learn the skills required to sysadmin a remote Linux server from the commandline.",
+    "cn": false
+  },
+  {
+    "title": "dog-qiuqiu/Yolo-Fastest",
+    "url": "https://github.com/dog-qiuqiu/Yolo-Fastest",
+    "lang": "C",
+    "desc": "⚡ Yolo universal target detection model combined with EfficientNet-lite, the calculation amount is only 230Mflops(0.23Bflops), and the model size is 1.3MB",
+    "cn": false
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "cn": false
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "lang": "PHP",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "cn": false
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "lang": "Dart"
+  }
+]
