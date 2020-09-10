@@ -1,0 +1,169 @@
+[
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "lang": "C++",
+    "desc": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "lang": "C++",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "cn": false
+  },
+  {
+    "title": "google/eleventy-high-performance-blog",
+    "url": "https://github.com/google/eleventy-high-performance-blog",
+    "lang": "JavaScript",
+    "desc": "A high performance blog template for the 11ty static site generator.",
+    "cn": false
+  },
+  {
+    "title": "yfbeta/yfbeta.finance",
+    "url": "https://github.com/yfbeta/yfbeta.finance",
+    "lang": "Solidity"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers of companies sharing their work on applied data science & machine learning.",
+    "cn": false
+  },
+  {
+    "title": "crossoverJie/cim",
+    "url": "https://github.com/crossoverJie/cim",
+    "lang": "Java",
+    "desc": "📲cim(cross IM) 适用于开发者的分布式即时通讯系统",
+    "cn": true
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react",
+    "desc": "A collection of awesome things regarding React ecosystem",
+    "cn": false
+  },
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "lang": "Go",
+    "desc": "GitHub’s official command line tool",
+    "cn": false
+  },
+  {
+    "title": "huangsam/ultimate-python",
+    "url": "https://github.com/huangsam/ultimate-python",
+    "lang": "Python",
+    "desc": "Ultimate Python study guide for newcomers and professionals alike. 🐍 🐍 🐍",
+    "cn": false
+  },
+  {
+    "title": "hahnlee/hwp.js",
+    "url": "https://github.com/hahnlee/hwp.js",
+    "lang": "TypeScript",
+    "desc": "Open source hwp viewer and parser library powered by web technology",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "lang": "Java",
+    "desc": "A collection of algorithms and data structures",
+    "cn": false
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "lang": "Python",
+    "desc": "Zipline, a Pythonic Algorithmic Trading Library",
+    "cn": false
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "lang": "Vue",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "cn": true
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "cn": false
+  },
+  {
+    "title": "stefan-jansen/machine-learning-for-trading",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "lang": "JupyterNotebook",
+    "desc": "Code and resources for Machine Learning for Algorithmic Trading, 2nd edition.",
+    "cn": false
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "cn": false
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "cockroachdb/cockroach",
+    "url": "https://github.com/cockroachdb/cockroach",
+    "lang": "Go",
+    "desc": "CockroachDB - the open source, cloud-native distributed SQL database.",
+    "cn": false
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "lang": "Batchfile",
+    "desc": "大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang",
+    "cn": true
+  },
+  {
+    "title": "solana-labs/solana",
+    "url": "https://github.com/solana-labs/solana",
+    "lang": "Rust",
+    "desc": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+    "cn": false
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#",
+    "desc": "PowerShell for every system!",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "lang": "Python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "cn": false
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "lang": "PHP",
+    "desc": "A PHP framework for web artisans",
+    "cn": false
+  }
+]
