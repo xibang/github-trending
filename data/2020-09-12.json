@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "lang": "C",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "cn": true
+  },
+  {
+    "title": "CleverProgrammers/react-challenge-amazon-clone",
+    "url": "https://github.com/CleverProgrammers/react-challenge-amazon-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript",
+    "desc": "The Intuitive Vue Framework",
+    "cn": false
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "lang": "C++",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "cn": false
+  },
+  {
+    "title": "satansdeer/minecraft-react",
+    "url": "https://github.com/satansdeer/minecraft-react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "cn": false
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "lang": "Objective-C",
+    "desc": "Virtual machines for iOS",
+    "cn": false
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/guide-rpc-framework",
+    "url": "https://github.com/Snailclimb/guide-rpc-framework",
+    "lang": "Java",
+    "desc": "A custom RPC framework implemented by Netty+Kyro+Zookeeper.（一款基于 Netty+Kyro+Zookeeper 实现的自定义 RPC 框架-附详细实现过程和相关教程。）",
+    "cn": true
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-nlp",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp",
+    "lang": "JupyterNotebook",
+    "desc": "Machine Learning University: Accelerated Natural Language Processing Class",
+    "cn": false
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "desc": "Becoming 1% better at data science everyday",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "desc": "⚡ Delightful Node.js packages and resources",
+    "cn": false
+  },
+  {
+    "title": "relativty/Relativty",
+    "url": "https://github.com/relativty/Relativty",
+    "lang": "C++",
+    "desc": "An open source VR headset with SteamVR supports for $200",
+    "cn": false
+  },
+  {
+    "title": "prometheus-community/helm-charts",
+    "url": "https://github.com/prometheus-community/helm-charts",
+    "lang": "HTML",
+    "desc": "Prometheus community Helm charts",
+    "cn": false
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-cv",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv",
+    "lang": "JupyterNotebook",
+    "desc": "Machine Learning University: Accelerated Computer Vision Class",
+    "cn": false
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#",
+    "desc": "PowerShell for every system!",
+    "cn": false
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-tab",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab",
+    "lang": "JupyterNotebook",
+    "desc": "Machine Learning University: Accelerated Tabular Data Class",
+    "cn": false
+  },
+  {
+    "title": "microsoft/DeepSpeed",
+    "url": "https://github.com/microsoft/DeepSpeed",
+    "lang": "Python",
+    "desc": "DeepSpeed is a deep learning optimization library that makes distributed training easy, efficient, and effective.",
+    "cn": false
+  },
+  {
+    "title": "tensorflow/tensorboard",
+    "url": "https://github.com/tensorflow/tensorboard",
+    "lang": "TypeScript",
+    "desc": "TensorFlow's Visualization Toolkit",
+    "cn": false
+  },
+  {
+    "title": "theanarkh/understand-nodejs",
+    "url": "https://github.com/theanarkh/understand-nodejs",
+    "desc": "通过源码分析nodejs原理",
+    "cn": true
+  },
+  {
+    "title": "oracle/graal",
+    "url": "https://github.com/oracle/graal",
+    "lang": "Java",
+    "desc": "GraalVM: Run Programs Faster Anywhere 🚀",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "lang": "Vue",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "cn": true
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "cn": false
+  },
+  {
+    "title": "vaastav/Fantasy-Premier-League",
+    "url": "https://github.com/vaastav/Fantasy-Premier-League",
+    "lang": "Python",
+    "desc": "Creates a .csv file of all players in the English Player League with their respective team and total fantasy points",
+    "cn": false
+  }
+]
