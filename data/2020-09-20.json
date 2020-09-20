@@ -1,0 +1,177 @@
+[
+  {
+    "title": "cli/cli",
+    "url": "https://github.com/cli/cli",
+    "lang": "Go",
+    "desc": "GitHub’s official command line tool",
+    "cn": false
+  },
+  {
+    "title": "gnebbia/kb",
+    "url": "https://github.com/gnebbia/kb",
+    "lang": "Python",
+    "desc": "A minimalist knowledge base manager",
+    "cn": false
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "cn": false
+  },
+  {
+    "title": "onevcat/Kingfisher",
+    "url": "https://github.com/onevcat/Kingfisher",
+    "lang": "Swift",
+    "desc": "A lightweight, pure-Swift library for downloading and caching images from the web.",
+    "cn": false
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go",
+    "desc": "Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+    "cn": false
+  },
+  {
+    "title": "matterport/Mask_RCNN",
+    "url": "https://github.com/matterport/Mask_RCNN",
+    "lang": "Python",
+    "desc": "Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "FreeCAD/FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "lang": "C++",
+    "desc": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
+    "cn": false
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "lang": "JavaScript",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "cn": false
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "lang": "TypeScript",
+    "desc": "Repo for Vue 3.0",
+    "cn": false
+  },
+  {
+    "title": "microsoft/onefuzz",
+    "url": "https://github.com/microsoft/onefuzz",
+    "lang": "Rust",
+    "desc": "A self-hosted Fuzzing-As-A-Service platform",
+    "cn": false
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "lang": "Python",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "cn": false
+  },
+  {
+    "title": "lyhue1991/eat_tensorflow2_in_30_days",
+    "url": "https://github.com/lyhue1991/eat_tensorflow2_in_30_days",
+    "lang": "Python",
+    "desc": "Tensorflow2.0 🍎🍊 is delicious, just eat it! 😋😋",
+    "cn": false
+  },
+  {
+    "title": "snakers4/silero-models",
+    "url": "https://github.com/snakers4/silero-models",
+    "lang": "JupyterNotebook",
+    "desc": "Silero Models: pre-trained STT models and benchmarks made embarrassingly simple",
+    "cn": false
+  },
+  {
+    "title": "hediet/vscode-debug-visualizer",
+    "url": "https://github.com/hediet/vscode-debug-visualizer",
+    "lang": "TypeScript",
+    "desc": "An extension for VS Code that visualizes data during debugging.",
+    "cn": false
+  },
+  {
+    "title": "tannerlinsley/react-query",
+    "url": "https://github.com/tannerlinsley/react-query",
+    "lang": "TypeScript",
+    "desc": "⚛️ Hooks for fetching, caching and updating asynchronous data in React",
+    "cn": false
+  },
+  {
+    "title": "proxysu/windows",
+    "url": "https://github.com/proxysu/windows",
+    "lang": "C#",
+    "desc": "V2ray , Trojan, Trojan-go, NaiveProxy, shadowsocksR install tools for windows V2ray，Trojan，Trojan-go, NaiveProxy, shadowsocksR的一键安装工具windows下用（一键科学上网）",
+    "cn": true
+  },
+  {
+    "title": "mozilla/send",
+    "url": "https://github.com/mozilla/send",
+    "lang": "JavaScript",
+    "desc": "Simple, private file sharing from the makers of Firefox",
+    "cn": false
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "material-shell/material-shell",
+    "url": "https://github.com/material-shell/material-shell",
+    "lang": "JavaScript",
+    "desc": "A modern desktop interface for Linux. Improve your user experience and get rid of the anarchy of traditional desktop workflows. Designed to simplify navigation and reduce the need to manipulate windows in order to improve productivity. It's meant to be 100% predictable and bring the benefits of tools coveted by professionals to everyone.",
+    "cn": false
+  },
+  {
+    "title": "iamkun/dayjs",
+    "url": "https://github.com/iamkun/dayjs",
+    "lang": "JavaScript",
+    "desc": "⏰ Day.js 2KB immutable date library alternative to Moment.js with the same modern API",
+    "cn": false
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "cn": false
+  },
+  {
+    "title": "TheCherno/Hazel",
+    "url": "https://github.com/TheCherno/Hazel",
+    "lang": "C++",
+    "desc": "Hazel Engine",
+    "cn": false
+  },
+  {
+    "title": "HeroTransitions/Hero",
+    "url": "https://github.com/HeroTransitions/Hero",
+    "lang": "Swift",
+    "desc": "Elegant transition library for iOS & tvOS",
+    "cn": false
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "lang": "C++",
+    "desc": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+    "cn": false
+  }
+]
