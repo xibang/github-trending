@@ -1,0 +1,173 @@
+[
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "lang": "JavaScript",
+    "desc": "Material for my React Fundamentals Workshop",
+    "cn": false
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python",
+    "desc": "🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/advanced-react-hooks",
+    "url": "https://github.com/kentcdodds/advanced-react-hooks",
+    "lang": "JavaScript",
+    "desc": "Learn Advanced React Hooks workshop",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-performance",
+    "url": "https://github.com/kentcdodds/react-performance",
+    "lang": "JavaScript",
+    "desc": "Let's make our apps fast ⚡",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/proshop_mern",
+    "url": "https://github.com/bradtraversy/proshop_mern",
+    "lang": "JavaScript",
+    "desc": "Shopping cart built with MERN & Redux",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/advanced-react-patterns",
+    "url": "https://github.com/kentcdodds/advanced-react-patterns",
+    "lang": "JavaScript",
+    "desc": "This is the latest advanced react patterns workshop",
+    "cn": false
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "lang": "Ruby",
+    "desc": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "cn": false
+  },
+  {
+    "title": "casperstorm/ajour",
+    "url": "https://github.com/casperstorm/ajour",
+    "lang": "Rust",
+    "desc": "A World of Warcraft addon manager written in Rust.",
+    "cn": false
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects",
+    "cn": false
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects.",
+    "cn": false
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "lang": "C",
+    "desc": "A small C compiler",
+    "cn": false
+  },
+  {
+    "title": "airbnb/visx",
+    "url": "https://github.com/airbnb/visx",
+    "lang": "TypeScript",
+    "desc": "🐯 visx | visualization components",
+    "cn": false
+  },
+  {
+    "title": "sukritishah15/DS-Algo-Point",
+    "url": "https://github.com/sukritishah15/DS-Algo-Point",
+    "lang": "Java",
+    "desc": "This repository contains codes for various data structures and algorithms in C, C++, Java, Python.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Javascript",
+    "url": "https://github.com/TheAlgorithms/Javascript",
+    "lang": "JavaScript",
+    "desc": "A repository for All algorithms implemented in Javascript (for educational purposes only)",
+    "cn": false
+  },
+  {
+    "title": "akshitagit/CPP",
+    "url": "https://github.com/akshitagit/CPP",
+    "lang": "C++",
+    "desc": "Repository for C++/C codes and algos.Star the repo too.",
+    "cn": false
+  },
+  {
+    "title": "bztsrc/raspi3-tutorial",
+    "url": "https://github.com/bztsrc/raspi3-tutorial",
+    "lang": "C",
+    "desc": "Bare metal Raspberry Pi 3 tutorials",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  },
+  {
+    "title": "puma/puma",
+    "url": "https://github.com/puma/puma",
+    "lang": "Ruby",
+    "desc": "A Ruby/Rack web server built for concurrency",
+    "cn": false
+  },
+  {
+    "title": "OndrejTexler/Few-Shot-Patch-Based-Training",
+    "url": "https://github.com/OndrejTexler/Few-Shot-Patch-Based-Training",
+    "lang": "Python",
+    "desc": "The official implementation of our SIGGRAPH 2020 paper Interactive Video Stylization Using Few-Shot Patch-Based Training",
+    "cn": false
+  },
+  {
+    "title": "fission/fission",
+    "url": "https://github.com/fission/fission",
+    "lang": "Go",
+    "desc": "Fast and Simple Serverless Functions for Kubernetes",
+    "cn": false
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-hooks",
+    "url": "https://github.com/kentcdodds/react-hooks",
+    "lang": "JavaScript",
+    "desc": "Learn React Hooks! 🎣 ⚛",
+    "cn": false
+  }
+]
