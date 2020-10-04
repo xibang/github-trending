@@ -1,0 +1,176 @@
+[
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "zero-to-mastery/Keiko-Corp",
+    "url": "https://github.com/zero-to-mastery/Keiko-Corp",
+    "lang": "HTML",
+    "desc": "HTML challenge for Hacktoberfest 2020",
+    "cn": false
+  },
+  {
+    "title": "digitalocean/hacktoberfest",
+    "url": "https://github.com/digitalocean/hacktoberfest",
+    "lang": "Ruby",
+    "desc": "Hacktoberfest - App to manage the annual open source challenge.",
+    "cn": false
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python",
+    "desc": "🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-hooks",
+    "url": "https://github.com/kentcdodds/react-hooks",
+    "lang": "JavaScript",
+    "desc": "Learn React Hooks! 🎣 ⚛",
+    "cn": false
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "ShaderLab",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "rvizzz/rotate",
+    "url": "https://github.com/rvizzz/rotate",
+    "lang": "Python",
+    "desc": "Create recursive image rotation animations",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "lang": "JavaScript",
+    "desc": "Material for my React Fundamentals Workshop",
+    "cn": false
+  },
+  {
+    "title": "crweiner/hacktoberfest-swag-list",
+    "url": "https://github.com/crweiner/hacktoberfest-swag-list",
+    "lang": "Ruby",
+    "desc": "Multiple companies give out swag for Hacktoberfest, and this repo tries to list them all.",
+    "cn": false
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "cn": false
+  },
+  {
+    "title": "NVlabs/imaginaire",
+    "url": "https://github.com/NVlabs/imaginaire",
+    "lang": "Python",
+    "desc": "NVIDIA PyTorch GAN library with distributed and mixed precision support",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "sukritishah15/DS-Algo-Point",
+    "url": "https://github.com/sukritishah15/DS-Algo-Point",
+    "lang": "Java",
+    "desc": "This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala",
+    "cn": false
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "lang": "JavaScript",
+    "desc": "An Open Source YouTube app for privacy",
+    "cn": false
+  },
+  {
+    "title": "OpenSouceCode/Hacktoberfest2020",
+    "url": "https://github.com/OpenSouceCode/Hacktoberfest2020",
+    "lang": "HTML",
+    "desc": "Make your first Pull Request and earn a free tee from GitHub!",
+    "cn": false
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "lang": "C",
+    "desc": "A small C compiler",
+    "cn": false
+  },
+  {
+    "title": "EssayKillerBrain/EssayKiller_V2",
+    "url": "https://github.com/EssayKillerBrain/EssayKiller_V2",
+    "lang": "Python",
+    "desc": "基于开源GPT2.0的初代创作型人工智能 | 可扩展、可进化",
+    "cn": true
+  },
+  {
+    "title": "cortexproject/cortex",
+    "url": "https://github.com/cortexproject/cortex",
+    "lang": "Go",
+    "desc": "A horizontally scalable, highly available, multi-tenant, long term Prometheus.",
+    "cn": false
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++",
+    "desc": "The Serenity Operating System 🐞",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "lang": "Go",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "cn": false
+  }
+]
