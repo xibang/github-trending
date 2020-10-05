@@ -1,0 +1,174 @@
+[
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…",
+    "cn": false
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "rui314/chibicc",
+    "url": "https://github.com/rui314/chibicc",
+    "lang": "C",
+    "desc": "A small C compiler",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-hooks",
+    "url": "https://github.com/kentcdodds/react-hooks",
+    "lang": "JavaScript",
+    "desc": "Learn React Hooks! 🎣 ⚛",
+    "cn": false
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++",
+    "desc": "The Serenity Operating System 🐞",
+    "cn": false
+  },
+  {
+    "title": "digitalocean/hacktoberfest",
+    "url": "https://github.com/digitalocean/hacktoberfest",
+    "lang": "Ruby",
+    "desc": "Hacktoberfest - App to manage the annual open source challenge.",
+    "cn": false
+  },
+  {
+    "title": "OpenSouceCode/Hacktoberfest2020",
+    "url": "https://github.com/OpenSouceCode/Hacktoberfest2020",
+    "lang": "HTML",
+    "desc": "Make your first Pull Request and earn a free tee from GitHub!",
+    "cn": false
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "lang": "JavaScript",
+    "desc": "An Open Source YouTube app for privacy",
+    "cn": false
+  },
+  {
+    "title": "Gictorbit/photoshopCClinux",
+    "url": "https://github.com/Gictorbit/photoshopCClinux",
+    "lang": "Shell",
+    "desc": "an installer for Photoshop CC v19 on Gnu/Linux",
+    "cn": false
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "cn": false
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "lang": "Go",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "cn": false
+  },
+  {
+    "title": "huggingface/datasets",
+    "url": "https://github.com/huggingface/datasets",
+    "lang": "Python",
+    "desc": "🤗 Fast, efficient, open-access datasets and evaluation metrics for Natural Language Processing and more in PyTorch, TensorFlow, NumPy and Pandas",
+    "cn": false
+  },
+  {
+    "title": "zero-to-mastery/Keiko-Corp",
+    "url": "https://github.com/zero-to-mastery/Keiko-Corp",
+    "lang": "HTML",
+    "desc": "HTML challenge for Hacktoberfest 2020",
+    "cn": false
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java",
+    "desc": "A sandbox tower defense game",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "processing/p5.js",
+    "url": "https://github.com/processing/p5.js",
+    "lang": "JavaScript",
+    "desc": "p5.js is a client-side JS platform that empowers artists, designers, students, and anyone to learn to code and express themselves creatively on the web. It is based on the core principles of Processing. http://twitter.com/p5xjs —",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "cn": false
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "sukritishah15/DS-Algo-Point",
+    "url": "https://github.com/sukritishah15/DS-Algo-Point",
+    "lang": "Java",
+    "desc": "This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala",
+    "cn": false
+  },
+  {
+    "title": "nidhaloff/igel",
+    "url": "https://github.com/nidhaloff/igel",
+    "lang": "Python",
+    "desc": "a machine learning tool that allows to train, test and use models without writing code",
+    "cn": false
+  }
+]
