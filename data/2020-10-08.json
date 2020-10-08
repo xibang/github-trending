@@ -1,0 +1,171 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "cn": false
+  },
+  {
+    "title": "daviddao/awful-ai",
+    "url": "https://github.com/daviddao/awful-ai",
+    "desc": "😈Awful AI is a curated list to track current scary usages of AI - hoping to raise awareness",
+    "cn": false
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "lang": "TypeScript",
+    "desc": "Cut and paste your surroundings using AR",
+    "cn": false
+  },
+  {
+    "title": "tailwindlabs/headlessui",
+    "url": "https://github.com/tailwindlabs/headlessui",
+    "lang": "TypeScript",
+    "desc": "Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "lang": "JavaScript",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "cn": false
+  },
+  {
+    "title": "plausible/analytics",
+    "url": "https://github.com/plausible/analytics",
+    "lang": "Elixir",
+    "desc": "Simple and privacy-friendly alternative to Google Analytics",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "nvbn/thefuck",
+    "url": "https://github.com/nvbn/thefuck",
+    "lang": "Python",
+    "desc": "Magnificent app which corrects your previous console command.",
+    "cn": false
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "lang": "Go",
+    "desc": "screen sharing for developers https://screego.net/",
+    "cn": false
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "lang": "JavaScript",
+    "desc": "An Open Source YouTube app for privacy",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "olexale/flutter_roadmap",
+    "url": "https://github.com/olexale/flutter_roadmap",
+    "desc": "Highly Subjective Roadmap to Flutter Development",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "cn": false
+  },
+  {
+    "title": "typescript-cheatsheets/react",
+    "url": "https://github.com/typescript-cheatsheets/react",
+    "lang": "JavaScript",
+    "desc": "Cheatsheets for experienced React developers getting started with TypeScript",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "AlfredoSequeida/fvid",
+    "url": "https://github.com/AlfredoSequeida/fvid",
+    "lang": "Python",
+    "desc": "fvid is a project that aims to encode any file as a video using 1-bit color images to survive compression algorithms for data retrieval.",
+    "cn": false
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "lang": "Python",
+    "desc": "Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.",
+    "cn": false
+  },
+  {
+    "title": "leticiadasilva/Hacktoberfest",
+    "url": "https://github.com/leticiadasilva/Hacktoberfest"
+  },
+  {
+    "title": "awslabs/diagram-maker",
+    "url": "https://github.com/awslabs/diagram-maker",
+    "lang": "TypeScript",
+    "desc": "A library to display an interactive editor for any graph-like data.",
+    "cn": false
+  },
+  {
+    "title": "eladrich/pixel2style2pixel",
+    "url": "https://github.com/eladrich/pixel2style2pixel",
+    "lang": "JupyterNotebook",
+    "desc": "Official Implementation for \"Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation\"",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  }
+]
