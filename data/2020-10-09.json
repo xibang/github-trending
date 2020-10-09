@@ -1,0 +1,174 @@
+[
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript",
+    "desc": "This is the open-source repo for docs.github.com.",
+    "cn": false
+  },
+  {
+    "title": "xwmx/nb",
+    "url": "https://github.com/xwmx/nb",
+    "lang": "Shell",
+    "desc": "CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.",
+    "cn": false
+  },
+  {
+    "title": "cyrildiagne/ar-cutpaste",
+    "url": "https://github.com/cyrildiagne/ar-cutpaste",
+    "lang": "TypeScript",
+    "desc": "Cut and paste your surroundings using AR",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "astrofox-io/astrofox",
+    "url": "https://github.com/astrofox-io/astrofox",
+    "lang": "JavaScript",
+    "desc": "Astrofox is a motion graphics program that lets you create music visualizations and turn them into videos.",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "cn": false
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "lang": "Go",
+    "desc": "screen sharing for developers https://screego.net/",
+    "cn": false
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "cn": false
+  },
+  {
+    "title": "olexale/flutter_roadmap",
+    "url": "https://github.com/olexale/flutter_roadmap",
+    "desc": "Highly Subjective Roadmap to Flutter Development",
+    "cn": false
+  },
+  {
+    "title": "tailwindlabs/play.tailwindcss.com",
+    "url": "https://github.com/tailwindlabs/play.tailwindcss.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "lang": "JavaScript",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "cn": false
+  },
+  {
+    "title": "capnmidnight/Calla",
+    "url": "https://github.com/capnmidnight/Calla",
+    "lang": "JavaScript",
+    "desc": "Virtual Meetups through Jitsi",
+    "cn": false
+  },
+  {
+    "title": "hamuchiwa/AutoRCCar",
+    "url": "https://github.com/hamuchiwa/AutoRCCar",
+    "lang": "Python",
+    "desc": "OpenCV Python Neural Network Autonomous RC Car",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "PyCQA/isort",
+    "url": "https://github.com/PyCQA/isort",
+    "lang": "Python",
+    "desc": "A Python utility / library to sort imports.",
+    "cn": false
+  },
+  {
+    "title": "eladrich/pixel2style2pixel",
+    "url": "https://github.com/eladrich/pixel2style2pixel",
+    "lang": "JupyterNotebook",
+    "desc": "Official Implementation for \"Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation\"",
+    "cn": false
+  },
+  {
+    "title": "MaartenGr/BERTopic",
+    "url": "https://github.com/MaartenGr/BERTopic",
+    "lang": "Python",
+    "desc": "Leveraging BERT and a class-based TF-IDF to create easily interpretable topics.",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "terraform-providers/terraform-provider-azurerm",
+    "url": "https://github.com/terraform-providers/terraform-provider-azurerm",
+    "lang": "Go",
+    "desc": "Terraform provider for Azure Resource Manager",
+    "cn": false
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  }
+]
