@@ -1,0 +1,176 @@
+[
+  {
+    "title": "ErickWendel/semana-javascript-expert01",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert01",
+    "lang": "JavaScript",
+    "desc": "Exemplos de código da primeira semana Javascript Expert",
+    "cn": false
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python",
+    "desc": "Animation engine for explanatory math videos",
+    "cn": false
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript",
+    "desc": "The React Framework",
+    "cn": false
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++",
+    "desc": "JSON for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  },
+  {
+    "title": "vercel/commerce",
+    "url": "https://github.com/vercel/commerce",
+    "lang": "TypeScript",
+    "desc": "Next.js Commerce",
+    "cn": false
+  },
+  {
+    "title": "keep3r-network/keep3r.network",
+    "url": "https://github.com/keep3r-network/keep3r.network",
+    "lang": "Solidity",
+    "desc": "An incentivized keeper network for anonymous keeper and job registration",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "cn": true
+  },
+  {
+    "title": "stackrox/kube-linter",
+    "url": "https://github.com/stackrox/kube-linter",
+    "lang": "Go",
+    "desc": "KubeLinter is a static analysis tool that checks Kubernetes YAML files and Helm charts to ensure the applications represented in them adhere to best practices.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "MrS0m30n3/youtube-dl-gui",
+    "url": "https://github.com/MrS0m30n3/youtube-dl-gui",
+    "lang": "Python",
+    "desc": "A cross platform front-end GUI of the popular youtube-dl written in wxPython.",
+    "cn": false
+  },
+  {
+    "title": "srcrs/BilibiliTask",
+    "url": "https://github.com/srcrs/BilibiliTask",
+    "lang": "Java",
+    "desc": "哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。",
+    "cn": true
+  },
+  {
+    "title": "paritytech/polkadot",
+    "url": "https://github.com/paritytech/polkadot",
+    "lang": "Rust",
+    "desc": "Polkadot Node Implementation",
+    "cn": false
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "lang": "Python",
+    "desc": "media downloader for various sites.",
+    "cn": false
+  },
+  {
+    "title": "yihong0618/running_page",
+    "url": "https://github.com/yihong0618/running_page",
+    "lang": "JavaScript",
+    "desc": "Make your own running page",
+    "cn": false
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin",
+    "desc": "Official Jetpack Compose samples.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "lang": "JavaScript",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "cn": false
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "lang": "Python",
+    "desc": "Zipline, a Pythonic Algorithmic Trading Library",
+    "cn": false
+  },
+  {
+    "title": "kangvcar/InfoSpider",
+    "url": "https://github.com/kangvcar/InfoSpider",
+    "lang": "Python",
+    "desc": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "cn": true
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript",
+    "desc": "The OpenAPI Specification Repository",
+    "cn": false
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python",
+    "desc": "the only cheat sheet you need",
+    "cn": false
+  },
+  {
+    "title": "lrvick/youtube-dl",
+    "url": "https://github.com/lrvick/youtube-dl",
+    "lang": "Python",
+    "desc": "RIAA: Please go die in a fire.",
+    "cn": false
+  }
+]
