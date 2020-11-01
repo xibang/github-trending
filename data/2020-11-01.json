@@ -1,0 +1,174 @@
+[
+  {
+    "title": "LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "url": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "lang": "JavaScript",
+    "desc": "attestation-deplacement-derogatoire-q4-2020 public",
+    "cn": false
+  },
+  {
+    "title": "benawad/vscode-stories",
+    "url": "https://github.com/benawad/vscode-stories",
+    "lang": "TypeScript",
+    "desc": "Stories for VSCode",
+    "cn": false
+  },
+  {
+    "title": "ErickWendel/semana-javascript-expert01",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert01",
+    "lang": "JavaScript",
+    "desc": "Exemplos de código da primeira semana Javascript Expert",
+    "cn": false
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "lang": "Python",
+    "desc": "Zipline, a Pythonic Algorithmic Trading Library",
+    "cn": false
+  },
+  {
+    "title": "Cuuhomientrung/cuuhomientrung",
+    "url": "https://github.com/Cuuhomientrung/cuuhomientrung",
+    "lang": "Python",
+    "desc": "Site hỗ trợ thông tin cứu hộ người dân miền Trung",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "ovh/the-bastion",
+    "url": "https://github.com/ovh/the-bastion",
+    "lang": "Perl",
+    "desc": "Authentication, authorization, traceability and auditability for SSH accesses.",
+    "cn": false
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python",
+    "desc": "the only cheat sheet you need",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "lang": "JupyterNotebook",
+    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "keep3r-network/keep3r.network",
+    "url": "https://github.com/keep3r-network/keep3r.network",
+    "lang": "Solidity",
+    "desc": "An incentivized keeper network for anonymous keeper and job registration",
+    "cn": false
+  },
+  {
+    "title": "quantopian/research_public",
+    "url": "https://github.com/quantopian/research_public",
+    "lang": "JupyterNotebook",
+    "desc": "Quantitative research and educational materials",
+    "cn": false
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "cn": false
+  },
+  {
+    "title": "datawhalechina/key-book",
+    "url": "https://github.com/datawhalechina/key-book",
+    "desc": "《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/",
+    "cn": true
+  },
+  {
+    "title": "hardikkamboj/An-Introduction-to-Statistical-Learning",
+    "url": "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.",
+    "cn": false
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "lang": "JavaScript",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "cn": false
+  },
+  {
+    "title": "blackjack4494/yt-dlc",
+    "url": "https://github.com/blackjack4494/yt-dlc",
+    "lang": "Python",
+    "desc": "media downloader for various sites.",
+    "cn": false
+  },
+  {
+    "title": "dkhamsing/open-source-ios-apps",
+    "url": "https://github.com/dkhamsing/open-source-ios-apps",
+    "lang": "Swift",
+    "desc": "📱 Collaborative List of Open-Source iOS Apps",
+    "cn": false
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript",
+    "desc": "The React Framework",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  }
+]
