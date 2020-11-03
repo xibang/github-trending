@@ -1,0 +1,172 @@
+[
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++",
+    "desc": "C++ Programming Paradigm with Asynchronous Networking",
+    "cn": false
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "lang": "JupyterNotebook",
+    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "cn": false
+  },
+  {
+    "title": "samyk/slipstream",
+    "url": "https://github.com/samyk/slipstream",
+    "lang": "Perl",
+    "desc": "NAT Slipstreaming allows an attacker to remotely access any TCP/UDP services bound to a victim machine, bypassing the victim’s NAT/firewall, just by the victim visiting a website",
+    "cn": false
+  },
+  {
+    "title": "harisqazi1/Cybersecurity",
+    "url": "https://github.com/harisqazi1/Cybersecurity",
+    "desc": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C",
+    "desc": "OpenCore bootloader",
+    "cn": false
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
+    "cn": false
+  },
+  {
+    "title": "LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "url": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "lang": "JavaScript",
+    "desc": "attestation-deplacement-derogatoire-q4-2020 public",
+    "cn": false
+  },
+  {
+    "title": "awslabs/djl",
+    "url": "https://github.com/awslabs/djl",
+    "lang": "Java",
+    "desc": "An Engine-Agnostic Deep Learning Framework in Java",
+    "cn": false
+  },
+  {
+    "title": "funkygao/cp-ddd-framework",
+    "url": "https://github.com/funkygao/cp-ddd-framework",
+    "lang": "Java",
+    "desc": "A lightweight flexible development framework for complex business architecture！轻量级业务中台开发框架，中台架构的顶层设计和完整解决方案！",
+    "cn": true
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "AdrienPoupa/AttestationDeplacement",
+    "url": "https://github.com/AdrienPoupa/AttestationDeplacement",
+    "lang": "Java",
+    "desc": "Générez votre attestation de déplacement sur votre mobile à partir du document officiel.",
+    "cn": false
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "cn": false
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱",
+    "cn": true
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python",
+    "desc": "the only cheat sheet you need",
+    "cn": false
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione",
+    "cn": false
+  },
+  {
+    "title": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "lang": "Go",
+    "desc": "The world’s fastest framework for building websites.",
+    "cn": false
+  },
+  {
+    "title": "rphl/corona-widget",
+    "url": "https://github.com/rphl/corona-widget",
+    "lang": "JavaScript",
+    "desc": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
+    "cn": false
+  },
+  {
+    "title": "horovod/horovod",
+    "url": "https://github.com/horovod/horovod",
+    "lang": "Python",
+    "desc": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "cn": false
+  },
+  {
+    "title": "saeidshirazi/awesome-android-security",
+    "url": "https://github.com/saeidshirazi/awesome-android-security",
+    "desc": "A curated list of Android Security materials and resources For Pentesters and Bug Hunters",
+    "cn": false
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "lang": "Python",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  }
+]
