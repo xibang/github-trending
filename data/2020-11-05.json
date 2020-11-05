@@ -1,0 +1,173 @@
+[
+  {
+    "title": "l1ving/youtube-dl",
+    "url": "https://github.com/l1ving/youtube-dl",
+    "lang": "Python",
+    "desc": "A fork of youtube-dl, for archival purposes.",
+    "cn": false
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "lang": "Python",
+    "desc": "Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+    "cn": false
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "koutto/pi-pwnbox-rogueap",
+    "url": "https://github.com/koutto/pi-pwnbox-rogueap",
+    "lang": "Shell",
+    "desc": "Homemade Pwnbox 🚀 / Rogue AP 📡 based on Raspberry Pi — WiFi Hacking Cheatsheets + MindMap 💡",
+    "cn": false
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "desc": "100 Days of Code in Python",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "jofpin/trape",
+    "url": "https://github.com/jofpin/trape",
+    "lang": "Python",
+    "desc": "People tracker on the Internet: OSINT analysis and research tool by Jose Pino",
+    "cn": false
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "lang": "Go",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "cn": false
+  },
+  {
+    "title": "cmu-db/noisepage",
+    "url": "https://github.com/cmu-db/noisepage",
+    "lang": "C++",
+    "desc": "Self-Driving Database Management System from Carnegie Mellon University",
+    "cn": false
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "cn": false
+  },
+  {
+    "title": "prestodb/presto",
+    "url": "https://github.com/prestodb/presto",
+    "lang": "Java",
+    "desc": "The official home of the Presto distributed SQL query engine for big data",
+    "cn": false
+  },
+  {
+    "title": "fireeye/ThreatPursuit-VM",
+    "url": "https://github.com/fireeye/ThreatPursuit-VM",
+    "lang": "PowerShell",
+    "desc": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
+    "cn": false
+  },
+  {
+    "title": "harisqazi1/Cybersecurity",
+    "url": "https://github.com/harisqazi1/Cybersecurity",
+    "desc": "This is meant to assist people looking for entry level Cybersecurity jobs, as well as study up on skills that they can put on their resume.",
+    "cn": false
+  },
+  {
+    "title": "xingshaocheng/architect-awesome",
+    "url": "https://github.com/xingshaocheng/architect-awesome",
+    "desc": "后端架构师技术图谱",
+    "cn": true
+  },
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "lang": "C++",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java",
+    "desc": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
+    "cn": true
+  },
+  {
+    "title": "sandboxie-plus/Sandboxie",
+    "url": "https://github.com/sandboxie-plus/Sandboxie",
+    "lang": "C",
+    "desc": "Sandboxie - Open Source",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "apache/incubator-superset",
+    "url": "https://github.com/apache/incubator-superset",
+    "lang": "Python",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "cn": false
+  },
+  {
+    "title": "Maatwebsite/Laravel-Excel",
+    "url": "https://github.com/Maatwebsite/Laravel-Excel",
+    "lang": "PHP",
+    "desc": "🚀 Supercharged Excel exports and imports in Laravel",
+    "cn": false
+  }
+]
