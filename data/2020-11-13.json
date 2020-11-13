@@ -1,0 +1,176 @@
+[
+  {
+    "title": "Freakboy/CobaltStrike",
+    "url": "https://github.com/Freakboy/CobaltStrike",
+    "lang": "Java",
+    "desc": "CobaltStrike's source code",
+    "cn": false
+  },
+  {
+    "title": "c9fe/22120",
+    "url": "https://github.com/c9fe/22120",
+    "lang": "JavaScript",
+    "desc": "🏛️ 22120 - Self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.",
+    "cn": false
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "lang": "Python",
+    "desc": "Py2/py3 script that can download macOS components direct from Apple",
+    "cn": false
+  },
+  {
+    "title": "natewong1313/bird-bot",
+    "url": "https://github.com/natewong1313/bird-bot",
+    "lang": "Python",
+    "desc": "A Nintendo Switch checkout bot. Currently supports Walmart and Best buy",
+    "cn": false
+  },
+  {
+    "title": "konstantinmuenster/notion-clone",
+    "url": "https://github.com/konstantinmuenster/notion-clone",
+    "lang": "JavaScript",
+    "desc": "Edit Notes like in Notion.so. Full-Stack App using React/Express.",
+    "cn": false
+  },
+  {
+    "title": "ThatGuySam/doesitarm",
+    "url": "https://github.com/ThatGuySam/doesitarm",
+    "lang": "Vue",
+    "desc": "A list of reported app support for Apple Silicon",
+    "cn": false
+  },
+  {
+    "title": "Litteeen/AmongLock",
+    "url": "https://github.com/Litteeen/AmongLock",
+    "lang": "Objective-C",
+    "desc": "You were not the owner of this device",
+    "cn": false
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "lang": "Rust",
+    "desc": "Educational blog posts for Rust beginners",
+    "cn": false
+  },
+  {
+    "title": "zhm-real/PathPlanning",
+    "url": "https://github.com/zhm-real/PathPlanning",
+    "lang": "Python",
+    "desc": "Common used path planning algorithms with animations.",
+    "cn": false
+  },
+  {
+    "title": "munki/macadmin-scripts",
+    "url": "https://github.com/munki/macadmin-scripts",
+    "lang": "Python",
+    "desc": "Scripts of possible interest to macOS admins",
+    "cn": false
+  },
+  {
+    "title": "element-plus/element-plus",
+    "url": "https://github.com/element-plus/element-plus",
+    "lang": "Vue",
+    "desc": "🎉 A Vue.js 3.0 UI Library",
+    "cn": false
+  },
+  {
+    "title": "VKCOM/kphp",
+    "url": "https://github.com/VKCOM/kphp",
+    "lang": "C++",
+    "desc": "KPHP — a PHP compiler",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "google-research-datasets/Objectron",
+    "url": "https://github.com/google-research-datasets/Objectron",
+    "lang": "JupyterNotebook",
+    "desc": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "cn": false
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "lang": "Shell",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "cn": false
+  },
+  {
+    "title": "redisson/redisson",
+    "url": "https://github.com/redisson/redisson",
+    "lang": "Java",
+    "desc": "Redisson - Redis Java client with features of In-Memory Data Grid. Over 50 Redis based Java objects and services: Set, Multimap, SortedSet, Map, List, Queue, Deque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Tomcat, Scheduler, JCache API, Hibernate, MyBatis, RPC, local cache ...",
+    "cn": false
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliTool",
+    "url": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "lang": "C#",
+    "desc": ".Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。",
+    "cn": true
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "lang": "C++",
+    "desc": "Open EDR public repository",
+    "cn": false
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "lang": "C#",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "cn": false
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript",
+    "desc": "Headless Chrome Node.js API",
+    "cn": false
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "cn": false
+  },
+  {
+    "title": "dotnet/interactive",
+    "url": "https://github.com/dotnet/interactive",
+    "lang": "C#",
+    "desc": ".NET Interactive takes the power of .NET and embeds it into your interactive experiences. Share code, explore data, write, and learn across your apps in ways you couldn't before.",
+    "cn": false
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript",
+    "desc": "One framework. Mobile & desktop.",
+    "cn": false
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "lang": "TypeScript",
+    "desc": "Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  }
+]
