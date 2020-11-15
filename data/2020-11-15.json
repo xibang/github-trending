@@ -1,0 +1,174 @@
+[
+  {
+    "title": "orf/gping",
+    "url": "https://github.com/orf/gping",
+    "lang": "Rust",
+    "desc": "Ping, but with a graph",
+    "cn": false
+  },
+  {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "lang": "Vue",
+    "desc": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "cn": false
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "cn": false
+  },
+  {
+    "title": "solemnwarning/rehex",
+    "url": "https://github.com/solemnwarning/rehex",
+    "lang": "C++",
+    "desc": "Reverse Engineers' Hex Editor",
+    "cn": false
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "lang": "Kotlin",
+    "desc": "Vanced Installer",
+    "cn": false
+  },
+  {
+    "title": "CodinGame/FallChallenge2020",
+    "url": "https://github.com/CodinGame/FallChallenge2020",
+    "lang": "JavaScript",
+    "desc": "Source code for CodinGame's Fall Challenge 2020 event.",
+    "cn": false
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "lang": "Shell",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "cn": false
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "lang": "Go",
+    "desc": "k0s - Zero Friction Kubernetes",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "cn": false
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "lang": "Python",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "lang": "C++",
+    "desc": "Open EDR public repository",
+    "cn": false
+  },
+  {
+    "title": "google-research-datasets/Objectron",
+    "url": "https://github.com/google-research-datasets/Objectron",
+    "lang": "JupyterNotebook",
+    "desc": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "cn": false
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "Freakboy/CobaltStrike",
+    "url": "https://github.com/Freakboy/CobaltStrike",
+    "lang": "Java",
+    "desc": "CobaltStrike's source code",
+    "cn": false
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "cn": false
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "lang": "Rust",
+    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "cn": false
+  },
+  {
+    "title": "corpnewt/GenSMBIOS",
+    "url": "https://github.com/corpnewt/GenSMBIOS",
+    "lang": "Python",
+    "desc": "Py script that uses acidanthera's macserial to generate SMBIOS and optionally saves them to a plist.",
+    "cn": false
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "lang": "Go",
+    "desc": "The Go programming language",
+    "cn": false
+  }
+]
