@@ -1,0 +1,172 @@
+[
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust",
+    "desc": "The Servo Browser Engine",
+    "cn": false
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "lang": "Swift",
+    "desc": "XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "braisdom/ObjectiveSql",
+    "url": "https://github.com/braisdom/ObjectiveSql",
+    "lang": "Java",
+    "desc": "ObjectiveSQL is an ORM framework in Java base on ActiveRecord pattern, which encourages rapid development and clean, codes with the least and convention over configuration.",
+    "cn": false
+  },
+  {
+    "title": "pmndrs/valtio",
+    "url": "https://github.com/pmndrs/valtio",
+    "lang": "TypeScript",
+    "desc": "💊 Valtio makes proxy-state simple",
+    "cn": false
+  },
+  {
+    "title": "beautifulinteractions/beautiful-react-diagrams",
+    "url": "https://github.com/beautifulinteractions/beautiful-react-diagrams",
+    "lang": "JavaScript",
+    "desc": "A tiny collection of lightweight React components for building diagrams with ease 💎",
+    "cn": false
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "TsinghuaAI/CPM-Generate",
+    "url": "https://github.com/TsinghuaAI/CPM-Generate",
+    "lang": "Python",
+    "desc": "Chinese Pre-Trained Language Models (CPM-LM) Version-I",
+    "cn": false
+  },
+  {
+    "title": "y1ndan/genshin-impact-helper",
+    "url": "https://github.com/y1ndan/genshin-impact-helper",
+    "lang": "Python",
+    "desc": "Auto get Genshin Impact daily bonus by GitHub Actions. 米游社原神自动每日签到",
+    "cn": true
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "CSS",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "cn": false
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript",
+    "desc": "The Intuitive Vue Framework",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "BrasilAPI/BrasilAPI",
+    "url": "https://github.com/BrasilAPI/BrasilAPI",
+    "lang": "JavaScript",
+    "desc": "Vamos transformar o Brasil em uma API?",
+    "cn": false
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python",
+    "desc": "scikit-learn: machine learning in Python",
+    "cn": false
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "lang": "TeX",
+    "desc": "Classical equations and diagrams in machine learning",
+    "cn": false
+  },
+  {
+    "title": "WongKinYiu/ScaledYOLOv4",
+    "url": "https://github.com/WongKinYiu/ScaledYOLOv4"
+  },
+  {
+    "title": "kakoni/awesome-healthcare",
+    "url": "https://github.com/kakoni/awesome-healthcare",
+    "desc": "Curated list of awesome open source healthcare software, libraries, tools and resources.",
+    "cn": false
+  },
+  {
+    "title": "PatWalters/resources",
+    "url": "https://github.com/PatWalters/resources",
+    "desc": "A Highly Opinionated List of Open Source Cheminformatics Resources",
+    "cn": false
+  },
+  {
+    "title": "VVNoodle/PS5bot",
+    "url": "https://github.com/VVNoodle/PS5bot",
+    "lang": "TypeScript",
+    "desc": "bot to monitor PS5 stock and auto-purchase when available",
+    "cn": false
+  },
+  {
+    "title": "JetBrains/skija",
+    "url": "https://github.com/JetBrains/skija",
+    "lang": "Java",
+    "desc": "Skia bindings for Java",
+    "cn": false
+  },
+  {
+    "title": "FortAwesome/Font-Awesome",
+    "url": "https://github.com/FortAwesome/Font-Awesome",
+    "lang": "JavaScript",
+    "desc": "The iconic SVG, font, and CSS toolkit",
+    "cn": false
+  },
+  {
+    "title": "SwifterSwift/SwifterSwift",
+    "url": "https://github.com/SwifterSwift/SwifterSwift",
+    "lang": "Swift",
+    "desc": "A handy collection of more than 500 native Swift extensions to boost your productivity.",
+    "cn": false
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript",
+    "desc": "The React Framework",
+    "cn": false
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "lang": "JavaScript",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），3000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "cn": true
+  }
+]
