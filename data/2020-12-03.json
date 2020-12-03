@@ -1,0 +1,168 @@
+[
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "lang": "PHP",
+    "desc": "Personal CRM. Remember everything about your friends, family and business relationships.",
+    "cn": false
+  },
+  {
+    "title": "Go-000/Go-000",
+    "url": "https://github.com/Go-000/Go-000"
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "lang": "Python",
+    "desc": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell",
+    "desc": "GitHub Actions virtual environments",
+    "cn": false
+  },
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "lang": "TypeScript",
+    "desc": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
+    "cn": false
+  },
+  {
+    "title": "Atmosphere-NX/Atmosphere",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "lang": "C",
+    "desc": "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch.",
+    "cn": false
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties",
+    "cn": false
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "lang": "TypeScript",
+    "desc": "📝 ‎ A web-based notes app for developers. (Demo only)",
+    "cn": false
+  },
+  {
+    "title": "prysmaticlabs/prysm",
+    "url": "https://github.com/prysmaticlabs/prysm",
+    "lang": "Go",
+    "desc": "Go implementation of the Ethereum 2.0 blockchain",
+    "cn": false
+  },
+  {
+    "title": "r0ysue/r0capture",
+    "url": "https://github.com/r0ysue/r0capture",
+    "lang": "Python",
+    "desc": "安卓应用层抓包通杀脚本",
+    "cn": true
+  },
+  {
+    "title": "edent/SuperTinyIcons",
+    "url": "https://github.com/edent/SuperTinyIcons",
+    "lang": "JavaScript",
+    "desc": "Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos",
+    "cn": false
+  },
+  {
+    "title": "aws-samples/aws-proton-sample-templates",
+    "url": "https://github.com/aws-samples/aws-proton-sample-templates",
+    "desc": "Sample templates for AWS Proton, available in preview",
+    "cn": false
+  },
+  {
+    "title": "kubernetes/kubernetes",
+    "url": "https://github.com/kubernetes/kubernetes",
+    "lang": "Go",
+    "desc": "Production-Grade Container Scheduling and Management",
+    "cn": false
+  },
+  {
+    "title": "ourownstory/neural_prophet",
+    "url": "https://github.com/ourownstory/neural_prophet",
+    "lang": "JupyterNotebook",
+    "desc": "NeuralProphet - a Neural Network based Time-Series model",
+    "cn": false
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell",
+    "desc": "A black hole for Internet advertisements",
+    "cn": false
+  },
+  {
+    "title": "cube0x0/SharpMapExec",
+    "url": "https://github.com/cube0x0/SharpMapExec",
+    "lang": "C#"
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java",
+    "desc": "A sandbox tower defense game",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "cn": false
+  },
+  {
+    "title": "go-gitea/gitea",
+    "url": "https://github.com/go-gitea/gitea",
+    "lang": "Go",
+    "desc": "Git with a cup of tea, painless self-hosted git service",
+    "cn": false
+  },
+  {
+    "title": "RayTracing/raytracing.github.io",
+    "url": "https://github.com/RayTracing/raytracing.github.io",
+    "lang": "HTML",
+    "desc": "Main Web Site (Online Books)",
+    "cn": false
+  }
+]
