@@ -1,0 +1,175 @@
+[
+  {
+    "title": "camtheperson/get-my-ps5",
+    "url": "https://github.com/camtheperson/get-my-ps5",
+    "lang": "JavaScript",
+    "desc": "A CLI utility to help people secure a PlayStation 5 (PS5).",
+    "cn": false
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "lang": "Python",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "cn": false
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "lang": "Python",
+    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "cn": false
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "cn": false
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript",
+    "desc": "Lens - The Kubernetes IDE",
+    "cn": false
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "lang": "JavaScript",
+    "desc": "Interactive, thoroughly customizable maps in the browser, powered by vector tiles and WebGL",
+    "cn": false
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift",
+    "desc": "Elegant HTTP Networking in Swift",
+    "cn": false
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "cn": false
+  },
+  {
+    "title": "angular/angular.js",
+    "url": "https://github.com/angular/angular.js",
+    "lang": "JavaScript",
+    "desc": "AngularJS - HTML enhanced for web apps!",
+    "cn": false
+  },
+  {
+    "title": "rails/rails",
+    "url": "https://github.com/rails/rails",
+    "lang": "Ruby",
+    "desc": "Ruby on Rails",
+    "cn": false
+  },
+  {
+    "title": "facontidavide/PlotJuggler",
+    "url": "https://github.com/facontidavide/PlotJuggler",
+    "lang": "C++",
+    "desc": "The Time Series Visualization Tool that you deserve.",
+    "cn": false
+  },
+  {
+    "title": "minhealthnz/nzcovidtracer-app",
+    "url": "https://github.com/minhealthnz/nzcovidtracer-app",
+    "lang": "TypeScript",
+    "desc": "This is the repository for the front-end of the NZ COVID Tracer app.",
+    "cn": false
+  },
+  {
+    "title": "benawad/vsinder",
+    "url": "https://github.com/benawad/vsinder",
+    "lang": "Svelte",
+    "desc": "Dating App for VSCode",
+    "cn": false
+  },
+  {
+    "title": "linkedin/school-of-sre",
+    "url": "https://github.com/linkedin/school-of-sre",
+    "lang": "HTML",
+    "desc": "At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role.",
+    "cn": false
+  },
+  {
+    "title": "sonic-pi-net/sonic-pi",
+    "url": "https://github.com/sonic-pi-net/sonic-pi",
+    "lang": "Ruby",
+    "desc": "Code. Music. Live.",
+    "cn": false
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++",
+    "desc": "JSON for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "desc": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.",
+    "cn": false
+  },
+  {
+    "title": "maplibre/maplibre-gl-js",
+    "url": "https://github.com/maplibre/maplibre-gl-js",
+    "lang": "JavaScript",
+    "desc": "MapLibre GL is a free and open-source fork of @mapbox/mapbox-gl",
+    "cn": false
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "lang": "Python",
+    "desc": "ThetaGang is an IBKR bot for collecting money",
+    "cn": false
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "lang": "Python",
+    "desc": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Shell",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "cn": false
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "lang": "Python",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "cn": false
+  },
+  {
+    "title": "benawad/vsinder-api",
+    "url": "https://github.com/benawad/vsinder-api",
+    "lang": "TypeScript",
+    "desc": "Node.js Api for Dating App",
+    "cn": false
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview",
+    "cn": false
+  }
+]
