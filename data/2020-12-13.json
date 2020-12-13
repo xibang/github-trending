@@ -1,0 +1,160 @@
+[
+  {
+    "title": "getmeli/meli",
+    "url": "https://github.com/getmeli/meli",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rocky-linux/infrastructure",
+    "url": "https://github.com/rocky-linux/infrastructure",
+    "lang": "HTML"
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "lang": "Python",
+    "desc": "ThetaGang is an IBKR bot for collecting money",
+    "cn": false
+  },
+  {
+    "title": "rougier/nano-emacs",
+    "url": "https://github.com/rougier/nano-emacs",
+    "lang": "EmacsLisp",
+    "desc": "GNU Emacs / N Λ N O - Emacs made simple",
+    "cn": false
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "lang": "Python",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "cn": false
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "cn": false
+  },
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "desc": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.",
+    "cn": false
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "cn": false
+  },
+  {
+    "title": "camtheperson/get-my-ps5",
+    "url": "https://github.com/camtheperson/get-my-ps5",
+    "lang": "JavaScript",
+    "desc": "A CLI utility to help people secure a PlayStation 5 (PS5).",
+    "cn": false
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "lang": "Python",
+    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "cn": false
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "cn": false
+  },
+  {
+    "title": "justinzm/gopup",
+    "url": "https://github.com/justinzm/gopup",
+    "lang": "Python",
+    "desc": "数据接口：百度、谷歌、头条、微博指数,宏观数据，利率数据，货币汇率，千里马、独角兽公司，新闻联播文字稿，影视票房数据，高校名单，疫情数据…",
+    "cn": true
+  },
+  {
+    "title": "ossf/criticality_score",
+    "url": "https://github.com/ossf/criticality_score",
+    "lang": "Python",
+    "desc": "Gives criticality score for an open source project",
+    "cn": false
+  },
+  {
+    "title": "typesense/showcase-recipe-search",
+    "url": "https://github.com/typesense/showcase-recipe-search",
+    "lang": "JavaScript",
+    "desc": "An app showing Typesense Search in action on a 2M recipe database",
+    "cn": false
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview",
+    "cn": false
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++",
+    "desc": "JSON for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "lang": "Python",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "peng-zhihui/PocketLCD",
+    "url": "https://github.com/peng-zhihui/PocketLCD",
+    "desc": "带充电宝功能的便携显示器",
+    "cn": true
+  }
+]
