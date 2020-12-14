@@ -41,7 +41,9 @@
   {
     "title": "rocky-linux/infrastructure",
     "url": "https://github.com/rocky-linux/infrastructure",
-    "lang": "HTML"
+    "lang": "HTML",
+    "desc": "The infrastructure monorepo for The Rocky Linux Foundation",
+    "cn": false
   },
   {
     "title": "coolsnowwolf/lede",
