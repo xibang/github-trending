@@ -1,0 +1,169 @@
+[
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "cn": false
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "cn": false
+  },
+  {
+    "title": "PeterL1n/BackgroundMattingV2",
+    "url": "https://github.com/PeterL1n/BackgroundMattingV2",
+    "lang": "Python",
+    "desc": "Real-Time High-Resolution Background Matting",
+    "cn": false
+  },
+  {
+    "title": "supertokens/supertokens-core",
+    "url": "https://github.com/supertokens/supertokens-core",
+    "lang": "Java",
+    "desc": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+    "cn": false
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "lang": "Clojure",
+    "desc": "The simplest, fastest way to get business intelligence and analytics to everyone in your company 😋",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "cn": false
+  },
+  {
+    "title": "video-dev/hls.js",
+    "url": "https://github.com/video-dev/hls.js",
+    "lang": "JavaScript",
+    "desc": "JavaScript HLS client using Media Source Extension",
+    "cn": false
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "cn": false
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "lang": "Python",
+    "desc": "Realtime Web Apps and Dashboards for Python",
+    "cn": false
+  },
+  {
+    "title": "missing-semester-cn/missing-semester-cn.github.io",
+    "url": "https://github.com/missing-semester-cn/missing-semester-cn.github.io",
+    "lang": "CSS",
+    "desc": "the CS missing semester Chinese version",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers by organizations sharing their work on applied data science & machine learning.",
+    "cn": false
+  },
+  {
+    "title": "rancher/harvester",
+    "url": "https://github.com/rancher/harvester",
+    "lang": "Go",
+    "desc": "Open source hyperconverged infrastructure (HCI) software",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "tjackenpacken/taskbar-groups",
+    "url": "https://github.com/tjackenpacken/taskbar-groups",
+    "lang": "C#"
+  },
+  {
+    "title": "gnxbr/Fully-Undetectable-Techniques",
+    "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "lang": "C"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++",
+    "desc": "Bitcoin Core integration/staging tree",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/packer",
+    "url": "https://github.com/hashicorp/packer",
+    "lang": "Go",
+    "desc": "Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.",
+    "cn": false
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin",
+    "desc": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "cn": false
+  },
+  {
+    "title": "chanakaudaya/solutions-architecture-patterns",
+    "url": "https://github.com/chanakaudaya/solutions-architecture-patterns",
+    "desc": "This repository contains solutions architecture patterns which can be reused to build enterprise software systems",
+    "cn": false
+  },
+  {
+    "title": "cdoco/common-regex",
+    "url": "https://github.com/cdoco/common-regex",
+    "desc": "🎃 常用正则表达式 - 收集一些在平时项目开发中经常用到的正则表达式。",
+    "cn": true
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  }
+]
