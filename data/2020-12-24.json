@@ -1,0 +1,170 @@
+[
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "cn": false
+  },
+  {
+    "title": "hotwired/turbo",
+    "url": "https://github.com/hotwired/turbo",
+    "lang": "TypeScript",
+    "desc": "The speed of a single-page web application without having to write any JavaScript.",
+    "cn": false
+  },
+  {
+    "title": "hotwired/hotwire-rails-demo-chat",
+    "url": "https://github.com/hotwired/hotwire-rails-demo-chat",
+    "lang": "Ruby",
+    "desc": "Repository from the Hotwire demo",
+    "cn": false
+  },
+  {
+    "title": "mapsme/omim",
+    "url": "https://github.com/mapsme/omim",
+    "lang": "C++",
+    "desc": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
+    "cn": false
+  },
+  {
+    "title": "hotwired/turbo-rails",
+    "url": "https://github.com/hotwired/turbo-rails",
+    "lang": "JavaScript",
+    "desc": "Turbo gives you the speed of a single-page web application without having to write any JavaScript.",
+    "cn": false
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具",
+    "cn": true
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "cn": false
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "lang": "JavaScript",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "cn": false
+  },
+  {
+    "title": "uncertainty-toolbox/uncertainty-toolbox",
+    "url": "https://github.com/uncertainty-toolbox/uncertainty-toolbox",
+    "lang": "Python",
+    "desc": "A python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization",
+    "cn": false
+  },
+  {
+    "title": "alan-turing-institute/sktime",
+    "url": "https://github.com/alan-turing-institute/sktime",
+    "lang": "Python",
+    "desc": "A unified framework for machine learning with time series",
+    "cn": false
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "louisfb01/Best_AI_paper_2020",
+    "url": "https://github.com/louisfb01/Best_AI_paper_2020",
+    "desc": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code",
+    "cn": false
+  },
+  {
+    "title": "reactjs/server-components-demo",
+    "url": "https://github.com/reactjs/server-components-demo",
+    "lang": "JavaScript",
+    "desc": "Demo app of React Server Components.",
+    "cn": false
+  },
+  {
+    "title": "bytedance/terarkdb",
+    "url": "https://github.com/bytedance/terarkdb",
+    "lang": "C++",
+    "desc": "A RocksDB compatible KV storage engine with better performance",
+    "cn": false
+  },
+  {
+    "title": "isaacrlevin/HomeNetworkSetup",
+    "url": "https://github.com/isaacrlevin/HomeNetworkSetup",
+    "lang": "Shell",
+    "desc": "Repo to define my use of docker containers on my home network with Reverse Proxy Configuration",
+    "cn": false
+  },
+  {
+    "title": "30DaysofWebDEV/DSC-30-Days-of-Web",
+    "url": "https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web"
+  },
+  {
+    "title": "Tencent/Tendis",
+    "url": "https://github.com/Tencent/Tendis",
+    "lang": "C++",
+    "desc": "Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.",
+    "cn": false
+  },
+  {
+    "title": "gdtool/cloudflare-workers-blog",
+    "url": "https://github.com/gdtool/cloudflare-workers-blog",
+    "lang": "CSS",
+    "desc": "A Blog Powered By Cloudflare Workers and KV",
+    "cn": false
+  },
+  {
+    "title": "devanshbatham/Awesome-Bugbounty-Writeups",
+    "url": "https://github.com/devanshbatham/Awesome-Bugbounty-Writeups",
+    "lang": "Python",
+    "desc": "A curated list of bugbounty writeups (Bug type wise) , inspired from https://github.com/ngalongc/bug-bounty-reference",
+    "cn": false
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "lang": "C",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  }
+]
