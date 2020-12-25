@@ -1,0 +1,171 @@
+[
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "lang": "C",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "cn": false
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "bytedance/terarkdb",
+    "url": "https://github.com/bytedance/terarkdb",
+    "lang": "C++",
+    "desc": "A RocksDB compatible KV storage engine with better performance",
+    "cn": false
+  },
+  {
+    "title": "youzan/vant",
+    "url": "https://github.com/youzan/vant",
+    "lang": "JavaScript",
+    "desc": "Lightweight Mobile UI Components built on Vue",
+    "cn": false
+  },
+  {
+    "title": "hotwired/turbo",
+    "url": "https://github.com/hotwired/turbo",
+    "lang": "TypeScript",
+    "desc": "The speed of a single-page web application without having to write any JavaScript.",
+    "cn": false
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "hotwired/hotwire-rails-demo-chat",
+    "url": "https://github.com/hotwired/hotwire-rails-demo-chat",
+    "lang": "Ruby",
+    "desc": "Repository from the Hotwire demo",
+    "cn": false
+  },
+  {
+    "title": "alan-turing-institute/sktime",
+    "url": "https://github.com/alan-turing-institute/sktime",
+    "lang": "Python",
+    "desc": "A unified framework for machine learning with time series",
+    "cn": false
+  },
+  {
+    "title": "hotwired/turbo-rails",
+    "url": "https://github.com/hotwired/turbo-rails",
+    "lang": "JavaScript",
+    "desc": "Turbo gives you the speed of a single-page web application without having to write any JavaScript.",
+    "cn": false
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "lang": "Python",
+    "desc": "MuZero",
+    "cn": false
+  },
+  {
+    "title": "haotian-liu/yolact_edge",
+    "url": "https://github.com/haotian-liu/yolact_edge",
+    "lang": "Python",
+    "desc": "The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.",
+    "cn": false
+  },
+  {
+    "title": "kitabisa/ssb",
+    "url": "https://github.com/kitabisa/ssb",
+    "lang": "Go",
+    "desc": "Secure Shell Bruteforcer — A faster & simpler way to bruteforce SSH server",
+    "cn": false
+  },
+  {
+    "title": "25H/Maya",
+    "url": "https://github.com/25H/Maya",
+    "lang": "Less",
+    "desc": "Maya 一个简洁小巧的快速启动工具",
+    "cn": true
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/css-in-readme-like-wat",
+    "url": "https://github.com/sindresorhus/css-in-readme-like-wat",
+    "desc": "Style your readme using CSS with this simple trick",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "victor369basu/Real-time-stock-market-prediction",
+    "url": "https://github.com/victor369basu/Real-time-stock-market-prediction",
+    "lang": "JavaScript",
+    "desc": "In this repository, I have developed the entire server-side principal architecture for real-time stock market prediction with Machine Learning. I have used Tensorflow.js for constructing ml model architecture, and Kafka for real-time data streaming and pipelining.",
+    "cn": false
+  },
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python",
+    "desc": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
+    "cn": true
+  },
+  {
+    "title": "Tencent/Tendis",
+    "url": "https://github.com/Tencent/Tendis",
+    "lang": "C++",
+    "desc": "Tendis is a high-performance distributed storage system fully compatible with the Redis protocol.",
+    "cn": false
+  },
+  {
+    "title": "mapsme/omim",
+    "url": "https://github.com/mapsme/omim",
+    "lang": "C++",
+    "desc": "🗺️ MAPS.ME — Offline OpenStreetMap maps for iOS and Android",
+    "cn": false
+  },
+  {
+    "title": "30DaysofWebDEV/DSC-30-Days-of-Web",
+    "url": "https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "lang": "JupyterNotebook"
+  }
+]
