@@ -1,0 +1,171 @@
+[
+  {
+    "title": "facebookresearch/deit",
+    "url": "https://github.com/facebookresearch/deit",
+    "lang": "Python",
+    "desc": "Official DeiT repository",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python",
+    "desc": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
+    "cn": true
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "ruby/ruby",
+    "url": "https://github.com/ruby/ruby",
+    "lang": "Ruby",
+    "desc": "The Ruby Programming Language [mirror]",
+    "cn": false
+  },
+  {
+    "title": "netdata/netdata",
+    "url": "https://github.com/netdata/netdata",
+    "lang": "C",
+    "desc": "Real-time performance monitoring, done right! https://www.netdata.cloud",
+    "cn": false
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "lang": "Python",
+    "desc": "MuZero",
+    "cn": false
+  },
+  {
+    "title": "30DaysofWebDEV/DSC-30-Days-of-Web",
+    "url": "https://github.com/30DaysofWebDEV/DSC-30-Days-of-Web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "lang": "C++",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "cn": false
+  },
+  {
+    "title": "Tartarus2014/Loon-Script",
+    "url": "https://github.com/Tartarus2014/Loon-Script",
+    "desc": "Loon脚本收集",
+    "cn": true
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "lang": "JavaScript",
+    "desc": "A Progressive Web App for local file sharing",
+    "cn": false
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具",
+    "cn": true
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "louisfb01/Best_AI_paper_2020",
+    "url": "https://github.com/louisfb01/Best_AI_paper_2020",
+    "desc": "A curated list of the latest breakthroughs in AI by release date with a clear video explanation, link to a more in-depth article, and code",
+    "cn": false
+  },
+  {
+    "title": "haotian-liu/yolact_edge",
+    "url": "https://github.com/haotian-liu/yolact_edge",
+    "lang": "Python",
+    "desc": "The first competitive instance segmentation approach that runs on small edge devices at real-time speeds.",
+    "cn": false
+  },
+  {
+    "title": "standupmaths/xmastree2020",
+    "url": "https://github.com/standupmaths/xmastree2020",
+    "lang": "Python",
+    "desc": "My 500 LED xmas tree",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/css-in-readme-like-wat",
+    "url": "https://github.com/sindresorhus/css-in-readme-like-wat",
+    "desc": "Style your readme using CSS with this simple trick",
+    "cn": false
+  },
+  {
+    "title": "facebookresearch/svoice",
+    "url": "https://github.com/facebookresearch/svoice",
+    "lang": "Python",
+    "desc": "We provide a PyTorch implementation of the paper Voice Separation with an Unknown Number of Multiple Speakers In which, we present a new method for separating a mixed audio sequence, in which multiple voices speak simultaneously. The new method employs gated neural networks that are trained to separate the voices at multiple processing steps, wh…",
+    "cn": false
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "cn": false
+  },
+  {
+    "title": "jobbole/awesome-python-cn",
+    "url": "https://github.com/jobbole/awesome-python-cn",
+    "lang": "Makefile",
+    "desc": "Python资源大全中文版，包括：Web框架、网络爬虫、模板引擎、数据库、数据可视化、图片处理等，由「开源前哨」和「Python开发者」微信公号团队维护更新。",
+    "cn": true
+  },
+  {
+    "title": "hotwired/turbo",
+    "url": "https://github.com/hotwired/turbo",
+    "lang": "TypeScript",
+    "desc": "The speed of a single-page web application without having to write any JavaScript.",
+    "cn": false
+  },
+  {
+    "title": "Sycnex/Windows10Debloater",
+    "url": "https://github.com/Sycnex/Windows10Debloater",
+    "lang": "PowerShell",
+    "desc": "Script to remove Windows 10 bloatware.",
+    "cn": false
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "lang": "C",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "cn": false
+  }
+]
