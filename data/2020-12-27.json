@@ -1,0 +1,173 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "arduino/Arduino",
+    "url": "https://github.com/arduino/Arduino",
+    "lang": "Java",
+    "desc": "open-source electronics platform",
+    "cn": false
+  },
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python",
+    "desc": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
+    "cn": true
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "lang": "C",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python",
+    "desc": "Free, open source crypto trading bot",
+    "cn": false
+  },
+  {
+    "title": "rwbfd/ml-training-camp",
+    "url": "https://github.com/rwbfd/ml-training-camp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "anushka23g/Complete-Placement-Preparation",
+    "url": "https://github.com/anushka23g/Complete-Placement-Preparation",
+    "desc": "This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.",
+    "cn": false
+  },
+  {
+    "title": "mytechnotalent/Reverse-Engineering-Tutorial",
+    "url": "https://github.com/mytechnotalent/Reverse-Engineering-Tutorial",
+    "lang": "C++",
+    "desc": "A comprehensive reverse engineering tutorial covering x86, x64, 32-bit ARM & 64-bit ARM architectures.",
+    "cn": false
+  },
+  {
+    "title": "cisagov/Sparrow",
+    "url": "https://github.com/cisagov/Sparrow",
+    "lang": "PowerShell",
+    "desc": "Sparrow.ps1 was created by CISA's Cloud Forensics team to help detect possible compromised accounts and applications in the Azure/m365 environment.",
+    "cn": false
+  },
+  {
+    "title": "lxk0301/jd_scripts",
+    "url": "https://github.com/lxk0301/jd_scripts",
+    "desc": "基于JavaScript的京东薅羊毛工具",
+    "cn": true
+  },
+  {
+    "title": "Col-E/Recaf",
+    "url": "https://github.com/Col-E/Recaf",
+    "lang": "Java",
+    "desc": "The modern Java bytecode editor",
+    "cn": false
+  },
+  {
+    "title": "CrowdStrike/CRT",
+    "url": "https://github.com/CrowdStrike/CRT",
+    "lang": "PowerShell",
+    "desc": "Contact: CRT@crowdstrike.com",
+    "cn": false
+  },
+  {
+    "title": "werner-duvaud/muzero-general",
+    "url": "https://github.com/werner-duvaud/muzero-general",
+    "lang": "Python",
+    "desc": "MuZero",
+    "cn": false
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "lang": "C",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "cn": false
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "abraunegg/onedrive",
+    "url": "https://github.com/abraunegg/onedrive",
+    "lang": "D",
+    "desc": "OneDrive Client for Linux",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "qilingframework/qiling",
+    "url": "https://github.com/qilingframework/qiling",
+    "lang": "Python",
+    "desc": "Qiling Advanced Binary Emulation Framework",
+    "cn": false
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "lang": "C++",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "cn": false
+  },
+  {
+    "title": "zhzyker/vulmap",
+    "url": "https://github.com/zhzyker/vulmap",
+    "lang": "Python",
+    "desc": "Vulmap - Web漏洞扫描和验证工具，可对Web容器、Web服务器、Web中间件以及CMS等Web程序进行漏洞扫描，并且具备漏洞利用功能。 相关测试人员可以使用vulmap检测目标是否存在特定漏洞，并且可以使用漏洞利用功能验证漏洞是否真实存在。CVE-2020-14882, CVE-2020-2555, CVE-2020-2883, S2-061, CVE-2020-13942, CVE-2020-17530",
+    "cn": true
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "cn": false
+  }
+]
