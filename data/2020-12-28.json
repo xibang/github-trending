@@ -1,0 +1,175 @@
+[
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python",
+    "desc": "京东秒杀商品抢购，目前只支持茅台抢购，不支持其他商品！",
+    "cn": true
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "LetsTimeIt/DungeonTools",
+    "url": "https://github.com/LetsTimeIt/DungeonTools",
+    "lang": "Lua",
+    "desc": "Fork of Nnoga's Mythic Dungeon Tools addon to restore mob data and improve upon the base code!",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python",
+    "desc": "Free, open source crypto trading bot",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "dpapathanasiou/simple-graph",
+    "url": "https://github.com/dpapathanasiou/simple-graph",
+    "lang": "Python",
+    "desc": "This is a simple graph database in SQLite, inspired by \"SQLite as a document database\"",
+    "cn": false
+  },
+  {
+    "title": "raysan5/raylib",
+    "url": "https://github.com/raysan5/raylib",
+    "lang": "C",
+    "desc": "A simple and easy-to-use library to enjoy videogames programming",
+    "cn": false
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "lang": "C++",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "cn": false
+  },
+  {
+    "title": "esphome/esphome",
+    "url": "https://github.com/esphome/esphome",
+    "lang": "C++",
+    "desc": "ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.",
+    "cn": false
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "lang": "Java",
+    "desc": "🎨 小傅哥微信：fustack |《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。",
+    "cn": true
+  },
+  {
+    "title": "arduino/Arduino",
+    "url": "https://github.com/arduino/Arduino",
+    "lang": "Java",
+    "desc": "open-source electronics platform",
+    "cn": false
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "cn": false
+  },
+  {
+    "title": "ottomated/CrewLink-server",
+    "url": "https://github.com/ottomated/CrewLink-server",
+    "lang": "TypeScript",
+    "desc": "Voice Relay server for CrewLink.",
+    "cn": false
+  },
+  {
+    "title": "darktable-org/darktable",
+    "url": "https://github.com/darktable-org/darktable",
+    "lang": "C",
+    "desc": "darktable is an open source photography workflow application and raw developer",
+    "cn": false
+  },
+  {
+    "title": "anushka23g/Complete-Placement-Preparation",
+    "url": "https://github.com/anushka23g/Complete-Placement-Preparation",
+    "desc": "This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "JuliaLang/julia",
+    "url": "https://github.com/JuliaLang/julia",
+    "lang": "Julia",
+    "desc": "The Julia Programming Language",
+    "cn": false
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "Nnoggie/MythicDungeonTools",
+    "url": "https://github.com/Nnoggie/MythicDungeonTools",
+    "lang": "Lua",
+    "desc": "World of Warcraft AddOn for planning and optimizing Mythic+ dungeon runs",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "lang": "PHP",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "cn": false
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "lang": "C",
+    "desc": "Arduino core for the ESP32",
+    "cn": false
+  }
+]
