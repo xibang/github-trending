@@ -7,93 +7,23 @@
     "cn": true
   },
   {
-    "title": "osnr/TabFS",
-    "url": "https://github.com/osnr/TabFS",
-    "lang": "JavaScript",
-    "desc": "🗄 Mount your browser tabs as a filesystem.",
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
     "cn": false
   },
   {
-    "title": "qeeqbox/social-analyzer",
-    "url": "https://github.com/qeeqbox/social-analyzer",
-    "lang": "JavaScript",
-    "desc": "API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)",
-    "cn": false
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "lang": "Java",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "cn": true
   },
   {
-    "title": "sherlock-project/sherlock",
-    "url": "https://github.com/sherlock-project/sherlock",
-    "lang": "Python",
-    "desc": "🔎 Hunt down social media accounts by username across social networks",
-    "cn": false
-  },
-  {
-    "title": "probml/pyprobml",
-    "url": "https://github.com/probml/pyprobml",
-    "lang": "JupyterNotebook",
-    "desc": "Python code for \"Machine learning: a probabilistic perspective\" (2nd edition)",
-    "cn": false
-  },
-  {
-    "title": "subnub/myDrive",
-    "url": "https://github.com/subnub/myDrive",
-    "lang": "JavaScript",
-    "desc": "Node.js and mongoDB Google Drive Clone",
-    "cn": false
-  },
-  {
-    "title": "WerWolv/ImHex",
-    "url": "https://github.com/WerWolv/ImHex",
-    "lang": "C++",
-    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
-    "cn": false
-  },
-  {
-    "title": "bitcoin/bitcoin",
-    "url": "https://github.com/bitcoin/bitcoin",
-    "lang": "C++",
-    "desc": "Bitcoin Core integration/staging tree",
-    "cn": false
-  },
-  {
-    "title": "rust-unofficial/patterns",
-    "url": "https://github.com/rust-unofficial/patterns",
-    "lang": "Shell",
-    "desc": "A catalogue of Rust design patterns, anti-patterns and idioms",
-    "cn": false
-  },
-  {
-    "title": "monero-project/monero",
-    "url": "https://github.com/monero-project/monero",
-    "lang": "C++",
-    "desc": "Monero: the secure, private, untraceable cryptocurrency",
-    "cn": false
-  },
-  {
-    "title": "excalidraw/excalidraw",
-    "url": "https://github.com/excalidraw/excalidraw",
-    "lang": "TypeScript",
-    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
-    "cn": false
-  },
-  {
-    "title": "boston-dynamics/spot-sdk",
-    "url": "https://github.com/boston-dynamics/spot-sdk",
-    "lang": "Python",
-    "desc": "Spot SDK repo",
-    "cn": false
-  },
-  {
-    "title": "firstcontributions/first-contributions",
-    "url": "https://github.com/firstcontributions/first-contributions",
-    "desc": "🚀✨ Help beginners to contribute to open source projects",
-    "cn": false
-  },
-  {
-    "title": "trekhleb/javascript-algorithms",
-    "url": "https://github.com/trekhleb/javascript-algorithms",
-    "lang": "JavaScript",
-    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
     "cn": false
   },
   {
@@ -104,23 +34,56 @@
     "cn": false
   },
   {
-    "title": "kamranahmedse/developer-roadmap",
-    "url": "https://github.com/kamranahmedse/developer-roadmap",
-    "desc": "Roadmap to becoming a web developer in 2021",
+    "title": "ztino/jd_seckill",
+    "url": "https://github.com/ztino/jd_seckill",
+    "lang": "Go",
+    "desc": "go版本jd_seckill，京东茅台抢购，降低使用门栏。",
+    "cn": true
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
     "cn": false
   },
   {
-    "title": "jpochyla/psst",
-    "url": "https://github.com/jpochyla/psst",
+    "title": "gh0stkey/Web-Fuzzing-Box",
+    "url": "https://github.com/gh0stkey/Web-Fuzzing-Box",
+    "lang": "HTML",
+    "desc": "Web Fuzzing Box - Web 模糊测试字典与一些Payloads，主要包含：弱口令暴力破解、目录以及文件枚举、Web漏洞...字典运用于实战案例：https://gh0st.cn/archives/2019-11-11/1",
+    "cn": true
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "lang": "JupyterNotebook",
+    "desc": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️",
+    "cn": false
+  },
+  {
+    "title": "devsuperior/jdbc-postgres",
+    "url": "https://github.com/devsuperior/jdbc-postgres",
+    "lang": "Java"
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects",
+    "cn": false
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript",
+    "desc": "Next generation frontend tooling. It's fast.",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
     "lang": "Rust",
-    "desc": "Fast and multi-platform Spotify client with native GUI",
-    "cn": false
-  },
-  {
-    "title": "ryanmcdermott/clean-code-javascript",
-    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
-    "lang": "JavaScript",
-    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
     "cn": false
   },
   {
@@ -130,45 +93,78 @@
     "cn": false
   },
   {
-    "title": "cgpotts/dynasent",
-    "url": "https://github.com/cgpotts/dynasent",
-    "lang": "JupyterNotebook",
-    "desc": "DynaSent: Dynamic Sentiment Analysis Dataset",
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "desc": "📃 A list of practical projects that anyone can solve in any programming language.",
     "cn": false
   },
   {
-    "title": "omer-dogan/whoami",
-    "url": "https://github.com/omer-dogan/whoami",
-    "lang": "Shell",
-    "desc": "Whoami is a Linux privacy tool developed to keep you anonymous at the highest level.",
+    "title": "jthuraisamy/SysWhispers2",
+    "url": "https://github.com/jthuraisamy/SysWhispers2",
+    "lang": "Assembly",
+    "desc": "AV/EDR evasion via direct system calls.",
     "cn": false
   },
   {
-    "title": "probml/pml-book",
-    "url": "https://github.com/probml/pml-book",
-    "lang": "HTML",
-    "desc": "\"Probabilistic Machine Learning\" - a book series by Kevin Murphy",
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
     "cn": false
   },
   {
-    "title": "persian-tools/persian-tools",
-    "url": "https://github.com/persian-tools/persian-tools",
-    "lang": "TypeScript",
-    "desc": "An anthology of a variety of tools for the Persian language in javascript",
-    "cn": false
-  },
-  {
-    "title": "ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
-    "url": "https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way",
+    "title": "osnr/TabFS",
+    "url": "https://github.com/osnr/TabFS",
     "lang": "JavaScript",
-    "desc": "本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案。",
+    "desc": "🗄 Mount your browser tabs as a filesystem.",
+    "cn": false
+  },
+  {
+    "title": "alibaba/COLA",
+    "url": "https://github.com/alibaba/COLA",
+    "lang": "Java",
+    "desc": "Clean Object-oriented & Layered Architecture",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "vipstone/faceai",
+    "url": "https://github.com/vipstone/faceai",
+    "lang": "Python",
+    "desc": "一款入门级的人脸、视频、文字检测以及识别的项目.",
     "cn": true
   },
   {
-    "title": "starship/starship",
-    "url": "https://github.com/starship/starship",
-    "lang": "Rust",
-    "desc": "☄🌌️ The minimal, blazing-fast, and infinitely customizable prompt for any shell!",
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "MichaelKoczwara/Awesome-CobaltStrike-Defence",
+    "url": "https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence",
+    "desc": "Defences against Cobalt Strike",
+    "cn": false
+  },
+  {
+    "title": "Redocly/redoc",
+    "url": "https://github.com/Redocly/redoc",
+    "lang": "TypeScript",
+    "desc": "📘 OpenAPI/Swagger-generated API Reference Documentation",
+    "cn": false
+  },
+  {
+    "title": "loseys/Oblivion",
+    "url": "https://github.com/loseys/Oblivion",
+    "lang": "Python",
+    "desc": "Data leak checker & OSINT Tool",
     "cn": false
   }
 ]
