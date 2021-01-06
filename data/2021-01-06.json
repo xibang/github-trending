@@ -1,0 +1,168 @@
+[
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "lang": "Python",
+    "desc": "OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.",
+    "cn": false
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "cn": false
+  },
+  {
+    "title": "rubygems/rubygems",
+    "url": "https://github.com/rubygems/rubygems",
+    "lang": "Ruby",
+    "desc": "Library packaging and distribution for Ruby.",
+    "cn": false
+  },
+  {
+    "title": "ztino/helloworld",
+    "url": "https://github.com/ztino/helloworld",
+    "lang": "Go",
+    "desc": "Hello，MT",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "lang": "TypeScript",
+    "desc": "A progressive Node.js framework for building efficient, scalable, and enterprise-grade server-side applications on top of TypeScript & JavaScript (ES6, ES7, ES8) 🚀",
+    "cn": false
+  },
+  {
+    "title": "GRVYDEV/Project-Lightspeed",
+    "url": "https://github.com/GRVYDEV/Project-Lightspeed",
+    "desc": "A self contained OBS -> FTL -> WebRTC live streaming server. Comprised of 3 parts once configured anyone can achieve sub-second OBS to the browser livestreaming",
+    "cn": false
+  },
+  {
+    "title": "devsuperior/sds2",
+    "url": "https://github.com/devsuperior/sds2",
+    "lang": "CSS"
+  },
+  {
+    "title": "Redocly/redoc",
+    "url": "https://github.com/Redocly/redoc",
+    "lang": "TypeScript",
+    "desc": "📘 OpenAPI/Swagger-generated API Reference Documentation",
+    "cn": false
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "cn": false
+  },
+  {
+    "title": "globalaihub/introduction-to-machine-learning",
+    "url": "https://github.com/globalaihub/introduction-to-machine-learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "qiurunze123/miaosha",
+    "url": "https://github.com/qiurunze123/miaosha",
+    "lang": "Java",
+    "desc": "⭐⭐⭐⭐秒杀系统设计与实现.互联网工程师进阶与分析🙋🐓",
+    "cn": true
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "lang": "JavaScript",
+    "desc": "Based on a true story",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "omer-dogan/whoami",
+    "url": "https://github.com/omer-dogan/whoami",
+    "lang": "Shell",
+    "desc": "Whoami is a Linux privacy tool developed to keep you anonymous at the highest level.",
+    "cn": false
+  },
+  {
+    "title": "Jack-Cherish/PythonPark",
+    "url": "https://github.com/Jack-Cherish/PythonPark",
+    "lang": "Python",
+    "desc": "Python 开源项目之「自学编程之路」，保姆级教程：AI实验室、宝藏视频、数据结构、学习指南、机器学习实战、深度学习实战、网络爬虫、大厂面经、程序人生、资源分享。",
+    "cn": true
+  },
+  {
+    "title": "formulahendry/955.WLB",
+    "url": "https://github.com/formulahendry/955.WLB",
+    "desc": "955 不加班的公司名单 - 工作 955，work–life balance (工作与生活的平衡)",
+    "cn": true
+  },
+  {
+    "title": "karan/Projects",
+    "url": "https://github.com/karan/Projects",
+    "desc": "📃 A list of practical projects that anyone can solve in any programming language.",
+    "cn": false
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "cn": false
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "lang": "Rust",
+    "desc": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "cn": false
+  },
+  {
+    "title": "docker/distribution",
+    "url": "https://github.com/docker/distribution",
+    "lang": "Go",
+    "desc": "The toolkit to pack, ship, store, and deliver container content",
+    "cn": false
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript",
+    "desc": "Next generation frontend tooling. It's fast.",
+    "cn": false
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "cn": true
+  }
+]
