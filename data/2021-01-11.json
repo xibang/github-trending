@@ -1,0 +1,170 @@
+[
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "lang": "Java",
+    "desc": "A private messenger for Android.",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "lang": "Java",
+    "desc": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "lang": "Swift",
+    "desc": "A private messenger for iOS.",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "lang": "JavaScript",
+    "desc": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "cn": false
+  },
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "lang": "Go",
+    "desc": "京东茅台抢购",
+    "cn": true
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "telegramdesktop/tdesktop",
+    "url": "https://github.com/telegramdesktop/tdesktop",
+    "lang": "C++",
+    "desc": "Telegram Desktop messaging app",
+    "cn": false
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C",
+    "desc": "OpenCore bootloader",
+    "cn": false
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "lang": "Ruby",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "cn": false
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "cn": false
+  },
+  {
+    "title": "ottomated/CrewLink-server",
+    "url": "https://github.com/ottomated/CrewLink-server",
+    "lang": "TypeScript",
+    "desc": "Voice Relay server for CrewLink.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "mydexchain/mydexchain",
+    "url": "https://github.com/mydexchain/mydexchain"
+  },
+  {
+    "title": "leereilly/games",
+    "url": "https://github.com/leereilly/games",
+    "desc": "🎮 A list of popular/awesome video games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine.",
+    "cn": false
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "Kotlin",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "cn": false
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "lang": "JupyterNotebook",
+    "desc": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥",
+    "cn": false
+  },
+  {
+    "title": "zealotCE/AmericaOpposeAmerica",
+    "url": "https://github.com/zealotCE/AmericaOpposeAmerica",
+    "desc": "《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。",
+    "cn": true
+  },
+  {
+    "title": "MacroAnalyst/Linear_Algebra_With_Python",
+    "url": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "lang": "JupyterNotebook",
+    "desc": "Lecture Notes for Linear Algebra Featuring Python",
+    "cn": false
+  },
+  {
+    "title": "chughes29/Cloud-DevSecOps-Learning",
+    "url": "https://github.com/chughes29/Cloud-DevSecOps-Learning",
+    "desc": "Collection of Cloud and DevSecOps learning resources",
+    "cn": false
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell",
+    "desc": "A black hole for Internet advertisements",
+    "cn": false
+  },
+  {
+    "title": "sundowndev/PhoneInfoga",
+    "url": "https://github.com/sundowndev/PhoneInfoga",
+    "lang": "Go",
+    "desc": "Advanced information gathering & OSINT framework for phone numbers",
+    "cn": false
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "cn": false
+  },
+  {
+    "title": "SharonBrizinov/s3viewer",
+    "url": "https://github.com/SharonBrizinov/s3viewer",
+    "lang": "Python",
+    "desc": "Publicly Open Amazon AWS S3 Bucket Viewer",
+    "cn": false
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "cn": false
+  }
+]
