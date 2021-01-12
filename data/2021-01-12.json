@@ -1,0 +1,168 @@
+[
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "lang": "Ruby",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "lang": "JavaScript",
+    "desc": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "lang": "Java",
+    "desc": "A private messenger for Android.",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "lang": "Swift",
+    "desc": "A private messenger for iOS.",
+    "cn": false
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript",
+    "desc": "Move your mouse, generate code from flow chart",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Server",
+    "url": "https://github.com/signalapp/Signal-Server",
+    "lang": "Java",
+    "desc": "Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS",
+    "cn": false
+  },
+  {
+    "title": "Rust-GCC/gccrs",
+    "url": "https://github.com/Rust-GCC/gccrs",
+    "desc": "GCC Front-End for Rust",
+    "cn": false
+  },
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "cn": true
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "cn": false
+  },
+  {
+    "title": "MacroAnalyst/Linear_Algebra_With_Python",
+    "url": "https://github.com/MacroAnalyst/Linear_Algebra_With_Python",
+    "lang": "JupyterNotebook",
+    "desc": "Lecture Notes for Linear Algebra Featuring Python",
+    "cn": false
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "lang": "Go",
+    "desc": "A distributed POSIX file system built on top of Redis and S3.",
+    "cn": false
+  },
+  {
+    "title": "ayuer/shanghai_house_knowledge",
+    "url": "https://github.com/ayuer/shanghai_house_knowledge",
+    "desc": "2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。",
+    "cn": true
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "rystsov/awesome-distributed-transactions",
+    "url": "https://github.com/rystsov/awesome-distributed-transactions",
+    "desc": "Awesome list of distributed transactions",
+    "cn": false
+  },
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "lang": "Go",
+    "desc": "京东茅台抢购",
+    "cn": true
+  },
+  {
+    "title": "chughes29/Cloud-DevSecOps-Learning",
+    "url": "https://github.com/chughes29/Cloud-DevSecOps-Learning",
+    "desc": "Collection of Cloud and DevSecOps learning resources",
+    "cn": false
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "lang": "JavaScript",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "cn": false
+  },
+  {
+    "title": "SharonBrizinov/s3viewer",
+    "url": "https://github.com/SharonBrizinov/s3viewer",
+    "lang": "Python",
+    "desc": "Publicly Open Amazon AWS S3 Bucket Viewer",
+    "cn": false
+  },
+  {
+    "title": "liuhuanyong/ChineseDiachronicCorpus",
+    "url": "https://github.com/liuhuanyong/ChineseDiachronicCorpus",
+    "desc": "ChineseDiachronicCorpus，中文历时语料库，横跨六十余年，包括腾讯历时新闻2000-2016，人民日报历时语料1946-2003，参考消息历时语料1957-2002。基于历时流通语料库，可用于历时语言变化计算、语言监测、社会文化变迁研究提供基础性的语料支持。",
+    "cn": true
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "cn": false
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "lang": "JupyterNotebook",
+    "desc": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥",
+    "cn": false
+  },
+  {
+    "title": "signals-dev/Orion",
+    "url": "https://github.com/signals-dev/Orion",
+    "lang": "JupyterNotebook",
+    "desc": "A machine learning library for detecting anomalies in signals.",
+    "cn": false
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!",
+    "cn": false
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "cn": false
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "cn": false
+  }
+]
