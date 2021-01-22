@@ -1,0 +1,168 @@
+[
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "cn": false
+  },
+  {
+    "title": "rxhanson/Rectangle",
+    "url": "https://github.com/rxhanson/Rectangle",
+    "lang": "Swift",
+    "desc": "Move and resize windows on macOS with keyboard shortcuts and snap areas",
+    "cn": false
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "lang": "JavaScript",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "cn": true
+  },
+  {
+    "title": "developedbyed/glass-website",
+    "url": "https://github.com/developedbyed/glass-website",
+    "lang": "CSS"
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "softchris/react-book",
+    "url": "https://github.com/softchris/react-book",
+    "lang": "HTML",
+    "desc": "Book covering fundamentals on React",
+    "cn": false
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "HTML",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "cn": false
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "lang": "C#",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "cn": false
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "cn": false
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "cn": false
+  },
+  {
+    "title": "CRED-CLUB/synth-ios",
+    "url": "https://github.com/CRED-CLUB/synth-ios",
+    "lang": "Swift",
+    "desc": "Synth is CRED's inbuilt library for using Neumorphic components in your app.",
+    "cn": false
+  },
+  {
+    "title": "RodrigoMenegat/autopsia-do-tratecov",
+    "url": "https://github.com/RodrigoMenegat/autopsia-do-tratecov",
+    "lang": "JavaScript",
+    "desc": "Código fonte extraído da página do aplicativo TrateCov, publicado pelo Ministério da Saúde em janeiro de 2021",
+    "cn": false
+  },
+  {
+    "title": "six2dez/reconftw",
+    "url": "https://github.com/six2dez/reconftw",
+    "lang": "Shell",
+    "desc": "Simple script for full recon",
+    "cn": false
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python",
+    "desc": "scikit-learn: machine learning in Python",
+    "cn": false
+  },
+  {
+    "title": "oleg-agapov/data-engineering-book",
+    "url": "https://github.com/oleg-agapov/data-engineering-book",
+    "desc": "Accumulated knowledge and experience in the field of Data Engineering",
+    "cn": false
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript",
+    "desc": "The Intuitive Vue Framework",
+    "cn": false
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "cn": false
+  },
+  {
+    "title": "svenstaro/miniserve",
+    "url": "https://github.com/svenstaro/miniserve",
+    "lang": "Rust",
+    "desc": "🌟 For when you really just want to serve some files over HTTP right now!",
+    "cn": false
+  },
+  {
+    "title": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "lang": "TypeScript",
+    "desc": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "cn": false
+  },
+  {
+    "title": "stackrox/Kubernetes_Security_Specialist_Study_Guide",
+    "url": "https://github.com/stackrox/Kubernetes_Security_Specialist_Study_Guide",
+    "lang": "HCL"
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "lang": "Go",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "cn": false
+  },
+  {
+    "title": "fireeye/Mandiant-Azure-AD-Investigator",
+    "url": "https://github.com/fireeye/Mandiant-Azure-AD-Investigator",
+    "lang": "PowerShell"
+  }
+]
