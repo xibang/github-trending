@@ -1,0 +1,171 @@
+[
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "lang": "C",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "cn": false
+  },
+  {
+    "title": "raspberrypi/pico-sdk",
+    "url": "https://github.com/raspberrypi/pico-sdk",
+    "lang": "C"
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "cn": false
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "HTML",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "cn": false
+  },
+  {
+    "title": "microsoft/windows-rs",
+    "url": "https://github.com/microsoft/windows-rs",
+    "lang": "Rust",
+    "desc": "Rust for Windows",
+    "cn": false
+  },
+  {
+    "title": "argoproj/argo-cd",
+    "url": "https://github.com/argoproj/argo-cd",
+    "lang": "Go",
+    "desc": "Declarative continuous deployment for Kubernetes.",
+    "cn": false
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "cn": false
+  },
+  {
+    "title": "microsoft/win32metadata",
+    "url": "https://github.com/microsoft/win32metadata",
+    "lang": "C#",
+    "desc": "Tooling to generate metadata for Win32 APIs in the Windows SDK.",
+    "cn": false
+  },
+  {
+    "title": "CRED-CLUB/synth-ios",
+    "url": "https://github.com/CRED-CLUB/synth-ios",
+    "lang": "Swift",
+    "desc": "Synth is CRED's inbuilt library for using Neumorphic components in your app.",
+    "cn": false
+  },
+  {
+    "title": "harryheman/React-Questions",
+    "url": "https://github.com/harryheman/React-Questions",
+    "desc": "Вопросы по React для подготовки к собеседованию",
+    "cn": false
+  },
+  {
+    "title": "softchris/react-book",
+    "url": "https://github.com/softchris/react-book",
+    "lang": "HTML",
+    "desc": "Book covering fundamentals on React",
+    "cn": false
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "lang": "Vue",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "cn": true
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python",
+    "desc": "scikit-learn: machine learning in Python",
+    "cn": false
+  },
+  {
+    "title": "rqlite/rqlite",
+    "url": "https://github.com/rqlite/rqlite",
+    "lang": "Go",
+    "desc": "The lightweight, distributed relational database built on SQLite.",
+    "cn": false
+  },
+  {
+    "title": "radzenhq/radzen-blazor",
+    "url": "https://github.com/radzenhq/radzen-blazor",
+    "lang": "CSS",
+    "desc": "The home of the Radzen Blazor components.",
+    "cn": false
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "cn": false
+  },
+  {
+    "title": "six2dez/reconftw",
+    "url": "https://github.com/six2dez/reconftw",
+    "lang": "Shell",
+    "desc": "Simple script for full recon",
+    "cn": false
+  },
+  {
+    "title": "akaneia/akaneia-build",
+    "url": "https://github.com/akaneia/akaneia-build",
+    "desc": "wip",
+    "cn": false
+  },
+  {
+    "title": "leon-thomm/Ryven",
+    "url": "https://github.com/leon-thomm/Ryven",
+    "lang": "Python",
+    "desc": "Flow-based visual scripting for Python",
+    "cn": false
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python",
+    "desc": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "microsoft/fluentui",
+    "url": "https://github.com/microsoft/fluentui",
+    "lang": "TypeScript",
+    "desc": "Fluent UI web represents a collection of utilities, React components, and web components for building web applications.",
+    "cn": false
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "cn": false
+  }
+]
