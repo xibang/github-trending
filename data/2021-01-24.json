@@ -1,0 +1,173 @@
+[
+  {
+    "title": "raspberrypi/pico-sdk",
+    "url": "https://github.com/raspberrypi/pico-sdk",
+    "lang": "C"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "cn": false
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "lang": "Rust",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "cn": false
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++",
+    "desc": "The Serenity Operating System 🐞",
+    "cn": false
+  },
+  {
+    "title": "raspberrypi/pico-examples",
+    "url": "https://github.com/raspberrypi/pico-examples",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "lang": "C",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "cn": false
+  },
+  {
+    "title": "pingcap/talent-plan",
+    "url": "https://github.com/pingcap/talent-plan",
+    "lang": "Rust",
+    "desc": "open source training courses about distributed database and distributed systemes",
+    "cn": false
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "lang": "TypeScript",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "cn": false
+  },
+  {
+    "title": "pimoroni/pimoroni-pico",
+    "url": "https://github.com/pimoroni/pimoroni-pico",
+    "lang": "C++",
+    "desc": "Libraries and examples to support Pimoroni Pico add-ons in C++ and MicroPython.",
+    "cn": false
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "cn": false
+  },
+  {
+    "title": "leon-thomm/Ryven",
+    "url": "https://github.com/leon-thomm/Ryven",
+    "lang": "Python",
+    "desc": "Flow-based visual scripting for Python",
+    "cn": false
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "HTML",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "cn": false
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "lang": "C",
+    "desc": "An open source cross-platform USB stack for embedded system",
+    "cn": false
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python",
+    "desc": "scikit-learn: machine learning in Python",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal and the original Windows console host, all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "rqlite/rqlite",
+    "url": "https://github.com/rqlite/rqlite",
+    "lang": "Go",
+    "desc": "The lightweight, distributed relational database built on SQLite.",
+    "cn": false
+  },
+  {
+    "title": "benbjohnson/wtf",
+    "url": "https://github.com/benbjohnson/wtf",
+    "lang": "Go",
+    "desc": "WTF Dial is an example application written in Go.",
+    "cn": false
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "cn": false
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java",
+    "desc": "Design patterns implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "lang": "C#",
+    "desc": "The Free Software Media System",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in Python using Scikit-Learn, Keras and TensorFlow 2.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, follow your own pace.",
+    "cn": false
+  }
+]
