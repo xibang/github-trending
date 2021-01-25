@@ -1,0 +1,174 @@
+[
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "lang": "TypeScript",
+    "desc": "Deskreen turns any device with a web browser to a second screen for your computer",
+    "cn": false
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "firecracker-microvm/firecracker",
+    "url": "https://github.com/firecracker-microvm/firecracker",
+    "lang": "Rust",
+    "desc": "Secure and fast microVMs for serverless computing.",
+    "cn": false
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "wesdoyle/design-patterns-explained-with-food",
+    "url": "https://github.com/wesdoyle/design-patterns-explained-with-food",
+    "lang": "C#",
+    "desc": "GoF Design Patterns with \"Real-World\" examples involving Food-Related Businesses and mock dependencies",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "cn": false
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "HTML",
+    "desc": "Matrix (An open network for secure, decentralized communication) server setup using Ansible and Docker",
+    "cn": false
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "lang": "C",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "cn": false
+  },
+  {
+    "title": "raspberrypi/pico-sdk",
+    "url": "https://github.com/raspberrypi/pico-sdk",
+    "lang": "C"
+  },
+  {
+    "title": "peng-zhihui/HoloCubic",
+    "url": "https://github.com/peng-zhihui/HoloCubic",
+    "lang": "C",
+    "desc": "透明小电视",
+    "cn": true
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "six2dez/reconftw",
+    "url": "https://github.com/six2dez/reconftw",
+    "lang": "Shell",
+    "desc": "Simple script for full recon",
+    "cn": false
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "lang": "Swift",
+    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "cn": false
+  },
+  {
+    "title": "bwasti/mebm",
+    "url": "https://github.com/bwasti/mebm",
+    "lang": "JavaScript",
+    "desc": "zero-dependency browser-based video editor",
+    "cn": false
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
+    "cn": false
+  },
+  {
+    "title": "nicksawhney/bernie-sits",
+    "url": "https://github.com/nicksawhney/bernie-sits",
+    "lang": "Python",
+    "desc": "A site that went kinda viral that lets you put Bernie Sanders in places",
+    "cn": false
+  },
+  {
+    "title": "scikit-learn/scikit-learn",
+    "url": "https://github.com/scikit-learn/scikit-learn",
+    "lang": "Python",
+    "desc": "scikit-learn: machine learning in Python",
+    "cn": false
+  },
+  {
+    "title": "revolist/revogrid",
+    "url": "https://github.com/revolist/revogrid",
+    "lang": "TypeScript",
+    "desc": "Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance 🔋",
+    "cn": false
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "cn": false
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "lang": "Go",
+    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "cn": true
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++",
+    "desc": "The Serenity Operating System 🐞",
+    "cn": false
+  },
+  {
+    "title": "rxi/lite",
+    "url": "https://github.com/rxi/lite",
+    "lang": "Lua",
+    "desc": "A lightweight text editor written in Lua",
+    "cn": false
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "cn": false
+  }
+]
