@@ -1,0 +1,169 @@
+[
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "lang": "Python",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "cn": true
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "lang": "JupyterNotebook",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "cn": false
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "lang": "JavaScript",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "cn": false
+  },
+  {
+    "title": "dsmaynard/fungal_biogeography",
+    "url": "https://github.com/dsmaynard/fungal_biogeography",
+    "lang": "HTML"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "rust-analyzer/rust-analyzer",
+    "url": "https://github.com/rust-analyzer/rust-analyzer",
+    "lang": "Rust",
+    "desc": "An experimental Rust compiler front-end for IDEs",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "lang": "Python",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "cn": false
+  },
+  {
+    "title": "Netflix/dgs-framework",
+    "url": "https://github.com/Netflix/dgs-framework",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources",
+    "cn": false
+  },
+  {
+    "title": "abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "url": "https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "lang": "Dart",
+    "desc": "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.",
+    "cn": false
+  },
+  {
+    "title": "tastyigniter/TastyIgniter",
+    "url": "https://github.com/tastyigniter/TastyIgniter",
+    "lang": "PHP",
+    "desc": "🔥 Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system",
+    "cn": false
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++",
+    "desc": "The Serenity Operating System 🐞",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-TLS-Proxy",
+    "url": "https://github.com/signalapp/Signal-TLS-Proxy",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Homebrew/brew",
+    "url": "https://github.com/Homebrew/brew",
+    "lang": "Ruby",
+    "desc": "🍺 The missing package manager for macOS (or Linux)",
+    "cn": false
+  },
+  {
+    "title": "archivy/archivy",
+    "url": "https://github.com/archivy/archivy",
+    "lang": "Python",
+    "desc": "Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.",
+    "cn": false
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C",
+    "desc": "OpenCore bootloader",
+    "cn": false
+  },
+  {
+    "title": "kangvcar/InfoSpider",
+    "url": "https://github.com/kangvcar/InfoSpider",
+    "lang": "Python",
+    "desc": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "cn": true
+  },
+  {
+    "title": "greatsuspender/thegreatsuspender",
+    "url": "https://github.com/greatsuspender/thegreatsuspender",
+    "lang": "JavaScript",
+    "desc": "A chrome extension for suspending all tabs to free up memory",
+    "cn": false
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "lang": "C",
+    "desc": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "cn": false
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python",
+    "desc": "Free, open source crypto trading bot",
+    "cn": false
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "cn": false
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "cn": false
+  }
+]
