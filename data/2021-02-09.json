@@ -1,0 +1,170 @@
+[
+  {
+    "title": "iam-abbas/Reddit-Stock-Trends",
+    "url": "https://github.com/iam-abbas/Reddit-Stock-Trends",
+    "lang": "Python",
+    "desc": "Fetch currently trending stocks on Reddit",
+    "cn": false
+  },
+  {
+    "title": "iann0036/iamlive",
+    "url": "https://github.com/iann0036/iamlive",
+    "lang": "Go",
+    "desc": "Generate a basic IAM policy from AWS client-side monitoring (CSM)",
+    "cn": false
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "lang": "JupyterNotebook",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "cn": false
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "lang": "Python",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "cn": true
+  },
+  {
+    "title": "tastyigniter/TastyIgniter",
+    "url": "https://github.com/tastyigniter/TastyIgniter",
+    "lang": "PHP",
+    "desc": "🔥 Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system",
+    "cn": false
+  },
+  {
+    "title": "aquasecurity/trivy",
+    "url": "https://github.com/aquasecurity/trivy",
+    "lang": "Go",
+    "desc": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+    "cn": false
+  },
+  {
+    "title": "abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "url": "https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "lang": "Dart",
+    "desc": "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.",
+    "cn": false
+  },
+  {
+    "title": "Soldat/soldat",
+    "url": "https://github.com/Soldat/soldat",
+    "lang": "Pascal",
+    "desc": "Soldat is a unique 2D (side-view) multiplayer action game",
+    "cn": false
+  },
+  {
+    "title": "Sunert/Scripts",
+    "url": "https://github.com/Sunert/Scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python",
+    "desc": "Free, open source crypto trading bot",
+    "cn": false
+  },
+  {
+    "title": "dkhamsing/open-source-ios-apps",
+    "url": "https://github.com/dkhamsing/open-source-ios-apps",
+    "lang": "Swift",
+    "desc": "📱 Collaborative List of Open-Source iOS Apps",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "cn": false
+  },
+  {
+    "title": "cloudcommunity/Free-Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "desc": "Curated list of free courses & certifications",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "cn": false
+  },
+  {
+    "title": "Kaiyiwing/qwerty-learner",
+    "url": "https://github.com/Kaiyiwing/qwerty-learner",
+    "lang": "TypeScript",
+    "desc": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件",
+    "cn": true
+  },
+  {
+    "title": "nandorojo/moti",
+    "url": "https://github.com/nandorojo/moti",
+    "lang": "TypeScript",
+    "desc": "🐼 The universal React Native animation library, powered by Reanimated 2.",
+    "cn": false
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (February 2021)",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources",
+    "cn": false
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "lang": "TypeScript",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "cn": false
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "lang": "JupyterNotebook",
+    "desc": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "cn": false
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "cn": false
+  }
+]
