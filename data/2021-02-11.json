@@ -1,0 +1,174 @@
+[
+  {
+    "title": "conwnet/github1s",
+    "url": "https://github.com/conwnet/github1s",
+    "lang": "TypeScript",
+    "desc": "One second to read GitHub code with VS Code.",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell",
+    "desc": "Azure Quickstart Templates",
+    "cn": false
+  },
+  {
+    "title": "iam-abbas/Reddit-Stock-Trends",
+    "url": "https://github.com/iam-abbas/Reddit-Stock-Trends",
+    "lang": "Python",
+    "desc": "Fetch currently trending stocks on Reddit",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "JonnyBurger/remotion",
+    "url": "https://github.com/JonnyBurger/remotion",
+    "lang": "TypeScript",
+    "desc": "🎥 Create videos programmatically in React",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "cn": false
+  },
+  {
+    "title": "aws/amazon-sagemaker-examples",
+    "url": "https://github.com/aws/amazon-sagemaker-examples",
+    "lang": "JupyterNotebook",
+    "desc": "Example notebooks that show how to apply machine learning, deep learning and reinforcement learning in Amazon SageMaker",
+    "cn": false
+  },
+  {
+    "title": "felixge/go-profiler-notes",
+    "url": "https://github.com/felixge/go-profiler-notes",
+    "lang": "JupyterNotebook",
+    "desc": "My notes on the various go profiling methods that are available.",
+    "cn": false
+  },
+  {
+    "title": "JonnyBurger/remotion-trailer",
+    "url": "https://github.com/JonnyBurger/remotion-trailer",
+    "lang": "TypeScript",
+    "desc": "A video written in React",
+    "cn": false
+  },
+  {
+    "title": "mozilla-mobile/firefox-ios",
+    "url": "https://github.com/mozilla-mobile/firefox-ios",
+    "lang": "Swift",
+    "desc": "Firefox for iOS",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "lang": "C#",
+    "desc": "Microsoft Azure PowerShell",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "TypeScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "lang": "TypeScript",
+    "desc": "Virtual whiteboard for sketching hand-drawn like diagrams",
+    "cn": false
+  },
+  {
+    "title": "engindemirog/KampFinalProject",
+    "url": "https://github.com/engindemirog/KampFinalProject",
+    "lang": "C#",
+    "desc": "Yazılım Geliştirici Yetiştirme Kampı Büyük Proje",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/terraform-provider-aws",
+    "url": "https://github.com/hashicorp/terraform-provider-aws",
+    "lang": "Go",
+    "desc": "Terraform AWS provider",
+    "cn": false
+  },
+  {
+    "title": "jomjol/AI-on-the-edge-device",
+    "url": "https://github.com/jomjol/AI-on-the-edge-device",
+    "lang": "C++"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (February 2021)",
+    "cn": false
+  },
+  {
+    "title": "Seagate/cortx",
+    "url": "https://github.com/Seagate/cortx",
+    "lang": "JupyterNotebook",
+    "desc": "CORTX Community Object Storage is 100% open source object storage uniquely optimized for mass capacity storage devices.",
+    "cn": false
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources",
+    "cn": false
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "cn": false
+  },
+  {
+    "title": "EvotecIT/GPOZaurr",
+    "url": "https://github.com/EvotecIT/GPOZaurr",
+    "lang": "PowerShell",
+    "desc": "Group Policy Eater is a PowerShell module that aims to gather information about Group Policies but also allows fixing issues that you may find in them.",
+    "cn": false
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "lang": "JavaScript",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "cn": false
+  }
+]
