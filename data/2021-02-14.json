@@ -1,0 +1,175 @@
+[
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "lang": "JavaScript",
+    "desc": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "cn": false
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript",
+    "desc": "The home for voice conversations.",
+    "cn": false
+  },
+  {
+    "title": "flameshot-org/flameshot",
+    "url": "https://github.com/flameshot-org/flameshot",
+    "lang": "C++",
+    "desc": "Powerful yet simple to use screenshot software 🖥️ 📸",
+    "cn": false
+  },
+  {
+    "title": "ratfactor/ziglings",
+    "url": "https://github.com/ratfactor/ziglings",
+    "lang": "Zig",
+    "desc": "Learn the Zig programming language by fixing tiny broken programs.",
+    "cn": false
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "lang": "HTML",
+    "desc": "A fast, clean, responsive Hugo theme",
+    "cn": false
+  },
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "lang": "C",
+    "desc": "Simple Directmedia Layer",
+    "cn": false
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "lang": "Python",
+    "desc": "What the f*ck Python? 😱",
+    "cn": false
+  },
+  {
+    "title": "mbround18/valheim-docker",
+    "url": "https://github.com/mbround18/valheim-docker",
+    "lang": "Rust",
+    "desc": "Valheim Docker server with Odin the CLI tool.",
+    "cn": false
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "skerkour/bloom",
+    "url": "https://github.com/skerkour/bloom",
+    "lang": "Rust",
+    "desc": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
+    "cn": false
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "lang": "Swift",
+    "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps",
+    "cn": false
+  },
+  {
+    "title": "PojavLauncherTeam/PojavLauncher_iOS",
+    "url": "https://github.com/PojavLauncherTeam/PojavLauncher_iOS",
+    "lang": "Java",
+    "desc": "Minecraft: Java Edition launcher for iOS",
+    "cn": false
+  },
+  {
+    "title": "yugedata/Options_Data_Science",
+    "url": "https://github.com/yugedata/Options_Data_Science",
+    "lang": "Python",
+    "desc": "Collecting, analyzing, visualizing & paper trading options market data",
+    "cn": false
+  },
+  {
+    "title": "florisboard/florisboard",
+    "url": "https://github.com/florisboard/florisboard",
+    "lang": "Kotlin",
+    "desc": "An open-source keyboard for Android. Currently in alpha/early-beta stage.",
+    "cn": false
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "cn": false
+  },
+  {
+    "title": "engindemirog/KampFinalProject",
+    "url": "https://github.com/engindemirog/KampFinalProject",
+    "lang": "C#",
+    "desc": "Yazılım Geliştirici Yetiştirme Kampı Büyük Proje",
+    "cn": false
+  },
+  {
+    "title": "yamashi/CyberEngineTweaks",
+    "url": "https://github.com/yamashi/CyberEngineTweaks",
+    "lang": "C",
+    "desc": "Performance boost, bug fixes and hacks for fun for Cyberpunk 2077",
+    "cn": false
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "cn": false
+  },
+  {
+    "title": "arslanbilal/git-cheat-sheet",
+    "url": "https://github.com/arslanbilal/git-cheat-sheet",
+    "desc": "git and git flow cheat sheet",
+    "cn": false
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript",
+    "desc": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "loseys/BlackMamba",
+    "url": "https://github.com/loseys/BlackMamba",
+    "lang": "Python",
+    "desc": "C2/post-exploitation framework",
+    "cn": false
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++",
+    "desc": "Bitcoin Core integration/staging tree",
+    "cn": false
+  }
+]
