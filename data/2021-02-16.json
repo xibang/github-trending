@@ -1,0 +1,174 @@
+[
+  {
+    "title": "GTAmodding/re3",
+    "url": "https://github.com/GTAmodding/re3",
+    "lang": "C++",
+    "desc": "GTA III, Vice City",
+    "cn": false
+  },
+  {
+    "title": "rand-net/khan-dl",
+    "url": "https://github.com/rand-net/khan-dl",
+    "lang": "Python",
+    "desc": "Download courses from khanacademy.org",
+    "cn": false
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java",
+    "desc": "A libre lightweight streaming front-end for Android.",
+    "cn": false
+  },
+  {
+    "title": "kubernetes/website",
+    "url": "https://github.com/kubernetes/website",
+    "lang": "HTML",
+    "desc": "Kubernetes website and documentation repo:",
+    "cn": false
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "OWASP/CheatSheetSeries",
+    "url": "https://github.com/OWASP/CheatSheetSeries",
+    "lang": "Python",
+    "desc": "The OWASP Cheat Sheet Series was created to provide a concise collection of high value information on specific application security topics.",
+    "cn": false
+  },
+  {
+    "title": "deepfence/SecretScanner",
+    "url": "https://github.com/deepfence/SecretScanner",
+    "lang": "Go",
+    "desc": "Find secrets and passwords in container images and file systems",
+    "cn": false
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "benawad/dogehouse",
+    "url": "https://github.com/benawad/dogehouse",
+    "lang": "TypeScript",
+    "desc": "The home for voice conversations.",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "cn": false
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "cn": false
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "cn": false
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "JavaScript",
+    "desc": "freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.",
+    "cn": false
+  },
+  {
+    "title": "aaronwangy/Data-Science-Cheatsheet",
+    "url": "https://github.com/aaronwangy/Data-Science-Cheatsheet",
+    "lang": "TeX",
+    "desc": "A helpful 4-page data science cheatsheet to assist with exam reviews, interview prep, and anything in-between.",
+    "cn": false
+  },
+  {
+    "title": "Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "url": "https://github.com/Melvin-Abraham/Google-Assistant-Unofficial-Desktop-Client",
+    "lang": "JavaScript",
+    "desc": "A cross-platform unofficial Google Assistant Client for Desktop (powered by Google Assistant SDK)",
+    "cn": false
+  },
+  {
+    "title": "ant-design/ant-design-pro",
+    "url": "https://github.com/ant-design/ant-design-pro",
+    "lang": "TypeScript",
+    "desc": "👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "skerkour/bloom",
+    "url": "https://github.com/skerkour/bloom",
+    "lang": "Rust",
+    "desc": "The simplest way to de-Google your life and business: Inbox, Calendar, Files, Contacts & much more",
+    "cn": false
+  },
+  {
+    "title": "kenwheeler/slick",
+    "url": "https://github.com/kenwheeler/slick",
+    "lang": "JavaScript",
+    "desc": "the last carousel you'll ever need",
+    "cn": false
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python",
+    "desc": "Automated cryptocurrency trading bot",
+    "cn": false
+  },
+  {
+    "title": "eriklindernoren/ML-From-Scratch",
+    "url": "https://github.com/eriklindernoren/ML-From-Scratch",
+    "lang": "Python",
+    "desc": "Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  }
+]
