@@ -1,0 +1,171 @@
+[
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python",
+    "desc": "Automated cryptocurrency trading bot",
+    "cn": false
+  },
+  {
+    "title": "activeloopai/Hub",
+    "url": "https://github.com/activeloopai/Hub",
+    "lang": "Python",
+    "desc": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
+    "cn": false
+  },
+  {
+    "title": "Bugswriter/tuxi",
+    "url": "https://github.com/Bugswriter/tuxi",
+    "lang": "Shell",
+    "desc": "Tuxi is a cli assistant. Get answers of your questions instantly.",
+    "cn": false
+  },
+  {
+    "title": "surfcodes/surf",
+    "url": "https://github.com/surfcodes/surf",
+    "lang": "TypeScript",
+    "desc": "surf GitHub code with VS Code. (with CLI, chrome extensions)",
+    "cn": false
+  },
+  {
+    "title": "salesforce/cloudsplaining",
+    "url": "https://github.com/salesforce/cloudsplaining",
+    "lang": "JavaScript",
+    "desc": "Cloudsplaining is an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized report.",
+    "cn": false
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "cn": false
+  },
+  {
+    "title": "davidfowl/DotNetCodingPatterns",
+    "url": "https://github.com/davidfowl/DotNetCodingPatterns",
+    "desc": "A collection of coding patterns in no particular order",
+    "cn": false
+  },
+  {
+    "title": "lutfumertceylan/top25-parameter",
+    "url": "https://github.com/lutfumertceylan/top25-parameter",
+    "desc": "For basic researches, top 25 vulnerability parameters that can be used in automation tools or manual recon. 🛡️⚔️🧙",
+    "cn": false
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript",
+    "desc": "⭐️ Companies that don't have a broken hiring process",
+    "cn": false
+  },
+  {
+    "title": "VITA-Group/TransGAN",
+    "url": "https://github.com/VITA-Group/TransGAN",
+    "lang": "Python",
+    "desc": "[Preprint] \"TransGAN: Two Transformers Can Make One Strong GAN\", Yifan Jiang, Shiyu Chang, Zhangyang Wang",
+    "cn": false
+  },
+  {
+    "title": "nodejs/undici",
+    "url": "https://github.com/nodejs/undici",
+    "lang": "JavaScript",
+    "desc": "An HTTP/1.1 client, written from scratch for Node.js",
+    "cn": false
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "cn": false
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "lang": "Go",
+    "desc": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "cn": false
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "cn": false
+  },
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "lang": "Python",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "cn": false
+  },
+  {
+    "title": "globalaihub/introduction-to-python",
+    "url": "https://github.com/globalaihub/introduction-to-python",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "cn": true
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "cn": false
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "lang": "Julia",
+    "desc": "Course 18.S191 at MIT, Spring 2021 - Introduction to computational thinking with Julia:",
+    "cn": false
+  },
+  {
+    "title": "MManoah/league-profile-tool",
+    "url": "https://github.com/MManoah/league-profile-tool",
+    "lang": "JavaScript",
+    "desc": "An application that lets you make specific requests to the LCU api to change how your profile looks",
+    "cn": false
+  },
+  {
+    "title": "CoatiSoftware/Sourcetrail",
+    "url": "https://github.com/CoatiSoftware/Sourcetrail",
+    "lang": "C++",
+    "desc": "Sourcetrail - free and open-source interactive source explorer",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "dani-garcia/bitwarden_rs",
+    "url": "https://github.com/dani-garcia/bitwarden_rs",
+    "lang": "JavaScript",
+    "desc": "Unofficial Bitwarden compatible server written in Rust",
+    "cn": false
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "lang": "TypeScript",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "cn": false
+  },
+  {
+    "title": "evanw/esbuild",
+    "url": "https://github.com/evanw/esbuild",
+    "lang": "Go",
+    "desc": "An extremely fast JavaScript bundler and minifier",
+    "cn": false
+  }
+]
