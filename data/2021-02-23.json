@@ -1,0 +1,169 @@
+[
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "cn": true
+  },
+  {
+    "title": "google/model_search",
+    "url": "https://github.com/google/model_search",
+    "lang": "Python"
+  },
+  {
+    "title": "ai-eks/OpenClubhouse",
+    "url": "https://github.com/ai-eks/OpenClubhouse",
+    "lang": "JavaScript",
+    "desc": "A third-part web application based on flask to play Clubhouse audio.",
+    "cn": false
+  },
+  {
+    "title": "n64decomp/sm64",
+    "url": "https://github.com/n64decomp/sm64",
+    "lang": "C",
+    "desc": "A Super Mario 64 decompilation, brought to you by a bunch of clever folks.",
+    "cn": false
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "lang": "TypeScript",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "cn": false
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "cn": false
+  },
+  {
+    "title": "zhuowei/hipster.house",
+    "url": "https://github.com/zhuowei/hipster.house",
+    "lang": "HTML"
+  },
+  {
+    "title": "grishka/Houseclub",
+    "url": "https://github.com/grishka/Houseclub",
+    "lang": "Java",
+    "desc": "A barebones unofficial Android app for Clubhouse",
+    "cn": false
+  },
+  {
+    "title": "dotnet-architecture/eShopOnDapr",
+    "url": "https://github.com/dotnet-architecture/eShopOnDapr",
+    "lang": "C#",
+    "desc": "A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",
+    "cn": false
+  },
+  {
+    "title": "ai-eks/OpenClubhouse-Worker",
+    "url": "https://github.com/ai-eks/OpenClubhouse-Worker",
+    "lang": "Python",
+    "desc": "A simple worker for OpenClubhouse to sync data.",
+    "cn": false
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "lang": "Assembly"
+  },
+  {
+    "title": "pystardust/ytfzf",
+    "url": "https://github.com/pystardust/ytfzf",
+    "lang": "Shell",
+    "desc": "A posix script to find and watch youtube videos from the terminal. (With out API)",
+    "cn": false
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "lang": "JavaScript",
+    "desc": "A list of engineering manager resource links.",
+    "cn": false
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "lang": "JavaScript",
+    "desc": "Mostly adequate guide to FP (in javascript)",
+    "cn": false
+  },
+  {
+    "title": "exadel-inc/CompreFace",
+    "url": "https://github.com/exadel-inc/CompreFace",
+    "lang": "Python",
+    "desc": "Free and open-source face recognition system from Exadel",
+    "cn": false
+  },
+  {
+    "title": "Immediate-Mode-UI/Nuklear",
+    "url": "https://github.com/Immediate-Mode-UI/Nuklear",
+    "lang": "C",
+    "desc": "A single-header ANSI C immediate mode cross-platform GUI library",
+    "cn": false
+  },
+  {
+    "title": "therealsreehari/Learn-Data-Science-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Data-Science-For-Free",
+    "desc": "This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in …",
+    "cn": false
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "lang": "Go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "cn": false
+  },
+  {
+    "title": "SuperManito/JD-FreeFuck",
+    "url": "https://github.com/SuperManito/JD-FreeFuck",
+    "lang": "Shell",
+    "desc": "《JD薅羊毛》一键部署 For Linux",
+    "cn": true
+  },
+  {
+    "title": "Snowtrack/SnowFS",
+    "url": "https://github.com/Snowtrack/SnowFS",
+    "lang": "TypeScript",
+    "desc": "👋 [Looking for maintainers] SnowFS - a fast, scalable version control file storage for graphic files 🎨",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java",
+    "desc": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
+    "cn": true
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "lang": "Python",
+    "desc": "🤗Transformers: State-of-the-art Natural Language Processing for Pytorch and TensorFlow 2.0.",
+    "cn": false
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "lang": "JavaScript",
+    "desc": "API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)",
+    "cn": false
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "cn": false
+  }
+]
