@@ -1,0 +1,170 @@
+[
+  {
+    "title": "liamg/traitor",
+    "url": "https://github.com/liamg/traitor",
+    "lang": "Go",
+    "desc": "Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins ⬆️ ☠️",
+    "cn": false
+  },
+  {
+    "title": "google/model_search",
+    "url": "https://github.com/google/model_search",
+    "lang": "Python"
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "tree-sitter/tree-sitter",
+    "url": "https://github.com/tree-sitter/tree-sitter",
+    "lang": "Rust",
+    "desc": "An incremental parsing system for programming tools",
+    "cn": false
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "lang": "JavaScript",
+    "desc": "📱 Automation for iOS, Android, and Windows Apps.",
+    "cn": false
+  },
+  {
+    "title": "dotnet-architecture/eShopOnDapr",
+    "url": "https://github.com/dotnet-architecture/eShopOnDapr",
+    "lang": "C#",
+    "desc": "A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "pystardust/ytfzf",
+    "url": "https://github.com/pystardust/ytfzf",
+    "lang": "Shell",
+    "desc": "A posix script to find and watch youtube videos from the terminal. (With out API)",
+    "cn": false
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript",
+    "desc": "JavaScript Style Guide",
+    "cn": false
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+    "cn": false
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript",
+    "desc": "Move your mouse, generate code from flow chart",
+    "cn": false
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "lang": "TypeScript",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java",
+    "desc": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
+    "cn": true
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-eks",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-eks",
+    "lang": "HCL",
+    "desc": "Terraform module to create an Elastic Kubernetes (EKS) cluster and associated worker instances on AWS",
+    "cn": false
+  },
+  {
+    "title": "grishka/Houseclub",
+    "url": "https://github.com/grishka/Houseclub",
+    "lang": "Java",
+    "desc": "A barebones unofficial Android app for Clubhouse",
+    "cn": false
+  },
+  {
+    "title": "nextcloud/server",
+    "url": "https://github.com/nextcloud/server",
+    "lang": "PHP",
+    "desc": "☁️ Nextcloud server, a safe home for all your data",
+    "cn": false
+  },
+  {
+    "title": "dockere/jd-base",
+    "url": "https://github.com/dockere/jd-base",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "lang": "Go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "cn": false
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "lang": "JavaScript",
+    "desc": "Mostly adequate guide to FP (in javascript)",
+    "cn": false
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "lang": "Go",
+    "desc": "The Go programming language",
+    "cn": false
+  },
+  {
+    "title": "SuperManito/JD-FreeFuck",
+    "url": "https://github.com/SuperManito/JD-FreeFuck",
+    "lang": "Shell",
+    "desc": "《JD薅羊毛》一键部署 For Linux",
+    "cn": true
+  },
+  {
+    "title": "VeryGoodOpenSource/very_good_cli",
+    "url": "https://github.com/VeryGoodOpenSource/very_good_cli",
+    "lang": "Dart",
+    "desc": "A Very Good Command Line Interface for Dart created by Very Good Ventures 🦄",
+    "cn": false
+  },
+  {
+    "title": "rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "url": "https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python",
+    "lang": "JupyterNotebook",
+    "desc": "Kalman Filter book using Jupyter Notebook. Focuses on building intuition and experience, not formal proofs. Includes Kalman filters,extended Kalman filters, unscented Kalman filters, particle filters, and more. All exercises include solutions.",
+    "cn": false
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "lang": "Assembly"
+  },
+  {
+    "title": "elastic/kibana",
+    "url": "https://github.com/elastic/kibana",
+    "lang": "TypeScript",
+    "desc": "Your window into the Elastic Stack",
+    "cn": false
+  }
+]
