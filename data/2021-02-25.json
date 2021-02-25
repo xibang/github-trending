@@ -1,0 +1,168 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin",
+    "desc": "Official Jetpack Compose samples.",
+    "cn": false
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript",
+    "desc": "Move your mouse, generate code from flow chart",
+    "cn": false
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin",
+    "desc": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "cn": false
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "cn": false
+  },
+  {
+    "title": "CocoaPods/CocoaPods",
+    "url": "https://github.com/CocoaPods/CocoaPods",
+    "lang": "Ruby",
+    "desc": "The Cocoa Dependency Manager.",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "mtytel/vital",
+    "url": "https://github.com/mtytel/vital",
+    "lang": "C++",
+    "desc": "Spectral warping wavetable synth",
+    "cn": false
+  },
+  {
+    "title": "gto76/python-cheatsheet",
+    "url": "https://github.com/gto76/python-cheatsheet",
+    "lang": "Python",
+    "desc": "Comprehensive Python Cheatsheet",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "bawangxx/xz_voice",
+    "url": "https://github.com/bawangxx/xz_voice",
+    "lang": "Vue"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript",
+    "desc": "JavaScript Style Guide",
+    "cn": false
+  },
+  {
+    "title": "pystardust/ytfzf",
+    "url": "https://github.com/pystardust/ytfzf",
+    "lang": "Shell",
+    "desc": "A posix script to find and watch youtube videos from the terminal. (With out API)",
+    "cn": false
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "lang": "JavaScript",
+    "desc": "📱 Automation for iOS, Android, and Windows Apps.",
+    "cn": false
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "Haskell",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "cn": false
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "lang": "TypeScript",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "cn": false
+  },
+  {
+    "title": "athensresearch/athens",
+    "url": "https://github.com/athensresearch/athens",
+    "lang": "Clojure",
+    "desc": "Desktop app links: https://tinyurl.com/athens-mac, https://tinyurl.com/athens-windows, https://tinyurl.com/athens-linux; paid tiers available through https://opencollective.com/athens; try the demo at https://athensresearch.github.io/athens",
+    "cn": false
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming. Home of the A/HC/LC pattern.",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java",
+    "desc": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
+    "cn": true
+  },
+  {
+    "title": "data-science-on-aws/workshop",
+    "url": "https://github.com/data-science-on-aws/workshop",
+    "lang": "JupyterNotebook",
+    "desc": "AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker",
+    "cn": false
+  },
+  {
+    "title": "ryanburgess/engineer-manager",
+    "url": "https://github.com/ryanburgess/engineer-manager",
+    "lang": "JavaScript",
+    "desc": "A list of engineering manager resource links.",
+    "cn": false
+  },
+  {
+    "title": "davidcallanan/os-series",
+    "url": "https://github.com/davidcallanan/os-series",
+    "lang": "Assembly"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "lang": "C++",
+    "desc": "mold: A Modern Linker",
+    "cn": false
+  },
+  {
+    "title": "google/model_search",
+    "url": "https://github.com/google/model_search",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "Kotlin",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "therealsreehari/Learn-Data-Science-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Data-Science-For-Free",
+    "desc": "This repositary is a combination of different resources lying scattered all over the internet. The reason for making such an repositary is to combine all the valuable resources in a sequential manner, so that it helps every beginners who are in a search of free and structured learning resource for Data Science. For Constant Updates Follow me in …",
+    "cn": false
+  }
+]
