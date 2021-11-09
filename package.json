@@ -27,7 +27,7 @@
     "eslint-plugin-import": "^2.22.0"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "cheerio": "^1.0.0-rc.3"
   }
 }
