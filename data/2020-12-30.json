@@ -1,0 +1,165 @@
+[
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python"
+  },
+  {
+    "title": "thecodingmachine/workadventure",
+    "url": "https://github.com/thecodingmachine/workadventure",
+    "lang": "TypeScript",
+    "desc": "A collaborative web application (virtual office) presented as a 16-bit RPG video game",
+    "cn": false
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "cn": false
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "lang": "Python",
+    "desc": "Models and examples built with TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "cehui0303/Tmall_Tickets",
+    "url": "https://github.com/cehui0303/Tmall_Tickets",
+    "lang": "JavaScript",
+    "desc": "天猫超市茅台抢票功能",
+    "cn": true
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "lang": "C++",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations",
+    "url": "https://github.com/arpan74/Cracking-The-Coding-Interview-Python-Solutions-and-Explanations",
+    "desc": "Cracking the Coding Interview in Python 3. The solutions all have detailed explanations with visuals.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "flouthoc/vas-quod",
+    "url": "https://github.com/flouthoc/vas-quod",
+    "lang": "Rust",
+    "desc": "🚡 Minimal linux container runtime.",
+    "cn": false
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "lang": "JavaScript",
+    "desc": "API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)",
+    "cn": false
+  },
+  {
+    "title": "ansible/ansible",
+    "url": "https://github.com/ansible/ansible",
+    "lang": "Python",
+    "desc": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+    "cn": false
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "lang": "PHP",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "cn": true
+  },
+  {
+    "title": "RumbleMike/ValorantStreamOverlay",
+    "url": "https://github.com/RumbleMike/ValorantStreamOverlay",
+    "lang": "C#"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "anushka23g/Complete-Placement-Preparation",
+    "url": "https://github.com/anushka23g/Complete-Placement-Preparation",
+    "desc": "This repository consists of all the material required for cracking the coding rounds and technical interviews during placements.",
+    "cn": false
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "lang": "Rust",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "cn": false
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "lang": "C#",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "cn": false
+  },
+  {
+    "title": "KingOfBugbounty/KingOfBugBountyTips",
+    "url": "https://github.com/KingOfBugbounty/KingOfBugBountyTips"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "imarvinle/awesome-cs-books",
+    "url": "https://github.com/imarvinle/awesome-cs-books",
+    "desc": "经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等",
+    "cn": true
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "lang": "Python",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  }
+]

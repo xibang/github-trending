@@ -1,0 +1,166 @@
+[
+  {
+    "title": "microsoft/onnxruntime",
+    "url": "https://github.com/microsoft/onnxruntime",
+    "lang": "C++",
+    "desc": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+    "cn": false
+  },
+  {
+    "title": "CleverProgrammers/react-challenge-amazon-clone",
+    "url": "https://github.com/CleverProgrammers/react-challenge-amazon-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RadarCOVID/radar-covid-android",
+    "url": "https://github.com/RadarCOVID/radar-covid-android",
+    "lang": "Kotlin",
+    "desc": "Native Android app using DP^3T Android sdk to handle Exposure Notifications API from Google",
+    "cn": false
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript",
+    "desc": "The Intuitive Vue Framework",
+    "cn": false
+  },
+  {
+    "title": "RadarCOVID/radar-covid-ios",
+    "url": "https://github.com/RadarCOVID/radar-covid-ios",
+    "lang": "Swift",
+    "desc": "Native iOS app using DP^3T iOS sdk to handle Exposure Notification framework from Apple",
+    "cn": false
+  },
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "lang": "C++",
+    "desc": "Project Connected Home over IP is a new Working Group within the Zigbee Alliance. This Working Group plans to develop and promote the adoption of a new connectivity standard to increase compatibility among smart home products, with security as a fundamental design tenet.",
+    "cn": false
+  },
+  {
+    "title": "RadarCOVID/radar-covid-backend-verification-server",
+    "url": "https://github.com/RadarCOVID/radar-covid-backend-verification-server",
+    "lang": "Java",
+    "desc": "Radar COVID Verification Service",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "lang": "Python",
+    "desc": "This repository is for active development of the Azure SDK for Python. For consumers of the SDK we recommend visiting our public developer docs at https://docs.microsoft.com/en-us/python/azure/ or our versioned developer docs at https://azure.github.io/azure-sdk-for-python.",
+    "cn": false
+  },
+  {
+    "title": "tradytics/eiten",
+    "url": "https://github.com/tradytics/eiten",
+    "lang": "Python",
+    "desc": "Statistical and Algorithmic Investing Strategies for Everyone",
+    "cn": false
+  },
+  {
+    "title": "RadarCOVID/radar-covid-backend-dp3t-server",
+    "url": "https://github.com/RadarCOVID/radar-covid-backend-dp3t-server",
+    "lang": "Java",
+    "desc": "DP^3T Radar COVID fork",
+    "cn": false
+  },
+  {
+    "title": "Awesome-HarmonyOS/HarmonyOS",
+    "url": "https://github.com/Awesome-HarmonyOS/HarmonyOS",
+    "lang": "C",
+    "desc": "A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。",
+    "cn": true
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python",
+    "desc": "🎨 Diagram as Code for prototyping cloud system architectures",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "desc": "⚡ Delightful Node.js packages and resources",
+    "cn": false
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "lang": "Vue",
+    "desc": "▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞",
+    "cn": true
+  },
+  {
+    "title": "Maoni0/mem-doc",
+    "url": "https://github.com/Maoni0/mem-doc",
+    "desc": "This is a document to help with .NET memory analysis and diagnostics.",
+    "cn": false
+  },
+  {
+    "title": "satansdeer/minecraft-react",
+    "url": "https://github.com/satansdeer/minecraft-react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "IAmStoxe/wirehole",
+    "url": "https://github.com/IAmStoxe/wirehole"
+  },
+  {
+    "title": "bigfangfang/IBMVPS",
+    "url": "https://github.com/bigfangfang/IBMVPS",
+    "lang": "Batchfile",
+    "desc": "大方bigfangYouTube频道：https://bit.ly/332QGCa TG：@bigfangfang TG群：https://t.me/dafangbigfang",
+    "cn": true
+  },
+  {
+    "title": "microsoft/FluidFramework",
+    "url": "https://github.com/microsoft/FluidFramework",
+    "lang": "TypeScript",
+    "desc": "Library for building distributed, real-time collaborative web applications",
+    "cn": false
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "desc": "Becoming 1% better at data science everyday",
+    "cn": false
+  },
+  {
+    "title": "prometheus-community/helm-charts",
+    "url": "https://github.com/prometheus-community/helm-charts",
+    "lang": "HTML",
+    "desc": "Prometheus community Helm charts",
+    "cn": false
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#",
+    "desc": "PowerShell for every system!",
+    "cn": false
+  },
+  {
+    "title": "bclswl0827/v2ray-heroku",
+    "url": "https://github.com/bclswl0827/v2ray-heroku",
+    "lang": "Shell",
+    "desc": "用于在 Heroku 上部署 V2Ray Websocket，本项目不宜做为长期使用之对策。",
+    "cn": true
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "cn": false
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript",
+    "desc": "One framework. Mobile & desktop.",
+    "cn": false
+  }
+]

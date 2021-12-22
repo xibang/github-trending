@@ -1,0 +1,171 @@
+[
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "desc": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.",
+    "cn": false
+  },
+  {
+    "title": "camtheperson/get-my-ps5",
+    "url": "https://github.com/camtheperson/get-my-ps5",
+    "lang": "JavaScript",
+    "desc": "A CLI utility to help people secure a PlayStation 5 (PS5).",
+    "cn": false
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "lang": "Batchfile",
+    "desc": "A collection of scripts for activating Microsoft products using HWID / KMS38 / Online KMS activation methods with a focus on open-source code, less antivirus detection and user-friendliness.",
+    "cn": false
+  },
+  {
+    "title": "evansm7/vftool",
+    "url": "https://github.com/evansm7/vftool",
+    "lang": "Objective-C",
+    "desc": "A simple macOS Virtualisation.framework wrapper",
+    "cn": false
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "lang": "Python",
+    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "cn": false
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "cn": false
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "cn": false
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "lang": "Python",
+    "desc": "ThetaGang is an IBKR bot for collecting money",
+    "cn": false
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "lang": "Python",
+    "desc": "Qlib is an AI-oriented quantitative investment platform, which aims to realize the potential, empower the research, and create the value of AI technologies in quantitative investment. With Qlib, you can easily try your ideas to create better Quant investment strategies.",
+    "cn": false
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript",
+    "desc": "Lens - The Kubernetes IDE",
+    "cn": false
+  },
+  {
+    "title": "benawad/vsinder",
+    "url": "https://github.com/benawad/vsinder",
+    "lang": "TypeScript",
+    "desc": "Dating App for VSCode",
+    "cn": false
+  },
+  {
+    "title": "winXray/winXray",
+    "url": "https://github.com/winXray/winXray",
+    "desc": "About Xray / V2Ray( vmess/vless )、Shadowsocks、Trojan 通用客户端（Windows），可自动维持稳定上网 - 代理服务器异常自动切换，并提供一键部署代理服务端工具，使用 aardio 编写，绿色便携版免安装仅5MB、不需要.Net等外部运行库。",
+    "cn": true
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview",
+    "cn": false
+  },
+  {
+    "title": "AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo",
+    "url": "https://github.com/AnandaRauf/BotacsPro---Bot-Auto_Checkout-Flashsale-Shopee-Promo",
+    "lang": "VisualBasic.NET",
+    "desc": "Bot Auto Checkout Flashsale Shopee Promo (Botacs Pro)",
+    "cn": false
+  },
+  {
+    "title": "ossf/criticality_score",
+    "url": "https://github.com/ossf/criticality_score",
+    "lang": "Python",
+    "desc": "Gives criticality score for an open source project",
+    "cn": false
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "lang": "Python",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "cn": false
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "cn": false
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++",
+    "desc": "JSON for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "google-research/google-research",
+    "url": "https://github.com/google-research/google-research",
+    "lang": "JupyterNotebook",
+    "desc": "Google Research",
+    "cn": false
+  },
+  {
+    "title": "rocky-linux/infrastructure",
+    "url": "https://github.com/rocky-linux/infrastructure",
+    "lang": "HTML"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "seven332/EhViewer",
+    "url": "https://github.com/seven332/EhViewer",
+    "lang": "Java",
+    "desc": "[DEPRECATED] An Unofficial E-Hentai Application for Android",
+    "cn": false
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript",
+    "desc": "Visual Studio Code",
+    "cn": false
+  },
+  {
+    "title": "typesense/showcase-recipe-search",
+    "url": "https://github.com/typesense/showcase-recipe-search",
+    "lang": "JavaScript",
+    "desc": "An app showing Typesense Search in action on a 2M recipe database",
+    "cn": false
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "title": "LXK9301/jd_scripts",
+    "url": "https://github.com/LXK9301/jd_scripts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "developedbyed/glass-website",
+    "url": "https://github.com/developedbyed/glass-website",
+    "lang": "CSS"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python",
+    "desc": "Command-line program to download videos from YouTube.com and other video sites",
+    "cn": false
+  },
+  {
+    "title": "TelegramMessenger/Telegram-iOS",
+    "url": "https://github.com/TelegramMessenger/Telegram-iOS",
+    "lang": "Swift",
+    "desc": "Telegram-iOS",
+    "cn": false
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C",
+    "desc": "Display and control your Android device",
+    "cn": false
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "lang": "TypeScript",
+    "desc": "Free, open, Among Us Proximity Chat",
+    "cn": false
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "lang": "C#",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "cn": false
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell",
+    "desc": "Android terminal and Linux environment - packages repository.",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers and blogs by organizations sharing their work on data science & machine learning in production.",
+    "cn": false
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming.",
+    "cn": false
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "lang": "Python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "cn": false
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "cn": true
+  },
+  {
+    "title": "ml-tooling/best-of-python",
+    "url": "https://github.com/ml-tooling/best-of-python",
+    "lang": "Python",
+    "desc": "🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.",
+    "cn": false
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2021",
+    "cn": false
+  },
+  {
+    "title": "BenChaliah/Arbitrium-RAT",
+    "url": "https://github.com/BenChaliah/Arbitrium-RAT",
+    "lang": "Python",
+    "desc": "Arbitrium is a cross-platform, fully undetectable remote access trojan, to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding rules",
+    "cn": false
+  },
+  {
+    "title": "OpenIntelWireless/itlwm",
+    "url": "https://github.com/OpenIntelWireless/itlwm",
+    "lang": "C",
+    "desc": "Intel Wi-Fi Drivers for macOS",
+    "cn": false
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "ardalis/CleanArchitecture",
+    "url": "https://github.com/ardalis/CleanArchitecture",
+    "lang": "C#",
+    "desc": "A starting point for Clean Architecture with ASP.NET Core",
+    "cn": false
+  },
+  {
+    "title": "sandboxie-plus/Sandboxie",
+    "url": "https://github.com/sandboxie-plus/Sandboxie",
+    "lang": "C",
+    "desc": "Sandboxie - Open Source",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "stephentian/33-js-concepts",
+    "url": "https://github.com/stephentian/33-js-concepts",
+    "lang": "JavaScript",
+    "desc": "📜 每个 JavaScript 工程师都应懂的33个概念 @leonardomso",
+    "cn": true
+  },
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "lang": "C++",
+    "desc": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "cn": false
+  },
+  {
+    "title": "ml-tooling/best-of-web-python",
+    "url": "https://github.com/ml-tooling/best-of-web-python",
+    "lang": "Python",
+    "desc": "🏆 A ranked list of awesome python libraries for web development. Updated weekly.",
+    "cn": false
+  }
+]

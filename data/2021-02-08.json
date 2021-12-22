@@ -1,0 +1,171 @@
+[
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "lang": "Python",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "cn": true
+  },
+  {
+    "title": "abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "url": "https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web",
+    "lang": "Dart",
+    "desc": "We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "lang": "JupyterNotebook",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "cn": false
+  },
+  {
+    "title": "Kaiyiwing/qwerty-learner",
+    "url": "https://github.com/Kaiyiwing/qwerty-learner",
+    "lang": "TypeScript",
+    "desc": "为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件",
+    "cn": true
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python",
+    "desc": "Free, open source crypto trading bot",
+    "cn": false
+  },
+  {
+    "title": "bestony/neshouse",
+    "url": "https://github.com/bestony/neshouse",
+    "lang": "JavaScript",
+    "desc": "NESHouse.com —— An open source implementation of ClubHouse",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++",
+    "desc": "The Serenity Operating System 🐞",
+    "cn": false
+  },
+  {
+    "title": "tastyigniter/TastyIgniter",
+    "url": "https://github.com/tastyigniter/TastyIgniter",
+    "lang": "PHP",
+    "desc": "🔥 Powerful, yet easy to use, open source restaurant online ordering, table reservation and restaurant management system",
+    "cn": false
+  },
+  {
+    "title": "iam-abbas/Reddit-Stock-Trends",
+    "url": "https://github.com/iam-abbas/Reddit-Stock-Trends",
+    "lang": "Python",
+    "desc": "Fetch currently trending stocks on Reddit",
+    "cn": false
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "lang": "C",
+    "desc": "OBS Studio - Free and open source software for live streaming and screen recording",
+    "cn": false
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书下载，电子书下载，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "cn": true
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "lang": "JavaScript",
+    "desc": "Zigbee 🐝 to MQTT bridge 🌉, get rid of your proprietary Zigbee bridges 🔨",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "cn": false
+  },
+  {
+    "title": "archivy/archivy",
+    "url": "https://github.com/archivy/archivy",
+    "lang": "Python",
+    "desc": "Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.",
+    "cn": false
+  },
+  {
+    "title": "deeppomf/DeepCreamPy",
+    "url": "https://github.com/deeppomf/DeepCreamPy",
+    "lang": "Python",
+    "desc": "Decensoring Hentai with Deep Neural Networks",
+    "cn": false
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "lang": "Python",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-TLS-Proxy",
+    "url": "https://github.com/signalapp/Signal-TLS-Proxy",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "iann0036/iamlive",
+    "url": "https://github.com/iann0036/iamlive",
+    "lang": "Go",
+    "desc": "Generate a basic IAM policy from AWS client-side monitoring (CSM)",
+    "cn": false
+  },
+  {
+    "title": "cloudcommunity/Free-Certifications",
+    "url": "https://github.com/cloudcommunity/Free-Certifications",
+    "desc": "Curated list of free courses & certifications",
+    "cn": false
+  },
+  {
+    "title": "kangvcar/InfoSpider",
+    "url": "https://github.com/kangvcar/InfoSpider",
+    "lang": "Python",
+    "desc": "INFO-SPIDER 是一个集众多数据源于一身的爬虫工具箱🧰，旨在安全快捷的帮助用户拿回自己的数据，工具代码开源，流程透明。支持数据源包括GitHub、QQ邮箱、网易邮箱、阿里邮箱、新浪邮箱、Hotmail邮箱、Outlook邮箱、京东、淘宝、支付宝、中国移动、中国联通、中国电信、知乎、哔哩哔哩、网易云音乐、QQ好友、QQ群、生成朋友圈相册、浏览器浏览历史、12306、博客园、CSDN博客、开源中国博客、简书。",
+    "cn": true
+  },
+  {
+    "title": "dkhamsing/open-source-ios-apps",
+    "url": "https://github.com/dkhamsing/open-source-ios-apps",
+    "lang": "Swift",
+    "desc": "📱 Collaborative List of Open-Source iOS Apps",
+    "cn": false
+  },
+  {
+    "title": "alpinejs/alpine",
+    "url": "https://github.com/alpinejs/alpine",
+    "lang": "JavaScript",
+    "desc": "A rugged, minimal framework for composing JavaScript behavior in your markup.",
+    "cn": false
+  },
+  {
+    "title": "codeSTACKr/free-developer-resources",
+    "url": "https://github.com/codeSTACKr/free-developer-resources",
+    "desc": "Free Developer Resources",
+    "cn": false
+  }
+]

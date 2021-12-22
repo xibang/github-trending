@@ -1,0 +1,171 @@
+[
+  {
+    "title": "greatsuspender/thegreatsuspender",
+    "url": "https://github.com/greatsuspender/thegreatsuspender",
+    "lang": "JavaScript",
+    "desc": "A chrome extension for suspending all tabs to free up memory",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "progrium/macdriver",
+    "url": "https://github.com/progrium/macdriver",
+    "lang": "Go",
+    "desc": "Native Mac APIs for Go",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-TLS-Proxy",
+    "url": "https://github.com/signalapp/Signal-TLS-Proxy",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Netflix/dgs-framework",
+    "url": "https://github.com/Netflix/dgs-framework",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "lang": "Clojure",
+    "desc": "Penpot - The Open-Source prototyping tool",
+    "cn": false
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "cn": false
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "lang": "TypeScript",
+    "desc": "CLI tool for Angular",
+    "cn": false
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "lang": "Rust",
+    "desc": "A Flash Player emulator written in Rust",
+    "cn": false
+  },
+  {
+    "title": "archivy/archivy",
+    "url": "https://github.com/archivy/archivy",
+    "lang": "Python",
+    "desc": "Archivy is a self-hosted knowledge repository that allows you to safely preserve useful content that contributes to your own personal, searchable and extendable wiki.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "cn": false
+  },
+  {
+    "title": "pkhungurn/talking-head-anime-demo",
+    "url": "https://github.com/pkhungurn/talking-head-anime-demo",
+    "lang": "Python",
+    "desc": "Demo for the \"Talking Head Anime from a Single Image.\"",
+    "cn": false
+  },
+  {
+    "title": "aamini/introtodeeplearning",
+    "url": "https://github.com/aamini/introtodeeplearning",
+    "lang": "JupyterNotebook",
+    "desc": "Lab Materials for MIT 6.S191: Introduction to Deep Learning",
+    "cn": false
+  },
+  {
+    "title": "bestony/neshouse",
+    "url": "https://github.com/bestony/neshouse",
+    "lang": "JavaScript",
+    "desc": "NESHouse.com —— An open source implementation of ClubHouse",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript",
+    "desc": "Visual Studio Code",
+    "cn": false
+  },
+  {
+    "title": "SuperManito/JD-FreeFuck",
+    "url": "https://github.com/SuperManito/JD-FreeFuck",
+    "lang": "Shell",
+    "desc": "《JD薅羊毛》一键部署 For Linux",
+    "cn": true
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf",
+    "desc": "编程电子书下载，电子书下载，包括C，C#，Docker，Elasticsearch，Git，Hadoop，HeadFirst，Java，Javascript，jvm，Kafka，Linux，Maven，MongoDB，MyBatis，MySQL，Netty，Nginx，Python，RabbitMQ，Redis，Scala，Solr，Spark，Spring，SpringBoot，SpringCloud，TCPIP，Tomcat，Zookeeper，人工智能，大数据类，并发编程，数据库类，数据挖掘，新面试题，架构设计，算法系列，计算机类，设计模式，软件测试，重构优化，等更多分类",
+    "cn": true
+  },
+  {
+    "title": "haizlin/fe-interview",
+    "url": "https://github.com/haizlin/fe-interview",
+    "lang": "JavaScript",
+    "desc": "前端面试每日 3+1，以面试题来驱动学习，提倡每日学习与思考，每天进步一点！每天早上5点纯手工发布面试题（死磕自己，愉悦大家），4000+道前端面试题全面覆盖，HTML/CSS/JavaScript/Vue/React/Nodejs/TypeScript/ECMAScritpt/Webpack/Jquery/小程序/软技能……",
+    "cn": true
+  },
+  {
+    "title": "tgbot-collection/YYeTsBot",
+    "url": "https://github.com/tgbot-collection/YYeTsBot",
+    "lang": "Python",
+    "desc": "🎬 人人影视bot，完全对接人人影视全部无删减资源",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "Homebrew/brew",
+    "url": "https://github.com/Homebrew/brew",
+    "lang": "Ruby",
+    "desc": "🍺 The missing package manager for macOS (or Linux)",
+    "cn": false
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust",
+    "desc": "Empowering everyone to build reliable and efficient software.",
+    "cn": false
+  },
+  {
+    "title": "cosmos/cosmos-sdk",
+    "url": "https://github.com/cosmos/cosmos-sdk",
+    "lang": "Go",
+    "desc": "⛓️ A Framework for Building High Value Public Blockchains ✨",
+    "cn": false
+  },
+  {
+    "title": "wesbos/Advanced-React",
+    "url": "https://github.com/wesbos/Advanced-React",
+    "lang": "JavaScript",
+    "desc": "Starter Files and Solutions for Full Stack Advanced React and GraphQL",
+    "cn": false
+  }
+]

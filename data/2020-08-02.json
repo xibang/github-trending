@@ -1,0 +1,172 @@
+[
+  {
+    "title": "cds-snc/covid-alert-app",
+    "url": "https://github.com/cds-snc/covid-alert-app",
+    "lang": "TypeScript",
+    "desc": "Exposure notification client application / Application client de notification d'exposition",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "Oneflow-Inc/oneflow",
+    "url": "https://github.com/Oneflow-Inc/oneflow",
+    "lang": "C++",
+    "desc": "OneFlow is a performance-centered and open-source deep learning framework.",
+    "cn": false
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C",
+    "desc": "Display and control your Android device",
+    "cn": false
+  },
+  {
+    "title": "greyireland/algorithm-pattern",
+    "url": "https://github.com/greyireland/algorithm-pattern",
+    "lang": "Go",
+    "desc": "算法模板，最科学的刷题方式，最快速的刷题路径，你值得拥有~",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "Anankke/SSPanel-Uim",
+    "url": "https://github.com/Anankke/SSPanel-Uim",
+    "lang": "Smarty",
+    "desc": "SSPanel V3 魔改再次修改版",
+    "cn": true
+  },
+  {
+    "title": "twbs/icons",
+    "url": "https://github.com/twbs/icons",
+    "lang": "JavaScript",
+    "desc": "Official open source SVG icon library for Bootstrap.",
+    "cn": false
+  },
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "lang": "JavaScript",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "cn": false
+  },
+  {
+    "title": "KieronQuinn/TapTap",
+    "url": "https://github.com/KieronQuinn/TapTap",
+    "lang": "Kotlin",
+    "desc": "Port of the double tap on back of device feature from Android 11 to any armv8 Android device",
+    "cn": false
+  },
+  {
+    "title": "chris-chris/ml-engineer-roadmap",
+    "url": "https://github.com/chris-chris/ml-engineer-roadmap",
+    "desc": "WIP: Roadmap to becoming a machine learning engineer in 2020",
+    "cn": false
+  },
+  {
+    "title": "mamoe/mirai",
+    "url": "https://github.com/mamoe/mirai",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "cn": false
+  },
+  {
+    "title": "jamiebuilds/tinykeys",
+    "url": "https://github.com/jamiebuilds/tinykeys",
+    "lang": "TypeScript",
+    "desc": "A tiny (~400 B) & modern library for keybindings.",
+    "cn": false
+  },
+  {
+    "title": "scandum/binary_search",
+    "url": "https://github.com/scandum/binary_search",
+    "lang": "C",
+    "desc": "A collection of improved binary search algorithms.",
+    "cn": false
+  },
+  {
+    "title": "teenyicons/teenyicons",
+    "url": "https://github.com/teenyicons/teenyicons",
+    "lang": "JavaScript",
+    "desc": "Tiny minimal 1px icons designed to fit in the smallest places.",
+    "cn": false
+  },
+  {
+    "title": "CovidShield/mobile",
+    "url": "https://github.com/CovidShield/mobile",
+    "lang": "TypeScript",
+    "desc": "React Native client application for COVID Shield on iOS and Android",
+    "cn": false
+  },
+  {
+    "title": "JordanKnott/project-citadel",
+    "url": "https://github.com/JordanKnott/project-citadel",
+    "lang": "TypeScript",
+    "desc": "An open source project management tool with Kanban boards",
+    "cn": false
+  },
+  {
+    "title": "Dod-o/Statistical-Learning-Method_Code",
+    "url": "https://github.com/Dod-o/Statistical-Learning-Method_Code",
+    "lang": "Python",
+    "desc": "手写实现李航《统计学习方法》书中全部算法",
+    "cn": true
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "sebastianstarke/AI4Animation",
+    "url": "https://github.com/sebastianstarke/AI4Animation",
+    "lang": "C++",
+    "desc": "Bringing Characters to Life with Computer Brains in Unity",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist",
+    "desc": "Updated list of public BitTorrent trackers",
+    "cn": false
+  },
+  {
+    "title": "careercup/CtCI-6th-Edition",
+    "url": "https://github.com/careercup/CtCI-6th-Edition",
+    "lang": "Java",
+    "desc": "Cracking the Coding Interview 6th Ed. Solutions",
+    "cn": false
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "lang": "Java",
+    "desc": "Everything you need to know to get the job.",
+    "cn": false
+  }
+]

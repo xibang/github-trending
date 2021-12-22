@@ -1,0 +1,33 @@
+{
+  "name": "github-trending",
+  "version": "1.0.0",
+  "description": "Github Daily Trending Archives",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xibang/github-trending.git"
+  },
+  "keywords": [
+    "github",
+    "trending",
+    "trends"
+  ],
+  "author": "Willin Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xibang/github-trending/issues"
+  },
+  "homepage": "https://github.com/xibang/github-trending#readme",
+  "devDependencies": {
+    "eslint": "^7.3.1",
+    "eslint-config-willin": "^1.0.3",
+    "eslint-plugin-import": "^2.22.0"
+  },
+  "dependencies": {
+    "axios": "^0.21.2",
+    "cheerio": "^1.0.0-rc.3"
+  }
+}

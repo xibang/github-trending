@@ -1,0 +1,175 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "lang": "Go",
+    "desc": "Official golang DEXON fullnode implementation",
+    "cn": false
+  },
+  {
+    "title": "dgryski/go-perfbook",
+    "url": "https://github.com/dgryski/go-perfbook",
+    "desc": "Thoughts on Go performance optimization",
+    "cn": false
+  },
+  {
+    "title": "dexon-foundation/dexon-consensus",
+    "url": "https://github.com/dexon-foundation/dexon-consensus",
+    "lang": "Go",
+    "desc": "DEXON consensus Implementation & Simulation",
+    "cn": false
+  },
+  {
+    "title": "alibaba/MNN",
+    "url": "https://github.com/alibaba/MNN",
+    "lang": "C++",
+    "desc": "MNN is a lightweight deep neural network inference engine.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "lang": "Go",
+    "desc": "Brings SQL and AI together.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/react-native-windows",
+    "url": "https://github.com/microsoft/react-native-windows",
+    "lang": "C#",
+    "desc": "A framework for building native Windows apps with React.",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "wildfirechat/server",
+    "url": "https://github.com/wildfirechat/server",
+    "lang": "Java",
+    "desc": "全开源即时通讯(IM)系统",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "mlabouardy/komiser",
+    "url": "https://github.com/mlabouardy/komiser",
+    "lang": "Go",
+    "desc": "AWS Environment Inspector 👮",
+    "cn": false
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The largest Node.js best practices list (April 2019)",
+    "cn": false
+  },
+  {
+    "title": "eBay/beam",
+    "url": "https://github.com/eBay/beam",
+    "lang": "Go",
+    "desc": "A distributed knowledge graph store",
+    "cn": false
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "lang": "TypeScript",
+    "desc": "Run VS Code on a remote server.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "lionsoul2014/ip2region",
+    "url": "https://github.com/lionsoul2014/ip2region",
+    "lang": "Java",
+    "desc": "Ip2region is a offline IP location library with accuracy rate of 99.9% and 0.0x millseconds searching performance. DB file is less then 5Mb with all ip address stored. binding for Java,PHP,C,Python,Nodejs,Golang,C#,lua. Binary,B-tree,Memory searching algorithm",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "robb0wen/synthwave-vscode",
+    "url": "https://github.com/robb0wen/synthwave-vscode",
+    "lang": "CSS",
+    "desc": "Synthwave inspired colour theme for VS Code 🌅🕶",
+    "cn": false
+  },
+  {
+    "title": "txthinking/mr2",
+    "url": "https://github.com/txthinking/mr2",
+    "lang": "Go",
+    "desc": "Expose local server to external network",
+    "cn": false
+  },
+  {
+    "title": "aimerforreimu/auxpi",
+    "url": "https://github.com/aimerforreimu/auxpi",
+    "lang": "Go",
+    "desc": "🍭 集合多家 API 的新一代图床",
+    "cn": true
+  },
+  {
+    "title": "indragiek/InAppViewDebugger",
+    "url": "https://github.com/indragiek/InAppViewDebugger",
+    "lang": "Swift",
+    "desc": "A UIView debugger (like Reveal or Xcode) that can be embedded in an app for on-device view debugging",
+    "cn": false
+  }
+]

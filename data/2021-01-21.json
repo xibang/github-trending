@@ -1,0 +1,165 @@
+[
+  {
+    "title": "developedbyed/glass-website",
+    "url": "https://github.com/developedbyed/glass-website",
+    "lang": "CSS"
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "fireeye/Mandiant-Azure-AD-Investigator",
+    "url": "https://github.com/fireeye/Mandiant-Azure-AD-Investigator",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "softchris/react-book",
+    "url": "https://github.com/softchris/react-book",
+    "lang": "HTML",
+    "desc": "Book covering fundamentals on React",
+    "cn": false
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "cn": false
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "lang": "Python",
+    "desc": "Web APIs for Django. 🎸",
+    "cn": false
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript",
+    "desc": "Fast, easy and reliable testing for anything that runs in a browser.",
+    "cn": false
+  },
+  {
+    "title": "fontworks-fonts/Train",
+    "url": "https://github.com/fontworks-fonts/Train",
+    "lang": "Python"
+  },
+  {
+    "title": "google/tf-quant-finance",
+    "url": "https://github.com/google/tf-quant-finance",
+    "lang": "Python",
+    "desc": "High-performance TensorFlow library for quantitative finance.",
+    "cn": false
+  },
+  {
+    "title": "Chen-Cai-OSU/awesome-equivariant-network",
+    "url": "https://github.com/Chen-Cai-OSU/awesome-equivariant-network",
+    "desc": "Paper list for equivariant neural network",
+    "cn": false
+  },
+  {
+    "title": "EleutherAI/gpt-neo",
+    "url": "https://github.com/EleutherAI/gpt-neo",
+    "lang": "Python",
+    "desc": "An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.",
+    "cn": false
+  },
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "lang": "C++",
+    "desc": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "cn": false
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "lang": "C#",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "cn": false
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "cn": false
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "lang": "HTML",
+    "desc": "30 Day Vanilla JS Challenge",
+    "cn": false
+  },
+  {
+    "title": "azat-io/you-dont-know-js-ru",
+    "url": "https://github.com/azat-io/you-dont-know-js-ru",
+    "desc": "📚 Russian translation of \"You Don't Know JS\" book series",
+    "cn": false
+  },
+  {
+    "title": "gruntwork-io/terratest",
+    "url": "https://github.com/gruntwork-io/terratest",
+    "lang": "Go",
+    "desc": "Terratest is a Go library that makes it easier to write automated tests for your infrastructure code.",
+    "cn": false
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "lang": "Kotlin",
+    "desc": "Vanced Installer",
+    "cn": false
+  },
+  {
+    "title": "shylocks/Loon",
+    "url": "https://github.com/shylocks/Loon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Viralmaniar/BigBountyRecon",
+    "url": "https://github.com/Viralmaniar/BigBountyRecon",
+    "lang": "C#",
+    "desc": "BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.",
+    "cn": false
+  },
+  {
+    "title": "laravel/framework",
+    "url": "https://github.com/laravel/framework",
+    "lang": "PHP"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript",
+    "desc": "🚀 Open source Node.js Headless CMS to easily build customisable APIs",
+    "cn": false
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "lang": "JavaScript",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "cn": true
+  }
+]

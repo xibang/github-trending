@@ -1,0 +1,176 @@
+[
+  {
+    "title": "beurtschipper/Depix",
+    "url": "https://github.com/beurtschipper/Depix",
+    "lang": "Python",
+    "desc": "Recovers passwords from pixelized screenshots",
+    "cn": false
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "lang": "Java",
+    "desc": "A powerful 🚀 Android chart view / graph view library, supporting line- bar- pie- radar- bubble- and candlestick charts as well as scaling, panning and animations.",
+    "cn": false
+  },
+  {
+    "title": "magma/magma",
+    "url": "https://github.com/magma/magma",
+    "lang": "Go",
+    "desc": "Platform for building access networks and modular network services",
+    "cn": false
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby",
+    "desc": "🚀 The easiest way to automate building and releasing your iOS and Android apps",
+    "cn": false
+  },
+  {
+    "title": "onnx/onnx-tensorrt",
+    "url": "https://github.com/onnx/onnx-tensorrt",
+    "lang": "C++",
+    "desc": "ONNX-TensorRT: TensorRT backend for ONNX",
+    "cn": false
+  },
+  {
+    "title": "demisto/content",
+    "url": "https://github.com/demisto/content",
+    "lang": "Python",
+    "desc": "Demisto is now Cortex XSOAR. Automate and orchestrate your Security Operations with Cortex XSOAR's ever-growing Content Repository. Pull Requests are always welcome and highly appreciated!",
+    "cn": false
+  },
+  {
+    "title": "input-output-hk/cardano-node",
+    "url": "https://github.com/input-output-hk/cardano-node",
+    "lang": "Haskell",
+    "desc": "The core component that is used to participate in a Cardano decentralised blockchain.",
+    "cn": false
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "cn": false
+  },
+  {
+    "title": "tfutils/tfenv",
+    "url": "https://github.com/tfutils/tfenv",
+    "lang": "Shell",
+    "desc": "Terraform version manager",
+    "cn": false
+  },
+  {
+    "title": "go-yaml/yaml",
+    "url": "https://github.com/go-yaml/yaml",
+    "lang": "Go",
+    "desc": "YAML support for the Go language.",
+    "cn": false
+  },
+  {
+    "title": "Tencent/rapidjson",
+    "url": "https://github.com/Tencent/rapidjson",
+    "lang": "C++",
+    "desc": "A fast JSON parser/generator for C++ with both SAX/DOM style API",
+    "cn": false
+  },
+  {
+    "title": "cloudera/hue",
+    "url": "https://github.com/cloudera/hue",
+    "lang": "Python",
+    "desc": "Hue Editor: Open source SQL Query Assistant for Databases/Warehouses",
+    "cn": false
+  },
+  {
+    "title": "weaveworks/kured",
+    "url": "https://github.com/weaveworks/kured",
+    "lang": "Go",
+    "desc": "Kubernetes Reboot Daemon",
+    "cn": false
+  },
+  {
+    "title": "vmware-tanzu/velero",
+    "url": "https://github.com/vmware-tanzu/velero",
+    "lang": "Go",
+    "desc": "Backup and migrate Kubernetes applications and their persistent volumes",
+    "cn": false
+  },
+  {
+    "title": "amzn/selling-partner-api-docs",
+    "url": "https://github.com/amzn/selling-partner-api-docs",
+    "desc": "This repository contains documentation for developers to use to call Selling Partner APIs.",
+    "cn": false
+  },
+  {
+    "title": "jenssegers/laravel-mongodb",
+    "url": "https://github.com/jenssegers/laravel-mongodb",
+    "lang": "PHP",
+    "desc": "A MongoDB based Eloquent model and Query builder for Laravel (Moloquent)",
+    "cn": false
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++",
+    "desc": "JSON for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "terraform-google-modules/terraform-google-kubernetes-engine",
+    "url": "https://github.com/terraform-google-modules/terraform-google-kubernetes-engine",
+    "lang": "HCL",
+    "desc": "A Terraform module for configuring GKE clusters.",
+    "cn": false
+  },
+  {
+    "title": "AFLplusplus/AFLplusplus",
+    "url": "https://github.com/AFLplusplus/AFLplusplus",
+    "lang": "C",
+    "desc": "The fuzzer afl++ is afl with community patches, qemu 5.1 upgrade, collision-free coverage, enhanced laf-intel & redqueen, AFLfast++ power schedules, MOpt mutators, unicorn_mode, and a lot more!",
+    "cn": false
+  },
+  {
+    "title": "flot/flot",
+    "url": "https://github.com/flot/flot",
+    "lang": "JavaScript",
+    "desc": "Attractive JavaScript charts for jQuery",
+    "cn": false
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "cn": false
+  },
+  {
+    "title": "benmosher/eslint-plugin-import",
+    "url": "https://github.com/benmosher/eslint-plugin-import",
+    "lang": "JavaScript",
+    "desc": "ESLint plugin with rules that help validate proper imports.",
+    "cn": false
+  },
+  {
+    "title": "cloudwu/skynet",
+    "url": "https://github.com/cloudwu/skynet",
+    "lang": "C",
+    "desc": "A lightweight online game framework",
+    "cn": false
+  },
+  {
+    "title": "carrierwaveuploader/carrierwave",
+    "url": "https://github.com/carrierwaveuploader/carrierwave",
+    "lang": "Ruby",
+    "desc": "Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks",
+    "cn": false
+  },
+  {
+    "title": "react-native-mapbox-gl/maps",
+    "url": "https://github.com/react-native-mapbox-gl/maps",
+    "lang": "JavaScript",
+    "desc": "A Mapbox GL react native module for creating custom maps",
+    "cn": false
+  }
+]

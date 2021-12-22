@@ -1,0 +1,167 @@
+[
+  {
+    "title": "romefrontend/rome",
+    "url": "https://github.com/romefrontend/rome",
+    "lang": "TypeScript",
+    "desc": "The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.",
+    "cn": false
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python",
+    "desc": "The easiest way to automate your data",
+    "cn": false
+  },
+  {
+    "title": "BluezoneGlobal/bluezone-app",
+    "url": "https://github.com/BluezoneGlobal/bluezone-app",
+    "lang": "JavaScript",
+    "desc": "Bluezone - Bảo vệ mình, bảo vệ cộng đồng",
+    "cn": false
+  },
+  {
+    "title": "TachibanaYoshino/AnimeGANv2",
+    "url": "https://github.com/TachibanaYoshino/AnimeGANv2",
+    "lang": "Python",
+    "desc": "[Open Source]. The improved version of AnimeGAN.",
+    "cn": false
+  },
+  {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "lang": "Vue",
+    "desc": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "CleverProgrammers/nodejs-zoom-clone",
+    "url": "https://github.com/CleverProgrammers/nodejs-zoom-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "madd86/awesome-system-design",
+    "url": "https://github.com/madd86/awesome-system-design",
+    "desc": "A curated list of awesome system design mateiral",
+    "cn": false
+  },
+  {
+    "title": "naiveHobo/InvoiceNet",
+    "url": "https://github.com/naiveHobo/InvoiceNet",
+    "lang": "Python",
+    "desc": "Deep neural network to extract intelligent information from invoice documents.",
+    "cn": false
+  },
+  {
+    "title": "zoony1337/TikTok-Shares-Botter",
+    "url": "https://github.com/zoony1337/TikTok-Shares-Botter",
+    "lang": "Python",
+    "desc": "Adds TikTok Shares for you.",
+    "cn": false
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "lang": "JavaScript",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "toniblyx/my-arsenal-of-aws-security-tools",
+    "url": "https://github.com/toniblyx/my-arsenal-of-aws-security-tools",
+    "lang": "Shell",
+    "desc": "List of open source tools for AWS security: defensive, offensive, auditing, DFIR, etc.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "microsoft/fast",
+    "url": "https://github.com/microsoft/fast",
+    "lang": "TypeScript",
+    "desc": "The adaptive interface system  for modern web experiences.",
+    "cn": false
+  },
+  {
+    "title": "facebook/pyre-check",
+    "url": "https://github.com/facebook/pyre-check",
+    "lang": "OCaml",
+    "desc": "Performant type-checking for python.",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (August 2020)",
+    "cn": false
+  },
+  {
+    "title": "CleverProgrammers/twitter-clone",
+    "url": "https://github.com/CleverProgrammers/twitter-clone",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bernaferrari/FigmaToCode",
+    "url": "https://github.com/bernaferrari/FigmaToCode",
+    "lang": "TypeScript",
+    "desc": "Generate responsive pages and apps on Tailwind, Flutter and SwiftUI.",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit",
+    "desc": "🔗 Some useful websites for programmers.",
+    "cn": false
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!",
+    "cn": false
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "cn": false
+  }
+]

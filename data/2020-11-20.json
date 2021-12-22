@@ -1,0 +1,171 @@
+[
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "CSS",
+    "desc": "A utility-first CSS framework for rapid UI development.",
+    "cn": false
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust",
+    "desc": "The Servo Browser Engine",
+    "cn": false
+  },
+  {
+    "title": "istio/istio",
+    "url": "https://github.com/istio/istio",
+    "lang": "Go",
+    "desc": "Connect, secure, control, and observe services.",
+    "cn": false
+  },
+  {
+    "title": "VVNoodle/PS5bot",
+    "url": "https://github.com/VVNoodle/PS5bot",
+    "lang": "TypeScript",
+    "desc": "bot to monitor PS5 stock and auto-purchase when available",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "apple/tensorflow_macos",
+    "url": "https://github.com/apple/tensorflow_macos",
+    "lang": "Shell",
+    "desc": "TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework.",
+    "cn": false
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "lang": "Vue",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "cn": false
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "desc": "⬆️ Uptime monitor and status page powered by GitHub",
+    "cn": false
+  },
+  {
+    "title": "oam-dev/kubevela",
+    "url": "https://github.com/oam-dev/kubevela",
+    "lang": "Go",
+    "desc": "An Easy-to-use yet Fully Extensible App Platform based on Kubernetes and Open Application Model.",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript",
+    "desc": "The Intuitive Vue Framework",
+    "cn": false
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "lang": "Java",
+    "desc": "High-Performance Java API Gateway",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "Hari-Nagarajan/nvidia-bot",
+    "url": "https://github.com/Hari-Nagarajan/nvidia-bot",
+    "lang": "Python",
+    "desc": "Tool to help us buy a GPU in 2020",
+    "cn": false
+  },
+  {
+    "title": "soulmachine/machine-learning-cheat-sheet",
+    "url": "https://github.com/soulmachine/machine-learning-cheat-sheet",
+    "lang": "TeX",
+    "desc": "Classical equations and diagrams in machine learning",
+    "cn": false
+  },
+  {
+    "title": "cncf/sig-security",
+    "url": "https://github.com/cncf/sig-security",
+    "desc": "😎CNCF Special Interest Group on Security -- secure access, policy control, privacy, auditing, explainability and more!",
+    "cn": false
+  },
+  {
+    "title": "nlohmann/json",
+    "url": "https://github.com/nlohmann/json",
+    "lang": "C++",
+    "desc": "JSON for Modern C++",
+    "cn": false
+  },
+  {
+    "title": "y1ndan/genshin-impact-helper",
+    "url": "https://github.com/y1ndan/genshin-impact-helper",
+    "lang": "Python",
+    "desc": "Auto get Genshin Impact daily bonus by GitHub Actions. 米游社原神自动每日签到",
+    "cn": true
+  },
+  {
+    "title": "jackfrued/Python-Core-50-Courses",
+    "url": "https://github.com/jackfrued/Python-Core-50-Courses",
+    "desc": "Python语言基础50课",
+    "cn": true
+  },
+  {
+    "title": "devMEremenko/XcodeBenchmark",
+    "url": "https://github.com/devMEremenko/XcodeBenchmark",
+    "lang": "Swift",
+    "desc": "XcodeBenchmark measures the compilation time of a large codebase on iMac, MacBook, and Mac Pro",
+    "cn": false
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!",
+    "cn": false
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python",
+    "desc": "Animation engine for explanatory math videos",
+    "cn": false
+  },
+  {
+    "title": "ClickHouse/ClickHouse",
+    "url": "https://github.com/ClickHouse/ClickHouse",
+    "lang": "C++",
+    "desc": "ClickHouse is a free analytics DBMS for big data",
+    "cn": false
+  },
+  {
+    "title": "chaos-mesh/chaos-mesh",
+    "url": "https://github.com/chaos-mesh/chaos-mesh",
+    "lang": "Go",
+    "desc": "A Chaos Engineering Platform for Kubernetes.",
+    "cn": false
+  },
+  {
+    "title": "walidshaari/Certified-Kubernetes-Security-Specialist",
+    "url": "https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist",
+    "desc": "Online resources that will help you prepare for taking the CNCF/Linux Foundation CKS 2020 \"Kubernetes Certified Security Specialist\" Certification exam. with time, This is not likely the comprehensive up to date list - please make a pull request if there something that should be added here.",
+    "cn": false
+  }
+]

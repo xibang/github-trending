@@ -1,0 +1,174 @@
+[
+  {
+    "title": "rocketseat-education/nlw-03-omnistack",
+    "url": "https://github.com/rocketseat-education/nlw-03-omnistack",
+    "lang": "TypeScript",
+    "desc": "Projeto construído durante o Next Level Week #03",
+    "cn": false
+  },
+  {
+    "title": "charmbracelet/glow",
+    "url": "https://github.com/charmbracelet/glow",
+    "lang": "Go",
+    "desc": "Render markdown on the CLI, with pizzazz! 💅🏻",
+    "cn": false
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "cn": false
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "lang": "C++",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (October 2020)",
+    "cn": false
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "cn": false
+  },
+  {
+    "title": "danielmiessler/SecLists",
+    "url": "https://github.com/danielmiessler/SecLists",
+    "lang": "PHP",
+    "desc": "SecLists is the security tester's companion. It's a collection of multiple types of lists used during security assessments, collected in one place. List types include usernames, passwords, URLs, sensitive data patterns, fuzzing payloads, web shells, and many more.",
+    "cn": false
+  },
+  {
+    "title": "remoteintech/remote-jobs",
+    "url": "https://github.com/remoteintech/remote-jobs",
+    "lang": "JavaScript",
+    "desc": "A list of semi to fully remote-friendly companies in tech.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "gdtool/zhaopp",
+    "url": "https://github.com/gdtool/zhaopp",
+    "lang": "JavaScript",
+    "desc": "一个Google Drive搜索引擎 https://GeZhong.vip",
+    "cn": true
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  },
+  {
+    "title": "gofiber/fiber",
+    "url": "https://github.com/gofiber/fiber",
+    "lang": "Go",
+    "desc": "⚡️ Fiber is an Express inspired web framework written in Go with ☕️",
+    "cn": false
+  },
+  {
+    "title": "fuzhengwei/itstack-demo-design",
+    "url": "https://github.com/fuzhengwei/itstack-demo-design",
+    "lang": "Java",
+    "desc": "《重学Java设计模式「22个互联网真实案例实战」》技术好就一定能写出好代码吗？不能！再漂亮的马桶放到厨房都略显尴尬！无论是家里装修还是上道开车，只有通过实战才能快速将理论转变为技能。毕竟设计模式也是源于 克里斯托佛·亚历山大 的著作 《建筑模式语言》。",
+    "cn": true
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "cn": false
+  },
+  {
+    "title": "nschurmann/configs",
+    "url": "https://github.com/nschurmann/configs",
+    "lang": "Vimscript",
+    "desc": "My neovim configuration",
+    "cn": false
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "lang": "Python",
+    "desc": "Practical Python Programming (course by @dabeaz)",
+    "cn": false
+  },
+  {
+    "title": "juntang-zhuang/Adabelief-Optimizer",
+    "url": "https://github.com/juntang-zhuang/Adabelief-Optimizer",
+    "lang": "JupyterNotebook",
+    "desc": "Repository for NeurIPS 2020 Spotlight \"AdaBelief Optimizer: Adapting stepsizes by the belief in observed gradients\"",
+    "cn": false
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "lang": "Python",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "cn": false
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "lang": "C++",
+    "desc": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly",
+    "cn": false
+  },
+  {
+    "title": "norvig/paip-lisp",
+    "url": "https://github.com/norvig/paip-lisp",
+    "lang": "CommonLisp",
+    "desc": "Lisp code for the textbook \"Paradigms of Artificial Intelligence Programming\"",
+    "cn": false
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "lang": "JavaScript",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "cn": false
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "cn": false
+  }
+]

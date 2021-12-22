@@ -1,0 +1,170 @@
+[
+  {
+    "title": "vuejs/docs-next",
+    "url": "https://github.com/vuejs/docs-next",
+    "lang": "Vue",
+    "desc": "Vue 3 core documentation",
+    "cn": false
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "lang": "Dart",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "cn": false
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners",
+    "cn": false
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "TypeScript",
+    "desc": "An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.",
+    "cn": false
+  },
+  {
+    "title": "EthicalML/awesome-production-machine-learning",
+    "url": "https://github.com/EthicalML/awesome-production-machine-learning",
+    "desc": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+    "cn": false
+  },
+  {
+    "title": "NerdyPepper/dijo",
+    "url": "https://github.com/NerdyPepper/dijo",
+    "lang": "Rust",
+    "desc": "scriptable, curses-based, digital habit tracker",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "JavaScript",
+    "desc": "🇨🇳🇨🇳🇨🇳 本项目包括：1、我写的 30w 字图解算法题典 2、100 张编程类超清晰思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、小浩算法网站源代码 （ 🚀🚀 国人项目上榜不容易，右上角助力一波！干就对了，奥利给 ！🚀🚀）",
+    "cn": true
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "cn": false
+  },
+  {
+    "title": "yangshun/front-end-interview-handbook",
+    "url": "https://github.com/yangshun/front-end-interview-handbook",
+    "lang": "JavaScript",
+    "desc": "🕸 No bullshit answers to the famous h5bp \"Front-end Job Interview Questions\"",
+    "cn": false
+  },
+  {
+    "title": "RandalLinden/DOOM-FX",
+    "url": "https://github.com/RandalLinden/DOOM-FX",
+    "lang": "Assembly",
+    "desc": "Doom/FX for Super Nintendo with SuperFX GSU2A",
+    "cn": false
+  },
+  {
+    "title": "open-telemetry/opentelemetry-specification",
+    "url": "https://github.com/open-telemetry/opentelemetry-specification",
+    "lang": "Makefile",
+    "desc": "Specifications for OpenTelemetry",
+    "cn": false
+  },
+  {
+    "title": "cylonid/NativeAlphaForAndroid",
+    "url": "https://github.com/cylonid/NativeAlphaForAndroid",
+    "lang": "Java"
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby",
+    "desc": "For empowering community 🌱",
+    "cn": false
+  },
+  {
+    "title": "minimaxir/gpt-3-experiments",
+    "url": "https://github.com/minimaxir/gpt-3-experiments",
+    "lang": "Python",
+    "desc": "Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "OvidijusParsiunas/myvision",
+    "url": "https://github.com/OvidijusParsiunas/myvision",
+    "lang": "JavaScript",
+    "desc": "Computer vision based ML training data generation tool 🚀",
+    "cn": false
+  },
+  {
+    "title": "gerryguy311/CyberProfDevelopmentCovidResources",
+    "url": "https://github.com/gerryguy311/CyberProfDevelopmentCovidResources",
+    "desc": "An awesome list of FREE resources for training, conferences, speaking, labs, reading, etc that are free all the time or during COVID-19 that cybersecurity professionals with downtime can take advantage of to improve their skills and marketability to come out on the other side ready to rock.",
+    "cn": false
+  },
+  {
+    "title": "TheAlphamerc/flutter_twitter_clone",
+    "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
+    "lang": "Dart",
+    "desc": "Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage",
+    "cn": false
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "cn": false
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++",
+    "desc": "Open Source Computer Vision Library",
+    "cn": false
+  },
+  {
+    "title": "upmasked/number-verifier",
+    "url": "https://github.com/upmasked/number-verifier",
+    "lang": "Go",
+    "desc": "Number Verifier is a SMS verification tool that makes it easy to get a disposable SMS number and bypass SMS number verifications on any site.",
+    "cn": false
+  },
+  {
+    "title": "lyswhut/lx-music-desktop",
+    "url": "https://github.com/lyswhut/lx-music-desktop",
+    "lang": "JavaScript",
+    "desc": "一个基于 electron 的音乐软件",
+    "cn": true
+  },
+  {
+    "title": "apache/spark",
+    "url": "https://github.com/apache/spark",
+    "lang": "Scala",
+    "desc": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "cn": false
+  },
+  {
+    "title": "sudheerj/reactjs-interview-questions",
+    "url": "https://github.com/sudheerj/reactjs-interview-questions",
+    "lang": "JavaScript",
+    "desc": "List of top 500 ReactJS Interview Questions & Answers....Coding exercise questions are coming soon!!",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  }
+]

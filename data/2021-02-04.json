@@ -1,0 +1,171 @@
+[
+  {
+    "title": "achannarasappa/ticker",
+    "url": "https://github.com/achannarasappa/ticker",
+    "lang": "Go",
+    "desc": "Terminal stock ticker with live updates and position tracking",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "lang": "C++",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science and physics implemented in C++ for educational purposes.",
+    "cn": false
+  },
+  {
+    "title": "Serial-Studio/Serial-Studio",
+    "url": "https://github.com/Serial-Studio/Serial-Studio",
+    "lang": "C++",
+    "desc": "Multi-purpose serial data visualization & processing program",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "rails/kredis",
+    "url": "https://github.com/rails/kredis",
+    "lang": "Ruby",
+    "desc": "Higher-level data structures built on Redis",
+    "cn": false
+  },
+  {
+    "title": "therealsreehari/Learn-Datascience-For-Free",
+    "url": "https://github.com/therealsreehari/Learn-Datascience-For-Free"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "cn": false
+  },
+  {
+    "title": "sonnysangha/Resume-Portfolio-Starter-pack",
+    "url": "https://github.com/sonnysangha/Resume-Portfolio-Starter-pack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "lang": "C#",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "cn": false
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "lang": "HCL",
+    "desc": "Terraform module which creates VPC resources on AWS",
+    "cn": false
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "lang": "C++",
+    "desc": "C++那些事",
+    "cn": true
+  },
+  {
+    "title": "DKJone/DKWechatHelper",
+    "url": "https://github.com/DKJone/DKWechatHelper",
+    "lang": "Objective-C",
+    "desc": "不止于抢红包，功能丰富的微信插件。",
+    "cn": true
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "PyTorchLightning/lightning-flash",
+    "url": "https://github.com/PyTorchLightning/lightning-flash",
+    "lang": "Python",
+    "desc": "Collection of tasks for fast prototyping, baselining, finetuning and solving problems with deep learning.",
+    "cn": false
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "lang": "Clojure",
+    "desc": "Penpot - The Open-Source prototyping tool",
+    "cn": false
+  },
+  {
+    "title": "kakaobrain/pororo",
+    "url": "https://github.com/kakaobrain/pororo",
+    "lang": "Python",
+    "desc": "PORORO: Platform Of neuRal mOdels for natuRal language prOcessing",
+    "cn": false
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "lang": "Go",
+    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "cn": true
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell",
+    "desc": "GitHub Actions virtual environments",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/C",
+    "url": "https://github.com/TheAlgorithms/C",
+    "lang": "C",
+    "desc": "Collection of various algorithms in mathematics, machine learning, computer science, physics, etc implemented in C for educational purposes.",
+    "cn": false
+  },
+  {
+    "title": "NVlabs/stylegan2-ada-pytorch",
+    "url": "https://github.com/NVlabs/stylegan2-ada-pytorch",
+    "lang": "Python",
+    "desc": "StyleGAN2-ADA - Official PyTorch implementation",
+    "cn": false
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell",
+    "desc": "Open source documentation of Microsoft Azure",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "paulgp/applied-methods-phd",
+    "url": "https://github.com/paulgp/applied-methods-phd",
+    "lang": "TeX",
+    "desc": "Repo for Yale Applied Empirical Methods PHD Course",
+    "cn": false
+  }
+]

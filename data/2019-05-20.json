@@ -1,0 +1,175 @@
+[
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "nokia/memory-profiler",
+    "url": "https://github.com/nokia/memory-profiler",
+    "lang": "Rust",
+    "desc": "",
+    "cn": false
+  },
+  {
+    "title": "imfunniee/gitfolio",
+    "url": "https://github.com/imfunniee/gitfolio",
+    "lang": "JavaScript",
+    "desc": "personal website + blog for every github user",
+    "cn": false
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful. (对开发人员有用的定律、理论、原则和模式。)",
+    "cn": true
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "dwmkerr/hacker-laws",
+    "url": "https://github.com/dwmkerr/hacker-laws",
+    "desc": "💻📖 Laws, Theories, Principles and Patterns that developers will find useful.",
+    "cn": false
+  },
+  {
+    "title": "machinelearningmindset/machine-learning-course",
+    "url": "https://github.com/machinelearningmindset/machine-learning-course",
+    "lang": "Python",
+    "desc": "💬 Machine Learning Course with Python",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "lang": "Java",
+    "desc": "mall项目是一套电商系统，包括前台商城系统及后台管理系统，基于SpringBoot+MyBatis实现。 前台商城系统包含首页门户、商品推荐、商品搜索、商品展示、购物车、订单流程、会员中心、客户服务、帮助中心等模块。 后台管理系统包含商品管理、订单管理、会员管理、促销管理、运营管理、内容管理、统计报表、财务管理、权限管理、设置等模块。",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "franciscop/ola",
+    "url": "https://github.com/franciscop/ola",
+    "lang": "JavaScript",
+    "desc": "🌊 Smooth animation library for interpolating numbers",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python",
+    "desc": "A list of useful payloads and bypass for Web Application Security and Pentest/CTF",
+    "cn": false
+  },
+  {
+    "title": "lenve/vhr",
+    "url": "https://github.com/lenve/vhr",
+    "lang": "JavaScript",
+    "desc": "微人事是一个前后端分离的人力资源管理系统，项目采用SpringBoot+Vue开发。",
+    "cn": true
+  },
+  {
+    "title": "microsoft/SPTAG",
+    "url": "https://github.com/microsoft/SPTAG",
+    "lang": "C++",
+    "desc": "A distributed approximate nearest neighborhood search (ANN) library which provides a high quality vector index build, search and distributed online serving toolkits for large scale vector search scenario.",
+    "cn": false
+  },
+  {
+    "title": "rigtorp/awesome-modern-cpp",
+    "url": "https://github.com/rigtorp/awesome-modern-cpp",
+    "lang": "HTML",
+    "desc": "A collection of resources on modern C++",
+    "cn": false
+  },
+  {
+    "title": "knqyf263/trivy",
+    "url": "https://github.com/knqyf263/trivy",
+    "lang": "Go",
+    "desc": "A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI",
+    "cn": false
+  },
+  {
+    "title": "pdziepak/codegen",
+    "url": "https://github.com/pdziepak/codegen",
+    "lang": "C++",
+    "desc": "Experimental wrapper over LLVM for generating and compiling code at run-time.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "linlinjava/litemall",
+    "url": "https://github.com/linlinjava/litemall",
+    "lang": "Java",
+    "desc": "又一个小商城。litemall = Spring Boot后端 + Vue管理员前端 + 微信小程序用户前端 + Vue用户移动端",
+    "cn": true
+  },
+  {
+    "title": "nunomaduro/phpinsights",
+    "url": "https://github.com/nunomaduro/phpinsights",
+    "lang": "PHP",
+    "desc": "💡Instant PHP quality checks from your console",
+    "cn": false
+  },
+  {
+    "title": "stewartmcgown/uds",
+    "url": "https://github.com/stewartmcgown/uds",
+    "lang": "Python",
+    "desc": "Unlimited Drive Storage by splitting binary files into base64",
+    "cn": false
+  },
+  {
+    "title": "Ghost---Shadow/i18nize-react",
+    "url": "https://github.com/Ghost---Shadow/i18nize-react",
+    "lang": "JavaScript",
+    "desc": "Internationalize react apps within a lunch break",
+    "cn": false
+  }
+]

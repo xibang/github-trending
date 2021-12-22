@@ -1,0 +1,155 @@
+[
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python"
+  },
+  {
+    "title": "cehui0303/Tmall_Tickets",
+    "url": "https://github.com/cehui0303/Tmall_Tickets",
+    "lang": "JavaScript",
+    "desc": "天猫超市茅台抢票功能",
+    "cn": true
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "lang": "JavaScript",
+    "desc": "API and Web App for analyzing & finding a person profile across 300+ social media websites (Detections are updated regularly)",
+    "cn": false
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "thecodingmachine/workadventure",
+    "url": "https://github.com/thecodingmachine/workadventure",
+    "lang": "TypeScript",
+    "desc": "A collaborative web application (virtual office) presented as a 16-bit RPG video game",
+    "cn": false
+  },
+  {
+    "title": "back8/github_huanghyw_jd_seckill",
+    "url": "https://github.com/back8/github_huanghyw_jd_seckill",
+    "lang": "Python"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "lang": "JavaScript",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "cn": false
+  },
+  {
+    "title": "Basis-Cash/basiscash-protocol",
+    "url": "https://github.com/Basis-Cash/basiscash-protocol",
+    "lang": "Solidity",
+    "desc": "Solidity implementation of the Basis Cash Protocol",
+    "cn": false
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "lang": "Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "cn": true
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "lang": "PHP",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "cn": true
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (December 2020)",
+    "cn": false
+  },
+  {
+    "title": "tensorflow/models",
+    "url": "https://github.com/tensorflow/models",
+    "lang": "Python",
+    "desc": "Models and examples built with TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "owid/covid-19-data",
+    "url": "https://github.com/owid/covid-19-data",
+    "lang": "Python",
+    "desc": "Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "MiCode/Xiaomi_Kernel_OpenSource",
+    "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
+    "desc": "Xiaomi Mobile Phone Kernel OpenSource",
+    "cn": false
+  },
+  {
+    "title": "KingOfBugbounty/KingOfBugBountyTips",
+    "url": "https://github.com/KingOfBugbounty/KingOfBugBountyTips"
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties",
+    "cn": false
+  },
+  {
+    "title": "tychxn/jd-assistant",
+    "url": "https://github.com/tychxn/jd-assistant",
+    "lang": "Python",
+    "desc": "京东抢购助手：包含登录，查询商品库存/价格，添加/清空购物车，抢购商品(下单)，查询订单等功能",
+    "cn": true
+  },
+  {
+    "title": "codeAdrian/react-magic-painter",
+    "url": "https://github.com/codeAdrian/react-magic-painter",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "RumbleMike/ValorantStreamOverlay",
+    "url": "https://github.com/RumbleMike/ValorantStreamOverlay",
+    "lang": "C#"
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "desc": "⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages",
+    "cn": false
+  },
+  {
+    "title": "anvaka/city-roads",
+    "url": "https://github.com/anvaka/city-roads",
+    "lang": "JavaScript",
+    "desc": "Visualization of all roads within any city",
+    "cn": false
+  }
+]

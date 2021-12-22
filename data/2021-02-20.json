@@ -1,0 +1,174 @@
+[
+  {
+    "title": "nasa/fprime",
+    "url": "https://github.com/nasa/fprime",
+    "lang": "C++",
+    "desc": "F' - A flight software and embedded systems framework",
+    "cn": false
+  },
+  {
+    "title": "stypr/clubhouse-py",
+    "url": "https://github.com/stypr/clubhouse-py",
+    "lang": "Python",
+    "desc": "Clubhouse API written in Python. Standalone client included. For reference and education purposes only.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "cn": true
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "cn": true
+  },
+  {
+    "title": "vuejs/vue-next",
+    "url": "https://github.com/vuejs/vue-next",
+    "lang": "TypeScript",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "cn": false
+  },
+  {
+    "title": "scutan90/DeepLearning-500-questions",
+    "url": "https://github.com/scutan90/DeepLearning-500-questions",
+    "lang": "JavaScript",
+    "desc": "深度学习500问，以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述，以帮助自己及有需要的读者。 全书分为18个章节，50余万字。由于水平有限，书中不妥之处恳请广大读者批评指正。 未完待续............ 如有意合作，联系scutjy2015@163.com 版权所有，违权必究 Tan 2018.06",
+    "cn": true
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript",
+    "desc": "Next generation frontend tooling. It's fast!",
+    "cn": false
+  },
+  {
+    "title": "activeloopai/Hub",
+    "url": "https://github.com/activeloopai/Hub",
+    "lang": "Python",
+    "desc": "Fastest unstructured dataset management for TensorFlow/PyTorch. Stream data real-time & version-control it. http://activeloop.ai",
+    "cn": false
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "cn": false
+  },
+  {
+    "title": "dapr/dapr",
+    "url": "https://github.com/dapr/dapr",
+    "lang": "Go",
+    "desc": "Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.",
+    "cn": false
+  },
+  {
+    "title": "edeng23/binance-trade-bot",
+    "url": "https://github.com/edeng23/binance-trade-bot",
+    "lang": "Python",
+    "desc": "Automated cryptocurrency trading bot",
+    "cn": false
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++",
+    "desc": "Build cross-platform desktop apps with JavaScript, HTML, and CSS",
+    "cn": false
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "lang": "TypeScript",
+    "desc": "🌈 A UI Design Language and React UI library",
+    "cn": false
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript",
+    "desc": "The Intuitive Vue Framework",
+    "cn": false
+  },
+  {
+    "title": "mrcodedev/frontend-developer-resources",
+    "url": "https://github.com/mrcodedev/frontend-developer-resources",
+    "desc": "Recursos gratuitos para empezar a ser un Frontend Developer o ampliar conocimientos",
+    "cn": false
+  },
+  {
+    "title": "maverickdev1/c0met14",
+    "url": "https://github.com/maverickdev1/c0met14",
+    "lang": "C",
+    "desc": "c0met iOS 14.0 - 14.3 jailbreak utility based on cicuta_virosa",
+    "cn": false
+  },
+  {
+    "title": "FengQuanLi/ResnetGPT",
+    "url": "https://github.com/FengQuanLi/ResnetGPT",
+    "lang": "Python",
+    "desc": "用Resnet101+GPT搭建一个玩王者荣耀的AI",
+    "cn": true
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "cn": false
+  },
+  {
+    "title": "joaoh82/rust_sqlite",
+    "url": "https://github.com/joaoh82/rust_sqlite",
+    "lang": "Rust",
+    "desc": "SQLite clone from scratch in Rust",
+    "cn": false
+  },
+  {
+    "title": "pavlobu/deskreen",
+    "url": "https://github.com/pavlobu/deskreen",
+    "lang": "TypeScript",
+    "desc": "Deskreen turns any device with a web browser into a secondary screen for your computer",
+    "cn": false
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2021",
+    "cn": false
+  },
+  {
+    "title": "LaravelDaily/laravel-tips",
+    "url": "https://github.com/LaravelDaily/laravel-tips",
+    "desc": "Awesome tips for Laravel",
+    "cn": false
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "lang": "Python",
+    "desc": "The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data.",
+    "cn": false
+  },
+  {
+    "title": "chrislgarry/Apollo-11",
+    "url": "https://github.com/chrislgarry/Apollo-11",
+    "lang": "Assembly",
+    "desc": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
+    "cn": false
+  },
+  {
+    "title": "xuxueli/xxl-job",
+    "url": "https://github.com/xuxueli/xxl-job",
+    "lang": "Java",
+    "desc": "A distributed task scheduling framework.（分布式任务调度平台XXL-JOB）",
+    "cn": true
+  }
+]

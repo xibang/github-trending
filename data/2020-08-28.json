@@ -1,0 +1,168 @@
+[
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "arwes/arwes",
+    "url": "https://github.com/arwes/arwes",
+    "lang": "JavaScript",
+    "desc": "Futuristic Sci-Fi and Cyberpunk Graphical User Interface Framework for Web Apps",
+    "cn": false
+  },
+  {
+    "title": "codeedu/maratona-fullcycle-4",
+    "url": "https://github.com/codeedu/maratona-fullcycle-4",
+    "lang": "HTML"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript",
+    "desc": "Headless Chrome Node.js API",
+    "cn": false
+  },
+  {
+    "title": "iggredible/Learn-Vim",
+    "url": "https://github.com/iggredible/Learn-Vim",
+    "desc": "A book for learning the Vim editor",
+    "cn": false
+  },
+  {
+    "title": "fireeye/speakeasy",
+    "url": "https://github.com/fireeye/speakeasy",
+    "lang": "Python",
+    "desc": "Windows kernel and user mode emulation.",
+    "cn": false
+  },
+  {
+    "title": "intel-isl/OpenBot",
+    "url": "https://github.com/intel-isl/OpenBot",
+    "desc": "OpenBot leverages smartphones as brains for low-cost robots. We have designed a small electric vehicle that costs about $50 and serves as a robot body. Our software stack for Android smartphones supports advanced robotics workloads such as person following and real-time autonomous navigation.",
+    "cn": false
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go",
+    "desc": "The Ultimate Go Study Guide",
+    "cn": false
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The Node.js best practices list (August 2020)",
+    "cn": false
+  },
+  {
+    "title": "wpine215/msfs-a320neo",
+    "url": "https://github.com/wpine215/msfs-a320neo",
+    "lang": "HTML",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "kkbjs/element3",
+    "url": "https://github.com/kkbjs/element3",
+    "lang": "Vue",
+    "desc": "(WIP)fork from ElemeFE/element ,A Vue.js 3.0 UI Toolkit for Web",
+    "cn": false
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "lang": "Python",
+    "desc": "The uncompromising Python code formatter",
+    "cn": false
+  },
+  {
+    "title": "tightenco/takeout",
+    "url": "https://github.com/tightenco/takeout",
+    "lang": "PHP",
+    "desc": "Docker-based development-only dependency manager; pairs with Valet.",
+    "cn": false
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "lang": "JavaScript",
+    "desc": "Bring data to life with SVG, Canvas and HTML. 📊📈🎉",
+    "cn": false
+  },
+  {
+    "title": "themesberg/volt-bootstrap-5-dashboard",
+    "url": "https://github.com/themesberg/volt-bootstrap-5-dashboard",
+    "lang": "HTML",
+    "desc": "⚡️ Volt - Bootstrap 5 Admin Dashboard Template with vanilla Javascript",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "jeanrauwers/mern-course-bootcamp",
+    "url": "https://github.com/jeanrauwers/mern-course-bootcamp",
+    "lang": "JavaScript",
+    "desc": "Complete Free Coding Bootcamp 2020 MERN Stack",
+    "cn": false
+  },
+  {
+    "title": "elsewhencode/project-guidelines",
+    "url": "https://github.com/elsewhencode/project-guidelines",
+    "lang": "JavaScript",
+    "desc": "A set of best practices for JavaScript projects",
+    "cn": false
+  },
+  {
+    "title": "kodekloudhub/certified-kubernetes-administrator-course",
+    "url": "https://github.com/kodekloudhub/certified-kubernetes-administrator-course",
+    "lang": "Shell",
+    "desc": "Certified Kubernetes Administrator - CKA Course",
+    "cn": false
+  },
+  {
+    "title": "tailwindlabs/heroicons",
+    "url": "https://github.com/tailwindlabs/heroicons",
+    "lang": "JavaScript",
+    "desc": "A set of free MIT-licensed high-quality SVG icons for UI development.",
+    "cn": false
+  },
+  {
+    "title": "model-zoo/shift-ctrl-f",
+    "url": "https://github.com/model-zoo/shift-ctrl-f",
+    "lang": "JavaScript",
+    "desc": "🔎 Search the information available on a webpage using natural language instead of an exact string match.",
+    "cn": false
+  },
+  {
+    "title": "ForrestKnight/open-source-cs-python",
+    "url": "https://github.com/ForrestKnight/open-source-cs-python",
+    "desc": "Video discussing this curriculum:",
+    "cn": false
+  },
+  {
+    "title": "meilisearch/MeiliSearch",
+    "url": "https://github.com/meilisearch/MeiliSearch",
+    "lang": "Rust",
+    "desc": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+    "cn": false
+  }
+]

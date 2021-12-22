@@ -1,0 +1,171 @@
+[
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "lang": "C#",
+    "desc": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "cn": false
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "lang": "Python",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "gaearon/whatthefuck.is",
+    "url": "https://github.com/gaearon/whatthefuck.is",
+    "lang": "CSS",
+    "desc": "An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.",
+    "cn": false
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript",
+    "desc": "A collection of awesome readme templates to display on your profile",
+    "cn": false
+  },
+  {
+    "title": "ChoudharyChanchal/game_control",
+    "url": "https://github.com/ChoudharyChanchal/game_control",
+    "lang": "Python"
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "lang": "JupyterNotebook",
+    "desc": "Summer course content for Neuromatch Academy",
+    "cn": false
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "lang": "Dart",
+    "desc": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "cn": false
+  },
+  {
+    "title": "TowhidKashem/snapchat-clone",
+    "url": "https://github.com/TowhidKashem/snapchat-clone",
+    "lang": "TypeScript",
+    "desc": "👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!",
+    "cn": false
+  },
+  {
+    "title": "alan-turing-institute/sktime",
+    "url": "https://github.com/alan-turing-institute/sktime",
+    "lang": "Python",
+    "desc": "A scikit-learn compatible Python toolbox for machine learning with time series",
+    "cn": false
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "lang": "Python",
+    "desc": "Rapidly create UIs for prototyping your machine learning model in 3 minutes",
+    "cn": false
+  },
+  {
+    "title": "LetsUpgrade/Javascript-Essentials",
+    "url": "https://github.com/LetsUpgrade/Javascript-Essentials",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide",
+    "desc": "📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！",
+    "cn": true
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "lang": "JavaScript",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "cn": false
+  },
+  {
+    "title": "pedrolemoz/MagicMagnet-Python",
+    "url": "https://github.com/pedrolemoz/MagicMagnet-Python",
+    "lang": "Python",
+    "desc": "Get magnet links from internet without any effort! 🧲",
+    "cn": false
+  },
+  {
+    "title": "voila-dashboards/voila",
+    "url": "https://github.com/voila-dashboards/voila",
+    "lang": "Python",
+    "desc": "Voilà turns Jupyter notebooks into standalone web applications",
+    "cn": false
+  },
+  {
+    "title": "manikandanraji/youtubeclone-frontend",
+    "url": "https://github.com/manikandanraji/youtubeclone-frontend",
+    "lang": "JavaScript",
+    "desc": "Youtube Clone Frontend (React + Redux)",
+    "cn": false
+  },
+  {
+    "title": "gtworek/PSBits",
+    "url": "https://github.com/gtworek/PSBits",
+    "lang": "PowerShell",
+    "desc": "Simple (relatively) things allowing you to dig a bit deeper than usual.",
+    "cn": false
+  },
+  {
+    "title": "anuraghazra/github-readme-stats",
+    "url": "https://github.com/anuraghazra/github-readme-stats",
+    "lang": "JavaScript",
+    "desc": "Dynamically generated stats for your github readmes",
+    "cn": false
+  },
+  {
+    "title": "fengdu78/lihang-code",
+    "url": "https://github.com/fengdu78/lihang-code",
+    "lang": "JupyterNotebook",
+    "desc": "《统计学习方法》的代码实现",
+    "cn": true
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark",
+    "desc": "Public interface definitions of Google APIs.",
+    "cn": false
+  },
+  {
+    "title": "xiongziliang/ZLMediaKit",
+    "url": "https://github.com/xiongziliang/ZLMediaKit",
+    "lang": "C++",
+    "desc": "A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV/GB28181 server and client framework based on C++11",
+    "cn": false
+  },
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "lang": "TypeScript",
+    "desc": "A beautiful Redis GUI 🔥 (under development)",
+    "cn": false
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "cn": false
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners",
+    "cn": false
+  },
+  {
+    "title": "Binaryify/NeteaseCloudMusicApi",
+    "url": "https://github.com/Binaryify/NeteaseCloudMusicApi",
+    "lang": "JavaScript",
+    "desc": "网易云音乐 Node.js API service",
+    "cn": true
+  }
+]

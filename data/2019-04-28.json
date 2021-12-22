@@ -1,0 +1,172 @@
+[
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "transloadit/uppy",
+    "url": "https://github.com/transloadit/uppy",
+    "lang": "JavaScript",
+    "desc": "The next open source file uploader for web browsers 🐶",
+    "cn": false
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "lang": "Python",
+    "desc": "Never use print for debugging again",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "leetcode题解，记录自己的leecode解题之路。",
+    "cn": true
+  },
+  {
+    "title": "taylorconor/quinesnake",
+    "url": "https://github.com/taylorconor/quinesnake",
+    "lang": "C++",
+    "desc": "A quine that plays snake over its own source!",
+    "cn": false
+  },
+  {
+    "title": "MSWorkers/support.996.ICU",
+    "url": "https://github.com/MSWorkers/support.996.ICU",
+    "desc": "Microsoft and GitHub Workers Support 996.ICU",
+    "cn": false
+  },
+  {
+    "title": "vsoch/watchme",
+    "url": "https://github.com/vsoch/watchme",
+    "lang": "HTML",
+    "desc": "Reproducible watchers for research",
+    "cn": false
+  },
+  {
+    "title": "leggett/simplify",
+    "url": "https://github.com/leggett/simplify",
+    "lang": "CSS",
+    "desc": "Chrome extension to simplify Gmail's interface",
+    "cn": false
+  },
+  {
+    "title": "shipshapecode/shepherd",
+    "url": "https://github.com/shipshapecode/shepherd",
+    "lang": "JavaScript",
+    "desc": "Guide your users through a tour of your app",
+    "cn": false
+  },
+  {
+    "title": "uber-web/baseui",
+    "url": "https://github.com/uber-web/baseui",
+    "lang": "JavaScript",
+    "desc": "A React Component library implementing the Base design language",
+    "cn": false
+  },
+  {
+    "title": "nhooyr/websocket",
+    "url": "https://github.com/nhooyr/websocket",
+    "lang": "Go",
+    "desc": "A minimal and idiomatic WebSocket library for Go",
+    "cn": false
+  },
+  {
+    "title": "gcla/termshark",
+    "url": "https://github.com/gcla/termshark",
+    "lang": "Go",
+    "desc": "A terminal UI for tshark, inspired by Wireshark",
+    "cn": false
+  },
+  {
+    "title": "caneco/design-tips",
+    "url": "https://github.com/caneco/design-tips",
+    "lang": "HTML",
+    "desc": "The “🔥 Design Tips” series, now in TailwindCSS",
+    "cn": false
+  },
+  {
+    "title": "RomuloOliveira/commit-messages-guide",
+    "url": "https://github.com/RomuloOliveira/commit-messages-guide",
+    "desc": "A guide to understand the importance of commit messages and how to write them well",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "Quorafind/golang-developer-roadmap-cn",
+    "url": "https://github.com/Quorafind/golang-developer-roadmap-cn",
+    "desc": "在 2019 成为一名 Go 开发者的路线图。为学习 Go 的人而准备。",
+    "cn": true
+  },
+  {
+    "title": "Alikhll/golang-developer-roadmap",
+    "url": "https://github.com/Alikhll/golang-developer-roadmap",
+    "desc": "Roadmap to becoming a Go developer in 2019",
+    "cn": false
+  },
+  {
+    "title": "abhat222/Data-Science--Cheat-Sheet",
+    "url": "https://github.com/abhat222/Data-Science--Cheat-Sheet",
+    "desc": "Cheat Sheets",
+    "cn": false
+  },
+  {
+    "title": "dexon-foundation/dexon",
+    "url": "https://github.com/dexon-foundation/dexon",
+    "lang": "Go",
+    "desc": "Official golang DEXON fullnode implementation",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  },
+  {
+    "title": "kezhenxu94/mini-github",
+    "url": "https://github.com/kezhenxu94/mini-github",
+    "lang": "JavaScript",
+    "desc": "GitHub WeChat Mini Program (可能是全网功能最全的 GitHub 微信小程序)",
+    "cn": true
+  },
+  {
+    "title": "bilibili/kratos",
+    "url": "https://github.com/bilibili/kratos",
+    "lang": "Go",
+    "desc": "Kratos是bilibili开源的一套Go微服务框架，包含大量微服务相关框架及工具。",
+    "cn": true
+  },
+  {
+    "title": "didi/DoraemonKit",
+    "url": "https://github.com/didi/DoraemonKit",
+    "lang": "Java",
+    "desc": "简称 \"DoKit\" 。一款功能齐全的客户端（ iOS 、Android ）研发助手，你值得拥有。",
+    "cn": true
+  }
+]

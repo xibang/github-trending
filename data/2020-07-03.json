@@ -1,0 +1,175 @@
+[
+  {
+    "title": "manojVivek/responsively-app",
+    "url": "https://github.com/manojVivek/responsively-app",
+    "lang": "JavaScript",
+    "desc": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+    "cn": false
+  },
+  {
+    "title": "unoplatform/uno",
+    "url": "https://github.com/unoplatform/uno",
+    "lang": "C#",
+    "desc": "Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.",
+    "cn": false
+  },
+  {
+    "title": "diego3g/electron-typescript-react",
+    "url": "https://github.com/diego3g/electron-typescript-react",
+    "lang": "JavaScript",
+    "desc": "An Electron boilerplate including TypeScript, React, Jest and ESLint.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/cascadia-code",
+    "url": "https://github.com/microsoft/cascadia-code",
+    "lang": "Python",
+    "desc": "This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.",
+    "cn": false
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript",
+    "desc": "Native-ESM powered web dev build tool. It's fast.",
+    "cn": false
+  },
+  {
+    "title": "open-mmlab/OpenPCDet",
+    "url": "https://github.com/open-mmlab/OpenPCDet",
+    "lang": "Python",
+    "desc": "OpenPCDet Toolbox for LiDAR-based 3D Object Detection.",
+    "cn": false
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "lang": "TypeScript",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "cn": false
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "lang": "JavaScript",
+    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "cn": true
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "lang": "Java",
+    "desc": "Open Source, Distributed, RESTful Search Engine",
+    "cn": false
+  },
+  {
+    "title": "tinode/chat",
+    "url": "https://github.com/tinode/chat",
+    "lang": "Go",
+    "desc": "Instant messaging platform. Backend in Go. Clients: Swift iOS, Java Android, JS webapp, scriptable command line; chatbots",
+    "cn": false
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "lang": "JupyterNotebook",
+    "desc": "Python training for business analysts and traders",
+    "cn": false
+  },
+  {
+    "title": "felangel/cubit",
+    "url": "https://github.com/felangel/cubit",
+    "lang": "Dart",
+    "desc": "Cubit is a lightweight state management solution. It is a subset of the bloc package that does not rely on events and instead uses methods to emit new states.",
+    "cn": false
+  },
+  {
+    "title": "Pitt-CSC/Summer2021-Internships",
+    "url": "https://github.com/Pitt-CSC/Summer2021-Internships",
+    "desc": "Collection of Summer 2021 tech internships!",
+    "cn": false
+  },
+  {
+    "title": "diego3g/rocketredis",
+    "url": "https://github.com/diego3g/rocketredis",
+    "lang": "TypeScript",
+    "desc": "A beautiful Redis GUI 🔥",
+    "cn": false
+  },
+  {
+    "title": "BetaSu/just-react",
+    "url": "https://github.com/BetaSu/just-react",
+    "lang": "JavaScript",
+    "desc": "React技术揭秘",
+    "cn": true
+  },
+  {
+    "title": "DataStax-Academy/cassandra-workshop-series",
+    "url": "https://github.com/DataStax-Academy/cassandra-workshop-series",
+    "lang": "Python",
+    "desc": "All materials for the Cassandra Workshop Series in a single place",
+    "cn": false
+  },
+  {
+    "title": "blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "url": "https://github.com/blaCCkHatHacEEkr/PENTESTING-BIBLE",
+    "desc": "Updates to this repository will continue to arrive until the number of links reaches 10000 links & 10000 pdf files .Learn Ethical Hacking and penetration testing .hundreds of ethical hacking & penetration testing & red team & cyber security & computer science resources.",
+    "cn": false
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "lang": "Go",
+    "desc": "The plugin-driven server agent for collecting & reporting metrics.",
+    "cn": false
+  },
+  {
+    "title": "hoanhan101/ultimate-go",
+    "url": "https://github.com/hoanhan101/ultimate-go",
+    "lang": "Go",
+    "desc": "Ultimate Go study guide",
+    "cn": false
+  },
+  {
+    "title": "YMFE/yapi",
+    "url": "https://github.com/YMFE/yapi",
+    "lang": "JavaScript",
+    "desc": "YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台",
+    "cn": true
+  },
+  {
+    "title": "nondanee/UnblockNeteaseMusic",
+    "url": "https://github.com/nondanee/UnblockNeteaseMusic",
+    "lang": "JavaScript",
+    "desc": "Revive unavailable songs for Netease Cloud Music",
+    "cn": false
+  },
+  {
+    "title": "kotartemiy/pygooglenews",
+    "url": "https://github.com/kotartemiy/pygooglenews",
+    "lang": "Python",
+    "desc": "If Google News had a Python library",
+    "cn": false
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python",
+    "desc": "Zulip server - powerful open source team chat",
+    "cn": false
+  },
+  {
+    "title": "vuejs/vitepress",
+    "url": "https://github.com/vuejs/vitepress",
+    "lang": "TypeScript",
+    "desc": "Vite & Vue powered static site generator",
+    "cn": false
+  },
+  {
+    "title": "mui-org/material-ui",
+    "url": "https://github.com/mui-org/material-ui",
+    "lang": "JavaScript",
+    "desc": "React components for faster and easier web development. Build your own design system, or start with Material Design.",
+    "cn": false
+  }
+]

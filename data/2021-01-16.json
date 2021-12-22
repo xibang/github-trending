@@ -1,0 +1,169 @@
+[
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "lang": "C#",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "cn": false
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "lang": "JavaScript",
+    "desc": "京东薅羊毛脚本 https://github.com/LXK9301/jd_scripts 的shell套壳工具",
+    "cn": true
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell",
+    "desc": "Azure Quickstart Templates",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures.",
+    "cn": false
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "cn": false
+  },
+  {
+    "title": "jsherman212/xnuspy",
+    "url": "https://github.com/jsherman212/xnuspy",
+    "lang": "C",
+    "desc": "an iOS kernel function hooking framework for checkra1n'able devices",
+    "cn": false
+  },
+  {
+    "title": "ml-tooling/best-of-python",
+    "url": "https://github.com/ml-tooling/best-of-python",
+    "desc": "🏆 A ranked list of awesome Python open-source libraries and tools. Updated weekly.",
+    "cn": false
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "lang": "TypeScript",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "cn": false
+  },
+  {
+    "title": "e-m-b-a/emba",
+    "url": "https://github.com/e-m-b-a/emba",
+    "lang": "Shell",
+    "desc": "emba - An analyzer for Linux-based firmware of embedded devices.",
+    "cn": false
+  },
+  {
+    "title": "didi/Logi-KafkaManager",
+    "url": "https://github.com/didi/Logi-KafkaManager",
+    "lang": "Java",
+    "desc": "一站式Apache Kafka集群指标监控与运维管控平台",
+    "cn": true
+  },
+  {
+    "title": "ml-tooling/best-of-web-python",
+    "url": "https://github.com/ml-tooling/best-of-web-python",
+    "desc": "🏆 A ranked list of awesome python libraries for web development. Updated weekly.",
+    "cn": false
+  },
+  {
+    "title": "XJP-GIT/HealthCode",
+    "url": "https://github.com/XJP-GIT/HealthCode",
+    "desc": "健康码演示",
+    "cn": true
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "lang": "Python",
+    "desc": "A data orchestrator for machine learning, analytics, and ETL.",
+    "cn": false
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "lang": "TypeScript",
+    "desc": "Angular UI Kit and components library for awesome people",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "lang": "Python",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "cn": false
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2021",
+    "cn": false
+  },
+  {
+    "title": "kdrag0n/safetynet-fix",
+    "url": "https://github.com/kdrag0n/safetynet-fix",
+    "lang": "Shell",
+    "desc": "A universal fix for Google SafetyNet on Android devices with hardware attestation and unlocked bootloaders.",
+    "cn": false
+  },
+  {
+    "title": "MustangYM/WeChatExtension-ForMac",
+    "url": "https://github.com/MustangYM/WeChatExtension-ForMac",
+    "lang": "Objective-C",
+    "desc": "Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)",
+    "cn": true
+  },
+  {
+    "title": "ruffle-rs/ruffle",
+    "url": "https://github.com/ruffle-rs/ruffle",
+    "lang": "Rust",
+    "desc": "A Flash Player emulator written in Rust",
+    "cn": false
+  },
+  {
+    "title": "thecodercoder/fem-easybank",
+    "url": "https://github.com/thecodercoder/fem-easybank",
+    "lang": "SCSS",
+    "desc": "Easybank landing page from Frontend Mentor",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  }
+]

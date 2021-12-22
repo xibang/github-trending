@@ -1,0 +1,167 @@
+[
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "lang": "JavaScript",
+    "desc": "reNgine is an automated reconnaissance framework meant for gathering information during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "cn": false
+  },
+  {
+    "title": "Dhghomon/easy_rust",
+    "url": "https://github.com/Dhghomon/easy_rust",
+    "desc": "Rust explained using easy English",
+    "cn": false
+  },
+  {
+    "title": "OpenDiablo2/OpenDiablo2",
+    "url": "https://github.com/OpenDiablo2/OpenDiablo2",
+    "lang": "Go",
+    "desc": "An open source re-implementation of Diablo 2",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "JavaScript",
+    "desc": "🙈🙉🙊 本项目包括：1、我写的三十万字图解算法题典 2、100 张 IT 相关超清思维导图 3、100 篇大厂面经汇总 4、各语言编程电子书 100 本 5、English version supported !!! 🚀🚀 国人项目上榜首不易，右上角助力一波！干就对了，奥利给 ！🚀🚀",
+    "cn": true
+  },
+  {
+    "title": "AobingJava/JavaFamily",
+    "url": "https://github.com/AobingJava/JavaFamily",
+    "desc": "【Java面试+Java学习指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "Shawn-Shan/fawkes",
+    "url": "https://github.com/Shawn-Shan/fawkes",
+    "lang": "Python",
+    "desc": "Fawkes, privacy preserving tool against facial recognition systems. More info at http://sandlab.cs.uchicago.edu/fawkes",
+    "cn": false
+  },
+  {
+    "title": "czl0325/jetbrains-agent-latest",
+    "url": "https://github.com/czl0325/jetbrains-agent-latest",
+    "desc": "jetbrains全家桶永久激活破解，不需要修改host。完美破解！共享给各个程序员兄弟使用。适用于2020版本。",
+    "cn": true
+  },
+  {
+    "title": "shreyashankar/gpt3-sandbox",
+    "url": "https://github.com/shreyashankar/gpt3-sandbox",
+    "lang": "JavaScript",
+    "desc": "The goal of this project is to enable users to create cool web demos using the newly released OpenAI GPT-3 API with just a few lines of Python.",
+    "cn": false
+  },
+  {
+    "title": "umi-top/umi-top.github.io",
+    "url": "https://github.com/umi-top/umi-top.github.io",
+    "lang": "HTML"
+  },
+  {
+    "title": "umi-top/umi-core-py",
+    "url": "https://github.com/umi-top/umi-core-py",
+    "desc": "UMI Core Python Library",
+    "cn": false
+  },
+  {
+    "title": "David00/rpi-power-monitor",
+    "url": "https://github.com/David00/rpi-power-monitor",
+    "lang": "Python",
+    "desc": "Raspberry Pi Power Monitor",
+    "cn": false
+  },
+  {
+    "title": "umi-top/umi-core-php",
+    "url": "https://github.com/umi-top/umi-core-php",
+    "lang": "PHP",
+    "desc": "UMI Core PHP Library",
+    "cn": false
+  },
+  {
+    "title": "corona-warn-app/cwa-app-android",
+    "url": "https://github.com/corona-warn-app/cwa-app-android",
+    "lang": "Kotlin",
+    "desc": "Native Android app using the Apple/Google exposure notification API.",
+    "cn": false
+  },
+  {
+    "title": "umi-top/umi-core-js",
+    "url": "https://github.com/umi-top/umi-core-js",
+    "lang": "JavaScript",
+    "desc": "UMI Core JS Library",
+    "cn": false
+  },
+  {
+    "title": "brandonskerritt/RustScan",
+    "url": "https://github.com/brandonskerritt/RustScan",
+    "lang": "Rust",
+    "desc": "Faster Nmap Scanning with Rust",
+    "cn": false
+  },
+  {
+    "title": "umi-top/umi-core",
+    "url": "https://github.com/umi-top/umi-core",
+    "lang": "Go",
+    "desc": "UMI Core Go Library",
+    "cn": false
+  },
+  {
+    "title": "pythonstock/stock",
+    "url": "https://github.com/pythonstock/stock",
+    "lang": "Python",
+    "desc": "stock，股票系统。使用python进行开发。",
+    "cn": true
+  },
+  {
+    "title": "trungk18/angular-tetris",
+    "url": "https://github.com/trungk18/angular-tetris",
+    "lang": "TypeScript",
+    "desc": "Tetris game built with Angular 10 and Akita 🎮",
+    "cn": false
+  },
+  {
+    "title": "afatcoder/LeetcodeTop",
+    "url": "https://github.com/afatcoder/LeetcodeTop",
+    "desc": "汇总各大互联网公司容易考察的高频leetcode题🔥",
+    "cn": true
+  },
+  {
+    "title": "521xueweihan/GitHub520",
+    "url": "https://github.com/521xueweihan/GitHub520",
+    "lang": "Python",
+    "desc": "😘让你“爱”上 GitHub，解决访问时图裂、加载慢的问题。",
+    "cn": true
+  },
+  {
+    "title": "elyase/awesome-gpt3",
+    "url": "https://github.com/elyase/awesome-gpt3"
+  },
+  {
+    "title": "ternaus/retinaface",
+    "url": "https://github.com/ternaus/retinaface",
+    "lang": "Python",
+    "desc": "The remake of the https://github.com/biubug6/Pytorch_Retinaface",
+    "cn": false
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "cn": false
+  },
+  {
+    "title": "corona-warn-app/cwa-app-ios",
+    "url": "https://github.com/corona-warn-app/cwa-app-ios",
+    "lang": "Swift",
+    "desc": "Native iOS app using the exposure notification framework from Apple.",
+    "cn": false
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component workshop. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  }
+]

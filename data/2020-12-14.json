@@ -1,0 +1,170 @@
+[
+  {
+    "title": "getmeli/meli",
+    "url": "https://github.com/getmeli/meli",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Netflix/consoleme",
+    "url": "https://github.com/Netflix/consoleme",
+    "lang": "Python",
+    "desc": "ConsoleMe consolidates the management of multiple AWS accounts into a single interface. It allows your end-users and administrators to get credentials for your different accounts, and allows your users/administrators to manage or request cloud permissions.",
+    "cn": false
+  },
+  {
+    "title": "rocky-linux/rockylinux.org",
+    "url": "https://github.com/rocky-linux/rockylinux.org",
+    "lang": "HTML",
+    "desc": "The official website of the Rocky Linux Project.",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "cn": false
+  },
+  {
+    "title": "aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "url": "https://github.com/aapatre/Automatic-Udemy-Course-Enroller-GET-PAID-UDEMY-COURSES-for-FREE",
+    "lang": "Python",
+    "desc": "Do you want to LEARN NEW STUFF for FREE? Don't worry, with the power of web-scraping and automation, this script will find the necessary Udemy coupons & enroll you for PAID UDEMY COURSES, ABSOLUTELY FREE!",
+    "cn": false
+  },
+  {
+    "title": "rocky-linux/infrastructure",
+    "url": "https://github.com/rocky-linux/infrastructure",
+    "lang": "HTML",
+    "desc": "The infrastructure monorepo for The Rocky Linux Foundation",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "rougier/nano-emacs",
+    "url": "https://github.com/rougier/nano-emacs",
+    "lang": "EmacsLisp",
+    "desc": "GNU Emacs / N Λ N O - Emacs made simple",
+    "cn": false
+  },
+  {
+    "title": "RobinLinus/snapdrop",
+    "url": "https://github.com/RobinLinus/snapdrop",
+    "lang": "JavaScript",
+    "desc": "A Progressive Web App for local file sharing",
+    "cn": false
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview",
+    "cn": false
+  },
+  {
+    "title": "rocky-linux/rocky",
+    "url": "https://github.com/rocky-linux/rocky",
+    "desc": "Rocky Linux is a community enterprise Operating System designed to be 100% bug-for-bug compatible with Enterprise Linux created in response to the effective discontinuation of CentOS.",
+    "cn": false
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "cn": false
+  },
+  {
+    "title": "projectdiscovery/proxify",
+    "url": "https://github.com/projectdiscovery/proxify",
+    "lang": "Go",
+    "desc": "Swiss Army knife Proxy tool for HTTP/HTTPS traffic capture, manipulation, and replay on the go.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "n7olkachev/imgdiff",
+    "url": "https://github.com/n7olkachev/imgdiff",
+    "lang": "Go",
+    "desc": "Faster than the fastest in the world pixel-by-pixel image difference tool.",
+    "cn": false
+  },
+  {
+    "title": "sting8k/BurpSuite_403Bypasser",
+    "url": "https://github.com/sting8k/BurpSuite_403Bypasser",
+    "lang": "Python",
+    "desc": "Burpsuite Extension to bypass 403 restricted directory",
+    "cn": false
+  },
+  {
+    "title": "knownsec/shellcodeloader",
+    "url": "https://github.com/knownsec/shellcodeloader",
+    "lang": "C++",
+    "desc": "shellcodeloader",
+    "cn": false
+  },
+  {
+    "title": "stenzek/duckstation",
+    "url": "https://github.com/stenzek/duckstation",
+    "lang": "C++",
+    "desc": "Fast PlayStation 1 emulator for PC and Android",
+    "cn": false
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "C++",
+    "desc": "openpilot is an open source driver assistance system. openpilot performs the functions of Automated Lane Centering and Adaptive Cruise Control for over 85 supported car makes and models.",
+    "cn": false
+  },
+  {
+    "title": "sphawes/index",
+    "url": "https://github.com/sphawes/index",
+    "lang": "C++",
+    "desc": "The Index is an open source pick and place machine.",
+    "cn": false
+  },
+  {
+    "title": "willmcgugan/rich",
+    "url": "https://github.com/willmcgugan/rich",
+    "lang": "Python",
+    "desc": "Rich is a Python library for rich text and beautiful formatting in the terminal.",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python",
+    "desc": "A curated list of awesome Python frameworks, libraries, software and resources",
+    "cn": false
+  },
+  {
+    "title": "brndnmtthws/thetagang",
+    "url": "https://github.com/brndnmtthws/thetagang",
+    "lang": "Python",
+    "desc": "ThetaGang is an IBKR bot for collecting money",
+    "cn": false
+  }
+]

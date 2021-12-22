@@ -1,0 +1,167 @@
+[
+  {
+    "title": "googlevr/tilt-brush",
+    "url": "https://github.com/googlevr/tilt-brush",
+    "lang": "C#"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. It requires HTML, CSS, and JavaScript knowledge. You should be comfortable with JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS. This challenge may take up to 100 day…",
+    "cn": false
+  },
+  {
+    "title": "alura-challenges/aluraquiz-base",
+    "url": "https://github.com/alura-challenges/aluraquiz-base",
+    "lang": "JavaScript",
+    "desc": "Projeto construido durante a Imersão React edição NextJS da Alura!",
+    "cn": false
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "bullhe4d/bigwatermelon",
+    "url": "https://github.com/bullhe4d/bigwatermelon",
+    "lang": "JavaScript",
+    "desc": "合成大西瓜源码,修改版",
+    "cn": true
+  },
+  {
+    "title": "twitter/TwitterTextEditor",
+    "url": "https://github.com/twitter/TwitterTextEditor",
+    "lang": "Swift",
+    "desc": "A standalone, flexible API that provides a full-featured rich text editor for iOS applications.",
+    "cn": false
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "lang": "Shell",
+    "desc": "Raspberry Pi & NanoPi R2S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "cn": false
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
+    "cn": false
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript",
+    "desc": "The React Framework",
+    "cn": false
+  },
+  {
+    "title": "microsoft/sql-server-samples",
+    "url": "https://github.com/microsoft/sql-server-samples",
+    "desc": "Azure Data SQL Samples - Official Microsoft GitHub Repository containing code samples for SQL Server, Azure SQL, Azure Synapse, and Azure SQL Edge",
+    "cn": false
+  },
+  {
+    "title": "leahneukirchen/nq",
+    "url": "https://github.com/leahneukirchen/nq",
+    "lang": "C",
+    "desc": "Unix command line queue utility",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "cn": false
+  },
+  {
+    "title": "ckz8780/market-toolkit",
+    "url": "https://github.com/ckz8780/market-toolkit",
+    "desc": "A collection of stock market resources and tools",
+    "cn": false
+  },
+  {
+    "title": "matt8707/hass-config",
+    "url": "https://github.com/matt8707/hass-config",
+    "lang": "JavaScript",
+    "desc": "A different take on designing a Lovelace UI",
+    "cn": false
+  },
+  {
+    "title": "WICG/floc",
+    "url": "https://github.com/WICG/floc",
+    "desc": "FLoC",
+    "cn": false
+  },
+  {
+    "title": "EdgeSecurityTeam/Vulnerability",
+    "url": "https://github.com/EdgeSecurityTeam/Vulnerability",
+    "desc": "此项目将不定期从棱角社区对外进行公布一些最新漏洞。",
+    "cn": true
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "cn": false
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "lang": "JavaScript",
+    "desc": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "cn": false
+  },
+  {
+    "title": "williamfiset/Algorithms",
+    "url": "https://github.com/williamfiset/Algorithms",
+    "lang": "Java",
+    "desc": "A collection of algorithms and data structures",
+    "cn": false
+  },
+  {
+    "title": "Loyalsoldier/v2ray-rules-dat",
+    "url": "https://github.com/Loyalsoldier/v2ray-rules-dat",
+    "desc": "🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替官方 geoip.dat 和 geosite.dat 规则文件，兼容 Trojan-Go 和 Shadowsocks-windows。Enhanced edition of V2Ray rules dat files, compatible with Trojan-Go and Shadowsocks-windows.",
+    "cn": true
+  },
+  {
+    "title": "craftcms/cms",
+    "url": "https://github.com/craftcms/cms",
+    "lang": "PHP",
+    "desc": "Craft is a flexible, user-friendly CMS for creating custom digital experiences on the web and beyond.",
+    "cn": false
+  },
+  {
+    "title": "airbytehq/airbyte",
+    "url": "https://github.com/airbytehq/airbyte",
+    "lang": "Java",
+    "desc": "Airbyte is an open-source EL(T) platform that helps you replicate your data in your warehouses, lakes and databases.",
+    "cn": false
+  },
+  {
+    "title": "oblador/hush",
+    "url": "https://github.com/oblador/hush",
+    "lang": "JavaScript",
+    "desc": "Noiseless Browsing – Content Blocker for Safari",
+    "cn": false
+  },
+  {
+    "title": "discord/discord-api-docs",
+    "url": "https://github.com/discord/discord-api-docs",
+    "lang": "JavaScript",
+    "desc": "Official Discord API Documentation",
+    "cn": false
+  }
+]

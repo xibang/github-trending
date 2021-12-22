@@ -1,0 +1,171 @@
+[
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  },
+  {
+    "title": "Fmstrat/winapps",
+    "url": "https://github.com/Fmstrat/winapps",
+    "lang": "Shell",
+    "desc": "Run Windows apps such as Microsoft Office in Linux (Ubuntu/Fedora) and GNOME/KDE as if they were a part of the native OS, including Nautilus integration.",
+    "cn": false
+  },
+  {
+    "title": "cjph8914/2020_benfords",
+    "url": "https://github.com/cjph8914/2020_benfords",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "chatwoot/chatwoot",
+    "url": "https://github.com/chatwoot/chatwoot",
+    "lang": "Ruby",
+    "desc": "Open-source live chat software, an alternative to Intercom, Zendesk, Drift, Crisp etc. 🔥💬",
+    "cn": false
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "cn": false
+  },
+  {
+    "title": "rileytestut/AltStore",
+    "url": "https://github.com/rileytestut/AltStore",
+    "lang": "Swift",
+    "desc": "AltStore is an alternative app store for non-jailbroken iOS devices.",
+    "cn": false
+  },
+  {
+    "title": "gao-sun/eul",
+    "url": "https://github.com/gao-sun/eul",
+    "lang": "Swift",
+    "desc": "🖥️ macOS status monitoring app written in SwiftUI.",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java",
+    "desc": "🌍 东半球最酷的学习项目 | 1、我写的三十万字算法图解 2、千本开源电子书 3、100 张思维导图 4、100 篇大厂面经 5、30 个学习专题 🚀 🚀 🚀 右上角点个 star，加入我们万人学习群！English Supported！",
+    "cn": true
+  },
+  {
+    "title": "RayWangQvQ/BiliBiliTool",
+    "url": "https://github.com/RayWangQvQ/BiliBiliTool",
+    "lang": "C#",
+    "desc": ".Net Core 编写的跨平台的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。",
+    "cn": true
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "cn": false
+  },
+  {
+    "title": "PavelDoGreat/WebGL-Fluid-Simulation",
+    "url": "https://github.com/PavelDoGreat/WebGL-Fluid-Simulation",
+    "lang": "JavaScript",
+    "desc": "Play with fluids in your browser (works even on mobile)",
+    "cn": false
+  },
+  {
+    "title": "appbrewery/100-days-of-python",
+    "url": "https://github.com/appbrewery/100-days-of-python",
+    "desc": "100 Days of Code in Python",
+    "cn": false
+  },
+  {
+    "title": "yogeshojha/rengine",
+    "url": "https://github.com/yogeshojha/rengine",
+    "lang": "JavaScript",
+    "desc": "reNgine is an automated reconnaissance framework meant for information gathering during penetration testing of web applications. reNgine has customizable scan engines, which can be used to scan the websites, endpoints, and gather information.",
+    "cn": false
+  },
+  {
+    "title": "Atcold/pytorch-Deep-Learning",
+    "url": "https://github.com/Atcold/pytorch-Deep-Learning",
+    "lang": "JupyterNotebook",
+    "desc": "Deep Learning (with PyTorch)",
+    "cn": false
+  },
+  {
+    "title": "firstcontributions/first-contributions",
+    "url": "https://github.com/firstcontributions/first-contributions",
+    "desc": "🚀✨ Help beginners to contribute to open source projects",
+    "cn": false
+  },
+  {
+    "title": "newbee-ltd/newbee-mall-vue3-app",
+    "url": "https://github.com/newbee-ltd/newbee-mall-vue3-app",
+    "lang": "JavaScript",
+    "desc": "新蜂商城Vue3版本",
+    "cn": true
+  },
+  {
+    "title": "facebookresearch/pifuhd",
+    "url": "https://github.com/facebookresearch/pifuhd",
+    "lang": "Python",
+    "desc": "High-Resolution 3D Human Digitization from A Single Image.",
+    "cn": false
+  },
+  {
+    "title": "sorrycc/awesome-javascript",
+    "url": "https://github.com/sorrycc/awesome-javascript",
+    "desc": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+    "cn": false
+  },
+  {
+    "title": "gordicaleksa/pytorch-original-transformer",
+    "url": "https://github.com/gordicaleksa/pytorch-original-transformer",
+    "lang": "Python",
+    "desc": "My implementation of the original transformer model (Vaswani et al.). I've additionally included the playground.py file for visualizing otherwise seemingly hard concepts. Currently included IWSLT pretrained models.",
+    "cn": false
+  },
+  {
+    "title": "lightspin-tech/red-kube",
+    "url": "https://github.com/lightspin-tech/red-kube",
+    "desc": "Red Team KubeCTL Cheat Sheet",
+    "cn": false
+  },
+  {
+    "title": "thenewboston-developers/Website",
+    "url": "https://github.com/thenewboston-developers/Website",
+    "lang": "TypeScript",
+    "desc": "The website and documentation for thenewboston.",
+    "cn": false
+  },
+  {
+    "title": "michalsnik/aos",
+    "url": "https://github.com/michalsnik/aos",
+    "lang": "JavaScript",
+    "desc": "Animate on scroll library",
+    "cn": false
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "cn": false
+  },
+  {
+    "title": "scarsty/kys-cpp",
+    "url": "https://github.com/scarsty/kys-cpp",
+    "lang": "C++",
+    "desc": "《金庸群侠传》c++复刻版，已完工",
+    "cn": true
+  },
+  {
+    "title": "allenai/allennlp",
+    "url": "https://github.com/allenai/allennlp",
+    "lang": "Python",
+    "desc": "An open-source NLP research library, built on PyTorch.",
+    "cn": false
+  }
+]

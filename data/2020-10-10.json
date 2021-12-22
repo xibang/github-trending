@@ -1,0 +1,175 @@
+[
+  {
+    "title": "lanyulei/ferry",
+    "url": "https://github.com/lanyulei/ferry",
+    "lang": "Go",
+    "desc": "本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。",
+    "cn": true
+  },
+  {
+    "title": "zhangdaiscott/jeecg-boot",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "lang": "Java",
+    "desc": "基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。",
+    "cn": true
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "screego/server",
+    "url": "https://github.com/screego/server",
+    "lang": "Go",
+    "desc": "screen sharing for developers https://screego.net/",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "cn": true
+  },
+  {
+    "title": "go-admin-team/go-admin",
+    "url": "https://github.com/go-admin-team/go-admin",
+    "lang": "Go",
+    "desc": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）分分钟构建自己的中后台项目；文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login",
+    "cn": true
+  },
+  {
+    "title": "xwmx/nb",
+    "url": "https://github.com/xwmx/nb",
+    "lang": "Shell",
+    "desc": "CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.",
+    "cn": false
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "lang": "Go",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "cn": false
+  },
+  {
+    "title": "robertdavidgraham/masscan",
+    "url": "https://github.com/robertdavidgraham/masscan",
+    "lang": "C",
+    "desc": "TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes.",
+    "cn": false
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript",
+    "desc": "This is the open-source repo for docs.github.com.",
+    "cn": false
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "lang": "JavaScript",
+    "desc": "Based on a true story",
+    "cn": false
+  },
+  {
+    "title": "bytedance/IconPark",
+    "url": "https://github.com/bytedance/IconPark",
+    "lang": "TypeScript",
+    "desc": "Transform an SVG icon into multiple themes, and generate React icons，Vue icons，svg icons",
+    "cn": false
+  },
+  {
+    "title": "apple/swift-algorithms",
+    "url": "https://github.com/apple/swift-algorithms",
+    "lang": "Swift",
+    "desc": "Swift Algorithms is an open-source package of sequence and collection algorithms, along with their related types.",
+    "cn": false
+  },
+  {
+    "title": "kottans/frontend",
+    "url": "https://github.com/kottans/frontend",
+    "desc": "Kottans frontend course 🎓",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "lang": "Java",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "cn": true
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "cn": true
+  },
+  {
+    "title": "macrozheng/mall-learning",
+    "url": "https://github.com/macrozheng/mall-learning",
+    "lang": "Java",
+    "desc": "mall学习教程，架构、业务、技术要点全方位解析。mall项目（39k+star）是一套电商系统，使用现阶段主流技术实现。涵盖了SpringBoot 2.3.0、MyBatis 3.4.6、Elasticsearch 7.6.2、RabbitMQ 3.7.15、Redis 5.0、MongoDB 4.2.5、Mysql5.7等技术，采用Docker容器化部署。",
+    "cn": true
+  },
+  {
+    "title": "umijs/umi",
+    "url": "https://github.com/umijs/umi",
+    "lang": "TypeScript",
+    "desc": "🌋 Pluggable enterprise-level react application framework.",
+    "cn": false
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "cn": false
+  },
+  {
+    "title": "apache/spark",
+    "url": "https://github.com/apache/spark",
+    "lang": "Scala",
+    "desc": "Apache Spark - A unified analytics engine for large-scale data processing",
+    "cn": false
+  },
+  {
+    "title": "Externalizable/bongo.cat",
+    "url": "https://github.com/Externalizable/bongo.cat",
+    "lang": "JavaScript",
+    "desc": "Hit the bongos like Bongo Cat!",
+    "cn": false
+  }
+]

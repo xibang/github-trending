@@ -1,0 +1,168 @@
+[
+  {
+    "title": "google/makani",
+    "url": "https://github.com/google/makani",
+    "lang": "C++",
+    "desc": "Makani was a project to develop a commercial-scale airborne wind turbine, culminating in a flight test of the Makani M600 off the coast of Norway. All Makani software has now been open-sourced. This repository contains the working Makani flight simulator, controller (autopilot), visualizer, and command center flight monitoring tools. Additionall…",
+    "cn": false
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "cn": false
+  },
+  {
+    "title": "libra/libra",
+    "url": "https://github.com/libra/libra",
+    "lang": "Rust",
+    "desc": "Libra’s mission is to enable a simple global payment system and financial infrastructure that empowers billions of people.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "MysteryVaibhav/leetcode_company_wise_questions",
+    "url": "https://github.com/MysteryVaibhav/leetcode_company_wise_questions",
+    "desc": "This is a repository containing the list of company wise questions available on leetcode premium",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "vaastav/Fantasy-Premier-League",
+    "url": "https://github.com/vaastav/Fantasy-Premier-League",
+    "lang": "Python",
+    "desc": "Creates a .csv file of all players in the English Player League with their respective team and total fantasy points",
+    "cn": false
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "cn": false
+  },
+  {
+    "title": "utmapp/UTM",
+    "url": "https://github.com/utmapp/UTM",
+    "lang": "Objective-C",
+    "desc": "Virtual machines for iOS",
+    "cn": false
+  },
+  {
+    "title": "prasadgujar/low-level-design-primer",
+    "url": "https://github.com/prasadgujar/low-level-design-primer",
+    "desc": "Dedicated Resources for the Low-Level System Design. Learn how to design and implement large-scale systems. Prep for the system design interview.",
+    "cn": false
+  },
+  {
+    "title": "SecuraBV/CVE-2020-1472",
+    "url": "https://github.com/SecuraBV/CVE-2020-1472",
+    "lang": "Python",
+    "desc": "Test tool for CVE-2020-1472",
+    "cn": false
+  },
+  {
+    "title": "peng-zhihui/DeepVision",
+    "url": "https://github.com/peng-zhihui/DeepVision",
+    "lang": "Java",
+    "desc": "在我很多项目中用到的CV算法推理框架应用。",
+    "cn": true
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "PipedreamHQ/pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "lang": "JavaScript",
+    "desc": "Serverless integration and compute platform. Free for developers.",
+    "cn": false
+  },
+  {
+    "title": "apple/swift",
+    "url": "https://github.com/apple/swift",
+    "lang": "C++",
+    "desc": "The Swift Programming Language",
+    "cn": false
+  },
+  {
+    "title": "fastai/fastmac",
+    "url": "https://github.com/fastai/fastmac",
+    "lang": "Shell",
+    "desc": "Get a MacOS or Linux shell, for free, in around 2 minutes",
+    "cn": false
+  },
+  {
+    "title": "wagoodman/dive",
+    "url": "https://github.com/wagoodman/dive",
+    "lang": "Go",
+    "desc": "A tool for exploring each layer in a docker image",
+    "cn": false
+  },
+  {
+    "title": "Szaki/XiaomiADBFastbootTools",
+    "url": "https://github.com/Szaki/XiaomiADBFastbootTools",
+    "lang": "Kotlin",
+    "desc": "A simple tool for managing Xiaomi devices on desktop using ADB and Fastboot",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome-nodejs",
+    "url": "https://github.com/sindresorhus/awesome-nodejs",
+    "desc": "⚡ Delightful Node.js packages and resources",
+    "cn": false
+  },
+  {
+    "title": "yeahwu/kinto",
+    "url": "https://github.com/yeahwu/kinto",
+    "lang": "Shell"
+  },
+  {
+    "title": "amitness/learning",
+    "url": "https://github.com/amitness/learning",
+    "desc": "Becoming 1% better at data science everyday",
+    "cn": false
+  },
+  {
+    "title": "foxlet/macOS-Simple-KVM",
+    "url": "https://github.com/foxlet/macOS-Simple-KVM",
+    "lang": "Shell",
+    "desc": "Tools to set up a quick macOS VM in QEMU, accelerated by KVM.",
+    "cn": false
+  },
+  {
+    "title": "bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "url": "https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3",
+    "lang": "C++",
+    "desc": "BIGTREETECH SKR-mini-E3 motherboard is a ultra-quiet, low-power, high-quality 3D printing machine control board. It is launched by the 3D printing team of Shenzhen BIGTREE technology co., LTD. This board is specially tailored for Ender 3 printer, perfectly replacing the original Ender3 printer motherboard.",
+    "cn": false
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "lang": "C#",
+    "desc": "The Free Software Media System",
+    "cn": false
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "title": "twitter/TwitterTextEditor",
+    "url": "https://github.com/twitter/TwitterTextEditor",
+    "lang": "Swift",
+    "desc": "A standalone, flexible API that provides a full-featured rich text editor for iOS applications.",
+    "cn": false
+  },
+  {
+    "title": "alura-challenges/aluraquiz-base",
+    "url": "https://github.com/alura-challenges/aluraquiz-base",
+    "lang": "JavaScript",
+    "desc": "Projeto construido durante a Imersão React edição NextJS da Alura!",
+    "cn": false
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python",
+    "desc": "Awesome multilingual OCR toolkits based on PaddlePaddle （practical ultra lightweight OCR system, provide data annotation and synthesis tools, support training and deployment among server, mobile, embedded and IoT devices）",
+    "cn": false
+  },
+  {
+    "title": "ErickWendel/jsexpert02-skeleton-ew",
+    "url": "https://github.com/ErickWendel/jsexpert02-skeleton-ew",
+    "lang": "JavaScript",
+    "desc": "Projeto Base da Semana Javascript Expert 2.0",
+    "cn": false
+  },
+  {
+    "title": "AdamGold/Dryvo",
+    "url": "https://github.com/AdamGold/Dryvo",
+    "lang": "Python",
+    "desc": "Driving lessons made simpler. Custom scheduling API built with Python.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go",
+    "desc": "Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations.",
+    "cn": false
+  },
+  {
+    "title": "abhishekkrthakur/approachingalmost",
+    "url": "https://github.com/abhishekkrthakur/approachingalmost",
+    "desc": "Approaching (Almost) Any Machine Learning Problem",
+    "cn": false
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures.",
+    "cn": false
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "lang": "Vue",
+    "desc": "Open-Source Data Platform — Directus wraps your new or existing SQL database with a realtime GraphQL+REST API for developers, and an intuitive admin app for non-technical users. 🐰",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "oblador/hush",
+    "url": "https://github.com/oblador/hush",
+    "lang": "JavaScript",
+    "desc": "Noiseless Browsing – Content Blocker for Safari",
+    "cn": false
+  },
+  {
+    "title": "sundowndev/hacker-roadmap",
+    "url": "https://github.com/sundowndev/hacker-roadmap",
+    "desc": "📌 Your beginner pen-testing start guide. A guide for amateur pen testers and a collection of hacking tools, resources and references to practice ethical hacking and web security.",
+    "cn": false
+  },
+  {
+    "title": "moonD4rk/HackBrowserData",
+    "url": "https://github.com/moonD4rk/HackBrowserData",
+    "lang": "Go",
+    "desc": "Decrypt passwords/cookies/history/bookmarks from the browser. 一款可全平台运行的浏览器数据导出解密工具。",
+    "cn": true
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "cn": false
+  },
+  {
+    "title": "hathach/tinyusb",
+    "url": "https://github.com/hathach/tinyusb",
+    "lang": "C",
+    "desc": "An open source cross-platform USB stack for embedded system",
+    "cn": false
+  },
+  {
+    "title": "MTK-bypass/bypass_utility",
+    "url": "https://github.com/MTK-bypass/bypass_utility",
+    "lang": "Python"
+  },
+  {
+    "title": "LingCoder/OnJava8",
+    "url": "https://github.com/LingCoder/OnJava8",
+    "desc": "《On Java 8》中文版",
+    "cn": true
+  },
+  {
+    "title": "mjebrahimi/Awesome-Microservices-NetCore",
+    "url": "https://github.com/mjebrahimi/Awesome-Microservices-NetCore",
+    "desc": "💎 A collection of awesome training series, articles, videos, books, courses, sample projects, and tools for Microservices in .NET Core",
+    "cn": false
+  },
+  {
+    "title": "apache/superset",
+    "url": "https://github.com/apache/superset",
+    "lang": "Python",
+    "desc": "Apache Superset is a Data Visualization and Data Exploration Platform",
+    "cn": false
+  },
+  {
+    "title": "lunnlew/AutoSignMachine",
+    "url": "https://github.com/lunnlew/AutoSignMachine",
+    "lang": "JavaScript",
+    "desc": "一个自动执行任务的工具，通过它可以实现账号自动签到，自动领取权益等功能，帮助我们轻松升级",
+    "cn": true
+  },
+  {
+    "title": "jerryscript-project/jerryscript",
+    "url": "https://github.com/jerryscript-project/jerryscript",
+    "lang": "C",
+    "desc": "Ultra-lightweight JavaScript engine for the Internet of Things.",
+    "cn": false
+  },
+  {
+    "title": "mikecao/umami",
+    "url": "https://github.com/mikecao/umami",
+    "lang": "JavaScript",
+    "desc": "Umami is a simple, fast, website analytics alternative to Google Analytics.",
+    "cn": false
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "lang": "TypeScript",
+    "desc": "Angular UI Kit and components library for awesome people",
+    "cn": false
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript",
+    "desc": "The React Framework",
+    "cn": false
+  }
+]

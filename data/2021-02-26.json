@@ -1,0 +1,175 @@
+[
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "lang": "Python",
+    "desc": "PyTorch package for the discrete VAE used for DALL·E.",
+    "cn": false
+  },
+  {
+    "title": "android/compose-samples",
+    "url": "https://github.com/android/compose-samples",
+    "lang": "Kotlin",
+    "desc": "Official Jetpack Compose samples.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn the Python programming language in 30 days. This challenge may take up to 100 days, follow your own pace.",
+    "cn": false
+  },
+  {
+    "title": "OpenScanEu/OpenScan",
+    "url": "https://github.com/OpenScanEu/OpenScan",
+    "lang": "JavaScript",
+    "desc": "All you need to build your 3D Scanner",
+    "cn": false
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "cn": false
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript",
+    "desc": "JavaScript Style Guide",
+    "cn": false
+  },
+  {
+    "title": "andyzys/jd_seckill",
+    "url": "https://github.com/andyzys/jd_seckill",
+    "lang": "Python",
+    "desc": "京东秒杀商品抢购",
+    "cn": true
+  },
+  {
+    "title": "alievk/avatarify",
+    "url": "https://github.com/alievk/avatarify",
+    "lang": "Python",
+    "desc": "Avatars for Zoom, Skype and other video-conferencing apps.",
+    "cn": false
+  },
+  {
+    "title": "mtytel/vital",
+    "url": "https://github.com/mtytel/vital",
+    "lang": "C++",
+    "desc": "Spectral warping wavetable synth",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "cn": false
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "cn": false
+  },
+  {
+    "title": "thanos-io/thanos",
+    "url": "https://github.com/thanos-io/thanos",
+    "lang": "Go",
+    "desc": "Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.",
+    "cn": false
+  },
+  {
+    "title": "appium/appium",
+    "url": "https://github.com/appium/appium",
+    "lang": "JavaScript",
+    "desc": "📱 Automation for iOS, Android, and Windows Apps.",
+    "cn": false
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "Haskell",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on your DB with fine grained access control, also trigger webhooks on database events.",
+    "cn": false
+  },
+  {
+    "title": "valheimPlus/ValheimPlus",
+    "url": "https://github.com/valheimPlus/ValheimPlus",
+    "lang": "C#",
+    "desc": "A HarmonyX Mod aimed at improving the gameplay of Valheim",
+    "cn": false
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "lang": "JavaScript",
+    "desc": "Venom the more complete javascript library for Whatsapp, 100% Open Source.",
+    "cn": false
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "lang": "C++",
+    "desc": "Apache Arrow is a cross-language development platform for in-memory data. It specifies a standardized language-independent columnar memory format for flat and hierarchical data, organized for efficient analytic operations on modern hardware. It also provides computational libraries and zero-copy streaming messaging and interprocess communication…",
+    "cn": false
+  },
+  {
+    "title": "miekg/dns",
+    "url": "https://github.com/miekg/dns",
+    "lang": "Go",
+    "desc": "DNS library in Go",
+    "cn": false
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "lang": "Go",
+    "desc": "Fast, multi-platform web server with automatic HTTPS",
+    "cn": false
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "lang": "JavaScript",
+    "desc": "Budibase is a free and open-source development platform that helps you build internal apps on your own infrastructure, in minutes, not months 🚀",
+    "cn": false
+  },
+  {
+    "title": "geekxh/hello-algorithm",
+    "url": "https://github.com/geekxh/hello-algorithm",
+    "lang": "Java",
+    "desc": "🌍「算法面试+算法知识」针对小白的算法训练 | 还包括：1、阿里、字节、滴滴 百篇大厂面经汇总 2、千本开源电子书 3、百张思维导图 （右侧来个 star 吧 🌹，English version supported）",
+    "cn": true
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "lang": "Dart",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "cn": false
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "lang": "TypeScript",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "cn": false
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  }
+]

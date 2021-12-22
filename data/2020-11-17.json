@@ -1,0 +1,170 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "lang": "Python",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "cn": false
+  },
+  {
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "lang": "C",
+    "desc": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "cn": false
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "lang": "RichTextFormat",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "cn": false
+  },
+  {
+    "title": "joke2k/faker",
+    "url": "https://github.com/joke2k/faker",
+    "lang": "Python",
+    "desc": "Faker is a Python package that generates fake data for you.",
+    "cn": false
+  },
+  {
+    "title": "k0sproject/k0s",
+    "url": "https://github.com/k0sproject/k0s",
+    "lang": "Go",
+    "desc": "k0s - Zero Friction Kubernetes",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell",
+    "desc": "Azure Quickstart Templates",
+    "cn": false
+  },
+  {
+    "title": "vectorizedio/redpanda",
+    "url": "https://github.com/vectorizedio/redpanda",
+    "lang": "C++",
+    "desc": "Redpanda is the real-time engine for modern apps.",
+    "cn": false
+  },
+  {
+    "title": "BrasilAPI/BrasilAPI",
+    "url": "https://github.com/BrasilAPI/BrasilAPI",
+    "lang": "JavaScript",
+    "desc": "Vamos transformar o Brasil em uma API?",
+    "cn": false
+  },
+  {
+    "title": "hzwer/arXiv2020-RIFE",
+    "url": "https://github.com/hzwer/arXiv2020-RIFE",
+    "lang": "Python",
+    "desc": "RIFE: Real-Time Intermediate Flow Estimation for Video Frame Interpolation",
+    "cn": false
+  },
+  {
+    "title": "lwitzani/homebridgeStatusWidget",
+    "url": "https://github.com/lwitzani/homebridgeStatusWidget",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "antonioru/beautiful-react-diagrams",
+    "url": "https://github.com/antonioru/beautiful-react-diagrams",
+    "lang": "JavaScript",
+    "desc": "A tiny collection of lightweight React components for building diagrams with ease 💎",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "cn": false
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions",
+    "desc": "A long list of (advanced) JavaScript questions, and their explanations ✨",
+    "cn": false
+  },
+  {
+    "title": "MunGell/awesome-for-beginners",
+    "url": "https://github.com/MunGell/awesome-for-beginners",
+    "desc": "A list of awesome beginners-friendly projects.",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "makers-for-life/makair",
+    "url": "https://github.com/makers-for-life/makair",
+    "desc": "🫁 The first open-source ventilator tested on human patients. Mass-producible at a low cost (~2000€).",
+    "cn": false
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "lang": "C++",
+    "desc": "Solidity, the Contract-Oriented Programming Language",
+    "cn": false
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "crowdsecurity/crowdsec",
+    "url": "https://github.com/crowdsecurity/crowdsec",
+    "lang": "Go",
+    "desc": "Crowdsec - An open-source, lightweight agent to detect and respond to bad behaviours. It also automatically benefits from our global community-wide IP reputation database.",
+    "cn": false
+  },
+  {
+    "title": "PyTorchLightning/pytorch-lightning",
+    "url": "https://github.com/PyTorchLightning/pytorch-lightning",
+    "lang": "Python",
+    "desc": "The lightweight PyTorch wrapper for high-performance AI research. Scale your models, not the boilerplate.",
+    "cn": false
+  }
+]

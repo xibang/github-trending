@@ -1,0 +1,170 @@
+[
+  {
+    "title": "coder2gwy/coder2gwy",
+    "url": "https://github.com/coder2gwy/coder2gwy",
+    "desc": "互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。",
+    "cn": true
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript",
+    "desc": "Move your mouse, generate code from flow chart",
+    "cn": false
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "lang": "Go",
+    "desc": "JuiceFS is a distributed POSIX file system built on top of Redis and S3.",
+    "cn": false
+  },
+  {
+    "title": "d0nk/parler-tricks",
+    "url": "https://github.com/d0nk/parler-tricks",
+    "lang": "Python",
+    "desc": "Reverse engineered Parler API",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-iOS",
+    "url": "https://github.com/signalapp/Signal-iOS",
+    "lang": "Swift",
+    "desc": "A private messenger for iOS.",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Desktop",
+    "url": "https://github.com/signalapp/Signal-Desktop",
+    "lang": "JavaScript",
+    "desc": "Signal — Private Messenger for Windows, Mac, and Linux",
+    "cn": false
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++",
+    "desc": "Protocol Buffers - Google's data interchange format",
+    "cn": false
+  },
+  {
+    "title": "ArchiveTeam/parler-grab",
+    "url": "https://github.com/ArchiveTeam/parler-grab",
+    "lang": "Lua",
+    "desc": "Archiving Parler.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "cn": false
+  },
+  {
+    "title": "mewedir/mewehkdirectory",
+    "url": "https://github.com/mewedir/mewehkdirectory",
+    "desc": "MeWe Directory for HongKonger",
+    "cn": false
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "lang": "C#",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "cn": false
+  },
+  {
+    "title": "OLayemii/flutter-ui-kits",
+    "url": "https://github.com/OLayemii/flutter-ui-kits",
+    "lang": "Dart",
+    "desc": "Free Flutter UI Kits developed by Olayemi Garuba",
+    "cn": false
+  },
+  {
+    "title": "ihebski/DefaultCreds-cheat-sheet",
+    "url": "https://github.com/ihebski/DefaultCreds-cheat-sheet",
+    "lang": "JupyterNotebook",
+    "desc": "One place for all the default credentials to assist the Blue/Red teamers activities on finding devices with default password 🛡️🔥",
+    "cn": false
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "lang": "Java",
+    "desc": "A private messenger for Android.",
+    "cn": false
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge",
+    "cn": false
+  },
+  {
+    "title": "tootsuite/mastodon",
+    "url": "https://github.com/tootsuite/mastodon",
+    "lang": "Ruby",
+    "desc": "Your self-hosted, globally interconnected microblogging community",
+    "cn": false
+  },
+  {
+    "title": "objective-see/LuLu",
+    "url": "https://github.com/objective-see/LuLu",
+    "lang": "Objective-C",
+    "desc": "LuLu is the free macOS firewall",
+    "cn": false
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!",
+    "cn": false
+  },
+  {
+    "title": "ayuer/shanghai_house_knowledge",
+    "url": "https://github.com/ayuer/shanghai_house_knowledge",
+    "desc": "2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。",
+    "cn": true
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript",
+    "desc": "A JavaScript / Python / PHP cryptocurrency trading API with support for more than 120 bitcoin/altcoin exchanges",
+    "cn": false
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "lang": "Python",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "cn": false
+  },
+  {
+    "title": "signals-dev/Orion",
+    "url": "https://github.com/signals-dev/Orion",
+    "lang": "JupyterNotebook",
+    "desc": "A machine learning library for detecting anomalies in signals.",
+    "cn": false
+  },
+  {
+    "title": "arslanbilal/git-cheat-sheet",
+    "url": "https://github.com/arslanbilal/git-cheat-sheet",
+    "desc": "git and git flow cheat sheet",
+    "cn": false
+  },
+  {
+    "title": "64/cmake-raytracer",
+    "url": "https://github.com/64/cmake-raytracer",
+    "lang": "CMake",
+    "desc": "Ray tracer written in pure CMake",
+    "cn": false
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "desc": "100 Days of ML Coding",
+    "cn": false
+  }
+]

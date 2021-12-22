@@ -1,0 +1,170 @@
+[
+  {
+    "title": "ai-eks/OpenClubhouse",
+    "url": "https://github.com/ai-eks/OpenClubhouse",
+    "lang": "JavaScript",
+    "desc": "A third-part web application based on flask to play Clubhouse audio.",
+    "cn": false
+  },
+  {
+    "title": "grishka/Houseclub",
+    "url": "https://github.com/grishka/Houseclub",
+    "lang": "Java",
+    "desc": "A barebones unofficial Android app for Clubhouse",
+    "cn": false
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "cn": false
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "lang": "TypeScript",
+    "desc": "Guide on Domain-Driven Design, Hexagonal architecture, best practices etc.",
+    "cn": false
+  },
+  {
+    "title": "MostlyAdequate/mostly-adequate-guide",
+    "url": "https://github.com/MostlyAdequate/mostly-adequate-guide",
+    "lang": "JavaScript",
+    "desc": "Mostly adequate guide to FP (in javascript)",
+    "cn": false
+  },
+  {
+    "title": "Seia-Soto/clubhouse-api",
+    "url": "https://github.com/Seia-Soto/clubhouse-api",
+    "lang": "JavaScript",
+    "desc": "The private API client for clubhouse, drop-in audio chat.",
+    "cn": false
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust",
+    "desc": "Build smaller, faster, and more secure desktop applications with a web frontend.",
+    "cn": false
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "lang": "C#",
+    "desc": "Clean Architecture Solution Template for Angular 10 and .NET 5",
+    "cn": false
+  },
+  {
+    "title": "ballista-compute/ballista",
+    "url": "https://github.com/ballista-compute/ballista",
+    "lang": "Rust",
+    "desc": "Distributed compute platform implemented in Rust, and powered by Apache Arrow.",
+    "cn": false
+  },
+  {
+    "title": "nasa/fprime",
+    "url": "https://github.com/nasa/fprime",
+    "lang": "C++",
+    "desc": "F' - A flight software and embedded systems framework",
+    "cn": false
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell",
+    "desc": "A black hole for Internet advertisements",
+    "cn": false
+  },
+  {
+    "title": "qeeqbox/social-analyzer",
+    "url": "https://github.com/qeeqbox/social-analyzer",
+    "lang": "JavaScript",
+    "desc": "API, CLI & Web App for analyzing & finding a person's profile across 350+ social media websites (Detections are updated regularly)",
+    "cn": false
+  },
+  {
+    "title": "google/model_search",
+    "url": "https://github.com/google/model_search",
+    "lang": "Python"
+  },
+  {
+    "title": "stypr/clubhouse-py",
+    "url": "https://github.com/stypr/clubhouse-py",
+    "lang": "Python",
+    "desc": "Clubhouse API written in Python. Standalone client included. For reference and education purposes only.",
+    "cn": false
+  },
+  {
+    "title": "justinamiller/DotNet-Coding-Guidelines",
+    "url": "https://github.com/justinamiller/DotNet-Coding-Guidelines",
+    "desc": "This repo highlights the list of software engineering guidelines in general.",
+    "cn": false
+  },
+  {
+    "title": "dockere/jd-base",
+    "url": "https://github.com/dockere/jd-base",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dabit3/awesome-aws-amplify",
+    "url": "https://github.com/dabit3/awesome-aws-amplify",
+    "desc": "Curated list of AWS Amplify Resources",
+    "cn": false
+  },
+  {
+    "title": "yongxinw/GSDT",
+    "url": "https://github.com/yongxinw/GSDT",
+    "lang": "Python",
+    "desc": "Official PyTorch implementation of \"Joint Object Detection and Multi-Object Tracking with Graph Neural Networks\"",
+    "cn": false
+  },
+  {
+    "title": "avelino/awesome-go",
+    "url": "https://github.com/avelino/awesome-go",
+    "lang": "Go",
+    "desc": "A curated list of awesome Go frameworks, libraries and software",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "「Java学习+面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "cn": true
+  },
+  {
+    "title": "dogecoin/dogecoin",
+    "url": "https://github.com/dogecoin/dogecoin",
+    "lang": "C++",
+    "desc": "very currency",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days. This challenge may take up to 100 days, please just follow your own pace.",
+    "cn": false
+  },
+  {
+    "title": "Loyalsoldier/v2ray-rules-dat",
+    "url": "https://github.com/Loyalsoldier/v2ray-rules-dat",
+    "desc": "🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go and leaf.",
+    "cn": true
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python",
+    "desc": "Free, open source crypto trading bot",
+    "cn": false
+  },
+  {
+    "title": "Aetsu/OffensivePipeline",
+    "url": "https://github.com/Aetsu/OffensivePipeline",
+    "lang": "C#",
+    "desc": "OffensivePipeline allows to download, compile (without Visual Studio) and obfuscate C# tools for Red Team exercises.",
+    "cn": false
+  }
+]

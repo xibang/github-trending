@@ -1,0 +1,165 @@
+[
+  {
+    "title": "zhisheng17/flink-learning",
+    "url": "https://github.com/zhisheng17/flink-learning",
+    "lang": "Java",
+    "desc": "flink learning blog. http://www.flink-learning.com 含 Flink 入门、概念、原理、实战、性能调优、源码解析等内容。涉及 Flink Connector、Metrics、Library、DataStream API、Table API & SQL 等内容的学习案例，还有 Flink 落地应用的大型项目案例（PVUV、日志存储、百亿数据实时去重、监控告警）分享。欢迎大家支持我的专栏《大数据实时计算引擎 Flink 实战与性能优化》",
+    "cn": true
+  },
+  {
+    "title": "austinkregel/finance",
+    "url": "https://github.com/austinkregel/finance",
+    "lang": "TSQL",
+    "desc": "A self hosted app to help you get a better understanding of your personal finances.",
+    "cn": false
+  },
+  {
+    "title": "Light-City/CPlusPlusThings",
+    "url": "https://github.com/Light-City/CPlusPlusThings",
+    "lang": "C++",
+    "desc": "C++那些事",
+    "cn": true
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ritchieng/the-incredible-pytorch",
+    "url": "https://github.com/ritchieng/the-incredible-pytorch",
+    "desc": "The Incredible PyTorch: a curated list of tutorials, papers, projects, communities and more relating to PyTorch.",
+    "cn": false
+  },
+  {
+    "title": "bottlerocket-os/bottlerocket",
+    "url": "https://github.com/bottlerocket-os/bottlerocket",
+    "lang": "Rust",
+    "desc": "An operating system designed for hosting containers",
+    "cn": false
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "lang": "HTML",
+    "desc": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "cn": false
+  },
+  {
+    "title": "haimgel/display-switch",
+    "url": "https://github.com/haimgel/display-switch",
+    "lang": "Rust",
+    "desc": "Turn a $30 USB switch into a full-featured multi-monitor KVM switch",
+    "cn": false
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "lang": "Python",
+    "desc": "12306智能刷票，订票",
+    "cn": true
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "lang": "Java",
+    "desc": "Just Announced - \"Learn Spring Security OAuth\":",
+    "cn": false
+  },
+  {
+    "title": "JohnSnowLabs/spark-nlp",
+    "url": "https://github.com/JohnSnowLabs/spark-nlp",
+    "lang": "Scala",
+    "desc": "State of the Art Natural Language Processing",
+    "cn": false
+  },
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "blade-ui-kit/blade-ui-kit",
+    "url": "https://github.com/blade-ui-kit/blade-ui-kit",
+    "lang": "PHP",
+    "desc": "A set of renderless components to utilise in your Laravel Blade views.",
+    "cn": false
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "cn": false
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers",
+    "desc": "100 Must-Read NLP Papers",
+    "cn": false
+  },
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "lang": "Python",
+    "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "KingOfBugbounty/KingOfBugBountyTips",
+    "url": "https://github.com/KingOfBugbounty/KingOfBugBountyTips"
+  },
+  {
+    "title": "Rudrabha/Wav2Lip",
+    "url": "https://github.com/Rudrabha/Wav2Lip",
+    "lang": "Python",
+    "desc": "This repository contains the codes of \"A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild\", published at ACM Multimedia 2020.",
+    "cn": false
+  },
+  {
+    "title": "google/xls",
+    "url": "https://github.com/google/xls",
+    "lang": "C++",
+    "desc": "XLS: Accelerated HW Synthesis",
+    "cn": false
+  },
+  {
+    "title": "yam-finance/yam-protocol",
+    "url": "https://github.com/yam-finance/yam-protocol",
+    "lang": "Solidity",
+    "desc": "A stablizing reserve currency protocol",
+    "cn": false
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "lang": "Vue",
+    "desc": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "cn": false
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "lang": "C#",
+    "desc": "Welcome to the Bot Framework samples repository. Here you will find task-focused samples in C#, JavaScript and TypeScript to help you get started with the Bot Framework SDK!",
+    "cn": false
+  }
+]

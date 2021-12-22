@@ -1,0 +1,171 @@
+[
+  {
+    "title": "huanzi-qch/base-admin",
+    "url": "https://github.com/huanzi-qch/base-admin",
+    "lang": "Java",
+    "desc": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
+    "cn": true
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "cn": false
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "lang": "JavaScript",
+    "desc": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "cn": false
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "cn": true
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "lang": "Go",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "cn": false
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "lang": "Go",
+    "desc": "A powerful little TUI framework 🏗",
+    "cn": false
+  },
+  {
+    "title": "cyrildiagne/ar-cptext",
+    "url": "https://github.com/cyrildiagne/ar-cptext",
+    "lang": "Java",
+    "desc": "AR Copy Paste - Text Proto",
+    "cn": false
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "lang": "JavaScript",
+    "desc": "🚀 An open-source alternative to Twilio.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "ShaderLab",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "JoseDeFreitas/awesome-youtubers",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "desc": "▶️ An awesome list containing awesome YouTubers that teach about technology.",
+    "cn": false
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "lang": "HTML",
+    "desc": "The world smallest office suite",
+    "cn": false
+  },
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "lang": "Python",
+    "desc": "[ECCV 2020] Flow-edge Guided Video Completion",
+    "cn": false
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "Machine-Learning-Tokyo/AI_Curriculum",
+    "url": "https://github.com/Machine-Learning-Tokyo/AI_Curriculum",
+    "desc": "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.",
+    "cn": false
+  },
+  {
+    "title": "ivan-bilan/The-NLP-Pandect",
+    "url": "https://github.com/ivan-bilan/The-NLP-Pandect",
+    "desc": "A comprehensive reference for all topics related to Natural Language Processing",
+    "cn": false
+  },
+  {
+    "title": "im3x/Scriptables",
+    "url": "https://github.com/im3x/Scriptables",
+    "lang": "JavaScript",
+    "desc": "iOS14桌面组件神器（Scriptable）开发框架、教程、精美脚本分享",
+    "cn": true
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "lang": "Java",
+    "desc": "Open Source, Distributed, RESTful Search Engine",
+    "cn": false
+  },
+  {
+    "title": "PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+    "url": "https://github.com/PiotrMachowski/Home-Assistant-custom-components-Xiaomi-Cloud-Map-Extractor",
+    "lang": "Python",
+    "desc": "This custom integration provides a way to present a live view of a map for a Xiaomi vacuum.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "lang": "Python",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "cn": false
+  },
+  {
+    "title": "horovod/horovod",
+    "url": "https://github.com/horovod/horovod",
+    "lang": "Python",
+    "desc": "Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.",
+    "cn": false
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "lang": "Python",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "cn": false
+  },
+  {
+    "title": "dotnet-architecture/eShopOnContainers",
+    "url": "https://github.com/dotnet-architecture/eShopOnContainers",
+    "lang": "C#",
+    "desc": "Cross-platform .NET sample microservices and container based application that runs on Linux Windows and macOS. Powered by .NET Core 3.0, Docker Containers and Azure Kubernetes Services. Supports Visual Studio, VS for Mac and CLI based environments with Docker CLI, dotnet CLI, VS Code or any other code editor.",
+    "cn": false
+  }
+]

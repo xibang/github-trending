@@ -1,0 +1,165 @@
+[
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "lang": "Python",
+    "desc": "[ECCV 2020] Flow-edge Guided Video Completion",
+    "cn": false
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "ShaderLab",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps",
+    "cn": false
+  },
+  {
+    "title": "zserge/awfice",
+    "url": "https://github.com/zserge/awfice",
+    "lang": "HTML",
+    "desc": "The world smallest office suite",
+    "cn": false
+  },
+  {
+    "title": "JoseDeFreitas/awesome-youtubers",
+    "url": "https://github.com/JoseDeFreitas/awesome-youtubers",
+    "desc": "▶️ An awesome list containing awesome YouTubers that teach about technology.",
+    "cn": false
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "lang": "JavaScript",
+    "desc": "🚀 An open-source alternative to Twilio.",
+    "cn": false
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "cn": false
+  },
+  {
+    "title": "advanced-threat-research/CVE-2020-16898",
+    "url": "https://github.com/advanced-threat-research/CVE-2020-16898",
+    "lang": "Lua",
+    "desc": "CVE-2020-16898 (Bad Neighbor) Microsoft Windows TCP/IP Vulnerability Detection Logic and Rule",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "lang": "HTML",
+    "desc": "Curso de HTML5 e CSS3",
+    "cn": false
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "cn": false
+  },
+  {
+    "title": "microsoft/nni",
+    "url": "https://github.com/microsoft/nni",
+    "lang": "Python",
+    "desc": "An open source AutoML toolkit for automate machine learning lifecycle, including feature engineering, neural architecture search, model compression and hyper-parameter tuning.",
+    "cn": false
+  },
+  {
+    "title": "geerlingguy/ansible-for-devops",
+    "url": "https://github.com/geerlingguy/ansible-for-devops",
+    "lang": "Python",
+    "desc": "Ansible for DevOps examples.",
+    "cn": false
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "orkestral/venom",
+    "url": "https://github.com/orkestral/venom",
+    "lang": "JavaScript",
+    "desc": "Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp",
+    "cn": false
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "cn": true
+  },
+  {
+    "title": "huanzi-qch/base-admin",
+    "url": "https://github.com/huanzi-qch/base-admin",
+    "lang": "Java",
+    "desc": "Base Admin一套简单通用的后台管理系统，主要功能有：权限管理、菜单管理、用户管理，系统设置、实时日志，实时监控，API加密，以及登录用户修改密码、配置个性菜单等",
+    "cn": true
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "lang": "JavaScript",
+    "desc": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "cn": false
+  },
+  {
+    "title": "grpc-ecosystem/grpc-gateway",
+    "url": "https://github.com/grpc-ecosystem/grpc-gateway",
+    "lang": "Go",
+    "desc": "gRPC to JSON proxy generator following the gRPC HTTP spec",
+    "cn": false
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "lang": "Python",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "cn": false
+  },
+  {
+    "title": "januschung/math-worksheet-generator",
+    "url": "https://github.com/januschung/math-worksheet-generator",
+    "lang": "Python",
+    "desc": "Create basic addition, subtraction and multiplication practice questions with the answer sheet",
+    "cn": false
+  },
+  {
+    "title": "strimzi/strimzi-kafka-operator",
+    "url": "https://github.com/strimzi/strimzi-kafka-operator",
+    "lang": "Java",
+    "desc": "Apache Kafka running on Kubernetes",
+    "cn": false
+  },
+  {
+    "title": "guilhermecapitao/nlw3-discovery-happy",
+    "url": "https://github.com/guilhermecapitao/nlw3-discovery-happy",
+    "lang": "Handlebars"
+  },
+  {
+    "title": "dotnet/runtime",
+    "url": "https://github.com/dotnet/runtime",
+    "lang": "C#",
+    "desc": ".NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.",
+    "cn": false
+  }
+]

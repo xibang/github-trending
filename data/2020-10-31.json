@@ -1,0 +1,169 @@
+[
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "lang": "Python",
+    "desc": "Zipline, a Pythonic Algorithmic Trading Library",
+    "cn": false
+  },
+  {
+    "title": "3b1b/manim",
+    "url": "https://github.com/3b1b/manim",
+    "lang": "Python",
+    "desc": "Animation engine for explanatory math videos",
+    "cn": false
+  },
+  {
+    "title": "ErickWendel/semana-javascript-expert01",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert01",
+    "lang": "JavaScript",
+    "desc": "Exemplos de código da primeira semana Javascript Expert",
+    "cn": false
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript",
+    "desc": "The React Framework",
+    "cn": false
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python",
+    "desc": "the only cheat sheet you need",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "mlech26l/keras-ncp",
+    "url": "https://github.com/mlech26l/keras-ncp",
+    "lang": "Python",
+    "desc": "Code repository of the paper Neural circuit policies enabling auditable autonomy published in Nature Machine Intelligence",
+    "cn": false
+  },
+  {
+    "title": "xChockax/Privlege_Escalation",
+    "url": "https://github.com/xChockax/Privlege_Escalation"
+  },
+  {
+    "title": "datawhalechina/key-book",
+    "url": "https://github.com/datawhalechina/key-book",
+    "desc": "《机器学习理论导引》（宝箱书）的证明、案例、概念补充与参考文献讲解。在线阅读地址：https://datawhalechina.github.io/key-book/",
+    "cn": true
+  },
+  {
+    "title": "microsoft/beginners-intro-javascript-node",
+    "url": "https://github.com/microsoft/beginners-intro-javascript-node",
+    "lang": "JavaScript",
+    "desc": "Beginner's Series: Introduction to JavaScript (Node.js)",
+    "cn": false
+  },
+  {
+    "title": "freddier/hyperblog",
+    "url": "https://github.com/freddier/hyperblog",
+    "lang": "HTML",
+    "desc": "Un blog increíble para el curso de Git y Github de Platzi",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++",
+    "cn": true
+  },
+  {
+    "title": "dkhamsing/open-source-ios-apps",
+    "url": "https://github.com/dkhamsing/open-source-ios-apps",
+    "lang": "Swift",
+    "desc": "📱 Collaborative List of Open-Source iOS Apps",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "keep3r-network/keep3r.network",
+    "url": "https://github.com/keep3r-network/keep3r.network",
+    "lang": "Solidity",
+    "desc": "An incentivized keeper network for anonymous keeper and job registration",
+    "cn": false
+  },
+  {
+    "title": "fireeye/ThreatPursuit-VM",
+    "url": "https://github.com/fireeye/ThreatPursuit-VM",
+    "lang": "PowerShell",
+    "desc": "Threat Pursuit Virtual Machine (VM): A fully customizable, open-sourced Windows-based distribution focused on threat intelligence analysis and hunting designed for intel and malware analysts as well as threat hunters to get up and running quickly.",
+    "cn": false
+  },
+  {
+    "title": "srcrs/BilibiliTask",
+    "url": "https://github.com/srcrs/BilibiliTask",
+    "lang": "Java",
+    "desc": "哔哩哔哩(B站)自动完成每日任务，投币，点赞，直播签到，自动兑换银瓜子为硬币，自动送出即将过期礼物，漫画App签到。",
+    "cn": true
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+    "cn": true
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript",
+    "desc": "The OpenAPI Specification Repository",
+    "cn": false
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust",
+    "desc": "Substrate: The platform for blockchain innovators",
+    "cn": false
+  }
+]

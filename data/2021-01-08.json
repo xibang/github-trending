@@ -1,0 +1,171 @@
+[
+  {
+    "title": "zqjzqj/mtSecKill",
+    "url": "https://github.com/zqjzqj/mtSecKill",
+    "lang": "Go",
+    "desc": "京东茅台抢购",
+    "cn": true
+  },
+  {
+    "title": "signalapp/Signal-Android",
+    "url": "https://github.com/signalapp/Signal-Android",
+    "lang": "Java",
+    "desc": "A private messenger for Android.",
+    "cn": false
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript",
+    "desc": "Lens - The Kubernetes IDE",
+    "cn": false
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit",
+    "desc": "Official git mirror of the WebKit repository, https://svn.webkit.org/repository/webkit, future canonical repository.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "cn": false
+  },
+  {
+    "title": "LasCC/Hack-Tools",
+    "url": "https://github.com/LasCC/Hack-Tools",
+    "lang": "JavaScript",
+    "desc": "The all-in-one Red Team extension for Web Pentester 🛠",
+    "cn": false
+  },
+  {
+    "title": "priyankavergadia/GCPSketchnote",
+    "url": "https://github.com/priyankavergadia/GCPSketchnote",
+    "desc": "If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format.",
+    "cn": false
+  },
+  {
+    "title": "lucidrains/DALLE-pytorch",
+    "url": "https://github.com/lucidrains/DALLE-pytorch",
+    "lang": "Python",
+    "desc": "Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch",
+    "cn": false
+  },
+  {
+    "title": "shenzhenjinma/sn_jd_tb_tm_maotai_seckill",
+    "url": "https://github.com/shenzhenjinma/sn_jd_tb_tm_maotai_seckill",
+    "lang": "Shell",
+    "desc": "苏宁 京东 淘宝 天猫 茅台秒杀脚本 基于chrome浏览器插件",
+    "cn": true
+  },
+  {
+    "title": "Chocobozzz/PeerTube",
+    "url": "https://github.com/Chocobozzz/PeerTube",
+    "lang": "TypeScript",
+    "desc": "ActivityPub-federated video streaming platform using P2P directly in your web browser",
+    "cn": false
+  },
+  {
+    "title": "NARKOZ/hacker-scripts",
+    "url": "https://github.com/NARKOZ/hacker-scripts",
+    "lang": "JavaScript",
+    "desc": "Based on a true story",
+    "cn": false
+  },
+  {
+    "title": "ztino/helloworld",
+    "url": "https://github.com/ztino/helloworld",
+    "lang": "Go",
+    "desc": "Hello，MT",
+    "cn": false
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript",
+    "desc": "One framework. Mobile & desktop.",
+    "cn": false
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Shell",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "cn": false
+  },
+  {
+    "title": "devsuperior/sds2",
+    "url": "https://github.com/devsuperior/sds2",
+    "lang": "CSS"
+  },
+  {
+    "title": "lowlighter/metrics",
+    "url": "https://github.com/lowlighter/metrics",
+    "lang": "JavaScript",
+    "desc": "📊 An image generator with 20+ metrics about your GitHub account such as activity, community, repositories, coding habits, website performances, music played, starred topics, etc. that you can put on your profile or elsewhere !",
+    "cn": false
+  },
+  {
+    "title": "openai/CLIP",
+    "url": "https://github.com/openai/CLIP",
+    "lang": "JupyterNotebook",
+    "desc": "Contrastive Language-Image Pretraining",
+    "cn": false
+  },
+  {
+    "title": "wasmerio/wasmer",
+    "url": "https://github.com/wasmerio/wasmer",
+    "lang": "Rust",
+    "desc": "🚀 The leading WebAssembly Runtime supporting WASI and Emscripten",
+    "cn": false
+  },
+  {
+    "title": "who0sy/jd_kill",
+    "url": "https://github.com/who0sy/jd_kill",
+    "lang": "Python",
+    "desc": "京东茅台懂得都懂 main分支是新版本，old分支是docker之前的版本",
+    "cn": true
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "desc": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "cn": false
+  },
+  {
+    "title": "open-mmlab/mmtracking",
+    "url": "https://github.com/open-mmlab/mmtracking",
+    "lang": "Python",
+    "desc": "OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.",
+    "cn": false
+  },
+  {
+    "title": "Olshansk/interview",
+    "url": "https://github.com/Olshansk/interview",
+    "desc": "Everything you need to prepare for your technical interview",
+    "cn": false
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "lang": "Go",
+    "desc": "AWS SDK for the Go programming language.",
+    "cn": false
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript",
+    "desc": "💯 Materials to help you rock your next coding interview",
+    "cn": false
+  },
+  {
+    "title": "jamstack-cms/jamstack-ecommerce",
+    "url": "https://github.com/jamstack-cms/jamstack-ecommerce",
+    "lang": "JavaScript",
+    "desc": "A starter project for building performant ECommerce applications with Next.js and React",
+    "cn": false
+  }
+]

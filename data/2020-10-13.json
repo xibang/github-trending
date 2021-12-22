@@ -1,0 +1,169 @@
+[
+  {
+    "title": "chriswalz/bit",
+    "url": "https://github.com/chriswalz/bit",
+    "lang": "Go",
+    "desc": "Bit is a modern Git CLI",
+    "cn": false
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "lang": "Go",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "cn": false
+  },
+  {
+    "title": "micodeyt/ascii-webcam",
+    "url": "https://github.com/micodeyt/ascii-webcam",
+    "lang": "Python"
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "lang": "Python",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "cn": true
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "elastic/elasticsearch",
+    "url": "https://github.com/elastic/elasticsearch",
+    "lang": "Java",
+    "desc": "Open Source, Distributed, RESTful Search Engine",
+    "cn": false
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "lang": "Python",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "cn": false
+  },
+  {
+    "title": "anncwb/vue-vben-admin",
+    "url": "https://github.com/anncwb/vue-vben-admin",
+    "lang": "TypeScript",
+    "desc": "A vue3.0,vue3, vite, antv2.x, typescript management system，Efforts to update in progress...",
+    "cn": false
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "lang": "JavaScript",
+    "desc": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "cn": false
+  },
+  {
+    "title": "fonoster/fonos",
+    "url": "https://github.com/fonoster/fonos",
+    "lang": "JavaScript",
+    "desc": "🚀 An open-source alternative to Twilio.",
+    "cn": false
+  },
+  {
+    "title": "KathanP19/HowToHunt",
+    "url": "https://github.com/KathanP19/HowToHunt",
+    "desc": "Tutorials and Things to Do while Hunting Vulnerability.",
+    "cn": false
+  },
+  {
+    "title": "danluu/post-mortems",
+    "url": "https://github.com/danluu/post-mortems",
+    "desc": "A collection of postmortems. Sorry for the delay in merging PRs!",
+    "cn": false
+  },
+  {
+    "title": "vxunderground/MalwareSourceCode",
+    "url": "https://github.com/vxunderground/MalwareSourceCode",
+    "lang": "Assembly",
+    "desc": "Collection of malware source code for a variety of platforms in an array of different programming languages.",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "lang": "Go",
+    "desc": "A powerful little TUI framework 🏗",
+    "cn": false
+  },
+  {
+    "title": "reactjs/reactjs.org",
+    "url": "https://github.com/reactjs/reactjs.org",
+    "lang": "JavaScript",
+    "desc": "The React documentation website",
+    "cn": false
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++",
+    "desc": "Open Source Computer Vision Library",
+    "cn": false
+  },
+  {
+    "title": "vt-vl-lab/FGVC",
+    "url": "https://github.com/vt-vl-lab/FGVC",
+    "lang": "Python",
+    "desc": "[ECCV 2020] Flow-edge Guided Video Completion",
+    "cn": false
+  },
+  {
+    "title": "Machine-Learning-Tokyo/AI_Curriculum",
+    "url": "https://github.com/Machine-Learning-Tokyo/AI_Curriculum",
+    "desc": "Open Deep Learning and Reinforcement Learning lectures from top Universities like Stanford, MIT, UC Berkeley.",
+    "cn": false
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java",
+    "desc": "Design patterns implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "lang": "JavaScript",
+    "desc": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+    "cn": false
+  }
+]

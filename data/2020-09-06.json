@@ -1,0 +1,168 @@
+[
+  {
+    "title": "CCChieh/IBMYes",
+    "url": "https://github.com/CCChieh/IBMYes",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "lang": "JavaScript",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "cn": false
+  },
+  {
+    "title": "PanDownloadServer/Server",
+    "url": "https://github.com/PanDownloadServer/Server",
+    "lang": "HTML",
+    "desc": "PanDownload的个人维护版本",
+    "cn": true
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++",
+    "desc": "Sogou framework for C++ backend development.",
+    "cn": false
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "lang": "Vue",
+    "desc": "👽 A free, fast and beautiful API request builder used by 75k+ developers. https://hoppscotch.io",
+    "cn": false
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "Ciphey/Ciphey",
+    "url": "https://github.com/Ciphey/Ciphey",
+    "lang": "Python",
+    "desc": "Automatically decode encryptions without a key, decode encodings, and crack hashes",
+    "cn": false
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C",
+    "desc": "Alternative firmware for ESP8266 with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at",
+    "cn": false
+  },
+  {
+    "title": "alirezamika/autoscraper",
+    "url": "https://github.com/alirezamika/autoscraper",
+    "lang": "Python",
+    "desc": "A Smart, Automatic, Fast and Lightweight Web Scraper for Python",
+    "cn": false
+  },
+  {
+    "title": "LetsUpgrade/Python-Essentials",
+    "url": "https://github.com/LetsUpgrade/Python-Essentials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "learning-at-home/hivemind",
+    "url": "https://github.com/learning-at-home/hivemind",
+    "lang": "Python",
+    "desc": "Decentralized deep learning framework in pytorch. Built to train models on thousands of volunteers across the world.",
+    "cn": false
+  },
+  {
+    "title": "datastacktv/data-engineer-roadmap",
+    "url": "https://github.com/datastacktv/data-engineer-roadmap",
+    "desc": "Roadmap to becoming a data engineer in 2020",
+    "cn": false
+  },
+  {
+    "title": "rasbt/deeplearning-models",
+    "url": "https://github.com/rasbt/deeplearning-models",
+    "lang": "JupyterNotebook",
+    "desc": "A collection of various deep learning architectures, models, and tips",
+    "cn": false
+  },
+  {
+    "title": "openjdk/jdk",
+    "url": "https://github.com/openjdk/jdk",
+    "lang": "Java",
+    "desc": "JDK main-line development",
+    "cn": false
+  },
+  {
+    "title": "schollz/croc",
+    "url": "https://github.com/schollz/croc",
+    "lang": "Go",
+    "desc": "Easily and securely send things from one computer to another 🐊 📦",
+    "cn": false
+  },
+  {
+    "title": "keras-team/keras",
+    "url": "https://github.com/keras-team/keras",
+    "lang": "Python",
+    "desc": "Deep Learning for humans",
+    "cn": false
+  },
+  {
+    "title": "mitmath/18S191",
+    "url": "https://github.com/mitmath/18S191",
+    "lang": "HTML",
+    "desc": "Course 18.S191 at MIT, fall 2020 - Introduction to computational thinking with Julia:",
+    "cn": false
+  },
+  {
+    "title": "mhagiwara/100-nlp-papers",
+    "url": "https://github.com/mhagiwara/100-nlp-papers",
+    "desc": "100 Must-Read NLP Papers",
+    "cn": false
+  },
+  {
+    "title": "kbrsh/moon",
+    "url": "https://github.com/kbrsh/moon",
+    "lang": "JavaScript",
+    "desc": "🌙 The minimal & fast library for functional user interfaces",
+    "cn": false
+  },
+  {
+    "title": "danistefanovic/build-your-own-x",
+    "url": "https://github.com/danistefanovic/build-your-own-x",
+    "desc": "🤓 Build your own (insert technology here)",
+    "cn": false
+  },
+  {
+    "title": "MaximAbramchuck/awesome-interview-questions",
+    "url": "https://github.com/MaximAbramchuck/awesome-interview-questions",
+    "desc": "A curated awesome list of lists of interview questions. Feel free to contribute! 🎓",
+    "cn": false
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "lang": "Rust",
+    "desc": "🦀 Small exercises to get you used to reading and writing Rust code!",
+    "cn": false
+  },
+  {
+    "title": "haskell/ghcide",
+    "url": "https://github.com/haskell/ghcide",
+    "lang": "Haskell",
+    "desc": "A library for building Haskell IDE tooling",
+    "cn": false
+  },
+  {
+    "title": "NirantK/awesome-project-ideas",
+    "url": "https://github.com/NirantK/awesome-project-ideas",
+    "desc": "Curated list of Machine Learning, NLP, Vision, Recommender Systems Project Ideas",
+    "cn": false
+  },
+  {
+    "title": "AliaksandrSiarohin/first-order-model",
+    "url": "https://github.com/AliaksandrSiarohin/first-order-model",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the source code for the paper First Order Motion Model for Image Animation",
+    "cn": false
+  }
+]

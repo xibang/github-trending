@@ -1,0 +1,174 @@
+[
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "cn": false
+  },
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "lang": "Haskell",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "cn": false
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "lang": "JavaScript",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "cn": false
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "FormidableLabs/urql",
+    "url": "https://github.com/FormidableLabs/urql",
+    "lang": "TypeScript",
+    "desc": "A highly customizable and versatile GraphQL client for React",
+    "cn": false
+  },
+  {
+    "title": "FunctionScript/FunctionScript",
+    "url": "https://github.com/FunctionScript/FunctionScript",
+    "lang": "JavaScript",
+    "desc": "A language and specification for turning JavaScript functions into typed HTTP APIs",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "lang": "Go",
+    "desc": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+    "cn": false
+  },
+  {
+    "title": "zhihu/rucene",
+    "url": "https://github.com/zhihu/rucene",
+    "lang": "Rust",
+    "desc": "Rust port of Lucene",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "Ekultek/BlueKeep",
+    "url": "https://github.com/Ekultek/BlueKeep",
+    "lang": "Python",
+    "desc": "Proof of concept for CVE-2019-0708",
+    "cn": false
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "JavaScript",
+    "desc": "Blazing fast, instant realtime GraphQL APIs on Postgres with fine grained access control, also trigger webhooks on database events.",
+    "cn": false
+  },
+  {
+    "title": "zeit/hyper",
+    "url": "https://github.com/zeit/hyper",
+    "lang": "JavaScript",
+    "desc": "A terminal built on web technologies",
+    "cn": false
+  },
+  {
+    "title": "sdras/cssgridgenerator",
+    "url": "https://github.com/sdras/cssgridgenerator",
+    "lang": "Vue",
+    "desc": "🧮Generate basic CSS Grid code to make dynamic layouts!",
+    "cn": false
+  },
+  {
+    "title": "tensorflow/tpu",
+    "url": "https://github.com/tensorflow/tpu",
+    "lang": "JupyterNotebook",
+    "desc": "Reference models and tools for Cloud TPUs.",
+    "cn": false
+  },
+  {
+    "title": "getgridea/gridea",
+    "url": "https://github.com/getgridea/gridea",
+    "lang": "CSS",
+    "desc": "✍️一个静态博客写作客户端 (A static blog writing client)",
+    "cn": true
+  },
+  {
+    "title": "colinlet/PHP-Interview-QA",
+    "url": "https://github.com/colinlet/PHP-Interview-QA",
+    "desc": "PHP面试问答",
+    "cn": true
+  },
+  {
+    "title": "n1xbyte/CVE-2019-0708",
+    "url": "https://github.com/n1xbyte/CVE-2019-0708",
+    "lang": "Python",
+    "desc": "dump",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "greymd/ojichat",
+    "url": "https://github.com/greymd/ojichat",
+    "lang": "Go",
+    "desc": "おじさんがLINEやメールで送ってきそうな文を生成する",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  }
+]

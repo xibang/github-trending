@@ -1,0 +1,166 @@
+[
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell",
+    "desc": "Azure Quickstart Templates",
+    "cn": false
+  },
+  {
+    "title": "imgcook/imove",
+    "url": "https://github.com/imgcook/imove",
+    "lang": "TypeScript",
+    "desc": "Move your mouse, generate code from flow chart",
+    "cn": false
+  },
+  {
+    "title": "LeadroyaL/pdd_3years",
+    "url": "https://github.com/LeadroyaL/pdd_3years",
+    "desc": "我在拼多多的三年，以及网站崩溃时候的日志文件",
+    "cn": true
+  },
+  {
+    "title": "plantuml-stdlib/C4-PlantUML",
+    "url": "https://github.com/plantuml-stdlib/C4-PlantUML",
+    "desc": "C4-PlantUML combines the benefits of PlantUML and the C4 model for providing a simple way of describing and communicate software architectures",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of JS.",
+    "cn": false
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses",
+    "desc": "List of Computer Science courses with video lectures.",
+    "cn": false
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "lang": "JavaScript",
+    "desc": "京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具",
+    "cn": true
+  },
+  {
+    "title": "felipefialho/frontend-challenges",
+    "url": "https://github.com/felipefialho/frontend-challenges",
+    "desc": "💥 Listing some playful open-source's challenges of jobs to test your knowledge",
+    "cn": false
+  },
+  {
+    "title": "TinkoffCreditSystems/taiga-ui",
+    "url": "https://github.com/TinkoffCreditSystems/taiga-ui",
+    "lang": "TypeScript",
+    "desc": "Angular UI Kit and components library for awesome people",
+    "cn": false
+  },
+  {
+    "title": "files-community/Files",
+    "url": "https://github.com/files-community/Files",
+    "lang": "C#",
+    "desc": "A modern file explorer that pushes the boundaries of the platform.",
+    "cn": false
+  },
+  {
+    "title": "XJP-GIT/HealthCode",
+    "url": "https://github.com/XJP-GIT/HealthCode",
+    "desc": "健康码演示",
+    "cn": true
+  },
+  {
+    "title": "ChuheGit/1",
+    "url": "https://github.com/ChuheGit/1",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "carlospolop/hacktricks",
+    "url": "https://github.com/carlospolop/hacktricks",
+    "lang": "Python",
+    "desc": "Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.",
+    "cn": false
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "ossu/data-science",
+    "url": "https://github.com/ossu/data-science",
+    "desc": "📊 Path to a free self-taught education in Data Science!",
+    "cn": false
+  },
+  {
+    "title": "dromara/soul",
+    "url": "https://github.com/dromara/soul",
+    "lang": "Java",
+    "desc": "High-Performance Java API Gateway",
+    "cn": false
+  },
+  {
+    "title": "dagster-io/dagster",
+    "url": "https://github.com/dagster-io/dagster",
+    "lang": "Python",
+    "desc": "A data orchestrator for machine learning, analytics, and ETL.",
+    "cn": false
+  },
+  {
+    "title": "actions/virtual-environments",
+    "url": "https://github.com/actions/virtual-environments",
+    "lang": "PowerShell",
+    "desc": "GitHub Actions virtual environments",
+    "cn": false
+  },
+  {
+    "title": "Yx1aoq1/jdms",
+    "url": "https://github.com/Yx1aoq1/jdms",
+    "lang": "JavaScript",
+    "desc": "京东抢购秒杀助手",
+    "cn": true
+  },
+  {
+    "title": "amplication/amplication",
+    "url": "https://github.com/amplication/amplication",
+    "lang": "TypeScript",
+    "desc": "Create business applications, without coding. Build a fully functional Node.js server-side app with all your data models and a React client, in less than 5 minutes.",
+    "cn": false
+  },
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "rphl/corona-widget",
+    "url": "https://github.com/rphl/corona-widget",
+    "lang": "JavaScript",
+    "desc": "COVID-19 Inzidenz-Widget für iOS innerhalb Deutschlands 🇩🇪 (Kreis/Stadt + Bundesland + Trend)",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "react-hook-form/react-hook-form",
+    "url": "https://github.com/react-hook-form/react-hook-form",
+    "lang": "TypeScript",
+    "desc": "📋 React Hooks for forms validation (Web + React Native)",
+    "cn": false
+  }
+]

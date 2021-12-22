@@ -1,0 +1,175 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "lang": "Haskell",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "cn": false
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "cn": false
+  },
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "lang": "JavaScript",
+    "desc": "a package registry for anything, but mostly javascript",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "calebwin/emu",
+    "url": "https://github.com/calebwin/emu",
+    "lang": "Rust",
+    "desc": "a language for programming GPUs",
+    "cn": false
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine for canvas & SVG",
+    "cn": false
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "lang": "Go",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "cn": false
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "lang": "Java",
+    "desc": "✍ Halo 一款现代化的个人独立博客系统",
+    "cn": true
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "lang": "JavaScript",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "cn": false
+  },
+  {
+    "title": "lukemelas/EfficientNet-PyTorch",
+    "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+    "lang": "Python",
+    "desc": "A PyTorch implementation of EfficientNet",
+    "cn": false
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "kizitonwose/CalendarView",
+    "url": "https://github.com/kizitonwose/CalendarView",
+    "lang": "Kotlin",
+    "desc": "A highly customizable calendar library for Android, powered by RecyclerView.",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "Flex4Apps/flex4apps",
+    "url": "https://github.com/Flex4Apps/flex4apps",
+    "lang": "Shell",
+    "desc": "Flex4Apps main project repository",
+    "cn": false
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "EtherDream/jsproxy",
+    "url": "https://github.com/EtherDream/jsproxy",
+    "lang": "Shell",
+    "desc": "一个基于浏览器端 JS 实现的在线代理",
+    "cn": true
+  },
+  {
+    "title": "mholt/PapaParse",
+    "url": "https://github.com/mholt/PapaParse",
+    "lang": "JavaScript",
+    "desc": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "JavaScript",
+    "desc": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+    "cn": false
+  },
+  {
+    "title": "aceld/zinx",
+    "url": "https://github.com/aceld/zinx",
+    "lang": "Go",
+    "desc": "基于Golang解决的长连接并发服务器框架",
+    "cn": true
+  }
+]

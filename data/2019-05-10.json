@@ -1,0 +1,172 @@
+[
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "jolaleye/cssfx",
+    "url": "https://github.com/jolaleye/cssfx",
+    "lang": "Vue",
+    "desc": "✨ Beautifully simple click-to-copy CSS effects",
+    "cn": false
+  },
+  {
+    "title": "kkuchta/css-only-chat",
+    "url": "https://github.com/kkuchta/css-only-chat",
+    "lang": "Ruby",
+    "desc": "A truly monstrous async web chat using no JS whatsoever on the frontend",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "hiroppy/fusuma",
+    "url": "https://github.com/hiroppy/fusuma",
+    "lang": "CSS",
+    "desc": "✍️Fusuma makes slides with Markdown easily.",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter_web",
+    "url": "https://github.com/flutter/flutter_web",
+    "lang": "Dart",
+    "desc": "Bring your Flutter code to web browsers",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "sabakkps/backslide",
+    "url": "https://github.com/sabakkps/backslide",
+    "desc": "CLI tool for making HTML presentations with Remark.js using Markdown",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  },
+  {
+    "title": "qianguyihao/Web",
+    "url": "https://github.com/qianguyihao/Web",
+    "lang": "JavaScript",
+    "desc": "Web前端入门和进阶学习笔记，超详细的前端学习图文教程。从零开始学前端，做一个Web全栈工程师。持续更新...",
+    "cn": true
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "HTML",
+    "desc": "Linux命令大全搜索工具，内容包含Linux命令手册、详解、学习、搜集。https://git.io/linux",
+    "cn": true
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "teoga/awesome-product-design",
+    "url": "https://github.com/teoga/awesome-product-design",
+    "desc": "A collection of bookmarks, resources, articles for product designers.",
+    "cn": false
+  },
+  {
+    "title": "markphelps/flipt",
+    "url": "https://github.com/markphelps/flipt",
+    "lang": "Go",
+    "desc": "A feature flag solution that runs in your existing infrastructure",
+    "cn": false
+  },
+  {
+    "title": "STVIR/pysot",
+    "url": "https://github.com/STVIR/pysot",
+    "desc": "",
+    "cn": false
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "lang": "Go",
+    "desc": "Brings SQL and AI together.",
+    "cn": false
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "edgedb/edgedb",
+    "url": "https://github.com/edgedb/edgedb",
+    "lang": "Python",
+    "desc": "The next generation object-relational database. A @MagicStack project.",
+    "cn": false
+  },
+  {
+    "title": "minamarkham/formation",
+    "url": "https://github.com/minamarkham/formation",
+    "lang": "Shell",
+    "desc": "💻 macOS setup script for front-end development",
+    "cn": false
+  },
+  {
+    "title": "dgryski/go-perfbook",
+    "url": "https://github.com/dgryski/go-perfbook",
+    "desc": "Thoughts on Go performance optimization",
+    "cn": false
+  },
+  {
+    "title": "microsoft/react-native-windows",
+    "url": "https://github.com/microsoft/react-native-windows",
+    "lang": "C#",
+    "desc": "A framework for building native Windows apps with React.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript",
+    "desc": "Visual Studio Code",
+    "cn": false
+  }
+]

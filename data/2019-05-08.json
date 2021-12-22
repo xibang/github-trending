@@ -1,0 +1,174 @@
+[
+  {
+    "title": "microsoft/Terminal",
+    "url": "https://github.com/microsoft/Terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "HTML",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "dgryski/go-perfbook",
+    "url": "https://github.com/dgryski/go-perfbook",
+    "desc": "Thoughts on Go performance optimization",
+    "cn": false
+  },
+  {
+    "title": "microsoft/react-native-windows",
+    "url": "https://github.com/microsoft/react-native-windows",
+    "lang": "C#",
+    "desc": "A framework for building native Windows apps with React.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  },
+  {
+    "title": "flutter/flutter_web",
+    "url": "https://github.com/flutter/flutter_web",
+    "lang": "Dart",
+    "desc": "Bring your Flutter code to web browsers",
+    "cn": false
+  },
+  {
+    "title": "sql-machine-learning/sqlflow",
+    "url": "https://github.com/sql-machine-learning/sqlflow",
+    "lang": "Go",
+    "desc": "Brings SQL and AI together.",
+    "cn": false
+  },
+  {
+    "title": "996icu/996.ICU",
+    "url": "https://github.com/996icu/996.ICU",
+    "lang": "Rust",
+    "desc": "Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
+    "cn": false
+  },
+  {
+    "title": "alibaba/MNN",
+    "url": "https://github.com/alibaba/MNN",
+    "lang": "C++",
+    "desc": "MNN is a lightweight deep neural network inference engine.",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "wildfirechat/server",
+    "url": "https://github.com/wildfirechat/server",
+    "lang": "Java",
+    "desc": "全开源即时通讯(IM)系统",
+    "cn": true
+  },
+  {
+    "title": "kedacore/keda",
+    "url": "https://github.com/kedacore/keda",
+    "lang": "Go",
+    "desc": "KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes",
+    "cn": false
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript",
+    "desc": "Visual Studio Code",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "i0natan/nodebestpractices",
+    "url": "https://github.com/i0natan/nodebestpractices",
+    "lang": "JavaScript",
+    "desc": "✅ The largest Node.js best practices list (April 2019)",
+    "cn": false
+  },
+  {
+    "title": "cdr/code-server",
+    "url": "https://github.com/cdr/code-server",
+    "lang": "TypeScript",
+    "desc": "Run VS Code on a remote server.",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful mobile apps.",
+    "cn": false
+  },
+  {
+    "title": "devias-io/react-material-dashboard",
+    "url": "https://github.com/devias-io/react-material-dashboard",
+    "lang": "JavaScript",
+    "desc": "React Dashboard made with Material UI’s components, React and of course create-react-app to boost your app development process!",
+    "cn": false
+  },
+  {
+    "title": "cool-RR/PySnooper",
+    "url": "https://github.com/cool-RR/PySnooper",
+    "lang": "Python",
+    "desc": "Never use print for debugging again",
+    "cn": false
+  },
+  {
+    "title": "zeit/hyper",
+    "url": "https://github.com/zeit/hyper",
+    "lang": "JavaScript",
+    "desc": "A terminal built on web technologies",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "lang": "C++",
+    "desc": "Windows Calculator: A simple yet powerful calculator that ships with Windows",
+    "cn": false
+  }
+]

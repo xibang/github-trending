@@ -1,0 +1,167 @@
+[
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook",
+    "desc": "Draft of the fastai book",
+    "cn": false
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "cn": false
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "lang": "Kotlin",
+    "desc": "Vanced Installer",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "cn": false
+  },
+  {
+    "title": "benawad/lireddit",
+    "url": "https://github.com/benawad/lireddit",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dtolnay/cxx",
+    "url": "https://github.com/dtolnay/cxx",
+    "lang": "Rust",
+    "desc": "Safe interop between Rust and C++",
+    "cn": false
+  },
+  {
+    "title": "Feynman687/Interviews",
+    "url": "https://github.com/Feynman687/Interviews"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig",
+    "desc": "General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.",
+    "cn": false
+  },
+  {
+    "title": "spring-projects-experimental/spring-authorization-server",
+    "url": "https://github.com/spring-projects-experimental/spring-authorization-server",
+    "lang": "Java",
+    "desc": "A community-driven project led by the Spring Security team and is focused on delivering Authorization Server support to the Spring community",
+    "cn": false
+  },
+  {
+    "title": "felipefialho/awesome-made-by-brazilians",
+    "url": "https://github.com/felipefialho/awesome-made-by-brazilians",
+    "desc": "🇧🇷 A collection of amazing open source projects built by brazilian developers",
+    "cn": false
+  },
+  {
+    "title": "AlternativeFFFF/Alt-F4",
+    "url": "https://github.com/AlternativeFFFF/Alt-F4",
+    "desc": "Alternative Factorio Friday Fan Facts, also known as Alt-F4",
+    "cn": false
+  },
+  {
+    "title": "facebook/ent",
+    "url": "https://github.com/facebook/ent",
+    "lang": "Go",
+    "desc": "An entity framework for Go",
+    "cn": false
+  },
+  {
+    "title": "loveunk/Deep-learning-books",
+    "url": "https://github.com/loveunk/Deep-learning-books",
+    "desc": "Books for machine learning, deep learning, math, NLP, CV, RL, etc",
+    "cn": false
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "fastai/fastai",
+    "url": "https://github.com/fastai/fastai",
+    "lang": "JupyterNotebook",
+    "desc": "The fastai deep learning library, plus lessons and tutorials",
+    "cn": false
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C",
+    "desc": "A new bootable USB solution.",
+    "cn": false
+  },
+  {
+    "title": "knownsec/ksubdomain",
+    "url": "https://github.com/knownsec/ksubdomain",
+    "lang": "Go",
+    "desc": "无状态子域名爆破工具",
+    "cn": true
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "desc": "Microsoft REST API Guidelines",
+    "cn": false
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "cn": false
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "cn": false
+  },
+  {
+    "title": "TensorSpeech/TensorFlowTTS",
+    "url": "https://github.com/TensorSpeech/TensorFlowTTS",
+    "lang": "Python",
+    "desc": "😝 TensorFlowTTS: Real-Time State-of-the-art Speech Synthesis for Tensorflow 2 (supported including English, Korean, Chinese)",
+    "cn": false
+  },
+  {
+    "title": "wsvincent/awesome-django",
+    "url": "https://github.com/wsvincent/awesome-django",
+    "lang": "Makefile",
+    "desc": "A curated list of awesome things related to Django",
+    "cn": false
+  },
+  {
+    "title": "tobspr/shapez.io",
+    "url": "https://github.com/tobspr/shapez.io",
+    "lang": "JavaScript",
+    "desc": "shapez.io is an open source base building game inspired by factorio! Available on web & desktop",
+    "cn": false
+  },
+  {
+    "title": "optuna/optuna",
+    "url": "https://github.com/optuna/optuna",
+    "lang": "Python",
+    "desc": "A hyperparameter optimization framework",
+    "cn": false
+  }
+]

@@ -1,0 +1,174 @@
+[
+  {
+    "title": "huanghyw/jd_seckill",
+    "url": "https://github.com/huanghyw/jd_seckill",
+    "lang": "Python",
+    "desc": "京东茅台抢购，不支持其他商品！愿大家与黄牛站在同一个起跑线，公平的参与这场抢茅大赛。",
+    "cn": true
+  },
+  {
+    "title": "RaymiiOrg/bash-http-monitoring",
+    "url": "https://github.com/RaymiiOrg/bash-http-monitoring",
+    "lang": "Shell",
+    "desc": "HTTP(s) monitoring webpage via shell script",
+    "cn": false
+  },
+  {
+    "title": "LetsTimeIt/DungeonTools",
+    "url": "https://github.com/LetsTimeIt/DungeonTools",
+    "lang": "Lua",
+    "desc": "Fork of Nnoga's Mythic Dungeon Tools addon to restore mob data and improve upon the base code!",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "xbmc/xbmc",
+    "url": "https://github.com/xbmc/xbmc",
+    "lang": "C++",
+    "desc": "Kodi is an award-winning free and open source home theater/media center software and entertainment hub for digital media. With its beautiful interface and powerful skinning engine, it's available for Android, BSD, Linux, macOS, iOS and Windows.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "upptime/upptime",
+    "url": "https://github.com/upptime/upptime",
+    "desc": "⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages",
+    "cn": false
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "cn": false
+  },
+  {
+    "title": "Col-E/Recaf",
+    "url": "https://github.com/Col-E/Recaf",
+    "lang": "Java",
+    "desc": "The modern Java bytecode editor",
+    "cn": false
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "lang": "Rust",
+    "desc": "Multi functional app to find duplicates, empty folders, similar images etc.",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "trinodb/trino",
+    "url": "https://github.com/trinodb/trino",
+    "lang": "Java",
+    "desc": "Official repository of Trino, the distributed SQL query engine for big data, formerly known as PrestoSQL",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "WE ARE ON HOLIDAY. REVIEWS WILL TAKE A WHILE. HAPPY HOLIDAYS! ✨ 🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "ForrestKnight/open-source-cs",
+    "url": "https://github.com/ForrestKnight/open-source-cs",
+    "desc": "Video discussing this curriculum:",
+    "cn": false
+  },
+  {
+    "title": "multiavatar/multiavatar-php",
+    "url": "https://github.com/multiavatar/multiavatar-php",
+    "lang": "PHP",
+    "desc": "Multiavatar Generator in PHP",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "inancgumus/learngo",
+    "url": "https://github.com/inancgumus/learngo",
+    "lang": "Go",
+    "desc": "1000+ Hand-Crafted Go Examples, Exercises, and Quizzes",
+    "cn": false
+  },
+  {
+    "title": "easychen/howto-make-more-money",
+    "url": "https://github.com/easychen/howto-make-more-money",
+    "lang": "PHP",
+    "desc": "程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate",
+    "cn": true
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript",
+    "desc": "One framework. Mobile & desktop.",
+    "cn": false
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "lang": "C++",
+    "desc": "Solidity, the Contract-Oriented Programming Language",
+    "cn": false
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "lang": "C",
+    "desc": "Arduino core for the ESP32",
+    "cn": false
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "lang": "JavaScript",
+    "desc": "Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/",
+    "cn": false
+  },
+  {
+    "title": "MarlinFirmware/Marlin",
+    "url": "https://github.com/MarlinFirmware/Marlin",
+    "lang": "C++",
+    "desc": "Marlin is an optimized firmware for RepRap 3D printers based on the Arduino platform. | Many commercial 3D printers come with Marlin installed. Check with your vendor if you need source code for your specific machine.",
+    "cn": false
+  },
+  {
+    "title": "ZHKKKe/MODNet",
+    "url": "https://github.com/ZHKKKe/MODNet",
+    "lang": "Python",
+    "desc": "A Trimap-Free Solution for Portrait Matting in Real Time under Changing Scenes",
+    "cn": false
+  }
+]

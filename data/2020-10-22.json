@@ -1,0 +1,173 @@
+[
+  {
+    "title": "jonasschmedtmann/complete-javascript-course",
+    "url": "https://github.com/jonasschmedtmann/complete-javascript-course",
+    "lang": "JavaScript",
+    "desc": "Starter files, final projects and FAQ for my Complete JavaScript course",
+    "cn": false
+  },
+  {
+    "title": "tomer8007/widevine-l3-decryptor",
+    "url": "https://github.com/tomer8007/widevine-l3-decryptor",
+    "lang": "JavaScript",
+    "desc": "A Chrome extension that demonstrates bypassing Widevine L3 DRM",
+    "cn": false
+  },
+  {
+    "title": "hyb1996/Auto.js",
+    "url": "https://github.com/hyb1996/Auto.js",
+    "lang": "Java",
+    "desc": "A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)",
+    "cn": true
+  },
+  {
+    "title": "pytorch/fairseq",
+    "url": "https://github.com/pytorch/fairseq",
+    "lang": "Python",
+    "desc": "Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
+    "cn": false
+  },
+  {
+    "title": "nodejs/node",
+    "url": "https://github.com/nodejs/node",
+    "lang": "JavaScript",
+    "desc": "Node.js JavaScript runtime ✨🐢🚀✨",
+    "cn": false
+  },
+  {
+    "title": "lxk0301/scripts",
+    "url": "https://github.com/lxk0301/scripts",
+    "lang": "JavaScript",
+    "desc": "京东薅羊毛工具, 京东水果、宠物、种豆 aff 互助讨论组：https://t.me/JD_fruit_pet",
+    "cn": true
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript",
+    "desc": "A declarative, efficient, and flexible JavaScript library for building user interfaces.",
+    "cn": false
+  },
+  {
+    "title": "NervJS/taro",
+    "url": "https://github.com/NervJS/taro",
+    "lang": "JavaScript",
+    "desc": "开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发微信/京东/百度/支付宝/字节跳动/ QQ 小程序/H5 等应用。 https://taro.jd.com/",
+    "cn": true
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "lang": "TypeScript",
+    "desc": "CLI tool for Angular",
+    "cn": false
+  },
+  {
+    "title": "bunkerity/bunkerized-nginx",
+    "url": "https://github.com/bunkerity/bunkerized-nginx",
+    "lang": "Shell",
+    "desc": "nginx Docker image secure by default.",
+    "cn": false
+  },
+  {
+    "title": "nusr/hacker-laws-zh",
+    "url": "https://github.com/nusr/hacker-laws-zh",
+    "desc": "💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)",
+    "cn": true
+  },
+  {
+    "title": "JAVA-000/JAVA-000",
+    "url": "https://github.com/JAVA-000/JAVA-000"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-powershell",
+    "url": "https://github.com/Azure/azure-powershell",
+    "lang": "C#",
+    "desc": "Microsoft Azure PowerShell",
+    "cn": false
+  },
+  {
+    "title": "dabeaz-course/practical-python",
+    "url": "https://github.com/dabeaz-course/practical-python",
+    "lang": "Python",
+    "desc": "Practical Python Programming (course by @dabeaz)",
+    "cn": false
+  },
+  {
+    "title": "adamerose/pandasgui",
+    "url": "https://github.com/adamerose/pandasgui",
+    "lang": "Python",
+    "desc": "A GUI for Pandas DataFrames",
+    "cn": false
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "cn": false
+  },
+  {
+    "title": "ibireme/yyjson",
+    "url": "https://github.com/ibireme/yyjson",
+    "lang": "C",
+    "desc": "The fastest JSON library in C",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "deislabs/akri",
+    "url": "https://github.com/deislabs/akri",
+    "lang": "Rust",
+    "desc": "A Kubernetes Resource Interface for the Edge",
+    "cn": false
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "lang": "Python",
+    "desc": "What the f*ck Python?",
+    "cn": false
+  },
+  {
+    "title": "sveltejs/svelte",
+    "url": "https://github.com/sveltejs/svelte",
+    "lang": "JavaScript",
+    "desc": "Cybernetically enhanced web apps",
+    "cn": false
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook",
+    "desc": "The fastai book, published as Jupyter Notebooks",
+    "cn": false
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "lang": "JavaScript",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "cn": false
+  },
+  {
+    "title": "liamg/gitjacker",
+    "url": "https://github.com/liamg/gitjacker",
+    "lang": "Go",
+    "desc": "🔪  Leak git repositories from misconfigured websites",
+    "cn": false
+  }
+]

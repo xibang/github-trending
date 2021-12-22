@@ -1,0 +1,169 @@
+[
+  {
+    "title": "gaearon/whatthefuck.is",
+    "url": "https://github.com/gaearon/whatthefuck.is",
+    "lang": "CSS",
+    "desc": "An opinionated glossary of computer science terms for front-end developers. Written by Dan Abramov.",
+    "cn": false
+  },
+  {
+    "title": "RandalLinden/DOOM-FX",
+    "url": "https://github.com/RandalLinden/DOOM-FX",
+    "lang": "Assembly",
+    "desc": "Doom/FX for Super Nintendo with SuperFX GSU2A",
+    "cn": false
+  },
+  {
+    "title": "googleapis/googleapis",
+    "url": "https://github.com/googleapis/googleapis",
+    "lang": "Starlark",
+    "desc": "Public interface definitions of Google APIs.",
+    "cn": false
+  },
+  {
+    "title": "ivanpaulovich/clean-architecture-manga",
+    "url": "https://github.com/ivanpaulovich/clean-architecture-manga",
+    "lang": "C#",
+    "desc": "🌀 Clean Architecture with .NET Core 3.1, C# 8 and React+Redux. Use cases as central organizing structure, completely testable, decoupled from frameworks",
+    "cn": false
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "lang": "Python",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "TowhidKashem/snapchat-clone",
+    "url": "https://github.com/TowhidKashem/snapchat-clone",
+    "lang": "TypeScript",
+    "desc": "👻 A SnapChat clone built with React, Redux and Typescript. Styled with SASS. Tested with Cypress, Jest and Enzyme. Linted with Eslint and formatted with Prettier!",
+    "cn": false
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript",
+    "desc": "A collection of awesome readme templates to display on your profile",
+    "cn": false
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell",
+    "desc": "Papers from the computer science community to read and discuss.",
+    "cn": false
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking",
+    "desc": "A collection of various awesome lists for hackers, pentesters and security researchers",
+    "cn": false
+  },
+  {
+    "title": "abhisheknaiidu/awesome-github-profile-readme",
+    "url": "https://github.com/abhisheknaiidu/awesome-github-profile-readme",
+    "lang": "JavaScript",
+    "desc": "A curated list of awesome Github Profile READMEs",
+    "cn": false
+  },
+  {
+    "title": "academic/awesome-datascience",
+    "url": "https://github.com/academic/awesome-datascience",
+    "desc": "📝 An awesome Data Science repository to learn and apply for real world problems.",
+    "cn": false
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "lang": "JavaScript",
+    "desc": "Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.",
+    "cn": false
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "lang": "Python",
+    "desc": "Create UIs for prototyping your machine learning model in 3 minutes",
+    "cn": false
+  },
+  {
+    "title": "ChoudharyChanchal/game_control",
+    "url": "https://github.com/ChoudharyChanchal/game_control",
+    "lang": "Python"
+  },
+  {
+    "title": "LetsUpgrade/Javascript-Essentials",
+    "url": "https://github.com/LetsUpgrade/Javascript-Essentials",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "cn": false
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "lang": "JavaScript",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "cn": false
+  },
+  {
+    "title": "GuidoBartoli/sherloq",
+    "url": "https://github.com/GuidoBartoli/sherloq",
+    "lang": "Perl",
+    "desc": "An open-source digital image forensic toolset",
+    "cn": false
+  },
+  {
+    "title": "x2rr/funds",
+    "url": "https://github.com/x2rr/funds",
+    "lang": "Vue",
+    "desc": "自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况",
+    "cn": true
+  },
+  {
+    "title": "JakeWharton/adb-event-mirror",
+    "url": "https://github.com/JakeWharton/adb-event-mirror",
+    "lang": "Kotlin",
+    "desc": "Mirror the touch/key/button events of one device onto one or more other devices in real-time",
+    "cn": false
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners",
+    "cn": false
+  },
+  {
+    "title": "erluxman/awesomefluttertips",
+    "url": "https://github.com/erluxman/awesomefluttertips",
+    "lang": "Dart",
+    "desc": "❤️Flutter ❤️ tips and tricks ❤️ Awesome Flutter ❤️ tips and tricks ❤️",
+    "cn": false
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "lang": "Swift",
+    "desc": "Reactive Programming in Swift",
+    "cn": false
+  },
+  {
+    "title": "fuzhengwei/CodeGuide",
+    "url": "https://github.com/fuzhengwei/CodeGuide",
+    "desc": "📚 本代码库是作者小傅哥多年从事一线互联网 Java 开发的学习历程技术汇总，旨在为大家提供一个清晰详细的学习教程，侧重点更倾向编写Java核心内容。如果本仓库能为您提供帮助，请给予支持(关注、点赞、分享)！",
+    "cn": true
+  },
+  {
+    "title": "microsoft/Microsoft-threat-protection-Hunting-Queries",
+    "url": "https://github.com/microsoft/Microsoft-threat-protection-Hunting-Queries",
+    "lang": "JupyterNotebook",
+    "desc": "Sample queries for Advanced hunting in Microsoft Threat Protection",
+    "cn": false
+  }
+]

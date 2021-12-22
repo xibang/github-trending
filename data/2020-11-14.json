@@ -1,0 +1,175 @@
+[
+  {
+    "title": "elrumo/macOS_Big_Sur_icons_replacements",
+    "url": "https://github.com/elrumo/macOS_Big_Sur_icons_replacements",
+    "lang": "Vue",
+    "desc": "Replacement icons for popular apps in the style of macOS Big Sur",
+    "cn": false
+  },
+  {
+    "title": "ComodoSecurity/openedr",
+    "url": "https://github.com/ComodoSecurity/openedr",
+    "lang": "C++",
+    "desc": "Open EDR public repository",
+    "cn": false
+  },
+  {
+    "title": "zhm-real/PathPlanning",
+    "url": "https://github.com/zhm-real/PathPlanning",
+    "lang": "Python",
+    "desc": "Common used path planning algorithms with animations.",
+    "cn": false
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++",
+    "desc": "C++ Programming Paradigm with Asynchronous Networking",
+    "cn": false
+  },
+  {
+    "title": "github/dmca",
+    "url": "https://github.com/github/dmca",
+    "lang": "RichTextFormat",
+    "desc": "Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent until proven guilty. Additional information about our DMCA policy can be found at",
+    "cn": false
+  },
+  {
+    "title": "Freakboy/CobaltStrike",
+    "url": "https://github.com/Freakboy/CobaltStrike",
+    "lang": "Java",
+    "desc": "CobaltStrike's source code",
+    "cn": false
+  },
+  {
+    "title": "corpnewt/gibMacOS",
+    "url": "https://github.com/corpnewt/gibMacOS",
+    "lang": "Python",
+    "desc": "Py2/py3 script that can download macOS components direct from Apple",
+    "cn": false
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
+    "desc": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "cn": false
+  },
+  {
+    "title": "barrykn/big-sur-micropatcher",
+    "url": "https://github.com/barrykn/big-sur-micropatcher",
+    "lang": "Shell",
+    "desc": "A primitive USB patcher for installing macOS Big Sur on unsupported Macs",
+    "cn": false
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript",
+    "desc": "🛁 Clean Code concepts adapted for JavaScript",
+    "cn": false
+  },
+  {
+    "title": "VKCOM/kphp",
+    "url": "https://github.com/VKCOM/kphp",
+    "lang": "C++",
+    "desc": "KPHP — a PHP compiler",
+    "cn": false
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML",
+    "desc": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "google-research-datasets/Objectron",
+    "url": "https://github.com/google-research-datasets/Objectron",
+    "lang": "JupyterNotebook",
+    "desc": "Objectron is a dataset of short, object-centric video clips. In addition, the videos also contain AR session metadata including camera poses, sparse point-clouds and planes. In each video, the camera moves around and above the object and captures it from different views. Each object is annotated with a 3D bounding box. The 3D bounding box descri…",
+    "cn": false
+  },
+  {
+    "title": "livewire/livewire",
+    "url": "https://github.com/livewire/livewire",
+    "lang": "Blade",
+    "desc": "A full-stack framework for Laravel that takes the pain out of building dynamic UIs.",
+    "cn": false
+  },
+  {
+    "title": "YTVanced/VancedManager",
+    "url": "https://github.com/YTVanced/VancedManager",
+    "lang": "Kotlin",
+    "desc": "Vanced Installer",
+    "cn": false
+  },
+  {
+    "title": "ebatty/MathToolsforNeuroscience",
+    "url": "https://github.com/ebatty/MathToolsforNeuroscience",
+    "lang": "JupyterNotebook",
+    "desc": "Materials for Mathematical Tools for Neuroscience course at Harvard (Neurobio 212)",
+    "cn": false
+  },
+  {
+    "title": "ithewei/libhv",
+    "url": "https://github.com/ithewei/libhv",
+    "lang": "C",
+    "desc": "Like libevent, libev, and libuv, libhv provides event-loop with non-blocking IO and timer, but simpler apis and richer protocols.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript",
+    "desc": "24 Lessons, 12 Weeks, Get Started as a Web Developer",
+    "cn": false
+  },
+  {
+    "title": "pretzelhammer/rust-blog",
+    "url": "https://github.com/pretzelhammer/rust-blog",
+    "lang": "Rust",
+    "desc": "Educational blog posts for Rust beginners",
+    "cn": false
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "cn": false
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript",
+    "desc": "One framework. Mobile & desktop.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Bringing-Old-Photos-Back-to-Life",
+    "url": "https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life",
+    "lang": "Python",
+    "desc": "Bringing Old Photo Back to Life (CVPR 2020 oral)",
+    "cn": false
+  }
+]

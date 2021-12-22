@@ -1,0 +1,165 @@
+[
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "cn": false
+  },
+  {
+    "title": "SebLague/Digital-Logic-Sim",
+    "url": "https://github.com/SebLague/Digital-Logic-Sim",
+    "lang": "C#"
+  },
+  {
+    "title": "ottomated/CrewLink",
+    "url": "https://github.com/ottomated/CrewLink",
+    "lang": "TypeScript",
+    "desc": "Free, open, Among Us Proximity Chat",
+    "cn": false
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "lang": "Rust",
+    "desc": "A cross-platform, GPU-accelerated terminal emulator",
+    "cn": false
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "lang": "JavaScript",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "aseprite/aseprite",
+    "url": "https://github.com/aseprite/aseprite",
+    "lang": "C++",
+    "desc": "Animated sprite editor & pixel art tool (Windows, macOS, Linux)",
+    "cn": false
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "cn": false
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "cn": false
+  },
+  {
+    "title": "keithnull/TeachYourselfCS-CN",
+    "url": "https://github.com/keithnull/TeachYourselfCS-CN",
+    "desc": "TeachYourselfCS 的中文翻译 | A Chinese translation of TeachYourselfCS",
+    "cn": true
+  },
+  {
+    "title": "preactjs/wmr",
+    "url": "https://github.com/preactjs/wmr",
+    "lang": "JavaScript",
+    "desc": "👩‍🚀 The tiny all-in-one development tool for modern web apps.",
+    "cn": false
+  },
+  {
+    "title": "ottomated/CrewLink-server",
+    "url": "https://github.com/ottomated/CrewLink-server",
+    "lang": "TypeScript",
+    "desc": "Voice Relay server for CrewLink.",
+    "cn": false
+  },
+  {
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "lang": "PHP",
+    "desc": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "cn": false
+  },
+  {
+    "title": "microsoft/restler-fuzzer",
+    "url": "https://github.com/microsoft/restler-fuzzer",
+    "lang": "Python",
+    "desc": "RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services.",
+    "cn": false
+  },
+  {
+    "title": "acidanthera/OpenCorePkg",
+    "url": "https://github.com/acidanthera/OpenCorePkg",
+    "lang": "C",
+    "desc": "OpenCore bootloader",
+    "cn": false
+  },
+  {
+    "title": "microsoft/playwright-python",
+    "url": "https://github.com/microsoft/playwright-python",
+    "lang": "Python",
+    "desc": "Python version of the Playwright testing and automation library.",
+    "cn": false
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python",
+    "desc": "A collective list of free APIs for use in software and web development.",
+    "cn": false
+  },
+  {
+    "title": "micronaut-projects/micronaut-core",
+    "url": "https://github.com/micronaut-projects/micronaut-core",
+    "lang": "Java",
+    "desc": "Micronaut Application Framework",
+    "cn": false
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript",
+    "desc": "A powerful JavaScript library for interacting with the Discord API",
+    "cn": false
+  },
+  {
+    "title": "rapid7/metasploit-framework",
+    "url": "https://github.com/rapid7/metasploit-framework",
+    "lang": "Ruby",
+    "desc": "Metasploit Framework",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "xiandanin/magnetW",
+    "url": "https://github.com/xiandanin/magnetW",
+    "lang": "JavaScript",
+    "desc": "磁力链接聚合搜索",
+    "cn": true
+  },
+  {
+    "title": "rabbitstack/fibratus",
+    "url": "https://github.com/rabbitstack/fibratus",
+    "lang": "Go",
+    "desc": "A modern tool for the Windows kernel exploration and tracing",
+    "cn": false
+  }
+]

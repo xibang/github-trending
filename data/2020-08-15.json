@@ -1,0 +1,175 @@
+[
+  {
+    "title": "google/go-github",
+    "url": "https://github.com/google/go-github",
+    "lang": "Go",
+    "desc": "Go library for accessing the GitHub API",
+    "cn": false
+  },
+  {
+    "title": "executablebooks/jupyter-book",
+    "url": "https://github.com/executablebooks/jupyter-book",
+    "lang": "Python",
+    "desc": "Build interactive, publication-quality documents from Jupyter Notebooks",
+    "cn": false
+  },
+  {
+    "title": "servo/servo",
+    "url": "https://github.com/servo/servo",
+    "lang": "Rust",
+    "desc": "The Servo Browser Engine",
+    "cn": false
+  },
+  {
+    "title": "papercups-io/papercups",
+    "url": "https://github.com/papercups-io/papercups",
+    "lang": "Elixir",
+    "desc": "Open-source live customer chat",
+    "cn": false
+  },
+  {
+    "title": "yuanguangxin/LeetCode",
+    "url": "https://github.com/yuanguangxin/LeetCode",
+    "lang": "Java",
+    "desc": "LeetCode刷题记录",
+    "cn": true
+  },
+  {
+    "title": "microsoft/computervision-recipes",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "lang": "JupyterNotebook",
+    "desc": "Best Practices, code samples, and documentation for Computer Vision.",
+    "cn": false
+  },
+  {
+    "title": "an-tao/drogon",
+    "url": "https://github.com/an-tao/drogon",
+    "lang": "C++",
+    "desc": "Drogon: A C++14/17 based HTTP web application framework running on Linux/macOS/Unix/Windows",
+    "cn": false
+  },
+  {
+    "title": "YunaiV/SpringBoot-Labs",
+    "url": "https://github.com/YunaiV/SpringBoot-Labs",
+    "lang": "Java",
+    "desc": "一个涵盖六个专栏：Spring Boot 2.X、Spring Cloud、Spring Cloud Alibaba、Dubbo、分布式消息队列、分布式事务的仓库。希望胖友小手一抖，右上角来个 Star，感恩 1024",
+    "cn": true
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python",
+    "desc": "🔎 Hunt down social media accounts by username across social networks",
+    "cn": false
+  },
+  {
+    "title": "looly/hutool",
+    "url": "https://github.com/looly/hutool",
+    "lang": "Java",
+    "desc": "A set of tools that keep Java sweet.",
+    "cn": false
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "lang": "Kotlin",
+    "desc": "🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "cn": false
+  },
+  {
+    "title": "rewardone/OSCPRepo",
+    "url": "https://github.com/rewardone/OSCPRepo",
+    "lang": "C",
+    "desc": "A list of commands, scripts, resources, and more that I have gathered and attempted to consolidate for use as OSCP (and more) study material. Commands in 'Usefulcommands' Keepnote. Bookmarks and reading material in 'BookmarkList' CherryTree. Reconscan Py2 and Py3. Custom ISO building.",
+    "cn": false
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "cn": true
+  },
+  {
+    "title": "wangzhiwubigdata/God-Of-BigData",
+    "url": "https://github.com/wangzhiwubigdata/God-Of-BigData",
+    "desc": "大数据面试题，大数据成神之路开启...Flink/Spark/Hadoop/Hbase/Hive...",
+    "cn": true
+  },
+  {
+    "title": "Mr-xn/Penetration_Testing_POC",
+    "url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "lang": "PowerShell",
+    "desc": "渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "cn": true
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "lang": "TypeScript",
+    "desc": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+    "cn": false
+  },
+  {
+    "title": "halfmoonui/halfmoon",
+    "url": "https://github.com/halfmoonui/halfmoon",
+    "lang": "CSS",
+    "desc": "Front-end framework with a built-in dark mode, designed for rapidly building beautiful dashboards and product pages.",
+    "cn": false
+  },
+  {
+    "title": "alexeymezenin/laravel-best-practices",
+    "url": "https://github.com/alexeymezenin/laravel-best-practices",
+    "desc": "Laravel best practices",
+    "cn": false
+  },
+  {
+    "title": "rossumur/espflix",
+    "url": "https://github.com/rossumur/espflix",
+    "lang": "C",
+    "desc": "A free video streaming service that runs on a ESP32",
+    "cn": false
+  },
+  {
+    "title": "yam-finance/yam-protocol",
+    "url": "https://github.com/yam-finance/yam-protocol",
+    "lang": "Solidity",
+    "desc": "A stablizing reserve currency protocol",
+    "cn": false
+  },
+  {
+    "title": "cvg/Hierarchical-Localization",
+    "url": "https://github.com/cvg/Hierarchical-Localization",
+    "lang": "Python",
+    "desc": "Visual localization made easy",
+    "cn": false
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python",
+    "desc": "The easiest way to automate your data",
+    "cn": false
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook",
+    "desc": "Draft of the fastai book",
+    "cn": false
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript",
+    "desc": "One framework. Mobile & desktop.",
+    "cn": false
+  }
+]

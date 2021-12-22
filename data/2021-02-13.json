@@ -1,0 +1,174 @@
+[
+  {
+    "title": "libsdl-org/SDL",
+    "url": "https://github.com/libsdl-org/SDL",
+    "lang": "C",
+    "desc": "Simple Directmedia Layer",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "PowerShell",
+    "desc": "Azure Quickstart Templates",
+    "cn": false
+  },
+  {
+    "title": "system76/launch",
+    "url": "https://github.com/system76/launch",
+    "lang": "Shell",
+    "desc": "System76 Launch Configurable Keyboard",
+    "cn": false
+  },
+  {
+    "title": "benbjohnson/litestream",
+    "url": "https://github.com/benbjohnson/litestream",
+    "lang": "Go",
+    "desc": "Streaming S3 replication for SQLite.",
+    "cn": false
+  },
+  {
+    "title": "mbround18/valheim-docker",
+    "url": "https://github.com/mbround18/valheim-docker",
+    "lang": "Rust",
+    "desc": "Valheim Docker server with Odin the CLI tool.",
+    "cn": false
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "satwikkansal/wtfpython",
+    "url": "https://github.com/satwikkansal/wtfpython",
+    "lang": "Python",
+    "desc": "What the f*ck Python? 😱",
+    "cn": false
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "cn": false
+  },
+  {
+    "title": "serhii-londar/open-source-mac-os-apps",
+    "url": "https://github.com/serhii-londar/open-source-mac-os-apps",
+    "lang": "Swift",
+    "desc": "🚀 Awesome list of open source applications for macOS. https://t.me/opensourcemacosapps",
+    "cn": false
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#",
+    "desc": "PowerShell for every system!",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "streamich/react-use",
+    "url": "https://github.com/streamich/react-use",
+    "lang": "TypeScript",
+    "desc": "React Hooks — 👍",
+    "cn": false
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript",
+    "desc": "The source for REST API specifications for Microsoft Azure.",
+    "cn": false
+  },
+  {
+    "title": "adityatelange/hugo-PaperMod",
+    "url": "https://github.com/adityatelange/hugo-PaperMod",
+    "lang": "HTML",
+    "desc": "A fast, clean, responsive Hugo theme",
+    "cn": false
+  },
+  {
+    "title": "reactend/reactend-express",
+    "url": "https://github.com/reactend/reactend-express",
+    "lang": "JavaScript",
+    "desc": "React renderer to build Node.js server",
+    "cn": false
+  },
+  {
+    "title": "flybywiresim/a32nx",
+    "url": "https://github.com/flybywiresim/a32nx",
+    "lang": "JavaScript",
+    "desc": "The A32NX Project is a community driven open source project to create a free Airbus A320neo in Microsoft Flight Simulator that is as close to reality as possible. It aims to enhance the default A320neo by improving the systems depth and functionality to bring it up to payware-level, all for free.",
+    "cn": false
+  },
+  {
+    "title": "Dimbreath/GenshinData",
+    "url": "https://github.com/Dimbreath/GenshinData",
+    "desc": "Repository containing the game data for the game Genshin Impact.",
+    "cn": false
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go",
+    "desc": "A tool for secrets management, encryption as a service, and privileged access management",
+    "cn": false
+  },
+  {
+    "title": "abhishekkrthakur/colabcode",
+    "url": "https://github.com/abhishekkrthakur/colabcode",
+    "lang": "Python",
+    "desc": "Run VSCode (codeserver) on Google Colab or Kaggle Notebooks",
+    "cn": false
+  },
+  {
+    "title": "florisboard/florisboard",
+    "url": "https://github.com/florisboard/florisboard",
+    "lang": "Kotlin",
+    "desc": "An open-source keyboard for Android. Currently in alpha/early-beta stage.",
+    "cn": false
+  },
+  {
+    "title": "goreleaser/goreleaser",
+    "url": "https://github.com/goreleaser/goreleaser",
+    "lang": "Go",
+    "desc": "Deliver Go binaries as fast and easily as possible",
+    "cn": false
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python",
+    "desc": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+    "cn": false
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#",
+    "desc": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+    "cn": false
+  },
+  {
+    "title": "reed-hong/awesome-libra",
+    "url": "https://github.com/reed-hong/awesome-libra",
+    "desc": "A Curated List of Awesome Facebook Libra Resources",
+    "cn": false
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "porn-vault/porn-vault",
+    "url": "https://github.com/porn-vault/porn-vault",
+    "lang": "TypeScript",
+    "desc": "💋 Manage your ever-growing porn collection. Using Vue & GraphQL",
+    "cn": false
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++",
+    "desc": "Googletest - Google Testing and Mocking Framework",
+    "cn": false
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++",
+    "desc": "A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM.",
+    "cn": false
+  },
+  {
+    "title": "preactjs/wmr",
+    "url": "https://github.com/preactjs/wmr",
+    "lang": "JavaScript",
+    "desc": "👩‍🚀 The tiny all-in-one development tool for modern web apps.",
+    "cn": false
+  },
+  {
+    "title": "bazelbuild/bazel",
+    "url": "https://github.com/bazelbuild/bazel",
+    "lang": "Java",
+    "desc": "a fast, scalable, multi-language and extensible build system",
+    "cn": false
+  },
+  {
+    "title": "looly/hutool",
+    "url": "https://github.com/looly/hutool",
+    "lang": "Java",
+    "desc": "A set of tools that keep Java sweet.",
+    "cn": false
+  },
+  {
+    "title": "jef/streetmerchant",
+    "url": "https://github.com/jef/streetmerchant",
+    "lang": "TypeScript",
+    "desc": "🤖 Autonomous robot for all your electronic needs",
+    "cn": false
+  },
+  {
+    "title": "taniarascia/takenote",
+    "url": "https://github.com/taniarascia/takenote",
+    "lang": "TypeScript",
+    "desc": "📝 ‎ A web-based notes app for developers.",
+    "cn": false
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "lang": "Go",
+    "desc": "An open and reliable container runtime",
+    "cn": false
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell",
+    "desc": "Open source documentation of Microsoft Azure",
+    "cn": false
+  },
+  {
+    "title": "reillychase/hostifi-mvp",
+    "url": "https://github.com/reillychase/hostifi-mvp",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS",
+    "desc": "50+ mini web projects using HTML, CSS & JS",
+    "cn": false
+  },
+  {
+    "title": "dashbitco/bytepack_archive",
+    "url": "https://github.com/dashbitco/bytepack_archive",
+    "lang": "Elixir",
+    "desc": "Archive of bytepack.io",
+    "cn": false
+  },
+  {
+    "title": "h5bp/html5-boilerplate",
+    "url": "https://github.com/h5bp/html5-boilerplate",
+    "lang": "JavaScript",
+    "desc": "A professional front-end template for building fast, robust, and adaptable web apps or sites.",
+    "cn": false
+  },
+  {
+    "title": "thedaviddias/Front-End-Checklist",
+    "url": "https://github.com/thedaviddias/Front-End-Checklist",
+    "desc": "🗂 The perfect Front-End Checklist for modern websites and meticulous developers",
+    "cn": false
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "lang": "Rust",
+    "desc": "A cross-platform, GPU-accelerated terminal emulator",
+    "cn": false
+  },
+  {
+    "title": "KasperskyLab/TinyCheck",
+    "url": "https://github.com/KasperskyLab/TinyCheck",
+    "lang": "Python",
+    "desc": "TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In orde…",
+    "cn": false
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties",
+    "cn": false
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "cn": false
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code",
+    "lang": "JavaScript",
+    "desc": "A collection of awesome resources related to the yearly Advent of Code challenge.",
+    "cn": false
+  },
+  {
+    "title": "bytefury/crater",
+    "url": "https://github.com/bytefury/crater",
+    "lang": "PHP",
+    "desc": "Free & Open Source Invoice App for Freelancers & Small Businesses",
+    "cn": false
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript",
+    "desc": "JavaScript Style Guide",
+    "cn": false
+  },
+  {
+    "title": "Free-IPTV/Countries",
+    "url": "https://github.com/Free-IPTV/Countries",
+    "desc": "Free legally receivable IPTV channels as .m3u for Kodi. :-)",
+    "cn": false
+  },
+  {
+    "title": "micronaut-projects/micronaut-core",
+    "url": "https://github.com/micronaut-projects/micronaut-core",
+    "lang": "Java",
+    "desc": "Micronaut Application Framework",
+    "cn": false
+  },
+  {
+    "title": "adamian98/pulse",
+    "url": "https://github.com/adamian98/pulse",
+    "lang": "Python",
+    "desc": "PULSE: Self-Supervised Photo Upsampling via Latent Space Exploration of Generative Models",
+    "cn": false
+  }
+]

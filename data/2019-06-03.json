@@ -1,0 +1,174 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript",
+    "desc": "🎆Interactive Online Platform that Visualizes Algorithms from Code",
+    "cn": false
+  },
+  {
+    "title": "github/semantic",
+    "url": "https://github.com/github/semantic",
+    "lang": "Haskell",
+    "desc": "Parsing, analyzing, and comparing source code across many languages",
+    "cn": false
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "lang": "Java",
+    "desc": "✍ Halo 可能是最好的 Java 博客系统",
+    "cn": true
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "JupyterNotebook",
+    "desc": "Python - 100天从新手到大师",
+    "cn": true
+  },
+  {
+    "title": "entropic-dev/entropic",
+    "url": "https://github.com/entropic-dev/entropic",
+    "lang": "JavaScript",
+    "desc": "a package registry for anything, but mostly javascript",
+    "cn": false
+  },
+  {
+    "title": "mathieudutour/medium-to-own-blog",
+    "url": "https://github.com/mathieudutour/medium-to-own-blog",
+    "lang": "JavaScript",
+    "desc": "Switch from Medium to your own blog in a few minutes",
+    "cn": false
+  },
+  {
+    "title": "metafizzy/zdog",
+    "url": "https://github.com/metafizzy/zdog",
+    "lang": "JavaScript",
+    "desc": "Flat, round, designer-friendly pseudo-3D engine",
+    "cn": false
+  },
+  {
+    "title": "binhnguyennus/awesome-scalability",
+    "url": "https://github.com/binhnguyennus/awesome-scalability",
+    "desc": "The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems",
+    "cn": false
+  },
+  {
+    "title": "lukemelas/EfficientNet-PyTorch",
+    "url": "https://github.com/lukemelas/EfficientNet-PyTorch",
+    "lang": "Python",
+    "desc": "A PyTorch implementation of EfficientNet",
+    "cn": false
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "lang": "Go",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "cn": false
+  },
+  {
+    "title": "koalaman/shellcheck",
+    "url": "https://github.com/koalaman/shellcheck",
+    "lang": "Haskell",
+    "desc": "ShellCheck, a static analysis tool for shell scripts",
+    "cn": false
+  },
+  {
+    "title": "wangzheng0822/algo",
+    "url": "https://github.com/wangzheng0822/algo",
+    "lang": "C",
+    "desc": "数据结构和算法必知必会的50个代码实现",
+    "cn": true
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++",
+    "desc": "The new Windows Terminal, and the original Windows console host -- all in the same place!",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "url": "https://github.com/vietnguyen91/Super-mario-bros-A3C-pytorch",
+    "lang": "Python",
+    "desc": "Asynchronous Advantage Actor-Critic (A3C) algorithm for Super Mario Bros",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes",
+    "lang": "Java",
+    "desc": "📚 技术面试必备基础知识、Leetcode 题解、后端面试、Java 面试、春招、秋招、操作系统、计算机网络、系统设计",
+    "cn": true
+  },
+  {
+    "title": "kizitonwose/CalendarView",
+    "url": "https://github.com/kizitonwose/CalendarView",
+    "lang": "Kotlin",
+    "desc": "A highly customizable calendar library for Android, powered by RecyclerView.",
+    "cn": false
+  },
+  {
+    "title": "mholt/PapaParse",
+    "url": "https://github.com/mholt/PapaParse",
+    "lang": "JavaScript",
+    "desc": "Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input",
+    "cn": false
+  },
+  {
+    "title": "calebwin/emu",
+    "url": "https://github.com/calebwin/emu",
+    "lang": "Rust",
+    "desc": "a language for programming GPUs",
+    "cn": false
+  },
+  {
+    "title": "unidoc/unioffice",
+    "url": "https://github.com/unidoc/unioffice",
+    "lang": "Go",
+    "desc": "Pure go library for creating and processing Office Word (.docx), Excel (.xlsx) and Powerpoint (.pptx) documents",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "【Java学习+面试指南】 一份涵盖大部分Java程序员所需要掌握的核心知识。",
+    "cn": true
+  },
+  {
+    "title": "azl397985856/leetcode",
+    "url": "https://github.com/azl397985856/leetcode",
+    "lang": "JavaScript",
+    "desc": "LeetCode Solutions: A Record of My Problem Solving Journey.( leetcode题解，记录自己的leetcode解题之路。)",
+    "cn": true
+  }
+]

@@ -1,0 +1,161 @@
+[
+  {
+    "title": "labuladong/fucking-algorithm",
+    "url": "https://github.com/labuladong/fucking-algorithm",
+    "desc": "刷算法全靠套路，认准 labuladong 就够了！English version supported! Crack LeetCode, not only how, but also why.",
+    "cn": true
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-cv",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-cv",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fullcalendar/fullcalendar",
+    "url": "https://github.com/fullcalendar/fullcalendar",
+    "lang": "TypeScript",
+    "desc": "Full-sized drag & drop event calendar",
+    "cn": false
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-nlp",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-nlp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "can1357/NoVmp",
+    "url": "https://github.com/can1357/NoVmp",
+    "lang": "C++",
+    "desc": "A static devirtualizer for VMProtect x64 3.x. powered by VTIL.",
+    "cn": false
+  },
+  {
+    "title": "skydoves/Pokedex",
+    "url": "https://github.com/skydoves/Pokedex",
+    "lang": "Kotlin",
+    "desc": "🗡️ Android Pokedex using Dagger Hilt, Motion, Coroutines, Flow, Jetpack (Room, ViewModel, LiveData) based on MVVM architecture.",
+    "cn": false
+  },
+  {
+    "title": "rocketseat-education/bootcamp-gostack-desafios",
+    "url": "https://github.com/rocketseat-education/bootcamp-gostack-desafios",
+    "desc": "Repositório contendo todos os desafios dos módulos do Bootcamp Gostack",
+    "cn": false
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "lang": "Go",
+    "desc": "✅ Solutions to LeetCode by Go, 100% test coverage, runtime beats 100% / LeetCode 题解",
+    "cn": true
+  },
+  {
+    "title": "rebeyond/Behinder",
+    "url": "https://github.com/rebeyond/Behinder",
+    "desc": "“冰蝎”动态二进制加密网站管理客户端",
+    "cn": true
+  },
+  {
+    "title": "mike4192/spotMicro",
+    "url": "https://github.com/mike4192/spotMicro",
+    "lang": "HTML",
+    "desc": "Spot Micro Quadripeg Project",
+    "cn": false
+  },
+  {
+    "title": "PAIR-code/lit",
+    "url": "https://github.com/PAIR-code/lit",
+    "lang": "TypeScript",
+    "desc": "The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.",
+    "cn": false
+  },
+  {
+    "title": "blade-ui-kit/awesome-tall-stack",
+    "url": "https://github.com/blade-ui-kit/awesome-tall-stack",
+    "desc": "A curated list of awesome things related to the TALL stack.",
+    "cn": false
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "aws-samples/aws-machine-learning-university-accelerated-tab",
+    "url": "https://github.com/aws-samples/aws-machine-learning-university-accelerated-tab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Mr-xn/Penetration_Testing_POC",
+    "url": "https://github.com/Mr-xn/Penetration_Testing_POC",
+    "lang": "PowerShell",
+    "desc": "渗透测试有关的POC、EXP、脚本、提权、小工具等，欢迎补充、完善---About penetration-testing python-script poc getshell csrf xss cms php-getshell domainmod-xss penetration-testing-poc csrf-webshell cobub-razor cve rce sql sql-poc poc-exp bypass oa-getshell cve-cms",
+    "cn": true
+  },
+  {
+    "title": "prasadgujar/low-level-design-primer",
+    "url": "https://github.com/prasadgujar/low-level-design-primer"
+  },
+  {
+    "title": "iawia002/annie",
+    "url": "https://github.com/iawia002/annie",
+    "lang": "Go",
+    "desc": "👾 Fast, simple and clean video downloader",
+    "cn": false
+  },
+  {
+    "title": "MisterBooo/LeetCodeAnimation",
+    "url": "https://github.com/MisterBooo/LeetCodeAnimation",
+    "lang": "Java",
+    "desc": "Demonstrate all the questions on LeetCode in the form of animation.（用动画的形式呈现解LeetCode题目的思路）",
+    "cn": true
+  },
+  {
+    "title": "Palashio/libra",
+    "url": "https://github.com/Palashio/libra",
+    "lang": "Python",
+    "desc": "Ergonomic machine learning for everyone.",
+    "cn": false
+  },
+  {
+    "title": "techreagan/youtube-clone-nodejs-api",
+    "url": "https://github.com/techreagan/youtube-clone-nodejs-api",
+    "lang": "JavaScript",
+    "desc": "VueTube is a YouTube clone built with nodejs, expressjs & mongodb. This is the RESTful API repository.",
+    "cn": false
+  },
+  {
+    "title": "google/mediapipe",
+    "url": "https://github.com/google/mediapipe",
+    "lang": "C++",
+    "desc": "MediaPipe is the simplest way for researchers and developers to build world-class ML solutions and applications for mobile, edge, cloud and the web.",
+    "cn": false
+  },
+  {
+    "title": "openai/image-gpt",
+    "url": "https://github.com/openai/image-gpt",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners",
+    "cn": false
+  },
+  {
+    "title": "shoelace-style/shoelace",
+    "url": "https://github.com/shoelace-style/shoelace",
+    "lang": "TypeScript",
+    "desc": "A collection of professionally designed, every day UI components built on a framework-agnostic technology. 🥾",
+    "cn": false
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++",
+    "desc": "A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)",
+    "cn": false
+  }
+]

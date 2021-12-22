@@ -1,0 +1,172 @@
+[
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java",
+    "desc": "Ghidra is a software reverse engineering (SRE) framework",
+    "cn": false
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++",
+    "desc": "Bitcoin Core integration/staging tree",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "lang": "C++",
+    "desc": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+    "cn": false
+  },
+  {
+    "title": "vijishmadhavan/ArtLine",
+    "url": "https://github.com/vijishmadhavan/ArtLine",
+    "lang": "JupyterNotebook",
+    "desc": "A Deep Learning based project for creating line art portraits.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript",
+    "desc": "Node.js library to automate Chromium, Firefox and WebKit with a single API",
+    "cn": false
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "microsoft/Cognitive-Samples-IntelligentKiosk",
+    "url": "https://github.com/microsoft/Cognitive-Samples-IntelligentKiosk",
+    "lang": "C#",
+    "desc": "Welcome to the Intelligent Kiosk Sample! Here you will find several demos showcasing workflows and experiences built on top of the Microsoft Cognitive Services.",
+    "cn": false
+  },
+  {
+    "title": "h2oai/wave",
+    "url": "https://github.com/h2oai/wave",
+    "lang": "Python",
+    "desc": "Realtime Web Apps and Dashboards for Python",
+    "cn": false
+  },
+  {
+    "title": "thangchung/clean-code-dotnet",
+    "url": "https://github.com/thangchung/clean-code-dotnet",
+    "lang": "C#",
+    "desc": "🛁 Clean Code concepts and tools adapted for .NET",
+    "cn": false
+  },
+  {
+    "title": "bevyengine/bevy",
+    "url": "https://github.com/bevyengine/bevy",
+    "lang": "Rust",
+    "desc": "A refreshingly simple data-driven game engine built in Rust",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers by organizations sharing their work on applied data science & machine learning.",
+    "cn": false
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "lang": "Dart"
+  },
+  {
+    "title": "nwtgck/piping-server",
+    "url": "https://github.com/nwtgck/piping-server",
+    "lang": "TypeScript",
+    "desc": "Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users",
+    "cn": false
+  },
+  {
+    "title": "gnxbr/Fully-Undetectable-Techniques",
+    "url": "https://github.com/gnxbr/Fully-Undetectable-Techniques",
+    "lang": "C"
+  },
+  {
+    "title": "JetBrains/compose-jb",
+    "url": "https://github.com/JetBrains/compose-jb",
+    "lang": "Kotlin",
+    "desc": "Jetpack Compose for Desktop, a modern UI framework for Kotlin that makes building performant and beautiful user interfaces easy and enjoyable.",
+    "cn": false
+  },
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V",
+    "desc": "Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io",
+    "cn": false
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript",
+    "desc": "⚡️ Simple, Modular & Accessible UI Components for your React Applications",
+    "cn": false
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "lang": "Shell",
+    "desc": "京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具",
+    "cn": true
+  },
+  {
+    "title": "SuLingGG/OpenWrt-Rpi",
+    "url": "https://github.com/SuLingGG/OpenWrt-Rpi",
+    "lang": "Shell",
+    "desc": "Raspberry Pi & NanoPi R2S & G-Dock & x86 OpenWrt Compile Project. (Based on Github Action / Daily Update)",
+    "cn": false
+  },
+  {
+    "title": "supertokens/supertokens-core",
+    "url": "https://github.com/supertokens/supertokens-core",
+    "lang": "Java",
+    "desc": "Open source alternative to Auth0 / Firebase Auth / AWS Cognito",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "lang": "JavaScript",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "cn": false
+  }
+]

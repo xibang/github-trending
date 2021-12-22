@@ -1,0 +1,173 @@
+[
+  {
+    "title": "Dimillian/RedditOS",
+    "url": "https://github.com/Dimillian/RedditOS",
+    "lang": "Swift",
+    "desc": "A SwiftUI Reddit client for macOS Big Sur",
+    "cn": false
+  },
+  {
+    "title": "manikandanraji/youtubeclone-frontend",
+    "url": "https://github.com/manikandanraji/youtubeclone-frontend",
+    "lang": "JavaScript",
+    "desc": "Youtube Clone Frontend (React + Redux)",
+    "cn": false
+  },
+  {
+    "title": "deezer/spleeter",
+    "url": "https://github.com/deezer/spleeter",
+    "lang": "Python",
+    "desc": "Deezer source separation library including pretrained models.",
+    "cn": false
+  },
+  {
+    "title": "ant-design-blazor/ant-design-blazor",
+    "url": "https://github.com/ant-design-blazor/ant-design-blazor",
+    "lang": "C#",
+    "desc": "🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.",
+    "cn": false
+  },
+  {
+    "title": "flipped-aurora/gin-vue-admin",
+    "url": "https://github.com/flipped-aurora/gin-vue-admin",
+    "lang": "Go",
+    "desc": "基于gin+vue搭建的后台管理系统框架，集成jwt鉴权，权限管理，动态路由，分页封装，多点登录拦截，资源权限，上传下载，代码生成器，表单生成器等基础功能，五分钟一套CURD前后端代码包含数据库的快感你不要体验一下吗~,更多功能正在开发中，欢迎issue和pr~",
+    "cn": true
+  },
+  {
+    "title": "huggingface/nlp",
+    "url": "https://github.com/huggingface/nlp",
+    "lang": "Python",
+    "desc": "🤗nlp – Datasets and evaluation metrics for Natural Language Processing in NumPy, Pandas, PyTorch and TensorFlow",
+    "cn": false
+  },
+  {
+    "title": "google/tsunami-security-scanner",
+    "url": "https://github.com/google/tsunami-security-scanner",
+    "lang": "Java",
+    "desc": "Tsunami is a general purpose network security scanner with an extensible plugin system for detecting high severity vulnerabilities with high confidence.",
+    "cn": false
+  },
+  {
+    "title": "iperov/DeepFaceLab",
+    "url": "https://github.com/iperov/DeepFaceLab",
+    "lang": "Python",
+    "desc": "DeepFaceLab is the leading software for creating deepfakes.",
+    "cn": false
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python",
+    "desc": "ALL IN ONE Hacking Tool For Hackers",
+    "cn": false
+  },
+  {
+    "title": "basir/node-react-ecommerce",
+    "url": "https://github.com/basir/node-react-ecommerce",
+    "lang": "JavaScript",
+    "desc": "Build ECommerce Website Like Amazon By React & Node & MongoDB",
+    "cn": false
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "desc": "Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE",
+    "cn": false
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "lang": "Java",
+    "desc": "Apache Pulsar - distributed pub-sub messaging system",
+    "cn": false
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "JavaScript",
+    "desc": "\"The mother of all demo apps\" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅",
+    "cn": false
+  },
+  {
+    "title": "kautukkundan/Awesome-Profile-README-templates",
+    "url": "https://github.com/kautukkundan/Awesome-Profile-README-templates",
+    "lang": "JavaScript",
+    "desc": "A collection of awesome readme templates to display on your profile",
+    "cn": false
+  },
+  {
+    "title": "manikandanraji/youtubeclone-backend",
+    "url": "https://github.com/manikandanraji/youtubeclone-backend",
+    "lang": "JavaScript",
+    "desc": "Youtube Clone Backend (Express + Sequelize)",
+    "cn": false
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code",
+    "lang": "Python",
+    "desc": "100 Days of ML Coding",
+    "cn": false
+  },
+  {
+    "title": "terjanq/Tiny-XSS-Payloads",
+    "url": "https://github.com/terjanq/Tiny-XSS-Payloads",
+    "lang": "JavaScript",
+    "desc": "A collection of tiny XSS Payloads that can be used in different contexts.",
+    "cn": false
+  },
+  {
+    "title": "apptension/developer-handbook",
+    "url": "https://github.com/apptension/developer-handbook",
+    "desc": "An opinionated guide on how to become a professional Web/Mobile App Developer.",
+    "cn": false
+  },
+  {
+    "title": "nndl/nndl.github.io",
+    "url": "https://github.com/nndl/nndl.github.io",
+    "lang": "HTML",
+    "desc": "《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning",
+    "cn": true
+  },
+  {
+    "title": "full-stack-deep-learning/fsdl-text-recognizer-project",
+    "url": "https://github.com/full-stack-deep-learning/fsdl-text-recognizer-project",
+    "lang": "JupyterNotebook",
+    "desc": "The source repository is at https://github.com/full-stack-deep-learning/fsdl-text-recognizer",
+    "cn": false
+  },
+  {
+    "title": "0xricksanchez/paper_collection",
+    "url": "https://github.com/0xricksanchez/paper_collection",
+    "desc": "Academic papers related to fuzzing, binary analysis and exploit dev, that I want to read or have already read",
+    "cn": false
+  },
+  {
+    "title": "NeuromatchAcademy/course-content",
+    "url": "https://github.com/NeuromatchAcademy/course-content",
+    "lang": "JupyterNotebook",
+    "desc": "Summer course content for Neuromatch Academy",
+    "cn": false
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python",
+    "desc": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+    "cn": false
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line",
+    "desc": "Master the command line, in one page",
+    "cn": false
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "lang": "Go",
+    "desc": "A platform for building proxies to bypass network restrictions.",
+    "cn": false
+  },
+  {
+    "title": "qarmin/czkawka",
+    "url": "https://github.com/qarmin/czkawka",
+    "lang": "Rust",
+    "desc": "Multi functional app to find duplicates, empty folders etc.",
+    "cn": false
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java",
+    "desc": "😮 互联网 Java 工程师进阶知识完全扫盲：涵盖高并发、分布式、高可用、微服务、海量数据处理等领域知识，后端同学必看，前端同学也可学习",
+    "cn": true
+  },
+  {
+    "title": "twintproject/twint",
+    "url": "https://github.com/twintproject/twint",
+    "lang": "Python",
+    "desc": "An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "cn": false
+  },
+  {
+    "title": "Snailclimb/JavaGuide",
+    "url": "https://github.com/Snailclimb/JavaGuide",
+    "lang": "Java",
+    "desc": "「Java学习+面试指南」一份涵盖大部分Java程序员所需要掌握的核心知识。准备 Java 面试，首选 JavaGuide！",
+    "cn": true
+  },
+  {
+    "title": "lanyulei/ferry",
+    "url": "https://github.com/lanyulei/ferry",
+    "lang": "Go",
+    "desc": "本系统是集工单统计、任务钩子、权限管理、灵活配置流程与模版等等于一身的开源工单系统，当然也可以称之为工作流引擎。 致力于减少跨部门之间的沟通，自动任务的执行，提升工作效率与工作质量，减少不必要的工作量与人为出错率。",
+    "cn": true
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java",
+    "desc": "Design patterns implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books",
+    "desc": "📚 Freely available programming books",
+    "cn": false
+  },
+  {
+    "title": "RDambrosio016/RSLint",
+    "url": "https://github.com/RDambrosio016/RSLint",
+    "lang": "Rust",
+    "desc": "A (WIP) Extremely fast JavaScript linter and Rust crate",
+    "cn": false
+  },
+  {
+    "title": "TurboWay/big_screen",
+    "url": "https://github.com/TurboWay/big_screen",
+    "lang": "Python",
+    "desc": "数据大屏可视化",
+    "cn": true
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++",
+    "desc": "Open Source Computer Vision Library",
+    "cn": false
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "lang": "Go",
+    "desc": "A powerful little TUI framework 🏗",
+    "cn": false
+  },
+  {
+    "title": "The-Art-of-Hacking/h4cker",
+    "url": "https://github.com/The-Art-of-Hacking/h4cker",
+    "lang": "Python",
+    "desc": "This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more.",
+    "cn": false
+  },
+  {
+    "title": "zhangdaiscott/jeecg-boot",
+    "url": "https://github.com/zhangdaiscott/jeecg-boot",
+    "lang": "Java",
+    "desc": "基于代码生成器的低代码平台，超越传统商业平台！前后端分离架构：SpringBoot 2.x，SpringCloud Alibaba，Ant Design&Vue，Mybatis-plus，Shiro，JWT。强大的代码生成器让前后端代码一键生成，无需写任何代码! 引领新开发模式(OnlineCoding-> 代码生成-> 手工MERGE)，帮助Java项目解决70%重复工作，让开发更关注业务逻辑，既能快速提高开发效率，帮助公司节省成本，同时又不失灵活性。",
+    "cn": true
+  },
+  {
+    "title": "pcm-dpc/COVID-19",
+    "url": "https://github.com/pcm-dpc/COVID-19",
+    "desc": "COVID-19 Italia - Monitoraggio situazione",
+    "cn": false
+  },
+  {
+    "title": "saket/cascade",
+    "url": "https://github.com/saket/cascade",
+    "lang": "Kotlin",
+    "desc": "Nested popup menus with smooth height animations on Android",
+    "cn": false
+  },
+  {
+    "title": "keyth72/SmartGuitarAmp",
+    "url": "https://github.com/keyth72/SmartGuitarAmp",
+    "lang": "C++",
+    "desc": "Guitar plugin made with JUCE that uses neural network models to emulate real world hardware.",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "go-admin-team/go-admin",
+    "url": "https://github.com/go-admin-team/go-admin",
+    "lang": "Go",
+    "desc": "基于Gin + Vue + Element UI的前后端分离权限管理系统脚手架（包含了：基础用户管理功能，jwt鉴权，代码生成器，RBAC资源控制，表单构建等）分分钟构建自己的中后台项目；文档：http://doc.zhangwj.com/go-admin-site/ Demo： http://www.zhangwj.com/#/login",
+    "cn": true
+  },
+  {
+    "title": "mengshukeji/Luckysheet",
+    "url": "https://github.com/mengshukeji/Luckysheet",
+    "lang": "JavaScript",
+    "desc": "Luckysheet is an online spreadsheet like excel that is powerful, simple to configure, and completely open source.",
+    "cn": false
+  },
+  {
+    "title": "wsdjeg/vim-galore-zh_cn",
+    "url": "https://github.com/wsdjeg/vim-galore-zh_cn",
+    "lang": "Vimscript",
+    "desc": "Vim 从入门到精通",
+    "cn": true
+  },
+  {
+    "title": "CorentinJ/Real-Time-Voice-Cloning",
+    "url": "https://github.com/CorentinJ/Real-Time-Voice-Cloning",
+    "lang": "Python",
+    "desc": "Clone a voice in 5 seconds to generate arbitrary speech in real-time",
+    "cn": false
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "desc": "Roadmap to becoming a web developer in 2020",
+    "cn": false
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C",
+    "desc": "Display and control your Android device",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  }
+]

@@ -1,0 +1,172 @@
+[
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript",
+    "desc": "30 Days of React challenge is a step by step guide to learn React in 30 days. This challenge needs an intermediate level of HTML, CSS, and JavaScript knowledge. It is recommended to feel good at JavaScript before you start to React. If you are not comfortable with JavaScript check out 30DaysOfJavaScript. This is a continuation of 30 Days Of Java…",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript",
+    "desc": "30 days of JavaScript programming challenge is a step by step guide to learn JavaScript programming language in 30 days",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python",
+    "desc": "All Algorithms implemented in Python",
+    "cn": false
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS",
+    "desc": "A book series on JavaScript. @YDKJS on twitter.",
+    "cn": false
+  },
+  {
+    "title": "laravel/jetstream",
+    "url": "https://github.com/laravel/jetstream",
+    "lang": "PHP"
+  },
+  {
+    "title": "ngrx/platform",
+    "url": "https://github.com/ngrx/platform",
+    "lang": "TypeScript",
+    "desc": "Reactive libraries for Angular",
+    "cn": false
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript",
+    "desc": "Short JavaScript code snippets for all your development needs",
+    "cn": false
+  },
+  {
+    "title": "FreeTubeApp/FreeTube",
+    "url": "https://github.com/FreeTubeApp/FreeTube",
+    "lang": "JavaScript",
+    "desc": "An Open Source YouTube app for privacy",
+    "cn": false
+  },
+  {
+    "title": "RDambrosio016/RSLint",
+    "url": "https://github.com/RDambrosio016/RSLint",
+    "lang": "Rust",
+    "desc": "A (WIP) Extremely fast JavaScript linter and Rust crate",
+    "cn": false
+  },
+  {
+    "title": "OpenSouceCode/Hacktoberfest2020",
+    "url": "https://github.com/OpenSouceCode/Hacktoberfest2020",
+    "lang": "HTML",
+    "desc": "Make your first Pull Request and earn a free tee from GitHub!",
+    "cn": false
+  },
+  {
+    "title": "gatsbyjs/gatsby",
+    "url": "https://github.com/gatsbyjs/gatsby",
+    "lang": "JavaScript",
+    "desc": "Build blazing fast, modern apps and websites with React",
+    "cn": false
+  },
+  {
+    "title": "kentcdodds/react-hooks",
+    "url": "https://github.com/kentcdodds/react-hooks",
+    "lang": "JavaScript",
+    "desc": "Learn React Hooks! 🎣 ⚛",
+    "cn": false
+  },
+  {
+    "title": "Gictorbit/photoshopCClinux",
+    "url": "https://github.com/Gictorbit/photoshopCClinux",
+    "lang": "Shell",
+    "desc": "an installer for Photoshop CC v19 on Gnu/Linux",
+    "cn": false
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java",
+    "desc": "A sandbox tower defense game",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "sukritishah15/DS-Algo-Point",
+    "url": "https://github.com/sukritishah15/DS-Algo-Point",
+    "lang": "Java",
+    "desc": "This repository contains codes for various data structures and algorithms in C, C++, Java, Python, C#, Go, JavaScript, PHP, Kotlin and Scala",
+    "cn": false
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python",
+    "desc": "30 days of Python programming challenge is a step by step guide to learn Python programming language in 30 days.",
+    "cn": false
+  },
+  {
+    "title": "dipakkr/A-to-Z-Resources-for-Students",
+    "url": "https://github.com/dipakkr/A-to-Z-Resources-for-Students",
+    "desc": "✅ Curated list of resources for college students",
+    "cn": false
+  },
+  {
+    "title": "Neo23x0/Raccine",
+    "url": "https://github.com/Neo23x0/Raccine",
+    "lang": "C++",
+    "desc": "A Simple Ransomware Vaccine",
+    "cn": false
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome",
+    "desc": "😎 Awesome lists about all kinds of interesting topics",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "matplotlib/matplotlib",
+    "url": "https://github.com/matplotlib/matplotlib",
+    "lang": "Python",
+    "desc": "matplotlib: plotting with Python",
+    "cn": false
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++",
+    "desc": "The Magic Mask for Android",
+    "cn": false
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "lang": "Java",
+    "desc": "Just Announced - \"Learn Spring Security OAuth\":",
+    "cn": false
+  }
+]

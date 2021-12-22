@@ -1,0 +1,175 @@
+[
+  {
+    "title": "owncast/owncast",
+    "url": "https://github.com/owncast/owncast",
+    "lang": "Go",
+    "desc": "Take control over your live stream video by running it yourself. Streaming + chat out of the box.",
+    "cn": false
+  },
+  {
+    "title": "utkusen/turkce-wordlist",
+    "url": "https://github.com/utkusen/turkce-wordlist",
+    "lang": "Python",
+    "desc": "Türk kullanıcıların parola seçimlerinin analizi için yapılmış bir çalışmadır",
+    "cn": false
+  },
+  {
+    "title": "DevUtilsApp/DevUtils-app",
+    "url": "https://github.com/DevUtilsApp/DevUtils-app",
+    "lang": "Objective-C",
+    "desc": "Developer Utilities for macOS",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "FlaxEngine/FlaxEngine",
+    "url": "https://github.com/FlaxEngine/FlaxEngine",
+    "lang": "C++",
+    "desc": "Flax Engine – multi-platform 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "vijishmadhavan/ArtLine",
+    "url": "https://github.com/vijishmadhavan/ArtLine",
+    "lang": "JupyterNotebook",
+    "desc": "A Deep Learning based project for creating line art portraits.",
+    "cn": false
+  },
+  {
+    "title": "apple/ml-hypersim",
+    "url": "https://github.com/apple/ml-hypersim",
+    "lang": "Python",
+    "desc": "Hypersim: A Photorealistic Synthetic Dataset for Holistic Indoor Scene Understanding",
+    "cn": false
+  },
+  {
+    "title": "changkun/modern-cpp-tutorial",
+    "url": "https://github.com/changkun/modern-cpp-tutorial",
+    "lang": "C++",
+    "desc": "📚 Modern C++ Tutorial: C++11/14/17/20 On the Fly | https://changkun.de/modern-cpp/",
+    "cn": false
+  },
+  {
+    "title": "UnityTechnologies/open-project-1",
+    "url": "https://github.com/UnityTechnologies/open-project-1",
+    "lang": "C#",
+    "desc": "Unity Open Project #1: Action-adventure",
+    "cn": false
+  },
+  {
+    "title": "tjackenpacken/taskbar-groups",
+    "url": "https://github.com/tjackenpacken/taskbar-groups",
+    "lang": "C#",
+    "desc": "Lightweight application that lets users create and pin groups to the Windows taskbar och desktop",
+    "cn": false
+  },
+  {
+    "title": "thangchung/clean-code-dotnet",
+    "url": "https://github.com/thangchung/clean-code-dotnet",
+    "lang": "C#",
+    "desc": "🛁 Clean Code concepts and tools adapted for .NET",
+    "cn": false
+  },
+  {
+    "title": "r-spacex/SpaceX-API",
+    "url": "https://github.com/r-spacex/SpaceX-API",
+    "lang": "JavaScript",
+    "desc": "🚀 Open Source REST API for rocket, core, capsule, pad, and launch data",
+    "cn": false
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript",
+    "desc": "Collection of 5000+ publicly available IPTV channels from all over the world",
+    "cn": false
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++",
+    "desc": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+    "cn": false
+  },
+  {
+    "title": "abuanwar072/E-commerce-Complete-Flutter-UI",
+    "url": "https://github.com/abuanwar072/E-commerce-Complete-Flutter-UI",
+    "lang": "Dart"
+  },
+  {
+    "title": "nwtgck/piping-server",
+    "url": "https://github.com/nwtgck/piping-server",
+    "lang": "TypeScript",
+    "desc": "Infinitely transfer between every device over pure HTTP: designed for everyone including people using Unix pipe and even for browser users",
+    "cn": false
+  },
+  {
+    "title": "doocs/jvm",
+    "url": "https://github.com/doocs/jvm",
+    "lang": "Java",
+    "desc": "🤗 JVM 底层原理知识总结",
+    "cn": true
+  },
+  {
+    "title": "EvineDeng/jd-base",
+    "url": "https://github.com/EvineDeng/jd-base",
+    "lang": "Shell",
+    "desc": "京东薅羊毛脚本https://github.com/lxk0301/jd_scripts 的shell套壳工具",
+    "cn": true
+  },
+  {
+    "title": "projectdiscovery/nuclei",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "lang": "Go",
+    "desc": "Nuclei is a fast tool for configurable targeted scanning based on templates offering massive extensibility and ease of use.",
+    "cn": false
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "lang": "TypeScript",
+    "desc": "Delightful JavaScript Testing.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "ly525/luban-h5",
+    "url": "https://github.com/ly525/luban-h5",
+    "lang": "JavaScript",
+    "desc": "[WIP]en: web design tool || mobile page builder/editor || mini webflow for mobile page. zh: 类似易企秀的H5制作、建站工具、可视化搭建系统.",
+    "cn": true
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript",
+    "desc": "📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!",
+    "cn": false
+  },
+  {
+    "title": "FirebaseExtended/flutterfire",
+    "url": "https://github.com/FirebaseExtended/flutterfire",
+    "lang": "Dart",
+    "desc": "🔥 A collection of Firebase plugins for Flutter apps.",
+    "cn": false
+  },
+  {
+    "title": "FreeCAD/FreeCAD",
+    "url": "https://github.com/FreeCAD/FreeCAD",
+    "lang": "C++",
+    "desc": "This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. Issues are managed on our own bug tracker at https://www.freecadweb.org/tracker",
+    "cn": false
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "title": "stayawayinesctec/stayaway-app",
+    "url": "https://github.com/stayawayinesctec/stayaway-app",
+    "lang": "JavaScript",
+    "desc": "Official repository for the STAYAWAY COVID mobile application",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript",
+    "desc": "📝 Algorithms and data structures implemented in JavaScript with explanations and links to further readings",
+    "cn": false
+  },
+  {
+    "title": "metersphere/metersphere",
+    "url": "https://github.com/metersphere/metersphere",
+    "lang": "Java",
+    "desc": "An open source continuous testing platform. MeterSphere 是一站式的开源企业级持续测试平台，涵盖测试跟踪、接口测试、性能测试、团队协作等功能，全面兼容 JMeter、Postman 等开源、主流标准。",
+    "cn": true
+  },
+  {
+    "title": "WebDevSimplified/Zoom-Clone-With-WebRTC",
+    "url": "https://github.com/WebDevSimplified/Zoom-Clone-With-WebRTC",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jhipster/generator-jhipster",
+    "url": "https://github.com/jhipster/generator-jhipster",
+    "lang": "JavaScript",
+    "desc": "JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.",
+    "cn": false
+  },
+  {
+    "title": "felixrieseberg/macintosh.js",
+    "url": "https://github.com/felixrieseberg/macintosh.js",
+    "lang": "JavaScript",
+    "desc": "A virtual Apple Macintosh with System 8, running in Electron. I'm sorry.",
+    "cn": false
+  },
+  {
+    "title": "microsoft/api-guidelines",
+    "url": "https://github.com/microsoft/api-guidelines",
+    "desc": "Microsoft REST API Guidelines",
+    "cn": false
+  },
+  {
+    "title": "winterbe/java8-tutorial",
+    "url": "https://github.com/winterbe/java8-tutorial",
+    "lang": "Java",
+    "desc": "Modern Java - A Guide to Java 8",
+    "cn": false
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java",
+    "desc": "Design patterns implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "dotnet/tye",
+    "url": "https://github.com/dotnet/tye",
+    "lang": "C#",
+    "desc": "Tye is a tool that makes developing, testing, and deploying microservices and distributed applications easier. Project Tye includes a local orchestrator to make developing microservices easier and the ability to deploy microservices to Kubernetes with minimal configuration.",
+    "cn": false
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++"
+  },
+  {
+    "title": "akullpp/awesome-java",
+    "url": "https://github.com/akullpp/awesome-java",
+    "desc": "A curated list of awesome frameworks, libraries and software for the Java programming language.",
+    "cn": false
+  },
+  {
+    "title": "linkedin/detext",
+    "url": "https://github.com/linkedin/detext",
+    "lang": "Python",
+    "desc": "DeText: A Deep Neural Text Understanding Framework for Ranking and Classification Tasks",
+    "cn": false
+  },
+  {
+    "title": "1d8/Android-Analysis",
+    "url": "https://github.com/1d8/Android-Analysis",
+    "desc": "Getting Genymotion & Burpsuite setup for Android Mobile App Analysis",
+    "cn": false
+  },
+  {
+    "title": "kdeldycke/awesome-falsehood",
+    "url": "https://github.com/kdeldycke/awesome-falsehood",
+    "desc": "😱 Falsehoods Programmers Believe in",
+    "cn": false
+  },
+  {
+    "title": "kdn251/interviews",
+    "url": "https://github.com/kdn251/interviews",
+    "lang": "Java",
+    "desc": "Everything you need to know to get the job.",
+    "cn": false
+  },
+  {
+    "title": "cyberark/SkyArk",
+    "url": "https://github.com/cyberark/SkyArk",
+    "lang": "PowerShell",
+    "desc": "SkyArk helps to discover, assess and secure the most privileged entities in Azure and AWS",
+    "cn": false
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "TypeScript",
+    "desc": "💩🚀 Windows 95 in Electron. Runs on macOS, Linux, and Windows.",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  },
+  {
+    "title": "careercup/CtCI-6th-Edition",
+    "url": "https://github.com/careercup/CtCI-6th-Edition",
+    "lang": "Java",
+    "desc": "Cracking the Coding Interview 6th Ed. Solutions",
+    "cn": false
+  },
+  {
+    "title": "arkadiyt/bounty-targets-data",
+    "url": "https://github.com/arkadiyt/bounty-targets-data",
+    "desc": "This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports",
+    "cn": false
+  },
+  {
+    "title": "facebookresearch/TransCoder",
+    "url": "https://github.com/facebookresearch/TransCoder",
+    "lang": "Python",
+    "desc": "Public release of the TransCoder research project https://arxiv.org/pdf/2006.03511.pdf",
+    "cn": false
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Shell",
+    "desc": "Standard and Advanced Demos for learn.cantrill.io courses",
+    "cn": false
+  },
+  {
+    "title": "Pierian-Data/Complete-Python-3-Bootcamp",
+    "url": "https://github.com/Pierian-Data/Complete-Python-3-Bootcamp",
+    "lang": "JupyterNotebook",
+    "desc": "Course Files for Complete Python 3 Bootcamp Course on Udemy",
+    "cn": false
+  },
+  {
+    "title": "formium/formik",
+    "url": "https://github.com/formium/formik",
+    "lang": "TypeScript",
+    "desc": "Build forms in React, without the tears 😭",
+    "cn": false
+  }
+]

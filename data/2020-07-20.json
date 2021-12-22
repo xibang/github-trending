@@ -1,0 +1,167 @@
+[
+  {
+    "title": "openai/gpt-3",
+    "url": "https://github.com/openai/gpt-3",
+    "desc": "GPT-3: Language Models are Few-Shot Learners",
+    "cn": false
+  },
+  {
+    "title": "forem/forem",
+    "url": "https://github.com/forem/forem",
+    "lang": "Ruby",
+    "desc": "For empowering community 🌱",
+    "cn": false
+  },
+  {
+    "title": "vuejs/docs-next",
+    "url": "https://github.com/vuejs/docs-next",
+    "lang": "Vue",
+    "desc": "Vue 3 core documentation",
+    "cn": false
+  },
+  {
+    "title": "lidangzzz/hedgehog-lab",
+    "url": "https://github.com/lidangzzz/hedgehog-lab",
+    "lang": "TypeScript",
+    "desc": "An open source scientific computing environment for JavaScript TOTALLY in your browser, matrix operations with GPU acceleration, TeX support, data visualization and symbolic computation.",
+    "cn": false
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python",
+    "desc": "🏡 Open source home automation that puts local control and privacy first",
+    "cn": false
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university",
+    "desc": "A complete computer science study plan to become a software engineer.",
+    "cn": false
+  },
+  {
+    "title": "mitesh77/Best-Flutter-UI-Templates",
+    "url": "https://github.com/mitesh77/Best-Flutter-UI-Templates",
+    "lang": "Dart",
+    "desc": "completely free for everyone. Its build-in Flutter Dart.",
+    "cn": false
+  },
+  {
+    "title": "TheAlphamerc/flutter_twitter_clone",
+    "url": "https://github.com/TheAlphamerc/flutter_twitter_clone",
+    "lang": "Dart",
+    "desc": "Fully functional Twitter clone built in flutter framework using Firebase realtime database and storage",
+    "cn": false
+  },
+  {
+    "title": "zulip/zulip",
+    "url": "https://github.com/zulip/zulip",
+    "lang": "Python",
+    "desc": "Zulip server - powerful open source team chat",
+    "cn": false
+  },
+  {
+    "title": "opencv/opencv",
+    "url": "https://github.com/opencv/opencv",
+    "lang": "C++",
+    "desc": "Open Source Computer Vision Library",
+    "cn": false
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "lang": "C#",
+    "desc": "Open Source Web Application Framework for ASP.NET Core",
+    "cn": false
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science",
+    "desc": "🎓 Path to a free self-taught education in Computer Science!",
+    "cn": false
+  },
+  {
+    "title": "microsoft/ailab",
+    "url": "https://github.com/microsoft/ailab",
+    "lang": "C#",
+    "desc": "Experience, Learn and Code the latest breakthrough innovations with Microsoft AI",
+    "cn": false
+  },
+  {
+    "title": "OvidijusParsiunas/myvision",
+    "url": "https://github.com/OvidijusParsiunas/myvision",
+    "lang": "JavaScript",
+    "desc": "Computer vision based ML training data generation tool. 🚀",
+    "cn": false
+  },
+  {
+    "title": "floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "url": "https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap",
+    "lang": "Python",
+    "desc": "Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!",
+    "cn": false
+  },
+  {
+    "title": "elyra-ai/elyra",
+    "url": "https://github.com/elyra-ai/elyra",
+    "lang": "Python",
+    "desc": "Elyra extends JupyterLab Notebooks with an AI centric approach.",
+    "cn": false
+  },
+  {
+    "title": "cylonid/NativeAlphaForAndroid",
+    "url": "https://github.com/cylonid/NativeAlphaForAndroid",
+    "lang": "Java"
+  },
+  {
+    "title": "minimaxir/gpt-3-experiments",
+    "url": "https://github.com/minimaxir/gpt-3-experiments",
+    "lang": "Python",
+    "desc": "Test prompts for OpenAI's GPT-3 API and the resulting AI-generated texts.",
+    "cn": false
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers",
+    "desc": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+    "cn": false
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C",
+    "desc": "Lean's OpenWrt source",
+    "cn": false
+  },
+  {
+    "title": "USCreditCardGuide/airlines-to-china-covid-19",
+    "url": "https://github.com/USCreditCardGuide/airlines-to-china-covid-19",
+    "desc": "疫情期间的回国航班汇总",
+    "cn": true
+  },
+  {
+    "title": "KalleHallden/reddit_automations",
+    "url": "https://github.com/KalleHallden/reddit_automations",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops",
+    "desc": "A curated list of references for MLOps",
+    "cn": false
+  },
+  {
+    "title": "iamadamdev/bypass-paywalls-chrome",
+    "url": "https://github.com/iamadamdev/bypass-paywalls-chrome",
+    "lang": "JavaScript",
+    "desc": "Bypass Paywalls web browser extension for Chrome and Firefox.",
+    "cn": false
+  },
+  {
+    "title": "checkly/puppeteer-recorder",
+    "url": "https://github.com/checkly/puppeteer-recorder",
+    "lang": "JavaScript",
+    "desc": "Puppeteer recorder is a Chrome extension that records your browser interactions and generates a Puppeteer script.",
+    "cn": false
+  }
+]

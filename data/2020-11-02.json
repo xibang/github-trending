@@ -1,0 +1,175 @@
+[
+  {
+    "title": "quantopian/research_public",
+    "url": "https://github.com/quantopian/research_public",
+    "lang": "JupyterNotebook",
+    "desc": "Quantitative research and educational materials",
+    "cn": false
+  },
+  {
+    "title": "LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "url": "https://github.com/LAB-MI/attestation-deplacement-derogatoire-q4-2020",
+    "lang": "JavaScript",
+    "desc": "attestation-deplacement-derogatoire-q4-2020 public",
+    "cn": false
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "lang": "Python",
+    "desc": "You like pytorch? You like micrograd? You love tinygrad! ❤️",
+    "cn": false
+  },
+  {
+    "title": "benawad/vscode-stories",
+    "url": "https://github.com/benawad/vscode-stories",
+    "lang": "TypeScript",
+    "desc": "Stories for VSCode",
+    "cn": false
+  },
+  {
+    "title": "quantopian/zipline",
+    "url": "https://github.com/quantopian/zipline",
+    "lang": "Python",
+    "desc": "Zipline, a Pythonic Algorithmic Trading Library",
+    "cn": false
+  },
+  {
+    "title": "Aircoookie/WLED",
+    "url": "https://github.com/Aircoookie/WLED",
+    "lang": "C++",
+    "desc": "Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!",
+    "cn": false
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart",
+    "desc": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond.",
+    "cn": false
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python",
+    "desc": "🕵️‍♂️ Investigate Google Accounts with emails.",
+    "cn": false
+  },
+  {
+    "title": "trekhleb/homemade-machine-learning",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "lang": "JupyterNotebook",
+    "desc": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "cn": false
+  },
+  {
+    "title": "freddier/hyperblog",
+    "url": "https://github.com/freddier/hyperblog",
+    "lang": "HTML",
+    "desc": "Un blog increíble para el curso de Git y Github de Platzi",
+    "cn": false
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript",
+    "desc": "Roadmap to becoming an Artificial Intelligence Expert in 2020",
+    "cn": false
+  },
+  {
+    "title": "MoienTajik/AspNetCore-Developer-Roadmap",
+    "url": "https://github.com/MoienTajik/AspNetCore-Developer-Roadmap",
+    "desc": "Roadmap to becoming an ASP.NET Core developer in 2021",
+    "cn": false
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas",
+    "desc": "A Collection of application ideas which can be used to improve your coding skills.",
+    "cn": false
+  },
+  {
+    "title": "ns1/pktvisor",
+    "url": "https://github.com/ns1/pktvisor",
+    "lang": "C++",
+    "desc": "pktvisor summarizes data streams in real time and provides a clean, time-windowed HTTP interface and command line UI to the results.",
+    "cn": false
+  },
+  {
+    "title": "hardikkamboj/An-Introduction-to-Statistical-Learning",
+    "url": "https://github.com/hardikkamboj/An-Introduction-to-Statistical-Learning",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains the exercises and its solution contained in the book An Introduction to Statistical Learning in python.",
+    "cn": false
+  },
+  {
+    "title": "jakevdp/PythonDataScienceHandbook",
+    "url": "https://github.com/jakevdp/PythonDataScienceHandbook",
+    "lang": "JupyterNotebook",
+    "desc": "Python Data Science Handbook: full text in Jupyter Notebooks",
+    "cn": false
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python",
+    "desc": "the only cheat sheet you need",
+    "cn": false
+  },
+  {
+    "title": "godotengine/godot",
+    "url": "https://github.com/godotengine/godot",
+    "lang": "C++",
+    "desc": "Godot Engine – Multi-platform 2D and 3D game engine",
+    "cn": false
+  },
+  {
+    "title": "ErickWendel/semana-javascript-expert01",
+    "url": "https://github.com/ErickWendel/semana-javascript-expert01",
+    "lang": "JavaScript",
+    "desc": "Exemplos de código da primeira semana Javascript Expert",
+    "cn": false
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C++",
+    "desc": "Windows system utilities to maximize productivity",
+    "cn": false
+  },
+  {
+    "title": "ageron/handson-ml",
+    "url": "https://github.com/ageron/handson-ml",
+    "lang": "JupyterNotebook",
+    "desc": "A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.",
+    "cn": false
+  },
+  {
+    "title": "nidhaloff/igel",
+    "url": "https://github.com/nidhaloff/igel",
+    "lang": "Python",
+    "desc": "a delightful machine learning tool that allows you to train, test and use models without writing code",
+    "cn": false
+  },
+  {
+    "title": "GitSquared/edex-ui",
+    "url": "https://github.com/GitSquared/edex-ui",
+    "lang": "JavaScript",
+    "desc": "A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support.",
+    "cn": false
+  },
+  {
+    "title": "deepmind/deepmind-research",
+    "url": "https://github.com/deepmind/deepmind-research",
+    "lang": "JupyterNotebook",
+    "desc": "This repository contains implementations and illustrative code to accompany DeepMind publications",
+    "cn": false
+  },
+  {
+    "title": "TheAlgorithms/Java",
+    "url": "https://github.com/TheAlgorithms/Java",
+    "lang": "Java",
+    "desc": "All Algorithms implemented in Java",
+    "cn": false
+  }
+]

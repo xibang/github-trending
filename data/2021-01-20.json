@@ -1,0 +1,168 @@
+[
+  {
+    "title": "developedbyed/glass-website",
+    "url": "https://github.com/developedbyed/glass-website",
+    "lang": "CSS"
+  },
+  {
+    "title": "tomlooman/ActionRoguelike",
+    "url": "https://github.com/tomlooman/ActionRoguelike",
+    "lang": "C++",
+    "desc": "Third-person Action Roguelike made in Unreal Engine C++ (for Stanford CS193U 2020)",
+    "cn": false
+  },
+  {
+    "title": "Rubberduckycooly/Sonic-1-2-2013-Decompilation",
+    "url": "https://github.com/Rubberduckycooly/Sonic-1-2-2013-Decompilation",
+    "lang": "C++",
+    "desc": "Sonic 1/2 (2013) Decompilation",
+    "cn": false
+  },
+  {
+    "title": "Marak/faker.js",
+    "url": "https://github.com/Marak/faker.js",
+    "lang": "JavaScript",
+    "desc": "generate massive amounts of realistic fake data in Node.js and the browser",
+    "cn": false
+  },
+  {
+    "title": "minio/minio",
+    "url": "https://github.com/minio/minio",
+    "lang": "Go",
+    "desc": "High Performance, Kubernetes Native Object Storage",
+    "cn": false
+  },
+  {
+    "title": "google/tf-quant-finance",
+    "url": "https://github.com/google/tf-quant-finance",
+    "lang": "Python",
+    "desc": "High-performance TensorFlow library for quantitative finance.",
+    "cn": false
+  },
+  {
+    "title": "popey/sosumi-snap",
+    "url": "https://github.com/popey/sosumi-snap",
+    "lang": "Python"
+  },
+  {
+    "title": "Viralmaniar/BigBountyRecon",
+    "url": "https://github.com/Viralmaniar/BigBountyRecon",
+    "desc": "BigBountyRecon tool utilises 58 different techniques using various Google dorks and open source tools to expedite the process of initial reconnaissance on the target organisation.",
+    "cn": false
+  },
+  {
+    "title": "micah5/ace-attorney-reddit-bot",
+    "url": "https://github.com/micah5/ace-attorney-reddit-bot",
+    "lang": "Python",
+    "desc": "Reddit bot that turns comment chains into ace attorney scenes.",
+    "cn": false
+  },
+  {
+    "title": "encode/django-rest-framework",
+    "url": "https://github.com/encode/django-rest-framework",
+    "lang": "Python",
+    "desc": "Web APIs for Django. 🎸",
+    "cn": false
+  },
+  {
+    "title": "BenChaliah/Arbitrium-RAT",
+    "url": "https://github.com/BenChaliah/Arbitrium-RAT",
+    "lang": "Python",
+    "desc": "Arbitrium is a cross-platform, fully undetectable remote access trojan, to control Android, Windows and Linux and doesn't require any firewall exceptions or port forwarding rules",
+    "cn": false
+  },
+  {
+    "title": "adonismendozaperez/33-js-conceptos",
+    "url": "https://github.com/adonismendozaperez/33-js-conceptos",
+    "lang": "JavaScript",
+    "desc": "📜 33 Conceptos que todo desarrollador de JavaScript debería saber.",
+    "cn": false
+  },
+  {
+    "title": "kon9chunkit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts",
+    "lang": "Java",
+    "desc": "🇨🇳 GitHub中文排行榜，帮助你发现高分优秀中文项目、更高效地吸收国人的优秀经验成果；榜单每周更新一次，敬请关注！",
+    "cn": true
+  },
+  {
+    "title": "nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "url": "https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters",
+    "desc": "A list of resources for those interested in getting started in bug bounties",
+    "cn": false
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "desc": "The Kotlin Programming Language",
+    "cn": false
+  },
+  {
+    "title": "vueuse/vueuse",
+    "url": "https://github.com/vueuse/vueuse",
+    "lang": "TypeScript",
+    "desc": "Collection of essential Vue Composition Utilities for Vue 2 and 3",
+    "cn": false
+  },
+  {
+    "title": "wesbos/JavaScript30",
+    "url": "https://github.com/wesbos/JavaScript30",
+    "lang": "HTML",
+    "desc": "30 Day Vanilla JS Challenge",
+    "cn": false
+  },
+  {
+    "title": "microsoft/reverse-proxy",
+    "url": "https://github.com/microsoft/reverse-proxy",
+    "lang": "C#",
+    "desc": "A toolkit for developing high-performance HTTP reverse proxy applications.",
+    "cn": false
+  },
+  {
+    "title": "kettanaito/naming-cheatsheet",
+    "url": "https://github.com/kettanaito/naming-cheatsheet",
+    "desc": "Comprehensive language-agnostic guidelines on variables naming.",
+    "cn": false
+  },
+  {
+    "title": "felixpalmer/procedural-gl-react",
+    "url": "https://github.com/felixpalmer/procedural-gl-react",
+    "lang": "JavaScript",
+    "desc": "React component for the Procedural GL JS library",
+    "cn": false
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml",
+    "desc": "📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production.",
+    "cn": false
+  },
+  {
+    "title": "ardalis/CleanArchitecture",
+    "url": "https://github.com/ardalis/CleanArchitecture",
+    "lang": "C#",
+    "desc": "A starting point for Clean Architecture with ASP.NET Core",
+    "cn": false
+  },
+  {
+    "title": "twbs/bootstrap",
+    "url": "https://github.com/twbs/bootstrap",
+    "lang": "JavaScript",
+    "desc": "The most popular HTML, CSS, and JavaScript framework for developing responsive, mobile first projects on the web.",
+    "cn": false
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "lang": "Python",
+    "desc": "🏆 A ranked list of awesome machine learning Python libraries. Updated weekly.",
+    "cn": false
+  },
+  {
+    "title": "ballista-compute/ballista",
+    "url": "https://github.com/ballista-compute/ballista",
+    "lang": "Rust",
+    "desc": "Distributed compute platform implemented in Rust, using Apache Arrow memory model.",
+    "cn": false
+  }
+]
