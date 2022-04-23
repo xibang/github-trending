@@ -1,0 +1,124 @@
+[
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gin-gonic/gin",
+    "url": "https://github.com/gin-gonic/gin",
+    "lang": "Go"
+  },
+  {
+    "title": "KeenSecurityLab/BinAbsInspector",
+    "url": "https://github.com/KeenSecurityLab/BinAbsInspector",
+    "lang": "Java"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "Go"
+  },
+  {
+    "title": "localstack/localstack",
+    "url": "https://github.com/localstack/localstack",
+    "lang": "Python"
+  },
+  {
+    "title": "bloomberg/memray",
+    "url": "https://github.com/bloomberg/memray",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/ML-Notebooks",
+    "url": "https://github.com/dair-ai/ML-Notebooks"
+  },
+  {
+    "title": "riramar/Web-Attack-Cheat-Sheet",
+    "url": "https://github.com/riramar/Web-Attack-Cheat-Sheet"
+  },
+  {
+    "title": "ydb-platform/ydb",
+    "url": "https://github.com/ydb-platform/ydb",
+    "lang": "C++"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "antonmedv/fx",
+    "url": "https://github.com/antonmedv/fx",
+    "lang": "Go"
+  },
+  {
+    "title": "hehonghui/the-economist-ebooks",
+    "url": "https://github.com/hehonghui/the-economist-ebooks",
+    "lang": "CSS"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MLEveryday/100-Days-Of-ML-Code",
+    "url": "https://github.com/MLEveryday/100-Days-Of-ML-Code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alexa/massive",
+    "url": "https://github.com/alexa/massive",
+    "lang": "Python"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "lang": "Rust"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "lang": "Python"
+  },
+  {
+    "title": "Leaflet/Leaflet",
+    "url": "https://github.com/Leaflet/Leaflet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "JetBrains/kotlin",
+    "url": "https://github.com/JetBrains/kotlin",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "denoland/deno",
+    "url": "https://github.com/denoland/deno",
+    "lang": "Rust"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "lang": "TypeScript"
+  }
+]
