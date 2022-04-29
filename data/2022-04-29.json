@@ -1,0 +1,126 @@
+[
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ellie/atuin",
+    "url": "https://github.com/ellie/atuin",
+    "lang": "Rust"
+  },
+  {
+    "title": "nuxt/nuxt.js",
+    "url": "https://github.com/nuxt/nuxt.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "521xueweihan/HelloGitHub",
+    "url": "https://github.com/521xueweihan/HelloGitHub",
+    "lang": "Python"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "rochacbruno/python-week-2022",
+    "url": "https://github.com/rochacbruno/python-week-2022",
+    "lang": "Python"
+  },
+  {
+    "title": "klauspost/compress",
+    "url": "https://github.com/klauspost/compress",
+    "lang": "Go"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Dec0ne/KrbRelayUp",
+    "url": "https://github.com/Dec0ne/KrbRelayUp",
+    "lang": "C#"
+  },
+  {
+    "title": "why20021008/hand-write",
+    "url": "https://github.com/why20021008/hand-write",
+    "lang": "Python"
+  },
+  {
+    "title": "trustedsec/CS-Remote-OPs-BOF",
+    "url": "https://github.com/trustedsec/CS-Remote-OPs-BOF",
+    "lang": "C"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "lang": "C"
+  },
+  {
+    "title": "kedacore/keda",
+    "url": "https://github.com/kedacore/keda",
+    "lang": "Go"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2022",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2022",
+    "lang": "R"
+  },
+  {
+    "title": "biggerduck/RedTeamNotes",
+    "url": "https://github.com/biggerduck/RedTeamNotes"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Vonng/ddia",
+    "url": "https://github.com/Vonng/ddia",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/flink",
+    "url": "https://github.com/apache/flink",
+    "lang": "Java"
+  },
+  {
+    "title": "spulec/moto",
+    "url": "https://github.com/spulec/moto",
+    "lang": "Python"
+  }
+]
