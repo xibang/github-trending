@@ -1,0 +1,125 @@
+[
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "Xhofe/alist",
+    "url": "https://github.com/Xhofe/alist",
+    "lang": "Go"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes"
+  },
+  {
+    "title": "Moonlight-Zhao/go-project-example",
+    "url": "https://github.com/Moonlight-Zhao/go-project-example",
+    "lang": "Go"
+  },
+  {
+    "title": "petargyurov/virtual-bookshelf",
+    "url": "https://github.com/petargyurov/virtual-bookshelf",
+    "lang": "CSS"
+  },
+  {
+    "title": "0x192/universal-android-debloater",
+    "url": "https://github.com/0x192/universal-android-debloater",
+    "lang": "Rust"
+  },
+  {
+    "title": "DataTalksClub/mlops-zoomcamp",
+    "url": "https://github.com/DataTalksClub/mlops-zoomcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "tailwindlabs/tailwindcss",
+    "url": "https://github.com/tailwindlabs/tailwindcss",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "mifi/lossless-cut",
+    "url": "https://github.com/mifi/lossless-cut",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "lang": "C++"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "lang": "Lua"
+  },
+  {
+    "title": "Tencent/tmagic-editor",
+    "url": "https://github.com/Tencent/tmagic-editor",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "go-kratos/kratos",
+    "url": "https://github.com/go-kratos/kratos",
+    "lang": "Go"
+  },
+  {
+    "title": "arendst/Tasmota",
+    "url": "https://github.com/arendst/Tasmota",
+    "lang": "C"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "lang": "Clojure"
+  },
+  {
+    "title": "dolphin-emu/dolphin",
+    "url": "https://github.com/dolphin-emu/dolphin",
+    "lang": "C++"
+  },
+  {
+    "title": "gogs/gogs",
+    "url": "https://github.com/gogs/gogs",
+    "lang": "Go"
+  },
+  {
+    "title": "safak/youtube2022",
+    "url": "https://github.com/safak/youtube2022"
+  }
+]
