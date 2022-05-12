@@ -1,0 +1,124 @@
+[
+  {
+    "title": "alibaba/fastjson2",
+    "url": "https://github.com/alibaba/fastjson2",
+    "lang": "Java"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "florinpop17/app-ideas",
+    "url": "https://github.com/florinpop17/app-ideas"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates",
+    "lang": "Python"
+  },
+  {
+    "title": "purocean/yn",
+    "url": "https://github.com/purocean/yn",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "url": "https://github.com/HIT-UG-Group/DeepLearning-MuLi-Notes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "caddyserver/caddy",
+    "url": "https://github.com/caddyserver/caddy",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/calculator",
+    "url": "https://github.com/microsoft/calculator",
+    "lang": "C++"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "lang": "Clojure"
+  },
+  {
+    "title": "wolfogre/go-pprof-practice",
+    "url": "https://github.com/wolfogre/go-pprof-practice",
+    "lang": "Go"
+  },
+  {
+    "title": "horizon3ai/CVE-2022-1388",
+    "url": "https://github.com/horizon3ai/CVE-2022-1388",
+    "lang": "Python"
+  },
+  {
+    "title": "benbjohnson/litestream",
+    "url": "https://github.com/benbjohnson/litestream",
+    "lang": "Go"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "charmbracelet/bubbletea",
+    "url": "https://github.com/charmbracelet/bubbletea",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "theVakhovskeIsTaken/holoiso",
+    "url": "https://github.com/theVakhovskeIsTaken/holoiso",
+    "lang": "Shell"
+  },
+  {
+    "title": "NebuTech/NBMiner",
+    "url": "https://github.com/NebuTech/NBMiner"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "lang": "Swift"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "lang": "JavaScript"
+  }
+]
