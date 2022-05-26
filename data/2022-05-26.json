@@ -1,0 +1,125 @@
+[
+  {
+    "title": "deepmind/mujoco",
+    "url": "https://github.com/deepmind/mujoco",
+    "lang": "C"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ansh/bionic-reading",
+    "url": "https://github.com/ansh/bionic-reading",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kentcdodds/advanced-remix",
+    "url": "https://github.com/kentcdodds/advanced-remix",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "databricks-academy/data-engineering-with-databricks",
+    "url": "https://github.com/databricks-academy/data-engineering-with-databricks",
+    "lang": "Python"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "lang": "Python"
+  },
+  {
+    "title": "streamlit/streamlit",
+    "url": "https://github.com/streamlit/streamlit",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "github/super-linter",
+    "url": "https://github.com/github/super-linter",
+    "lang": "Shell"
+  },
+  {
+    "title": "dotnet-presentations/dotnet-maui-workshop",
+    "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
+    "lang": "C#"
+  },
+  {
+    "title": "adrianhajdin/project_syncfusion_dashboard",
+    "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "neargle/my-re0-k8s-security",
+    "url": "https://github.com/neargle/my-re0-k8s-security",
+    "lang": "Shell"
+  },
+  {
+    "title": "docker/compose",
+    "url": "https://github.com/docker/compose",
+    "lang": "Go"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dair-ai/Mathematics-for-ML",
+    "url": "https://github.com/dair-ai/Mathematics-for-ML"
+  },
+  {
+    "title": "tensorflow/tensorflow",
+    "url": "https://github.com/tensorflow/tensorflow",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ja-netfilter/ja-netfilter",
+    "url": "https://github.com/ja-netfilter/ja-netfilter",
+    "lang": "Java"
+  },
+  {
+    "title": "faker-js/faker",
+    "url": "https://github.com/faker-js/faker",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dmlc/xgboost",
+    "url": "https://github.com/dmlc/xgboost",
+    "lang": "C++"
+  },
+  {
+    "title": "elastic/beats",
+    "url": "https://github.com/elastic/beats",
+    "lang": "Go"
+  }
+]
