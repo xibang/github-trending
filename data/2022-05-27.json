@@ -1,0 +1,124 @@
+[
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "lang": "C++"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "InoriRus/Kyty",
+    "url": "https://github.com/InoriRus/Kyty",
+    "lang": "C++"
+  },
+  {
+    "title": "ml-tooling/best-of-ml-python",
+    "url": "https://github.com/ml-tooling/best-of-ml-python",
+    "lang": "Python"
+  },
+  {
+    "title": "guchangan1/All-Defense-Tool",
+    "url": "https://github.com/guchangan1/All-Defense-Tool"
+  },
+  {
+    "title": "dair-ai/Mathematics-for-ML",
+    "url": "https://github.com/dair-ai/Mathematics-for-ML"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "lang": "Rust"
+  },
+  {
+    "title": "dotnet-presentations/dotnet-maui-workshop",
+    "url": "https://github.com/dotnet-presentations/dotnet-maui-workshop",
+    "lang": "C#"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "deepmind/mujoco",
+    "url": "https://github.com/deepmind/mujoco",
+    "lang": "C"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SigmaHQ/sigma",
+    "url": "https://github.com/SigmaHQ/sigma",
+    "lang": "Python"
+  },
+  {
+    "title": "adrianhajdin/project_syncfusion_dashboard",
+    "url": "https://github.com/adrianhajdin/project_syncfusion_dashboard",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "lang": "Java"
+  },
+  {
+    "title": "golang/mock",
+    "url": "https://github.com/golang/mock",
+    "lang": "Go"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Speek-App/Speek",
+    "url": "https://github.com/Speek-App/Speek",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "alibaba/fastjson",
+    "url": "https://github.com/alibaba/fastjson",
+    "lang": "Java"
+  }
+]
