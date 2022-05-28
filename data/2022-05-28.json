@@ -1,0 +1,125 @@
+[
+  {
+    "title": "phyver/GameShell",
+    "url": "https://github.com/phyver/GameShell",
+    "lang": "Shell"
+  },
+  {
+    "title": "PaddlePaddle/PaddleSpeech",
+    "url": "https://github.com/PaddlePaddle/PaddleSpeech",
+    "lang": "C++"
+  },
+  {
+    "title": "singularity-data/risingwave",
+    "url": "https://github.com/singularity-data/risingwave",
+    "lang": "Rust"
+  },
+  {
+    "title": "lensapp/lens",
+    "url": "https://github.com/lensapp/lens",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lucidrains/imagen-pytorch",
+    "url": "https://github.com/lucidrains/imagen-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "zijie0/HumanSystemOptimization",
+    "url": "https://github.com/zijie0/HumanSystemOptimization"
+  },
+  {
+    "title": "github/copilot-docs",
+    "url": "https://github.com/github/copilot-docs",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TakWolf/ark-pixel-font",
+    "url": "https://github.com/TakWolf/ark-pixel-font",
+    "lang": "Python"
+  },
+  {
+    "title": "lucidrains/DALLE2-pytorch",
+    "url": "https://github.com/lucidrains/DALLE2-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "InoriRus/Kyty",
+    "url": "https://github.com/InoriRus/Kyty",
+    "lang": "C++"
+  },
+  {
+    "title": "facebook/flipper",
+    "url": "https://github.com/facebook/flipper",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "axoletl/not-br",
+    "url": "https://github.com/axoletl/not-br",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terra-money/core",
+    "url": "https://github.com/terra-money/core",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/rocksdb",
+    "url": "https://github.com/facebook/rocksdb",
+    "lang": "C++"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gustavoguanabara/html-css",
+    "url": "https://github.com/gustavoguanabara/html-css",
+    "lang": "HTML"
+  },
+  {
+    "title": "hyperledger/besu",
+    "url": "https://github.com/hyperledger/besu",
+    "lang": "Java"
+  },
+  {
+    "title": "facebookresearch/myosuite",
+    "url": "https://github.com/facebookresearch/myosuite",
+    "lang": "Python"
+  },
+  {
+    "title": "pmndrs/react-three-fiber",
+    "url": "https://github.com/pmndrs/react-three-fiber",
+    "lang": "TypeScript"
+  }
+]
