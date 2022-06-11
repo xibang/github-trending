@@ -1,0 +1,124 @@
+[
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/DALL-E",
+    "url": "https://github.com/openai/DALL-E",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell"
+  },
+  {
+    "title": "vaxerski/Hyprland",
+    "url": "https://github.com/vaxerski/Hyprland",
+    "lang": "C++"
+  },
+  {
+    "title": "NVlabs/eg3d",
+    "url": "https://github.com/NVlabs/eg3d",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaperMC/Paper",
+    "url": "https://github.com/PaperMC/Paper",
+    "lang": "Java"
+  },
+  {
+    "title": "lapce/lapce",
+    "url": "https://github.com/lapce/lapce",
+    "lang": "Rust"
+  },
+  {
+    "title": "RasaHQ/rasa",
+    "url": "https://github.com/RasaHQ/rasa",
+    "lang": "Python"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "tvbb/z",
+    "url": "https://github.com/tvbb/z"
+  },
+  {
+    "title": "ahmedtariq01/Cloud-DevOps-Learning-Resources",
+    "url": "https://github.com/ahmedtariq01/Cloud-DevOps-Learning-Resources"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jina-ai/dalle-flow",
+    "url": "https://github.com/jina-ai/dalle-flow",
+    "lang": "Python"
+  },
+  {
+    "title": "deepkit/deepkit-framework",
+    "url": "https://github.com/deepkit/deepkit-framework",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "shimohq/chinese-programmer-wrong-pronunciation",
+    "url": "https://github.com/shimohq/chinese-programmer-wrong-pronunciation",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "fastify/fastify",
+    "url": "https://github.com/fastify/fastify",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "grafana/loki",
+    "url": "https://github.com/grafana/loki",
+    "lang": "Go"
+  },
+  {
+    "title": "ory/kratos",
+    "url": "https://github.com/ory/kratos",
+    "lang": "Go"
+  }
+]
