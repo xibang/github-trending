@@ -1,0 +1,124 @@
+[
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "home-assistant/core",
+    "url": "https://github.com/home-assistant/core",
+    "lang": "Python"
+  },
+  {
+    "title": "borisdayma/dalle-mini",
+    "url": "https://github.com/borisdayma/dalle-mini",
+    "lang": "Python"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "sheepla/pingu",
+    "url": "https://github.com/sheepla/pingu",
+    "lang": "Go"
+  },
+  {
+    "title": "adrianhajdin/project_fitness_app",
+    "url": "https://github.com/adrianhajdin/project_fitness_app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "TBD54566975/collaboration",
+    "url": "https://github.com/TBD54566975/collaboration"
+  },
+  {
+    "title": "medusajs/medusa",
+    "url": "https://github.com/medusajs/medusa",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "skyline-emu/skyline",
+    "url": "https://github.com/skyline-emu/skyline",
+    "lang": "C++"
+  },
+  {
+    "title": "saharmor/dalle-playground",
+    "url": "https://github.com/saharmor/dalle-playground",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "knadh/dns.toys",
+    "url": "https://github.com/knadh/dns.toys",
+    "lang": "Go"
+  },
+  {
+    "title": "vaxerski/Hyprland",
+    "url": "https://github.com/vaxerski/Hyprland",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "atom/atom",
+    "url": "https://github.com/atom/atom",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sherlock-project/sherlock",
+    "url": "https://github.com/sherlock-project/sherlock",
+    "lang": "Python"
+  },
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "lang": "C++"
+  },
+  {
+    "title": "Koenkk/zigbee2mqtt",
+    "url": "https://github.com/Koenkk/zigbee2mqtt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  }
+]
