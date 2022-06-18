@@ -1,0 +1,124 @@
+[
+  {
+    "title": "grafana/oncall",
+    "url": "https://github.com/grafana/oncall",
+    "lang": "Python"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "lxgr-linux/pokete",
+    "url": "https://github.com/lxgr-linux/pokete",
+    "lang": "Python"
+  },
+  {
+    "title": "elastic/eui",
+    "url": "https://github.com/elastic/eui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "YauhenKavalchuk/interview-questions",
+    "url": "https://github.com/YauhenKavalchuk/interview-questions"
+  },
+  {
+    "title": "yanfeizhang/coder-kung-fu",
+    "url": "https://github.com/yanfeizhang/coder-kung-fu",
+    "lang": "C"
+  },
+  {
+    "title": "THUDM/CogView2",
+    "url": "https://github.com/THUDM/CogView2",
+    "lang": "Python"
+  },
+  {
+    "title": "free-audio/clap",
+    "url": "https://github.com/free-audio/clap",
+    "lang": "C"
+  },
+  {
+    "title": "PaddlePaddle/PaddleClas",
+    "url": "https://github.com/PaddlePaddle/PaddleClas",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/raft",
+    "url": "https://github.com/hashicorp/raft",
+    "lang": "Go"
+  },
+  {
+    "title": "geekan/HowToLiveLonger",
+    "url": "https://github.com/geekan/HowToLiveLonger"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "mongodb/mongo",
+    "url": "https://github.com/mongodb/mongo",
+    "lang": "C++"
+  },
+  {
+    "title": "zhiqi-li/BEVFormer",
+    "url": "https://github.com/zhiqi-li/BEVFormer",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenAPITools/openapi-generator",
+    "url": "https://github.com/OpenAPITools/openapi-generator",
+    "lang": "Java"
+  },
+  {
+    "title": "ProjectOpenSea/seaport",
+    "url": "https://github.com/ProjectOpenSea/seaport",
+    "lang": "Solidity"
+  },
+  {
+    "title": "vmware-tanzu/community-edition",
+    "url": "https://github.com/vmware-tanzu/community-edition",
+    "lang": "Go"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "lang": "Java"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "lang": "SVG"
+  },
+  {
+    "title": "google/jax",
+    "url": "https://github.com/google/jax",
+    "lang": "Python"
+  },
+  {
+    "title": "Kong/kong",
+    "url": "https://github.com/Kong/kong",
+    "lang": "Lua"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "lang": "Python"
+  },
+  {
+    "title": "pytorch/vision",
+    "url": "https://github.com/pytorch/vision",
+    "lang": "Python"
+  }
+]
