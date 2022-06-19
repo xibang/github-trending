@@ -1,0 +1,123 @@
+[
+  {
+    "title": "open-goal/jak-project",
+    "url": "https://github.com/open-goal/jak-project",
+    "lang": "CommonLisp"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "spacedriveapp/spacedrive",
+    "url": "https://github.com/spacedriveapp/spacedrive",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "free-audio/clap",
+    "url": "https://github.com/free-audio/clap",
+    "lang": "C"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  },
+  {
+    "title": "midoks/mdserver-web",
+    "url": "https://github.com/midoks/mdserver-web",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "lucacasonato/fresh",
+    "url": "https://github.com/lucacasonato/fresh",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "n3r4zzurr0/svg-spinners",
+    "url": "https://github.com/n3r4zzurr0/svg-spinners",
+    "lang": "SVG"
+  },
+  {
+    "title": "alibaba/IOC-golang",
+    "url": "https://github.com/alibaba/IOC-golang",
+    "lang": "Go"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "Tencent/spring-cloud-tencent",
+    "url": "https://github.com/Tencent/spring-cloud-tencent",
+    "lang": "Java"
+  },
+  {
+    "title": "Minqi824/ADBench",
+    "url": "https://github.com/Minqi824/ADBench",
+    "lang": "Python"
+  },
+  {
+    "title": "sogou/workflow",
+    "url": "https://github.com/sogou/workflow",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/BotBuilder-Samples",
+    "url": "https://github.com/microsoft/BotBuilder-Samples",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily"
+  },
+  {
+    "title": "stephencelis/SQLite.swift",
+    "url": "https://github.com/stephencelis/SQLite.swift",
+    "lang": "Swift"
+  },
+  {
+    "title": "runelite/runelite",
+    "url": "https://github.com/runelite/runelite",
+    "lang": "Java"
+  },
+  {
+    "title": "csteinmetz1/ai-audio-startups",
+    "url": "https://github.com/csteinmetz1/ai-audio-startups"
+  },
+  {
+    "title": "elastic/eui",
+    "url": "https://github.com/elastic/eui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tauri-apps/tao",
+    "url": "https://github.com/tauri-apps/tao",
+    "lang": "Rust"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-JavaScript",
+    "url": "https://github.com/Asabeneh/30-Days-Of-JavaScript",
+    "lang": "JavaScript"
+  }
+]
