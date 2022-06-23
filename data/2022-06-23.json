@@ -1,0 +1,124 @@
+[
+  {
+    "title": "mingrammer/diagrams",
+    "url": "https://github.com/mingrammer/diagrams",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/lexical",
+    "url": "https://github.com/facebook/lexical",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words"
+  },
+  {
+    "title": "WenchaoD/FSCalendar",
+    "url": "https://github.com/WenchaoD/FSCalendar",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python"
+  },
+  {
+    "title": "Reiten966/Polyformer",
+    "url": "https://github.com/Reiten966/Polyformer"
+  },
+  {
+    "title": "hashicorp/hcl",
+    "url": "https://github.com/hashicorp/hcl",
+    "lang": "Go"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "lang": "Python"
+  },
+  {
+    "title": "Technawi/SOC-Analyst-Diploma",
+    "url": "https://github.com/Technawi/SOC-Analyst-Diploma"
+  },
+  {
+    "title": "apache/hbase",
+    "url": "https://github.com/apache/hbase",
+    "lang": "Java"
+  },
+  {
+    "title": "codeedu/imersao8",
+    "url": "https://github.com/codeedu/imersao8",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "lang": "Go"
+  },
+  {
+    "title": "elixir-ecto/ecto",
+    "url": "https://github.com/elixir-ecto/ecto",
+    "lang": "Elixir"
+  },
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "lang": "Go"
+  },
+  {
+    "title": "knative/serving",
+    "url": "https://github.com/knative/serving",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "lang": "Java"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-alb",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-alb",
+    "lang": "HCL"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "fastlane/fastlane",
+    "url": "https://github.com/fastlane/fastlane",
+    "lang": "Ruby"
+  },
+  {
+    "title": "sourcegraph/sourcegraph",
+    "url": "https://github.com/sourcegraph/sourcegraph",
+    "lang": "Go"
+  },
+  {
+    "title": "woocommerce/woocommerce",
+    "url": "https://github.com/woocommerce/woocommerce",
+    "lang": "PHP"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  }
+]
