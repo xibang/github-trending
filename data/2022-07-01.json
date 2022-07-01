@@ -1,0 +1,123 @@
+[
+  {
+    "title": "delta-io/delta",
+    "url": "https://github.com/delta-io/delta",
+    "lang": "Scala"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dair-ai/ML-Course-Notes",
+    "url": "https://github.com/dair-ai/ML-Course-Notes"
+  },
+  {
+    "title": "edoardottt/awesome-hacker-search-engines",
+    "url": "https://github.com/edoardottt/awesome-hacker-search-engines"
+  },
+  {
+    "title": "qq8e/qq",
+    "url": "https://github.com/qq8e/qq",
+    "lang": "CSS"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "storybookjs/storybook",
+    "url": "https://github.com/storybookjs/storybook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jinfagang/yolov7",
+    "url": "https://github.com/jinfagang/yolov7",
+    "lang": "Python"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "D3Ext/WEF",
+    "url": "https://github.com/D3Ext/WEF",
+    "lang": "Hack"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "directus/directus",
+    "url": "https://github.com/directus/directus",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "aolofsson/awesome-opensource-hardware",
+    "url": "https://github.com/aolofsson/awesome-opensource-hardware",
+    "lang": "Python"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "Hack-with-Github/Awesome-Hacking",
+    "url": "https://github.com/Hack-with-Github/Awesome-Hacking"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kuprel/min-dalle",
+    "url": "https://github.com/kuprel/min-dalle",
+    "lang": "Python"
+  },
+  {
+    "title": "kubernetes-sigs/kubespray",
+    "url": "https://github.com/kubernetes-sigs/kubespray",
+    "lang": "Jinja"
+  },
+  {
+    "title": "vim/vim",
+    "url": "https://github.com/vim/vim",
+    "lang": "Vimscript"
+  },
+  {
+    "title": "qiangmzsx/Software-Engineering-at-Google",
+    "url": "https://github.com/qiangmzsx/Software-Engineering-at-Google",
+    "lang": "HTML"
+  }
+]
