@@ -1,0 +1,123 @@
+[
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "facundoolano/software-papers",
+    "url": "https://github.com/facundoolano/software-papers",
+    "lang": "Python"
+  },
+  {
+    "title": "PoaceaeTriticum/Exposure_HongSenlian",
+    "url": "https://github.com/PoaceaeTriticum/Exposure_HongSenlian"
+  },
+  {
+    "title": "PlayCover/PlayCover",
+    "url": "https://github.com/PlayCover/PlayCover",
+    "lang": "Swift"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "gz-yami/mall4cloud",
+    "url": "https://github.com/gz-yami/mall4cloud",
+    "lang": "Java"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "lang": "Go"
+  },
+  {
+    "title": "cmhungsteve/Awesome-Transformer-Attention",
+    "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention"
+  },
+  {
+    "title": "renovatebot/renovate",
+    "url": "https://github.com/renovatebot/renovate",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "h5bp/Front-end-Developer-Interview-Questions",
+    "url": "https://github.com/h5bp/Front-end-Developer-Interview-Questions",
+    "lang": "Nunjucks"
+  },
+  {
+    "title": "jcubic/wayne",
+    "url": "https://github.com/jcubic/wayne",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "lang": "Python"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "romainthomas/the-poor-mans-obfuscator",
+    "url": "https://github.com/romainthomas/the-poor-mans-obfuscator",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "tiltedphoques/TiltedEvolution",
+    "url": "https://github.com/tiltedphoques/TiltedEvolution",
+    "lang": "C++"
+  },
+  {
+    "title": "WongKinYiu/yolov7",
+    "url": "https://github.com/WongKinYiu/yolov7",
+    "lang": "Python"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "lang": "C++"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "lang": "Go"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "lang": "Python"
+  },
+  {
+    "title": "sunface/rust-by-practice",
+    "url": "https://github.com/sunface/rust-by-practice",
+    "lang": "Rust"
+  },
+  {
+    "title": "ethereum/solidity",
+    "url": "https://github.com/ethereum/solidity",
+    "lang": "C++"
+  },
+  {
+    "title": "coder/coder",
+    "url": "https://github.com/coder/coder",
+    "lang": "Go"
+  }
+]
