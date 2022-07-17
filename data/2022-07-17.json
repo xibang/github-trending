@@ -1,0 +1,116 @@
+[
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "lang": "Java"
+  },
+  {
+    "title": "Shopify/sarama",
+    "url": "https://github.com/Shopify/sarama",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/sbom-tool",
+    "url": "https://github.com/microsoft/sbom-tool",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "macrozheng/springcloud-learning",
+    "url": "https://github.com/macrozheng/springcloud-learning",
+    "lang": "Java"
+  },
+  {
+    "title": "vasanthk/how-web-works",
+    "url": "https://github.com/vasanthk/how-web-works"
+  },
+  {
+    "title": "hackerhouse-opensource/iscsicpl_bypassUAC",
+    "url": "https://github.com/hackerhouse-opensource/iscsicpl_bypassUAC",
+    "lang": "C++"
+  },
+  {
+    "title": "near/stakewars-iii",
+    "url": "https://github.com/near/stakewars-iii"
+  },
+  {
+    "title": "quickwit-oss/tantivy",
+    "url": "https://github.com/quickwit-oss/tantivy",
+    "lang": "Rust"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "lang": "Python"
+  },
+  {
+    "title": "amd64fox/SpotX",
+    "url": "https://github.com/amd64fox/SpotX",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+  },
+  {
+    "title": "tiangolo/fastapi",
+    "url": "https://github.com/tiangolo/fastapi",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "lang": "C"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "farcasterxyz/protocol",
+    "url": "https://github.com/farcasterxyz/protocol"
+  }
+]
