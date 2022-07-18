@@ -1,0 +1,121 @@
+[
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "lang": "Rust"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "jart/cosmopolitan",
+    "url": "https://github.com/jart/cosmopolitan",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/JavaScript",
+    "url": "https://github.com/TheAlgorithms/JavaScript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+  },
+  {
+    "title": "fossabot/typoraCracker",
+    "url": "https://github.com/fossabot/typoraCracker",
+    "lang": "Python"
+  },
+  {
+    "title": "shengcaishizhan/kkndme_tianya",
+    "url": "https://github.com/shengcaishizhan/kkndme_tianya"
+  },
+  {
+    "title": "bambulab/BambuStudio",
+    "url": "https://github.com/bambulab/BambuStudio",
+    "lang": "C++"
+  },
+  {
+    "title": "Moataz-Elmesmary/Data-Science-Roadmap",
+    "url": "https://github.com/Moataz-Elmesmary/Data-Science-Roadmap"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "lang": "Shell"
+  },
+  {
+    "title": "nim-lang/Nim",
+    "url": "https://github.com/nim-lang/Nim",
+    "lang": "Nim"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react"
+  },
+  {
+    "title": "fatedier/frp",
+    "url": "https://github.com/fatedier/frp",
+    "lang": "Go"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "lang": "Go"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Hunlongyu/ZY-Player",
+    "url": "https://github.com/Hunlongyu/ZY-Player",
+    "lang": "Vue"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js"
+  },
+  {
+    "title": "mgunyho/tere",
+    "url": "https://github.com/mgunyho/tere",
+    "lang": "Rust"
+  }
+]
