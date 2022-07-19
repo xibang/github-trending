@@ -1,0 +1,121 @@
+[
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rust-lang/rustlings",
+    "url": "https://github.com/rust-lang/rustlings",
+    "lang": "Rust"
+  },
+  {
+    "title": "wailsapp/wails",
+    "url": "https://github.com/wailsapp/wails",
+    "lang": "Go"
+  },
+  {
+    "title": "freqtrade/freqtrade",
+    "url": "https://github.com/freqtrade/freqtrade",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "lang": "Python"
+  },
+  {
+    "title": "jbhuang0604/awesome-tips",
+    "url": "https://github.com/jbhuang0604/awesome-tips"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "srush/GPU-Puzzles",
+    "url": "https://github.com/srush/GPU-Puzzles",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "fossabot/typoraCracker",
+    "url": "https://github.com/fossabot/typoraCracker",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "yunjey/pytorch-tutorial",
+    "url": "https://github.com/yunjey/pytorch-tutorial",
+    "lang": "Python"
+  },
+  {
+    "title": "honojs/hono",
+    "url": "https://github.com/honojs/hono",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "apache/shardingsphere",
+    "url": "https://github.com/apache/shardingsphere",
+    "lang": "Java"
+  },
+  {
+    "title": "adiwajshing/Baileys",
+    "url": "https://github.com/adiwajshing/Baileys",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "RedTeamPentesting/pretender",
+    "url": "https://github.com/RedTeamPentesting/pretender",
+    "lang": "Go"
+  },
+  {
+    "title": "ngosang/trackerslist",
+    "url": "https://github.com/ngosang/trackerslist"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mindsdb/mindsdb",
+    "url": "https://github.com/mindsdb/mindsdb",
+    "lang": "Python"
+  },
+  {
+    "title": "v2ray/v2ray-core",
+    "url": "https://github.com/v2ray/v2ray-core",
+    "lang": "Go"
+  }
+]
