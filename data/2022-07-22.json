@@ -1,0 +1,122 @@
+[
+  {
+    "title": "carbon-language/carbon-lang",
+    "url": "https://github.com/carbon-language/carbon-lang",
+    "lang": "C++"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "Shell"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "lang": "Rust"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "alura-cursos/imersao-java",
+    "url": "https://github.com/alura-cursos/imersao-java"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "chip-red-pill/MicrocodeDecryptor",
+    "url": "https://github.com/chip-red-pill/MicrocodeDecryptor",
+    "lang": "Python"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "lang": "Python"
+  },
+  {
+    "title": "PipedreamHQ/pipedream",
+    "url": "https://github.com/PipedreamHQ/pipedream",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "charlax/professional-programming",
+    "url": "https://github.com/charlax/professional-programming",
+    "lang": "Python"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "rocketseat-education/ignite-lab-rockethelp",
+    "url": "https://github.com/rocketseat-education/ignite-lab-rockethelp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "terraform-aws-modules/terraform-aws-vpc",
+    "url": "https://github.com/terraform-aws-modules/terraform-aws-vpc",
+    "lang": "HCL"
+  },
+  {
+    "title": "dbserver/startdb-2022",
+    "url": "https://github.com/dbserver/startdb-2022",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "logto-io/logto",
+    "url": "https://github.com/logto-io/logto",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/qlib",
+    "url": "https://github.com/microsoft/qlib",
+    "lang": "Python"
+  },
+  {
+    "title": "Sairyss/domain-driven-hexagon",
+    "url": "https://github.com/Sairyss/domain-driven-hexagon",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "unknwon/the-way-to-go_ZH_CN",
+    "url": "https://github.com/unknwon/the-way-to-go_ZH_CN",
+    "lang": "Go"
+  },
+  {
+    "title": "kraanzu/termtyper",
+    "url": "https://github.com/kraanzu/termtyper",
+    "lang": "Python"
+  },
+  {
+    "title": "martinshkreli/models",
+    "url": "https://github.com/martinshkreli/models"
+  },
+  {
+    "title": "hkchengrex/XMem",
+    "url": "https://github.com/hkchengrex/XMem",
+    "lang": "Python"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript"
+  }
+]
