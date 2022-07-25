@@ -1,0 +1,124 @@
+[
+  {
+    "title": "carbon-language/carbon-lang",
+    "url": "https://github.com/carbon-language/carbon-lang",
+    "lang": "C++"
+  },
+  {
+    "title": "Tencent/lemon-cleaner",
+    "url": "https://github.com/Tencent/lemon-cleaner",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "lang": "C"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "android/nowinandroid",
+    "url": "https://github.com/android/nowinandroid",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "mitsuba-renderer/mitsuba3",
+    "url": "https://github.com/mitsuba-renderer/mitsuba3",
+    "lang": "C++"
+  },
+  {
+    "title": "Code-Pop/Intro-to-Vue-3",
+    "url": "https://github.com/Code-Pop/Intro-to-Vue-3",
+    "lang": "CSS"
+  },
+  {
+    "title": "fastai/fastbook",
+    "url": "https://github.com/fastai/fastbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "brave/brave-browser",
+    "url": "https://github.com/brave/brave-browser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "lang": "C++"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSA",
+    "url": "https://github.com/LSPosed/MagiskOnWSA"
+  },
+  {
+    "title": "carlospolop/PEASS-ng",
+    "url": "https://github.com/carlospolop/PEASS-ng",
+    "lang": "C#"
+  },
+  {
+    "title": "CSSEGISandData/COVID-19",
+    "url": "https://github.com/CSSEGISandData/COVID-19"
+  },
+  {
+    "title": "rui314/mold",
+    "url": "https://github.com/rui314/mold",
+    "lang": "C++"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "KurtBestor/Hitomi-Downloader",
+    "url": "https://github.com/KurtBestor/Hitomi-Downloader",
+    "lang": "Python"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "kottans/frontend",
+    "url": "https://github.com/kottans/frontend"
+  },
+  {
+    "title": "sunym1993/flash-linux0.11-talk",
+    "url": "https://github.com/sunym1993/flash-linux0.11-talk",
+    "lang": "HTML"
+  },
+  {
+    "title": "coder/code-server",
+    "url": "https://github.com/coder/code-server",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SerenityOS/jakt",
+    "url": "https://github.com/SerenityOS/jakt",
+    "lang": "Rust"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "espressif/arduino-esp32",
+    "url": "https://github.com/espressif/arduino-esp32",
+    "lang": "C"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "lang": "Lua"
+  }
+]
