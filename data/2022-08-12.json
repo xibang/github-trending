@@ -1,0 +1,124 @@
+[
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "lang": "C++"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "lang": "C++"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "lang": "Lua"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "microsoft/AI-For-Beginners",
+    "url": "https://github.com/microsoft/AI-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "punk-security/dnsReaper",
+    "url": "https://github.com/punk-security/dnsReaper",
+    "lang": "Python"
+  },
+  {
+    "title": "pacocoursey/cmdk",
+    "url": "https://github.com/pacocoursey/cmdk",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "josephmisiti/awesome-machine-learning",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "curl/curl",
+    "url": "https://github.com/curl/curl",
+    "lang": "C"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "lang": "Java"
+  },
+  {
+    "title": "imbushuo/EnergyStar",
+    "url": "https://github.com/imbushuo/EnergyStar",
+    "lang": "C#"
+  },
+  {
+    "title": "nv-tlabs/ASE",
+    "url": "https://github.com/nv-tlabs/ASE",
+    "lang": "Python"
+  },
+  {
+    "title": "juicedata/juicefs",
+    "url": "https://github.com/juicedata/juicefs",
+    "lang": "Go"
+  },
+  {
+    "title": "enaqx/awesome-react",
+    "url": "https://github.com/enaqx/awesome-react"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "solidjs/solid",
+    "url": "https://github.com/solidjs/solid",
+    "lang": "TypeScript"
+  }
+]
