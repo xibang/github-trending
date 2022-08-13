@@ -1,0 +1,124 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "lang": "C++"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "craftzdog/dotfiles-public",
+    "url": "https://github.com/craftzdog/dotfiles-public",
+    "lang": "Lua"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/fluentui-emoji",
+    "url": "https://github.com/microsoft/fluentui-emoji"
+  },
+  {
+    "title": "ocsf/ocsf-schema",
+    "url": "https://github.com/ocsf/ocsf-schema"
+  },
+  {
+    "title": "Anuken/Mindustry",
+    "url": "https://github.com/Anuken/Mindustry",
+    "lang": "Java"
+  },
+  {
+    "title": "Baiyuetribe/paper2gui",
+    "url": "https://github.com/Baiyuetribe/paper2gui",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Unity-Technologies/com.unity.demoteam.hair",
+    "url": "https://github.com/Unity-Technologies/com.unity.demoteam.hair",
+    "lang": "C#"
+  },
+  {
+    "title": "redballoonsecurity/ofrak",
+    "url": "https://github.com/redballoonsecurity/ofrak",
+    "lang": "Python"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MatrixTM/MHDDoS",
+    "url": "https://github.com/MatrixTM/MHDDoS",
+    "lang": "Python"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "lang": "Java"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "lang": "C#"
+  },
+  {
+    "title": "GetStream/whatsApp-clone-compose",
+    "url": "https://github.com/GetStream/whatsApp-clone-compose",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "dotnet/docs",
+    "url": "https://github.com/dotnet/docs",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Tencent/ncnn",
+    "url": "https://github.com/Tencent/ncnn",
+    "lang": "C++"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "mqyqingfeng/Blog",
+    "url": "https://github.com/mqyqingfeng/Blog"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "openvinotoolkit/openvino",
+    "url": "https://github.com/openvinotoolkit/openvino",
+    "lang": "C++"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "lang": "C++"
+  }
+]
