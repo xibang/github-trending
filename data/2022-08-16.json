@@ -1,0 +1,125 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "lang": "Lua"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bitcoin/bitcoin",
+    "url": "https://github.com/bitcoin/bitcoin",
+    "lang": "C++"
+  },
+  {
+    "title": "pintariching/rustle",
+    "url": "https://github.com/pintariching/rustle",
+    "lang": "Rust"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "lang": "TeX"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "q164749/weixin",
+    "url": "https://github.com/q164749/weixin",
+    "lang": "Python"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "lang": "Rust"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "redballoonsecurity/ofrak",
+    "url": "https://github.com/redballoonsecurity/ofrak",
+    "lang": "Python"
+  },
+  {
+    "title": "erg-lang/erg",
+    "url": "https://github.com/erg-lang/erg",
+    "lang": "Rust"
+  },
+  {
+    "title": "laurent22/joplin",
+    "url": "https://github.com/laurent22/joplin",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mikf/gallery-dl",
+    "url": "https://github.com/mikf/gallery-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "alacritty/alacritty",
+    "url": "https://github.com/alacritty/alacritty",
+    "lang": "Rust"
+  },
+  {
+    "title": "ageron/handson-ml2",
+    "url": "https://github.com/ageron/handson-ml2",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "awesomedata/awesome-public-datasets",
+    "url": "https://github.com/awesomedata/awesome-public-datasets"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "lang": "Python"
+  },
+  {
+    "title": "leonardomso/33-js-concepts",
+    "url": "https://github.com/leonardomso/33-js-concepts",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi",
+    "url": "https://github.com/tachiyomiorg/tachiyomi",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "discordjs/discord.js",
+    "url": "https://github.com/discordjs/discord.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "aiogram/aiogram",
+    "url": "https://github.com/aiogram/aiogram",
+    "lang": "Python"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "lang": "C"
+  }
+]
