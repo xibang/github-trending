@@ -1,0 +1,120 @@
+[
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "erg-lang/erg",
+    "url": "https://github.com/erg-lang/erg",
+    "lang": "Rust"
+  },
+  {
+    "title": "davidbombal/python-keylogger",
+    "url": "https://github.com/davidbombal/python-keylogger",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "labstack/echo",
+    "url": "https://github.com/labstack/echo",
+    "lang": "Go"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "lang": "Shell"
+  },
+  {
+    "title": "kenjihiranabe/The-Art-of-Linear-Algebra",
+    "url": "https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra",
+    "lang": "TeX"
+  },
+  {
+    "title": "notpresident35/learn-awesome-gamedev",
+    "url": "https://github.com/notpresident35/learn-awesome-gamedev"
+  },
+  {
+    "title": "hakimel/reveal.js",
+    "url": "https://github.com/hakimel/reveal.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "KULeuven-COSIC/Starlink-FI",
+    "url": "https://github.com/KULeuven-COSIC/Starlink-FI",
+    "lang": "HTML"
+  },
+  {
+    "title": "taosdata/TDengine",
+    "url": "https://github.com/taosdata/TDengine",
+    "lang": "C"
+  },
+  {
+    "title": "denoland/fresh",
+    "url": "https://github.com/denoland/fresh",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "lang": "Go"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023"
+  },
+  {
+    "title": "adrianhajdin/project_hoobank",
+    "url": "https://github.com/adrianhajdin/project_hoobank",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tyranid/blackhat-usa-2022-demos",
+    "url": "https://github.com/tyranid/blackhat-usa-2022-demos",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "lang": "Python"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "lang": "Dart"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "davidbombal/express-server-basic",
+    "url": "https://github.com/davidbombal/express-server-basic",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pittcsc/Summer2023-Internships",
+    "url": "https://github.com/pittcsc/Summer2023-Internships",
+    "lang": "Python"
+  },
+  {
+    "title": "containerd/containerd",
+    "url": "https://github.com/containerd/containerd",
+    "lang": "Go"
+  }
+]
