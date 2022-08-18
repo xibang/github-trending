@@ -1,0 +1,124 @@
+[
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "lang": "Go"
+  },
+  {
+    "title": "codeedu/imersao9",
+    "url": "https://github.com/codeedu/imersao9",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "movingparts-io/Pow",
+    "url": "https://github.com/movingparts-io/Pow",
+    "lang": "Swift"
+  },
+  {
+    "title": "alembics/disco-diffusion",
+    "url": "https://github.com/alembics/disco-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "engenheiracoelho/curriculo",
+    "url": "https://github.com/engenheiracoelho/curriculo"
+  },
+  {
+    "title": "adi1090x/rofi",
+    "url": "https://github.com/adi1090x/rofi",
+    "lang": "Shell"
+  },
+  {
+    "title": "photonstorm/phaser",
+    "url": "https://github.com/photonstorm/phaser",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "CodeXTF2/Burp2Malleable",
+    "url": "https://github.com/CodeXTF2/Burp2Malleable",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Flangvik/TeamFiltration",
+    "url": "https://github.com/Flangvik/TeamFiltration",
+    "lang": "C#"
+  },
+  {
+    "title": "awesomedata/awesome-public-datasets",
+    "url": "https://github.com/awesomedata/awesome-public-datasets"
+  },
+  {
+    "title": "cypress-io/cypress",
+    "url": "https://github.com/cypress-io/cypress",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lapras-inc/exam-swe-template",
+    "url": "https://github.com/lapras-inc/exam-swe-template",
+    "lang": "HTML"
+  },
+  {
+    "title": "Shopify/react-native-skia",
+    "url": "https://github.com/Shopify/react-native-skia",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kotlin/kotlinx.coroutines",
+    "url": "https://github.com/Kotlin/kotlinx.coroutines",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "didi/KnowStreaming",
+    "url": "https://github.com/didi/KnowStreaming",
+    "lang": "Java"
+  },
+  {
+    "title": "roboticcam/machine-learning-notes",
+    "url": "https://github.com/roboticcam/machine-learning-notes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Authing/Authing",
+    "url": "https://github.com/Authing/Authing"
+  },
+  {
+    "title": "SinicaGroup/Class-agnostic-Few-shot-Object-Counting",
+    "url": "https://github.com/SinicaGroup/Class-agnostic-Few-shot-Object-Counting",
+    "lang": "Python"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "electron/electron",
+    "url": "https://github.com/electron/electron",
+    "lang": "C++"
+  },
+  {
+    "title": "ayntgl/discordo",
+    "url": "https://github.com/ayntgl/discordo",
+    "lang": "Go"
+  },
+  {
+    "title": "swc-project/swc",
+    "url": "https://github.com/swc-project/swc",
+    "lang": "Rust"
+  },
+  {
+    "title": "golang-migrate/migrate",
+    "url": "https://github.com/golang-migrate/migrate",
+    "lang": "Go"
+  }
+]
