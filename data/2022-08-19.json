@@ -1,0 +1,121 @@
+[
+  {
+    "title": "ValveSoftware/Proton",
+    "url": "https://github.com/ValveSoftware/Proton",
+    "lang": "C++"
+  },
+  {
+    "title": "karanpratapsingh/system-design",
+    "url": "https://github.com/karanpratapsingh/system-design"
+  },
+  {
+    "title": "Rubberduckycooly/Sonic-Mania-Decompilation",
+    "url": "https://github.com/Rubberduckycooly/Sonic-Mania-Decompilation",
+    "lang": "C"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "open-guides/og-aws",
+    "url": "https://github.com/open-guides/og-aws",
+    "lang": "Shell"
+  },
+  {
+    "title": "iscyy/yoloair",
+    "url": "https://github.com/iscyy/yoloair",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apple/ml-neuman",
+    "url": "https://github.com/apple/ml-neuman",
+    "lang": "Python"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "roboticcam/machine-learning-notes",
+    "url": "https://github.com/roboticcam/machine-learning-notes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "juanfont/headscale",
+    "url": "https://github.com/juanfont/headscale",
+    "lang": "Go"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "projectdiscovery/nuclei-templates",
+    "url": "https://github.com/projectdiscovery/nuclei-templates"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS"
+  },
+  {
+    "title": "supabase/supabase",
+    "url": "https://github.com/supabase/supabase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Tencent/wujie",
+    "url": "https://github.com/Tencent/wujie",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "projectdiscovery/nuclei",
+    "url": "https://github.com/projectdiscovery/nuclei",
+    "lang": "Go"
+  },
+  {
+    "title": "fmtlib/fmt",
+    "url": "https://github.com/fmtlib/fmt",
+    "lang": "C++"
+  }
+]
