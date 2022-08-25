@@ -1,0 +1,126 @@
+[
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "lang": "Rust"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+    "url": "https://github.com/CyberAgentGameEntertainment/UnityPerformanceTuningBible",
+    "lang": "C++"
+  },
+  {
+    "title": "zinclabs/zinc",
+    "url": "https://github.com/zinclabs/zinc",
+    "lang": "Go"
+  },
+  {
+    "title": "rinongal/textual_inversion",
+    "url": "https://github.com/rinongal/textual_inversion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "rxrw/daily_morning",
+    "url": "https://github.com/rxrw/daily_morning",
+    "lang": "Python"
+  },
+  {
+    "title": "Markakd/DirtyCred",
+    "url": "https://github.com/Markakd/DirtyCred",
+    "lang": "LLVM"
+  },
+  {
+    "title": "headwaymaps/headway",
+    "url": "https://github.com/headwaymaps/headway",
+    "lang": "Vue"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "berthubert/googerteller",
+    "url": "https://github.com/berthubert/googerteller",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "lang": "Python"
+  },
+  {
+    "title": "kubescape/kubescape",
+    "url": "https://github.com/kubescape/kubescape",
+    "lang": "Go"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "lang": "PHP"
+  },
+  {
+    "title": "networkx/networkx",
+    "url": "https://github.com/networkx/networkx",
+    "lang": "Python"
+  },
+  {
+    "title": "google-research/multinerf",
+    "url": "https://github.com/google-research/multinerf",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "blacklanternsecurity/bbot",
+    "url": "https://github.com/blacklanternsecurity/bbot",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "oracle/docker-images",
+    "url": "https://github.com/oracle/docker-images",
+    "lang": "Shell"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "Koko-boya/Grasscutter_Resources",
+    "url": "https://github.com/Koko-boya/Grasscutter_Resources",
+    "lang": "Lua"
+  }
+]
