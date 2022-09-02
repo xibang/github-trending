@@ -1,0 +1,123 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "lang": "Swift"
+  },
+  {
+    "title": "apple/swift-book",
+    "url": "https://github.com/apple/swift-book",
+    "lang": "Markdown"
+  },
+  {
+    "title": "tiangolo/sqlmodel",
+    "url": "https://github.com/tiangolo/sqlmodel",
+    "lang": "Python"
+  },
+  {
+    "title": "mstrYoda/kubernetes-kitap",
+    "url": "https://github.com/mstrYoda/kubernetes-kitap"
+  },
+  {
+    "title": "apache/doris",
+    "url": "https://github.com/apache/doris",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Joshua-Ashton/VPhysics-Jolt",
+    "url": "https://github.com/Joshua-Ashton/VPhysics-Jolt",
+    "lang": "C++"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "priyankavergadia/google-cloud-4-words",
+    "url": "https://github.com/priyankavergadia/google-cloud-4-words"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "total-typescript/typescript-generics-tutorial",
+    "url": "https://github.com/total-typescript/typescript-generics-tutorial",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "EvanLi/Github-Ranking",
+    "url": "https://github.com/EvanLi/Github-Ranking",
+    "lang": "Python"
+  },
+  {
+    "title": "altryne/sd-webui-colab",
+    "url": "https://github.com/altryne/sd-webui-colab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "lang": "Java"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bes-dev/stable_diffusion.openvino",
+    "url": "https://github.com/bes-dev/stable_diffusion.openvino",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CompVis/latent-diffusion",
+    "url": "https://github.com/CompVis/latent-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OAI/OpenAPI-Specification",
+    "url": "https://github.com/OAI/OpenAPI-Specification",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "altryne/awesome-ai-art-image-synthesis",
+    "url": "https://github.com/altryne/awesome-ai-art-image-synthesis"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "lang": "Ruby"
+  }
+]
