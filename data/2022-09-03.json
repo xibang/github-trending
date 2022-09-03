@@ -1,0 +1,125 @@
+[
+  {
+    "title": "CodeEditApp/CodeEdit",
+    "url": "https://github.com/CodeEditApp/CodeEdit",
+    "lang": "Swift"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "lang": "Rust"
+  },
+  {
+    "title": "alyssaxuu/motionity",
+    "url": "https://github.com/alyssaxuu/motionity",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "docker/awesome-compose",
+    "url": "https://github.com/docker/awesome-compose",
+    "lang": "HTML"
+  },
+  {
+    "title": "girliemac/a-picture-is-worth-a-1000-words",
+    "url": "https://github.com/girliemac/a-picture-is-worth-a-1000-words"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "gskinnerTeam/flutter-wonderous-app",
+    "url": "https://github.com/gskinnerTeam/flutter-wonderous-app",
+    "lang": "Dart"
+  },
+  {
+    "title": "nestjs/nest",
+    "url": "https://github.com/nestjs/nest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mstrYoda/kubernetes-kitap",
+    "url": "https://github.com/mstrYoda/kubernetes-kitap"
+  },
+  {
+    "title": "kaist-cp/cs220",
+    "url": "https://github.com/kaist-cp/cs220",
+    "lang": "Rust"
+  },
+  {
+    "title": "payloadcms/payload",
+    "url": "https://github.com/payloadcms/payload",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "ange-yaghi/engine-sim",
+    "url": "https://github.com/ange-yaghi/engine-sim",
+    "lang": "C++"
+  },
+  {
+    "title": "eugenp/tutorials",
+    "url": "https://github.com/eugenp/tutorials",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azureml-examples",
+    "url": "https://github.com/Azure/azureml-examples",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "heartcombo/devise",
+    "url": "https://github.com/heartcombo/devise",
+    "lang": "Ruby"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "opcodesio/log-viewer",
+    "url": "https://github.com/opcodesio/log-viewer",
+    "lang": "PHP"
+  },
+  {
+    "title": "rainbow-me/rainbow",
+    "url": "https://github.com/rainbow-me/rainbow",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vulhub/vulhub",
+    "url": "https://github.com/vulhub/vulhub",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "python-poetry/poetry",
+    "url": "https://github.com/python-poetry/poetry",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/swift-book",
+    "url": "https://github.com/apple/swift-book",
+    "lang": "Markdown"
+  },
+  {
+    "title": "mui/material-ui",
+    "url": "https://github.com/mui/material-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  }
+]
