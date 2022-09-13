@@ -1,0 +1,120 @@
+[
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "lang": "Rust"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "meienberger/runtipi",
+    "url": "https://github.com/meienberger/runtipi",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "lang": "Lua"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "minimaxir/big-list-of-naughty-strings",
+    "url": "https://github.com/minimaxir/big-list-of-naughty-strings",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "alexeygrigorev/mlbookcamp-code",
+    "url": "https://github.com/alexeygrigorev/mlbookcamp-code",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trustwallet/assets",
+    "url": "https://github.com/trustwallet/assets",
+    "lang": "Go"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "tachiyomiorg/tachiyomi-extensions",
+    "url": "https://github.com/tachiyomiorg/tachiyomi-extensions",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "odin-lang/Odin",
+    "url": "https://github.com/odin-lang/Odin",
+    "lang": "Odin"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "neurreps/awesome-neural-geometry",
+    "url": "https://github.com/neurreps/awesome-neural-geometry"
+  },
+  {
+    "title": "ContainerSSH/ContainerSSH",
+    "url": "https://github.com/ContainerSSH/ContainerSSH",
+    "lang": "Go"
+  },
+  {
+    "title": "n8n-io/n8n",
+    "url": "https://github.com/n8n-io/n8n",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "lang": "TypeScript"
+  }
+]
