@@ -1,0 +1,124 @@
+[
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "lang": "Go"
+  },
+  {
+    "title": "alura/techguide",
+    "url": "https://github.com/alura/techguide",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "danielgindi/Charts",
+    "url": "https://github.com/danielgindi/Charts",
+    "lang": "Swift"
+  },
+  {
+    "title": "ethereum/ethereum-org-website",
+    "url": "https://github.com/ethereum/ethereum-org-website",
+    "lang": "Markdown"
+  },
+  {
+    "title": "revanced/revanced-manager",
+    "url": "https://github.com/revanced/revanced-manager",
+    "lang": "Dart"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "lang": "Python"
+  },
+  {
+    "title": "malwaredllc/byob",
+    "url": "https://github.com/malwaredllc/byob",
+    "lang": "Python"
+  },
+  {
+    "title": "surrealdb/surrealdb",
+    "url": "https://github.com/surrealdb/surrealdb",
+    "lang": "Rust"
+  },
+  {
+    "title": "ascoders/weekly",
+    "url": "https://github.com/ascoders/weekly",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hoppscotch/hoppscotch",
+    "url": "https://github.com/hoppscotch/hoppscotch",
+    "lang": "Vue"
+  },
+  {
+    "title": "YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy",
+    "url": "https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "cloud-custodian/cloud-custodian",
+    "url": "https://github.com/cloud-custodian/cloud-custodian",
+    "lang": "Python"
+  },
+  {
+    "title": "SerenityOS/ladybird",
+    "url": "https://github.com/SerenityOS/ladybird",
+    "lang": "C++"
+  },
+  {
+    "title": "joaocarvalhoopen/How_to_learn_modern_Rust",
+    "url": "https://github.com/joaocarvalhoopen/How_to_learn_modern_Rust"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "d3/d3",
+    "url": "https://github.com/d3/d3",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LSPosed/LSPosed",
+    "url": "https://github.com/LSPosed/LSPosed",
+    "lang": "Java"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-js",
+    "url": "https://github.com/Azure/azure-sdk-for-js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CocoaPods/Specs",
+    "url": "https://github.com/CocoaPods/Specs"
+  },
+  {
+    "title": "google/glog",
+    "url": "https://github.com/google/glog",
+    "lang": "C++"
+  }
+]
