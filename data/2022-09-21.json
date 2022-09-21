@@ -1,0 +1,124 @@
+[
+  {
+    "title": "milvus-io/milvus",
+    "url": "https://github.com/milvus-io/milvus",
+    "lang": "Go"
+  },
+  {
+    "title": "aws/aws-cdk",
+    "url": "https://github.com/aws/aws-cdk",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SwaggyMacro/YangLeGeYang",
+    "url": "https://github.com/SwaggyMacro/YangLeGeYang",
+    "lang": "C#"
+  },
+  {
+    "title": "hsutter/cppfront",
+    "url": "https://github.com/hsutter/cppfront",
+    "lang": "C++"
+  },
+  {
+    "title": "liyupi/yulegeyu",
+    "url": "https://github.com/liyupi/yulegeyu",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "lang": "Python"
+  },
+  {
+    "title": "hasherezade/pe-bear",
+    "url": "https://github.com/hasherezade/pe-bear",
+    "lang": "C++"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "lang": "Python"
+  },
+  {
+    "title": "linuxdeepin/unilang",
+    "url": "https://github.com/linuxdeepin/unilang",
+    "lang": "C++"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "gohugoio/hugo",
+    "url": "https://github.com/gohugoio/hugo",
+    "lang": "Go"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "lang": "C++"
+  },
+  {
+    "title": "bulwarkid/virtual-fido",
+    "url": "https://github.com/bulwarkid/virtual-fido",
+    "lang": "Go"
+  },
+  {
+    "title": "divamgupta/stable-diffusion-tensorflow",
+    "url": "https://github.com/divamgupta/stable-diffusion-tensorflow",
+    "lang": "Python"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "lang": "Clojure"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java"
+  },
+  {
+    "title": "ThereforeGames/txt2mask",
+    "url": "https://github.com/ThereforeGames/txt2mask",
+    "lang": "Python"
+  },
+  {
+    "title": "skydoves/android-developer-roadmap",
+    "url": "https://github.com/skydoves/android-developer-roadmap",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "extrawurst/gitui",
+    "url": "https://github.com/extrawurst/gitui",
+    "lang": "Rust"
+  },
+  {
+    "title": "unifyai/ivy",
+    "url": "https://github.com/unifyai/ivy",
+    "lang": "Python"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  }
+]
