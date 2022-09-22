@@ -1,0 +1,126 @@
+[
+  {
+    "title": "liyupi/yulegeyu",
+    "url": "https://github.com/liyupi/yulegeyu",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "carson-katri/dream-textures",
+    "url": "https://github.com/carson-katri/dream-textures",
+    "lang": "Python"
+  },
+  {
+    "title": "nas5w/interview-resources",
+    "url": "https://github.com/nas5w/interview-resources"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "brycedrennan/imaginAIry",
+    "url": "https://github.com/brycedrennan/imaginAIry",
+    "lang": "Python"
+  },
+  {
+    "title": "mrdbourke/pytorch-deep-learning",
+    "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "OhMyGuus/I-Dont-Care-About-Cookies",
+    "url": "https://github.com/OhMyGuus/I-Dont-Care-About-Cookies",
+    "lang": "CSS"
+  },
+  {
+    "title": "johguse/profanity",
+    "url": "https://github.com/johguse/profanity",
+    "lang": "C++"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "divamgupta/stable-diffusion-tensorflow",
+    "url": "https://github.com/divamgupta/stable-diffusion-tensorflow",
+    "lang": "Python"
+  },
+  {
+    "title": "coroot/coroot",
+    "url": "https://github.com/coroot/coroot",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-python",
+    "url": "https://github.com/Azure/azure-sdk-for-python",
+    "lang": "Python"
+  },
+  {
+    "title": "ThereforeGames/txt2mask",
+    "url": "https://github.com/ThereforeGames/txt2mask",
+    "lang": "Python"
+  },
+  {
+    "title": "torvalds/linux",
+    "url": "https://github.com/torvalds/linux",
+    "lang": "C"
+  },
+  {
+    "title": "nanopb/nanopb",
+    "url": "https://github.com/nanopb/nanopb",
+    "lang": "C"
+  },
+  {
+    "title": "BuilderIO/qwik",
+    "url": "https://github.com/BuilderIO/qwik",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bytecodealliance/wasmtime",
+    "url": "https://github.com/bytecodealliance/wasmtime",
+    "lang": "Rust"
+  },
+  {
+    "title": "triton-inference-server/server",
+    "url": "https://github.com/triton-inference-server/server",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/faiss",
+    "url": "https://github.com/facebookresearch/faiss",
+    "lang": "C++"
+  },
+  {
+    "title": "gabime/spdlog",
+    "url": "https://github.com/gabime/spdlog",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenEthan/SMSBoom",
+    "url": "https://github.com/OpenEthan/SMSBoom",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "Bicep"
+  },
+  {
+    "title": "apache/nifi",
+    "url": "https://github.com/apache/nifi",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/airflow",
+    "url": "https://github.com/apache/airflow",
+    "lang": "Python"
+  }
+]
