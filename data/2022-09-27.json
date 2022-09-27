@@ -1,0 +1,121 @@
+[
+  {
+    "title": "jzimmerman/langcc",
+    "url": "https://github.com/jzimmerman/langcc",
+    "lang": "C++"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AppFlowy-IO/AppFlowy",
+    "url": "https://github.com/AppFlowy-IO/AppFlowy",
+    "lang": "Dart"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "nv-tlabs/GET3D",
+    "url": "https://github.com/nv-tlabs/GET3D"
+  },
+  {
+    "title": "octocat/Spoon-Knife",
+    "url": "https://github.com/octocat/Spoon-Knife",
+    "lang": "HTML"
+  },
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "lang": "Shell"
+  },
+  {
+    "title": "yewstack/yew",
+    "url": "https://github.com/yewstack/yew",
+    "lang": "Rust"
+  },
+  {
+    "title": "cemu-project/Cemu",
+    "url": "https://github.com/cemu-project/Cemu",
+    "lang": "C++"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "steven-tey/dub",
+    "url": "https://github.com/steven-tey/dub",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "termux/termux-app",
+    "url": "https://github.com/termux/termux-app",
+    "lang": "Java"
+  },
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "Launch-X-Latam/OnBoarding",
+    "url": "https://github.com/Launch-X-Latam/OnBoarding"
+  }
+]
