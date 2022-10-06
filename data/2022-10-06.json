@@ -1,0 +1,127 @@
+[
+  {
+    "title": "facebookincubator/AITemplate",
+    "url": "https://github.com/facebookincubator/AITemplate",
+    "lang": "Python"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "lang": "Python"
+  },
+  {
+    "title": "snaplet/postgres-wasm",
+    "url": "https://github.com/snaplet/postgres-wasm",
+    "lang": "Python"
+  },
+  {
+    "title": "Cryptogenic/PS5-4.03-Kernel-Exploit",
+    "url": "https://github.com/Cryptogenic/PS5-4.03-Kernel-Exploit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "folke/noice.nvim",
+    "url": "https://github.com/folke/noice.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "iced-rs/iced",
+    "url": "https://github.com/iced-rs/iced",
+    "lang": "Rust"
+  },
+  {
+    "title": "itsnebulalol/ios15-tweaks",
+    "url": "https://github.com/itsnebulalol/ios15-tweaks",
+    "lang": "Makefile"
+  },
+  {
+    "title": "grpc/grpc",
+    "url": "https://github.com/grpc/grpc",
+    "lang": "C++"
+  },
+  {
+    "title": "copy/v86",
+    "url": "https://github.com/copy/v86",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Expensify/App",
+    "url": "https://github.com/Expensify/App",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "asottile/pyupgrade",
+    "url": "https://github.com/asottile/pyupgrade",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/swift-collections",
+    "url": "https://github.com/apple/swift-collections",
+    "lang": "Swift"
+  },
+  {
+    "title": "DefectDojo/django-DefectDojo",
+    "url": "https://github.com/DefectDojo/django-DefectDojo",
+    "lang": "HTML"
+  },
+  {
+    "title": "he4rt/he4rtoberfest-2022",
+    "url": "https://github.com/he4rt/he4rtoberfest-2022",
+    "lang": "Python"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "surveyjs/survey-library",
+    "url": "https://github.com/surveyjs/survey-library",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hashicorp/terraform-cdk",
+    "url": "https://github.com/hashicorp/terraform-cdk",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fineanmol/Hacktoberfest2022",
+    "url": "https://github.com/fineanmol/Hacktoberfest2022",
+    "lang": "Python"
+  },
+  {
+    "title": "Azure/azure-sdk-for-java",
+    "url": "https://github.com/Azure/azure-sdk-for-java",
+    "lang": "Java"
+  },
+  {
+    "title": "angular/angular-cli",
+    "url": "https://github.com/angular/angular-cli",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jbogard/MediatR",
+    "url": "https://github.com/jbogard/MediatR",
+    "lang": "C#"
+  },
+  {
+    "title": "TheAlgorithms/C-Plus-Plus",
+    "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/MachineLearningNotebooks",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "swagger-api/swagger-codegen",
+    "url": "https://github.com/swagger-api/swagger-codegen",
+    "lang": "Mustache"
+  },
+  {
+    "title": "bufbuild/protoc-gen-validate",
+    "url": "https://github.com/bufbuild/protoc-gen-validate",
+    "lang": "Go"
+  }
+]
