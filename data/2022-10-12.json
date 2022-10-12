@@ -1,0 +1,125 @@
+[
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "lang": "Rust"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MobSF/Mobile-Security-Framework-MobSF",
+    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "lang": "Python"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "lightningnetwork/lnd",
+    "url": "https://github.com/lightningnetwork/lnd",
+    "lang": "Go"
+  },
+  {
+    "title": "tremorlabs/tremor",
+    "url": "https://github.com/tremorlabs/tremor",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "FairCrypto/XEN-crypto",
+    "url": "https://github.com/FairCrypto/XEN-crypto",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+  },
+  {
+    "title": "bradtraversy/design-resources-for-developers",
+    "url": "https://github.com/bradtraversy/design-resources-for-developers"
+  },
+  {
+    "title": "koishijs/novelai-bot",
+    "url": "https://github.com/koishijs/novelai-bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/dolphinscheduler",
+    "url": "https://github.com/apache/dolphinscheduler",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/skywalking",
+    "url": "https://github.com/apache/skywalking",
+    "lang": "Java"
+  },
+  {
+    "title": "lewagon/setup",
+    "url": "https://github.com/lewagon/setup",
+    "lang": "Ruby"
+  },
+  {
+    "title": "halo-dev/halo",
+    "url": "https://github.com/halo-dev/halo",
+    "lang": "Java"
+  },
+  {
+    "title": "vbenjs/vue-vben-admin",
+    "url": "https://github.com/vbenjs/vue-vben-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "massalabs/massa",
+    "url": "https://github.com/massalabs/massa",
+    "lang": "Rust"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java"
+  },
+  {
+    "title": "jupyterhub/jupyterhub",
+    "url": "https://github.com/jupyterhub/jupyterhub",
+    "lang": "Python"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-admin-team/go-admin",
+    "url": "https://github.com/go-admin-team/go-admin",
+    "lang": "Go"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "lang": "Solidity"
+  }
+]
