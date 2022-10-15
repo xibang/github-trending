@@ -1,0 +1,122 @@
+[
+  {
+    "title": "aws-actions/configure-aws-credentials",
+    "url": "https://github.com/aws-actions/configure-aws-credentials",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "koishijs/novelai-bot",
+    "url": "https://github.com/koishijs/novelai-bot",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "holbertonschool/Betty",
+    "url": "https://github.com/holbertonschool/Betty",
+    "lang": "Perl"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net"
+  },
+  {
+    "title": "wazuh/wazuh",
+    "url": "https://github.com/wazuh/wazuh",
+    "lang": "C"
+  },
+  {
+    "title": "awesome-devblog/awesome-devblog",
+    "url": "https://github.com/awesome-devblog/awesome-devblog"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "lang": "Swift"
+  },
+  {
+    "title": "remix-run/react-router",
+    "url": "https://github.com/remix-run/react-router",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "vavkamil/awesome-bugbounty-tools",
+    "url": "https://github.com/vavkamil/awesome-bugbounty-tools"
+  },
+  {
+    "title": "facebook/create-react-app",
+    "url": "https://github.com/facebook/create-react-app",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "itdevbooks/pdf",
+    "url": "https://github.com/itdevbooks/pdf"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "lang": "Python"
+  },
+  {
+    "title": "toss/slash",
+    "url": "https://github.com/toss/slash",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "justjavac/awesome-wechat-weapp",
+    "url": "https://github.com/justjavac/awesome-wechat-weapp"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure/Azure-Sentinel",
+    "url": "https://github.com/Azure/Azure-Sentinel",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "macrozheng/mall",
+    "url": "https://github.com/macrozheng/mall",
+    "lang": "Java"
+  },
+  {
+    "title": "chakra-ui/chakra-ui",
+    "url": "https://github.com/chakra-ui/chakra-ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "IDEA-Research/detrex",
+    "url": "https://github.com/IDEA-Research/detrex",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/vscode",
+    "url": "https://github.com/microsoft/vscode",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "doocs/advanced-java",
+    "url": "https://github.com/doocs/advanced-java",
+    "lang": "Java"
+  }
+]
