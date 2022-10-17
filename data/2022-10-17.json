@@ -1,0 +1,123 @@
+[
+  {
+    "title": "dunglas/frankenphp",
+    "url": "https://github.com/dunglas/frankenphp",
+    "lang": "Go"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "lang": "Rust"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "tauri-apps/tauri",
+    "url": "https://github.com/tauri-apps/tauri",
+    "lang": "Rust"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "lang": "Rust"
+  },
+  {
+    "title": "YuzukiHD/YuzukiLOHCC-PRO",
+    "url": "https://github.com/YuzukiHD/YuzukiLOHCC-PRO"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "lang": "Rust"
+  },
+  {
+    "title": "amotile/stable-diffusion-studio",
+    "url": "https://github.com/amotile/stable-diffusion-studio",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openwrt/openwrt",
+    "url": "https://github.com/openwrt/openwrt",
+    "lang": "C"
+  },
+  {
+    "title": "itsnebulalol/deb-to-ipa",
+    "url": "https://github.com/itsnebulalol/deb-to-ipa"
+  },
+  {
+    "title": "JingShing/novelai-colab-ver",
+    "url": "https://github.com/JingShing/novelai-colab-ver",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WebKit/WebKit",
+    "url": "https://github.com/WebKit/WebKit"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "lang": "Clojure"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "FedML-AI/FedML",
+    "url": "https://github.com/FedML-AI/FedML",
+    "lang": "Python"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "xinntao/Real-ESRGAN",
+    "url": "https://github.com/xinntao/Real-ESRGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "hashcat/hashcat",
+    "url": "https://github.com/hashcat/hashcat",
+    "lang": "C"
+  },
+  {
+    "title": "2dust/v2rayN",
+    "url": "https://github.com/2dust/v2rayN",
+    "lang": "C#"
+  }
+]
