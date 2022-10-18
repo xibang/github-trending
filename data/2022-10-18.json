@@ -1,0 +1,123 @@
+[
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "lang": "C++"
+  },
+  {
+    "title": "dunglas/frankenphp",
+    "url": "https://github.com/dunglas/frankenphp",
+    "lang": "Go"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "Shell"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "fruiframework/frui",
+    "url": "https://github.com/fruiframework/frui",
+    "lang": "Rust"
+  },
+  {
+    "title": "The-Run-Philosophy-Organization/run",
+    "url": "https://github.com/The-Run-Philosophy-Organization/run"
+  },
+  {
+    "title": "penpot/penpot",
+    "url": "https://github.com/penpot/penpot",
+    "lang": "Clojure"
+  },
+  {
+    "title": "logseq/logseq",
+    "url": "https://github.com/logseq/logseq",
+    "lang": "Clojure"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "LunarVim/Neovim-from-scratch",
+    "url": "https://github.com/LunarVim/Neovim-from-scratch",
+    "lang": "Lua"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "lang": "C"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "Python"
+  },
+  {
+    "title": "starship/starship",
+    "url": "https://github.com/starship/starship",
+    "lang": "Rust"
+  },
+  {
+    "title": "OpenAPITools/openapi-generator",
+    "url": "https://github.com/OpenAPITools/openapi-generator",
+    "lang": "Java"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java"
+  },
+  {
+    "title": "google/zerocopy",
+    "url": "https://github.com/google/zerocopy",
+    "lang": "Rust"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "ccxt/ccxt",
+    "url": "https://github.com/ccxt/ccxt",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kunal-kushwaha/DSA-Bootcamp-Java",
+    "url": "https://github.com/kunal-kushwaha/DSA-Bootcamp-Java",
+    "lang": "Java"
+  },
+  {
+    "title": "rust-lang/rust",
+    "url": "https://github.com/rust-lang/rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "starlite-api/starlite",
+    "url": "https://github.com/starlite-api/starlite",
+    "lang": "Python"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "lang": "JupyterNotebook"
+  }
+]
