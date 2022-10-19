@@ -1,0 +1,122 @@
+[
+  {
+    "title": "dragonflydb/dragonfly",
+    "url": "https://github.com/dragonflydb/dragonfly",
+    "lang": "C++"
+  },
+  {
+    "title": "google/prompt-to-prompt",
+    "url": "https://github.com/google/prompt-to-prompt",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "lang": "Rust"
+  },
+  {
+    "title": "cisagov/RedEye",
+    "url": "https://github.com/cisagov/RedEye",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "oceanbase/miniob",
+    "url": "https://github.com/oceanbase/miniob",
+    "lang": "C++"
+  },
+  {
+    "title": "Eugeny/tabby",
+    "url": "https://github.com/Eugeny/tabby",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "p8952/bocker",
+    "url": "https://github.com/p8952/bocker",
+    "lang": "Shell"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "pop3ret/AWSome-Pentesting",
+    "url": "https://github.com/pop3ret/AWSome-Pentesting"
+  },
+  {
+    "title": "ruanyf/weekly",
+    "url": "https://github.com/ruanyf/weekly"
+  },
+  {
+    "title": "Wind4/vlmcsd",
+    "url": "https://github.com/Wind4/vlmcsd",
+    "lang": "C"
+  },
+  {
+    "title": "makermoekoe/Picoclick-C3",
+    "url": "https://github.com/makermoekoe/Picoclick-C3",
+    "lang": "C"
+  },
+  {
+    "title": "sw-yx/prompt-eng",
+    "url": "https://github.com/sw-yx/prompt-eng"
+  },
+  {
+    "title": "dunglas/frankenphp",
+    "url": "https://github.com/dunglas/frankenphp",
+    "lang": "Go"
+  },
+  {
+    "title": "Solido/awesome-flutter",
+    "url": "https://github.com/Solido/awesome-flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "hasura/graphql-engine",
+    "url": "https://github.com/hasura/graphql-engine",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "paritytech/substrate",
+    "url": "https://github.com/paritytech/substrate",
+    "lang": "Rust"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "OpenAPITools/openapi-generator",
+    "url": "https://github.com/OpenAPITools/openapi-generator",
+    "lang": "Java"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "robmarkcole/satellite-image-deep-learning",
+    "url": "https://github.com/robmarkcole/satellite-image-deep-learning"
+  },
+  {
+    "title": "google/zerocopy",
+    "url": "https://github.com/google/zerocopy",
+    "lang": "Rust"
+  },
+  {
+    "title": "silverhack/monkey365",
+    "url": "https://github.com/silverhack/monkey365",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "smallnest/concurrency-programming-via-rust",
+    "url": "https://github.com/smallnest/concurrency-programming-via-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "madebyollin/maple-diffusion",
+    "url": "https://github.com/madebyollin/maple-diffusion",
+    "lang": "Swift"
+  }
+]
