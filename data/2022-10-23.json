@@ -1,0 +1,122 @@
+[
+  {
+    "title": "runwayml/stable-diffusion",
+    "url": "https://github.com/runwayml/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "lang": "Rust"
+  },
+  {
+    "title": "PaddlePaddle/PaddleOCR",
+    "url": "https://github.com/PaddlePaddle/PaddleOCR",
+    "lang": "Python"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "lang": "Swift"
+  },
+  {
+    "title": "Automattic/pocket-casts-android",
+    "url": "https://github.com/Automattic/pocket-casts-android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "immunefi-team/Web3-Security-Library",
+    "url": "https://github.com/immunefi-team/Web3-Security-Library"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "hua1995116/awesome-ai-painting",
+    "url": "https://github.com/hua1995116/awesome-ai-painting"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/WSA",
+    "url": "https://github.com/microsoft/WSA"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/fluentui-emoji",
+    "url": "https://github.com/microsoft/fluentui-emoji",
+    "lang": "Python"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "MonsterNone/tmall-miao",
+    "url": "https://github.com/MonsterNone/tmall-miao",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "lang": "Python"
+  },
+  {
+    "title": "ticarpi/jwt_tool",
+    "url": "https://github.com/ticarpi/jwt_tool",
+    "lang": "Python"
+  },
+  {
+    "title": "metabase/metabase",
+    "url": "https://github.com/metabase/metabase",
+    "lang": "Clojure"
+  },
+  {
+    "title": "codeedu/imersao10",
+    "url": "https://github.com/codeedu/imersao10",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "lydiahallie/javascript-questions",
+    "url": "https://github.com/lydiahallie/javascript-questions"
+  },
+  {
+    "title": "ManfredHu/gua-area",
+    "url": "https://github.com/ManfredHu/gua-area"
+  },
+  {
+    "title": "sea-protocol/seaprotocol",
+    "url": "https://github.com/sea-protocol/seaprotocol",
+    "lang": "Move"
+  },
+  {
+    "title": "massalabs/massa",
+    "url": "https://github.com/massalabs/massa",
+    "lang": "Rust"
+  }
+]
