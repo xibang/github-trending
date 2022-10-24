@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Automattic/pocket-casts-android",
+    "url": "https://github.com/Automattic/pocket-casts-android",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "lang": "Swift"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "lang": "Rust"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "lang": "Go"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "starkscan/starkscan-verifier",
+    "url": "https://github.com/starkscan/starkscan-verifier",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "ayush714/data-science-roadmap",
+    "url": "https://github.com/ayush714/data-science-roadmap"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "HarisIqbal88/PlotNeuralNet",
+    "url": "https://github.com/HarisIqbal88/PlotNeuralNet",
+    "lang": "TeX"
+  },
+  {
+    "title": "Fndroid/clash_for_windows_pkg",
+    "url": "https://github.com/Fndroid/clash_for_windows_pkg"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "chainguard-dev/osquery-defense-kit",
+    "url": "https://github.com/chainguard-dev/osquery-defense-kit",
+    "lang": "Makefile"
+  },
+  {
+    "title": "ethereum-lists/chains",
+    "url": "https://github.com/ethereum-lists/chains",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "sea-protocol/seaprotocol",
+    "url": "https://github.com/sea-protocol/seaprotocol",
+    "lang": "Move"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig"
+  },
+  {
+    "title": "TGSAN/CMWTAT_Digital_Edition",
+    "url": "https://github.com/TGSAN/CMWTAT_Digital_Edition",
+    "lang": "C#"
+  },
+  {
+    "title": "open-mmlab/mmrotate",
+    "url": "https://github.com/open-mmlab/mmrotate",
+    "lang": "Python"
+  },
+  {
+    "title": "runwayml/stable-diffusion",
+    "url": "https://github.com/runwayml/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MiCode/Xiaomi_Kernel_OpenSource",
+    "url": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  }
+]
