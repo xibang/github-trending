@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "felixrieseberg/windows95",
+    "url": "https://github.com/felixrieseberg/windows95",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guacsec/guac",
+    "url": "https://github.com/guacsec/guac",
+    "lang": "Go"
+  },
+  {
+    "title": "halfrost/LeetCode-Go",
+    "url": "https://github.com/halfrost/LeetCode-Go",
+    "lang": "Go"
+  },
+  {
+    "title": "losvedir/transit-lang-cmp",
+    "url": "https://github.com/losvedir/transit-lang-cmp",
+    "lang": "Elixir"
+  },
+  {
+    "title": "mikeroyal/Self-Hosting-Guide",
+    "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "avitorio/outstatic",
+    "url": "https://github.com/avitorio/outstatic",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "lang": "Rust"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "Markdown"
+  },
+  {
+    "title": "cmhungsteve/Awesome-Transformer-Attention",
+    "url": "https://github.com/cmhungsteve/Awesome-Transformer-Attention"
+  },
+  {
+    "title": "Automattic/pocket-casts-ios",
+    "url": "https://github.com/Automattic/pocket-casts-ios",
+    "lang": "Swift"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "lang": "Go"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "tenable/terrascan",
+    "url": "https://github.com/tenable/terrascan",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "lang": "Swift"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "flipperdevices/flipperzero-firmware",
+    "url": "https://github.com/flipperdevices/flipperzero-firmware",
+    "lang": "C"
+  },
+  {
+    "title": "FTM-Labs/Aptos-NFT-Mint",
+    "url": "https://github.com/FTM-Labs/Aptos-NFT-Mint",
+    "lang": "Python"
+  },
+  {
+    "title": "LSPosed/MagiskOnWSALocal",
+    "url": "https://github.com/LSPosed/MagiskOnWSALocal",
+    "lang": "Shell"
+  },
+  {
+    "title": "CodeXTF2/ScreenshotBOF",
+    "url": "https://github.com/CodeXTF2/ScreenshotBOF",
+    "lang": "C"
+  },
+  {
+    "title": "djsime1/awesome-flipperzero",
+    "url": "https://github.com/djsime1/awesome-flipperzero"
+  }
+]
