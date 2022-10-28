@@ -1,0 +1,122 @@
+[
+  {
+    "title": "nerfstudio-project/nerfstudio",
+    "url": "https://github.com/nerfstudio-project/nerfstudio",
+    "lang": "Python"
+  },
+  {
+    "title": "bumble-tech/private-detector",
+    "url": "https://github.com/bumble-tech/private-detector",
+    "lang": "Python"
+  },
+  {
+    "title": "vercel/turbo",
+    "url": "https://github.com/vercel/turbo",
+    "lang": "Rust"
+  },
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "lang": "Go"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "Textualize/textual",
+    "url": "https://github.com/Textualize/textual",
+    "lang": "Python"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "ageron/handson-ml3",
+    "url": "https://github.com/ageron/handson-ml3",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vercel/next.js",
+    "url": "https://github.com/vercel/next.js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "JoePenna/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/JoePenna/Dreambooth-Stable-Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "stretchr/testify",
+    "url": "https://github.com/stretchr/testify",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs"
+  },
+  {
+    "title": "rustdesk/rustdesk",
+    "url": "https://github.com/rustdesk/rustdesk",
+    "lang": "Rust"
+  },
+  {
+    "title": "freefq/free",
+    "url": "https://github.com/freefq/free"
+  },
+  {
+    "title": "dotnet/samples",
+    "url": "https://github.com/dotnet/samples",
+    "lang": "C#"
+  },
+  {
+    "title": "apache/incubator-streampark",
+    "url": "https://github.com/apache/incubator-streampark",
+    "lang": "Vue"
+  },
+  {
+    "title": "go-gorm/gorm",
+    "url": "https://github.com/go-gorm/gorm",
+    "lang": "Go"
+  },
+  {
+    "title": "coderQuad/New-Grad-Positions-2023",
+    "url": "https://github.com/coderQuad/New-Grad-Positions-2023"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/react",
+    "url": "https://github.com/facebook/react",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "go-redis/redis",
+    "url": "https://github.com/go-redis/redis",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-demo",
+    "url": "https://github.com/open-telemetry/opentelemetry-demo",
+    "lang": "Erlang"
+  }
+]
