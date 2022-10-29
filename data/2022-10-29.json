@@ -1,0 +1,126 @@
+[
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "lang": "Go"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "lang": "Svelte"
+  },
+  {
+    "title": "vercel/turbo",
+    "url": "https://github.com/vercel/turbo",
+    "lang": "Rust"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "bregman-arie/devops-resources",
+    "url": "https://github.com/bregman-arie/devops-resources",
+    "lang": "Groovy"
+  },
+  {
+    "title": "RareSkills/gas-puzzles",
+    "url": "https://github.com/RareSkills/gas-puzzles",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jetlinks/jetlinks-community",
+    "url": "https://github.com/jetlinks/jetlinks-community",
+    "lang": "Java"
+  },
+  {
+    "title": "google/googletest",
+    "url": "https://github.com/google/googletest",
+    "lang": "C++"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleNLP",
+    "url": "https://github.com/PaddlePaddle/PaddleNLP",
+    "lang": "Python"
+  },
+  {
+    "title": "bumble-tech/private-detector",
+    "url": "https://github.com/bumble-tech/private-detector",
+    "lang": "Python"
+  },
+  {
+    "title": "spring-projects/spring-framework",
+    "url": "https://github.com/spring-projects/spring-framework",
+    "lang": "Java"
+  },
+  {
+    "title": "jaywcjlove/linux-command",
+    "url": "https://github.com/jaywcjlove/linux-command",
+    "lang": "Markdown"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "numencyber/VulnerabilityPoC",
+    "url": "https://github.com/numencyber/VulnerabilityPoC",
+    "lang": "C++"
+  },
+  {
+    "title": "cloudwego/hertz",
+    "url": "https://github.com/cloudwego/hertz",
+    "lang": "Go"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "lang": "Go"
+  },
+  {
+    "title": "AbdurRKhalid/Design-Patterns",
+    "url": "https://github.com/AbdurRKhalid/Design-Patterns",
+    "lang": "Java"
+  },
+  {
+    "title": "PrefectHQ/prefect",
+    "url": "https://github.com/PrefectHQ/prefect",
+    "lang": "Python"
+  },
+  {
+    "title": "garmeeh/next-seo",
+    "url": "https://github.com/garmeeh/next-seo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apache/arrow",
+    "url": "https://github.com/apache/arrow",
+    "lang": "C++"
+  }
+]
