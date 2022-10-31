@@ -1,0 +1,125 @@
+[
+  {
+    "title": "dudykr/stc",
+    "url": "https://github.com/dudykr/stc",
+    "lang": "Rust"
+  },
+  {
+    "title": "charmbracelet/vhs",
+    "url": "https://github.com/charmbracelet/vhs",
+    "lang": "Go"
+  },
+  {
+    "title": "simeydotme/pokemon-cards-css",
+    "url": "https://github.com/simeydotme/pokemon-cards-css",
+    "lang": "Svelte"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "acmesh-official/acme.sh",
+    "url": "https://github.com/acmesh-official/acme.sh",
+    "lang": "Shell"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "alvaroreis/bolsonaro2turno",
+    "url": "https://github.com/alvaroreis/bolsonaro2turno",
+    "lang": "HTML"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "faridrashidi/kaggle-solutions",
+    "url": "https://github.com/faridrashidi/kaggle-solutions",
+    "lang": "HTML"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "lang": "C#"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bluesky-social/atproto",
+    "url": "https://github.com/bluesky-social/atproto",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "folke/noice.nvim",
+    "url": "https://github.com/folke/noice.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "trimstray/the-book-of-secret-knowledge",
+    "url": "https://github.com/trimstray/the-book-of-secret-knowledge"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AmazingAng/WTF-Solidity",
+    "url": "https://github.com/AmazingAng/WTF-Solidity",
+    "lang": "Solidity"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yyx990803/vite-vs-next-turbo-hmr",
+    "url": "https://github.com/yyx990803/vite-vs-next-turbo-hmr",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "PaddlePaddle/PaddleHub",
+    "url": "https://github.com/PaddlePaddle/PaddleHub",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/nvim-lspconfig",
+    "url": "https://github.com/neovim/nvim-lspconfig",
+    "lang": "Lua"
+  },
+  {
+    "title": "jeecgboot/jeecg-boot",
+    "url": "https://github.com/jeecgboot/jeecg-boot",
+    "lang": "Java"
+  }
+]
