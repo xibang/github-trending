@@ -1,0 +1,124 @@
+[
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "josean-dev/dev-environment-files",
+    "url": "https://github.com/josean-dev/dev-environment-files",
+    "lang": "Lua"
+  },
+  {
+    "title": "jellyfin/jellyfin",
+    "url": "https://github.com/jellyfin/jellyfin",
+    "lang": "C#"
+  },
+  {
+    "title": "XavierXiao/Dreambooth-Stable-Diffusion",
+    "url": "https://github.com/XavierXiao/Dreambooth-Stable-Diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "jupyter-naas/awesome-notebooks",
+    "url": "https://github.com/jupyter-naas/awesome-notebooks",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dair-ai/ML-YouTube-Courses",
+    "url": "https://github.com/dair-ai/ML-YouTube-Courses"
+  },
+  {
+    "title": "dudykr/stc",
+    "url": "https://github.com/dudykr/stc",
+    "lang": "Rust"
+  },
+  {
+    "title": "shadcn/taxonomy",
+    "url": "https://github.com/shadcn/taxonomy",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AMAI-GmbH/AI-Expert-Roadmap",
+    "url": "https://github.com/AMAI-GmbH/AI-Expert-Roadmap",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "SerenityOS/serenity",
+    "url": "https://github.com/SerenityOS/serenity",
+    "lang": "C++"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "30-seconds/30-seconds-of-code",
+    "url": "https://github.com/30-seconds/30-seconds-of-code",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mattermost/focalboard",
+    "url": "https://github.com/mattermost/focalboard",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "charmbracelet/vhs",
+    "url": "https://github.com/charmbracelet/vhs",
+    "lang": "Go"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "TheAlgorithms/Rust",
+    "url": "https://github.com/TheAlgorithms/Rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Python"
+  },
+  {
+    "title": "acmesh-official/acme.sh",
+    "url": "https://github.com/acmesh-official/acme.sh",
+    "lang": "Shell"
+  },
+  {
+    "title": "shieldfy/API-Security-Checklist",
+    "url": "https://github.com/shieldfy/API-Security-Checklist"
+  },
+  {
+    "title": "komodorio/helm-dashboard",
+    "url": "https://github.com/komodorio/helm-dashboard",
+    "lang": "Go"
+  }
+]
