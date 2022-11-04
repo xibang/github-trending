@@ -1,0 +1,123 @@
+[
+  {
+    "title": "refinedev/refine",
+    "url": "https://github.com/refinedev/refine",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "lang": "Python"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "milanm/DevOps-Roadmap",
+    "url": "https://github.com/milanm/DevOps-Roadmap"
+  },
+  {
+    "title": "SagerNet/sing-box",
+    "url": "https://github.com/SagerNet/sing-box",
+    "lang": "Go"
+  },
+  {
+    "title": "alirezadir/machine-learning-interview-enlightener",
+    "url": "https://github.com/alirezadir/machine-learning-interview-enlightener",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "NCSC-NL/OpenSSL-2022",
+    "url": "https://github.com/NCSC-NL/OpenSSL-2022"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "jamealg/KT-companion",
+    "url": "https://github.com/jamealg/KT-companion",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Taiga74164/Akebi-GC",
+    "url": "https://github.com/Taiga74164/Akebi-GC",
+    "lang": "C++"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "Python"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "remix-run/remix",
+    "url": "https://github.com/remix-run/remix",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openssl/openssl",
+    "url": "https://github.com/openssl/openssl",
+    "lang": "C"
+  },
+  {
+    "title": "colmmacc/CVE-2022-3602",
+    "url": "https://github.com/colmmacc/CVE-2022-3602",
+    "lang": "Python"
+  },
+  {
+    "title": "TeamNewPipe/NewPipe",
+    "url": "https://github.com/TeamNewPipe/NewPipe",
+    "lang": "Java"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "facebookresearch/esm",
+    "url": "https://github.com/facebookresearch/esm",
+    "lang": "Python"
+  },
+  {
+    "title": "windows-powertool/Powertool",
+    "url": "https://github.com/windows-powertool/Powertool"
+  },
+  {
+    "title": "SheerSt/pokewilds",
+    "url": "https://github.com/SheerSt/pokewilds",
+    "lang": "Assembly"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "NVIDIA/DeepLearningExamples",
+    "url": "https://github.com/NVIDIA/DeepLearningExamples",
+    "lang": "Python"
+  },
+  {
+    "title": "puppeteer/puppeteer",
+    "url": "https://github.com/puppeteer/puppeteer",
+    "lang": "TypeScript"
+  }
+]
