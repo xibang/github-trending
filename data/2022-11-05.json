@@ -1,0 +1,126 @@
+[
+  {
+    "title": "grafana/phlare",
+    "url": "https://github.com/grafana/phlare",
+    "lang": "Go"
+  },
+  {
+    "title": "SheerSt/pokewilds",
+    "url": "https://github.com/SheerSt/pokewilds",
+    "lang": "Assembly"
+  },
+  {
+    "title": "refinedev/refine",
+    "url": "https://github.com/refinedev/refine",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "milanm/DevOps-Roadmap",
+    "url": "https://github.com/milanm/DevOps-Roadmap"
+  },
+  {
+    "title": "Netflix/conductor",
+    "url": "https://github.com/Netflix/conductor",
+    "lang": "Java"
+  },
+  {
+    "title": "Taiga74164/Akebi-GC",
+    "url": "https://github.com/Taiga74164/Akebi-GC",
+    "lang": "C++"
+  },
+  {
+    "title": "karmada-io/karmada",
+    "url": "https://github.com/karmada-io/karmada",
+    "lang": "Go"
+  },
+  {
+    "title": "labmlai/annotated_deep_learning_paper_implementations",
+    "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "hellof2e/quark-design",
+    "url": "https://github.com/hellof2e/quark-design",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lidangzzz/How-to-run",
+    "url": "https://github.com/lidangzzz/How-to-run",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "lang": "Go"
+  },
+  {
+    "title": "Olde-Skuul/doom3do",
+    "url": "https://github.com/Olde-Skuul/doom3do",
+    "lang": "C"
+  },
+  {
+    "title": "benphelps/homepage",
+    "url": "https://github.com/benphelps/homepage",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "poteto/hiring-without-whiteboards",
+    "url": "https://github.com/poteto/hiring-without-whiteboards",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/TypeScript",
+    "url": "https://github.com/microsoft/TypeScript",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NationalSecurityAgency/ghidra",
+    "url": "https://github.com/NationalSecurityAgency/ghidra",
+    "lang": "Java"
+  },
+  {
+    "title": "apache/pulsar",
+    "url": "https://github.com/apache/pulsar",
+    "lang": "Java"
+  },
+  {
+    "title": "prometheus/client_python",
+    "url": "https://github.com/prometheus/client_python",
+    "lang": "Python"
+  },
+  {
+    "title": "dotnet/AspNetCore.Docs",
+    "url": "https://github.com/dotnet/AspNetCore.Docs",
+    "lang": "C#"
+  },
+  {
+    "title": "AykutSarac/jsoncrack.com",
+    "url": "https://github.com/AykutSarac/jsoncrack.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "foundry-rs/forge-std",
+    "url": "https://github.com/foundry-rs/forge-std",
+    "lang": "Solidity"
+  },
+  {
+    "title": "kubernetes/client-go",
+    "url": "https://github.com/kubernetes/client-go",
+    "lang": "Go"
+  },
+  {
+    "title": "SoftwareBrothers/adminjs",
+    "url": "https://github.com/SoftwareBrothers/adminjs",
+    "lang": "TypeScript"
+  }
+]
