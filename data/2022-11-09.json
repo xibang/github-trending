@@ -1,0 +1,121 @@
+[
+  {
+    "title": "stashapp/stash",
+    "url": "https://github.com/stashapp/stash",
+    "lang": "Go"
+  },
+  {
+    "title": "MubertAI/Mubert-Text-to-Music",
+    "url": "https://github.com/MubertAI/Mubert-Text-to-Music",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "lensterxyz/lenster",
+    "url": "https://github.com/lensterxyz/lenster",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/higress",
+    "url": "https://github.com/alibaba/higress",
+    "lang": "C++"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "ProjectOpenSea/operator-filter-registry",
+    "url": "https://github.com/ProjectOpenSea/operator-filter-registry",
+    "lang": "Solidity"
+  },
+  {
+    "title": "trinib/Linux-Bash-Commands",
+    "url": "https://github.com/trinib/Linux-Bash-Commands"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "6mile/DevSecOps-Playbook",
+    "url": "https://github.com/6mile/DevSecOps-Playbook"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "lang": "Python"
+  },
+  {
+    "title": "algorithm-visualizer/algorithm-visualizer",
+    "url": "https://github.com/algorithm-visualizer/algorithm-visualizer",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "Budibase/budibase",
+    "url": "https://github.com/Budibase/budibase",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nathanlesage/academics-on-mastodon",
+    "url": "https://github.com/nathanlesage/academics-on-mastodon"
+  },
+  {
+    "title": "dillongoostudios/goo-engine",
+    "url": "https://github.com/dillongoostudios/goo-engine",
+    "lang": "C"
+  },
+  {
+    "title": "RustScan/RustScan",
+    "url": "https://github.com/RustScan/RustScan",
+    "lang": "Rust"
+  },
+  {
+    "title": "mastodon/mastodon-android",
+    "url": "https://github.com/mastodon/mastodon-android",
+    "lang": "Java"
+  },
+  {
+    "title": "ant-design/pro-components",
+    "url": "https://github.com/ant-design/pro-components",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "CyC2018/CS-Notes",
+    "url": "https://github.com/CyC2018/CS-Notes"
+  },
+  {
+    "title": "mdn/content",
+    "url": "https://github.com/mdn/content",
+    "lang": "Markdown"
+  },
+  {
+    "title": "safing/portmaster",
+    "url": "https://github.com/safing/portmaster",
+    "lang": "Go"
+  }
+]
