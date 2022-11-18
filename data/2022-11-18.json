@@ -1,0 +1,127 @@
+[
+  {
+    "title": "GreptimeTeam/greptimedb",
+    "url": "https://github.com/GreptimeTeam/greptimedb",
+    "lang": "Rust"
+  },
+  {
+    "title": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "lang": "Rust"
+  },
+  {
+    "title": "firebase/firebase-ios-sdk",
+    "url": "https://github.com/firebase/firebase-ios-sdk",
+    "lang": "Objective-C"
+  },
+  {
+    "title": "maateusilva/o-poder-do-js-recursos",
+    "url": "https://github.com/maateusilva/o-poder-do-js-recursos",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mapbox/mapbox-gl-js",
+    "url": "https://github.com/mapbox/mapbox-gl-js",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "paperswithcode/galai",
+    "url": "https://github.com/paperswithcode/galai",
+    "lang": "Python"
+  },
+  {
+    "title": "atelier-anchor/smiley-sans",
+    "url": "https://github.com/atelier-anchor/smiley-sans",
+    "lang": "HTML"
+  },
+  {
+    "title": "angular/angular",
+    "url": "https://github.com/angular/angular",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "godot-rust/gdextension",
+    "url": "https://github.com/godot-rust/gdextension",
+    "lang": "Rust"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "lang": "Shell"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nuxt/framework",
+    "url": "https://github.com/nuxt/framework",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wagtail/wagtail",
+    "url": "https://github.com/wagtail/wagtail",
+    "lang": "Python"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alibaba/havenask",
+    "url": "https://github.com/alibaba/havenask",
+    "lang": "C++"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "pointfreeco/swift-composable-architecture",
+    "url": "https://github.com/pointfreeco/swift-composable-architecture",
+    "lang": "Swift"
+  },
+  {
+    "title": "apache/incubator-seatunnel",
+    "url": "https://github.com/apache/incubator-seatunnel",
+    "lang": "Java"
+  },
+  {
+    "title": "Alamofire/Alamofire",
+    "url": "https://github.com/Alamofire/Alamofire",
+    "lang": "Swift"
+  },
+  {
+    "title": "SHI-Labs/OneFormer",
+    "url": "https://github.com/SHI-Labs/OneFormer",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "digitalocean/nginxconfig.io",
+    "url": "https://github.com/digitalocean/nginxconfig.io",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "lang": "Shell"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ethereum/EIPs",
+    "url": "https://github.com/ethereum/EIPs",
+    "lang": "Solidity"
+  }
+]
