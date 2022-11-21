@@ -1,0 +1,122 @@
+[
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "MystenLabs/sui",
+    "url": "https://github.com/MystenLabs/sui",
+    "lang": "Rust"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "facebook/sapling",
+    "url": "https://github.com/facebook/sapling",
+    "lang": "Rust"
+  },
+  {
+    "title": "ShoufaChen/DiffusionDet",
+    "url": "https://github.com/ShoufaChen/DiffusionDet",
+    "lang": "Python"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "commaai/openpilot",
+    "url": "https://github.com/commaai/openpilot",
+    "lang": "Python"
+  },
+  {
+    "title": "Dreamacro/clash",
+    "url": "https://github.com/Dreamacro/clash",
+    "lang": "Go"
+  },
+  {
+    "title": "Purp1eW0lf/Blue-Team-Notes",
+    "url": "https://github.com/Purp1eW0lf/Blue-Team-Notes"
+  },
+  {
+    "title": "mRs-/Black-Friday-Deals",
+    "url": "https://github.com/mRs-/Black-Friday-Deals",
+    "lang": "Swift"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "cheatsnake/backend-cheats",
+    "url": "https://github.com/cheatsnake/backend-cheats"
+  },
+  {
+    "title": "mastodon/mastodon-ios",
+    "url": "https://github.com/mastodon/mastodon-ios",
+    "lang": "Swift"
+  },
+  {
+    "title": "codecrafters-io/build-your-own-x",
+    "url": "https://github.com/codecrafters-io/build-your-own-x"
+  },
+  {
+    "title": "fbelavenuto/arpl",
+    "url": "https://github.com/fbelavenuto/arpl",
+    "lang": "Shell"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "FlagAI-Open/FlagAI",
+    "url": "https://github.com/FlagAI-Open/FlagAI",
+    "lang": "Python"
+  },
+  {
+    "title": "zhongyang219/TrafficMonitor",
+    "url": "https://github.com/zhongyang219/TrafficMonitor",
+    "lang": "C++"
+  },
+  {
+    "title": "Uniswap/permit2",
+    "url": "https://github.com/Uniswap/permit2",
+    "lang": "Solidity"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "UberGuidoZ/Flipper",
+    "url": "https://github.com/UberGuidoZ/Flipper",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "v2fly/v2ray-core",
+    "url": "https://github.com/v2fly/v2ray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  }
+]
