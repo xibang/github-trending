@@ -1,0 +1,122 @@
+[
+  {
+    "title": "gbj/leptos",
+    "url": "https://github.com/gbj/leptos",
+    "lang": "Rust"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "kuchin/awesome-cto",
+    "url": "https://github.com/kuchin/awesome-cto"
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "sdmg15/Best-websites-a-programmer-should-visit",
+    "url": "https://github.com/sdmg15/Best-websites-a-programmer-should-visit"
+  },
+  {
+    "title": "RocketChat/Rocket.Chat",
+    "url": "https://github.com/RocketChat/Rocket.Chat",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "grafana/grafana",
+    "url": "https://github.com/grafana/grafana",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "cugu/awesome-forensics",
+    "url": "https://github.com/cugu/awesome-forensics"
+  },
+  {
+    "title": "zu1k/zlib-searcher",
+    "url": "https://github.com/zu1k/zlib-searcher",
+    "lang": "Rust"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "lang": "Go"
+  },
+  {
+    "title": "appsmithorg/appsmith",
+    "url": "https://github.com/appsmithorg/appsmith",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "rwightman/pytorch-image-models",
+    "url": "https://github.com/rwightman/pytorch-image-models",
+    "lang": "Python"
+  },
+  {
+    "title": "midudev/libros-programacion-gratis",
+    "url": "https://github.com/midudev/libros-programacion-gratis"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "rfordatascience/tidytuesday",
+    "url": "https://github.com/rfordatascience/tidytuesday",
+    "lang": "HTML"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "corkami/pics",
+    "url": "https://github.com/corkami/pics",
+    "lang": "Assembly"
+  },
+  {
+    "title": "strapi/strapi",
+    "url": "https://github.com/strapi/strapi",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hashicorp/terraform",
+    "url": "https://github.com/hashicorp/terraform",
+    "lang": "Go"
+  },
+  {
+    "title": "siyuan-note/siyuan",
+    "url": "https://github.com/siyuan-note/siyuan",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "celery/celery",
+    "url": "https://github.com/celery/celery",
+    "lang": "Python"
+  },
+  {
+    "title": "isocpp/CppCoreGuidelines",
+    "url": "https://github.com/isocpp/CppCoreGuidelines",
+    "lang": "Python"
+  },
+  {
+    "title": "WasmEdge/WasmEdge",
+    "url": "https://github.com/WasmEdge/WasmEdge",
+    "lang": "WebAssembly"
+  }
+]
