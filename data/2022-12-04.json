@@ -1,0 +1,126 @@
+[
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "invoke-ai/InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "thangchung/go-coffeeshop",
+    "url": "https://github.com/thangchung/go-coffeeshop",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/folly",
+    "url": "https://github.com/facebook/folly",
+    "lang": "C++"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "charlax/engineering-management",
+    "url": "https://github.com/charlax/engineering-management",
+    "lang": "Shell"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "lang": "Rust"
+  },
+  {
+    "title": "bobby-didcoding/drf_course",
+    "url": "https://github.com/bobby-didcoding/drf_course",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "Nixtla/statsforecast",
+    "url": "https://github.com/Nixtla/statsforecast",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "swisskyrepo/PayloadsAllTheThings",
+    "url": "https://github.com/swisskyrepo/PayloadsAllTheThings",
+    "lang": "Python"
+  },
+  {
+    "title": "chubin/cheat.sh",
+    "url": "https://github.com/chubin/cheat.sh",
+    "lang": "Python"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "google/security-research",
+    "url": "https://github.com/google/security-research",
+    "lang": "Go"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "lang": "CSS"
+  },
+  {
+    "title": "excalidraw/excalidraw",
+    "url": "https://github.com/excalidraw/excalidraw",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "benthosdev/benthos",
+    "url": "https://github.com/benthosdev/benthos",
+    "lang": "Go"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "lang": "C"
+  },
+  {
+    "title": "datahub-project/datahub",
+    "url": "https://github.com/datahub-project/datahub",
+    "lang": "Java"
+  },
+  {
+    "title": "kotlin-hands-on/advent-of-code-kotlin-template",
+    "url": "https://github.com/kotlin-hands-on/advent-of-code-kotlin-template",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "Cysharp/MemoryPack",
+    "url": "https://github.com/Cysharp/MemoryPack",
+    "lang": "C#"
+  }
+]
