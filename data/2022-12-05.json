@@ -1,0 +1,125 @@
+[
+  {
+    "title": "invoke-ai/InvokeAI",
+    "url": "https://github.com/invoke-ai/InvokeAI",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "AleoHQ/snarkOS",
+    "url": "https://github.com/AleoHQ/snarkOS",
+    "lang": "Rust"
+  },
+  {
+    "title": "misskey-dev/misskey",
+    "url": "https://github.com/misskey-dev/misskey",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Klipper3d/klipper",
+    "url": "https://github.com/Klipper3d/klipper",
+    "lang": "C"
+  },
+  {
+    "title": "PKUFlyingPig/cs-self-learning",
+    "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+    "lang": "HTML"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "lang": "Go"
+  },
+  {
+    "title": "hehonghui/awesome-english-ebooks",
+    "url": "https://github.com/hehonghui/awesome-english-ebooks",
+    "lang": "CSS"
+  },
+  {
+    "title": "Visualize-ML/Book4_Power-of-Matrix",
+    "url": "https://github.com/Visualize-ML/Book4_Power-of-Matrix",
+    "lang": "Python"
+  },
+  {
+    "title": "thangchung/go-coffeeshop",
+    "url": "https://github.com/thangchung/go-coffeeshop",
+    "lang": "Go"
+  },
+  {
+    "title": "monicahq/monica",
+    "url": "https://github.com/monicahq/monica",
+    "lang": "PHP"
+  },
+  {
+    "title": "coolsnowwolf/lede",
+    "url": "https://github.com/coolsnowwolf/lede",
+    "lang": "C"
+  },
+  {
+    "title": "Bogdanp/awesome-advent-of-code",
+    "url": "https://github.com/Bogdanp/awesome-advent-of-code"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "lang": "Shell"
+  },
+  {
+    "title": "t3-oss/create-t3-app",
+    "url": "https://github.com/t3-oss/create-t3-app",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "maplecool/easytrojan",
+    "url": "https://github.com/maplecool/easytrojan",
+    "lang": "Shell"
+  },
+  {
+    "title": "openai/openai-quickstart-node",
+    "url": "https://github.com/openai/openai-quickstart-node",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "lang": "Go"
+  },
+  {
+    "title": "openzfs/zfs",
+    "url": "https://github.com/openzfs/zfs",
+    "lang": "C"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "fspoettel/advent-of-code-rust",
+    "url": "https://github.com/fspoettel/advent-of-code-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "getify/You-Dont-Know-JS",
+    "url": "https://github.com/getify/You-Dont-Know-JS"
+  },
+  {
+    "title": "openai/openai-quickstart-python",
+    "url": "https://github.com/openai/openai-quickstart-python",
+    "lang": "CSS"
+  },
+  {
+    "title": "linebender/xilem",
+    "url": "https://github.com/linebender/xilem",
+    "lang": "Rust"
+  }
+]
