@@ -1,0 +1,124 @@
+[
+  {
+    "title": "jart/blink",
+    "url": "https://github.com/jart/blink",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "betaveros/noulith",
+    "url": "https://github.com/betaveros/noulith",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/playwright",
+    "url": "https://github.com/microsoft/playwright",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "lang": "HTML"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "skypilot-org/skypilot",
+    "url": "https://github.com/skypilot-org/skypilot",
+    "lang": "Python"
+  },
+  {
+    "title": "rails/docked",
+    "url": "https://github.com/rails/docked",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "mifi/lossless-cut",
+    "url": "https://github.com/mifi/lossless-cut",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jacksight/xina520_official_jailbreak",
+    "url": "https://github.com/jacksight/xina520_official_jailbreak"
+  },
+  {
+    "title": "f5/unovis",
+    "url": "https://github.com/f5/unovis",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "mxrch/GHunt",
+    "url": "https://github.com/mxrch/GHunt",
+    "lang": "Python"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "lang": "Shell"
+  },
+  {
+    "title": "colinhacks/zod",
+    "url": "https://github.com/colinhacks/zod",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "MicrosoftDocs/azure-docs",
+    "url": "https://github.com/MicrosoftDocs/azure-docs",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "cloneofsimo/lora",
+    "url": "https://github.com/cloneofsimo/lora",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "lang": "Rust"
+  },
+  {
+    "title": "wang-edward/t-juno-copy-v2",
+    "url": "https://github.com/wang-edward/t-juno-copy-v2",
+    "lang": "C++"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/roslyn",
+    "url": "https://github.com/dotnet/roslyn",
+    "lang": "C#"
+  },
+  {
+    "title": "smartcontractkit/full-blockchain-solidity-course-js",
+    "url": "https://github.com/smartcontractkit/full-blockchain-solidity-course-js"
+  },
+  {
+    "title": "Azure/azure-quickstart-templates",
+    "url": "https://github.com/Azure/azure-quickstart-templates",
+    "lang": "Bicep"
+  },
+  {
+    "title": "DovAmir/awesome-design-patterns",
+    "url": "https://github.com/DovAmir/awesome-design-patterns"
+  },
+  {
+    "title": "rocketseat-education/ignite-lab-nodejs",
+    "url": "https://github.com/rocketseat-education/ignite-lab-nodejs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "lang": "Java"
+  }
+]
