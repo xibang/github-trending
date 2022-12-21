@@ -1,0 +1,122 @@
+[
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "davidfowl/TodoApi",
+    "url": "https://github.com/davidfowl/TodoApi",
+    "lang": "C#"
+  },
+  {
+    "title": "sundowndev/phoneinfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "lang": "Go"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "mastodon/mastodon",
+    "url": "https://github.com/mastodon/mastodon",
+    "lang": "Ruby"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "ThePrimeagen/init.lua",
+    "url": "https://github.com/ThePrimeagen/init.lua",
+    "lang": "Lua"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "yangshun/tech-interview-handbook",
+    "url": "https://github.com/yangshun/tech-interview-handbook",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "lang": "Python"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "komodorio/helm-dashboard",
+    "url": "https://github.com/komodorio/helm-dashboard",
+    "lang": "Go"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "zsyOAOA/DifFace",
+    "url": "https://github.com/zsyOAOA/DifFace",
+    "lang": "Python"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "abpframework/abp",
+    "url": "https://github.com/abpframework/abp",
+    "lang": "C#"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "musescore/MuseScore",
+    "url": "https://github.com/musescore/MuseScore",
+    "lang": "C++"
+  }
+]
