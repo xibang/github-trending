@@ -1,0 +1,124 @@
+[
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "lang": "Go"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "lang": "Java"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/zstd",
+    "url": "https://github.com/facebook/zstd",
+    "lang": "C"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "lang": "Python"
+  },
+  {
+    "title": "bazelbuild/bazel",
+    "url": "https://github.com/bazelbuild/bazel",
+    "lang": "Java"
+  },
+  {
+    "title": "sundowndev/phoneinfoga",
+    "url": "https://github.com/sundowndev/phoneinfoga",
+    "lang": "Go"
+  },
+  {
+    "title": "project-chip/connectedhomeip",
+    "url": "https://github.com/project-chip/connectedhomeip",
+    "lang": "C++"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "zas023/JdBuyer",
+    "url": "https://github.com/zas023/JdBuyer",
+    "lang": "Python"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Python"
+  },
+  {
+    "title": "visenger/awesome-mlops",
+    "url": "https://github.com/visenger/awesome-mlops"
+  },
+  {
+    "title": "ranaroussi/yfinance",
+    "url": "https://github.com/ranaroussi/yfinance",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "lang": "Python"
+  },
+  {
+    "title": "H4de5-7/powershell-obfuscation",
+    "url": "https://github.com/H4de5-7/powershell-obfuscation",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "mrdbourke/pytorch-deep-learning",
+    "url": "https://github.com/mrdbourke/pytorch-deep-learning",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "Jinja"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "lang": "Python"
+  },
+  {
+    "title": "answerdev/answer",
+    "url": "https://github.com/answerdev/answer",
+    "lang": "Go"
+  }
+]
