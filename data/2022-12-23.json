@@ -1,0 +1,123 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "lang": "Python"
+  },
+  {
+    "title": "0xmaximus/Galaxy-Bugbounty-Checklist",
+    "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist"
+  },
+  {
+    "title": "jassics/security-study-plan",
+    "url": "https://github.com/jassics/security-study-plan"
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "Python"
+  },
+  {
+    "title": "TanStack/router",
+    "url": "https://github.com/TanStack/router",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "xiaoxian521/vue-pure-admin",
+    "url": "https://github.com/xiaoxian521/vue-pure-admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "melonjs/melonJS",
+    "url": "https://github.com/melonjs/melonJS",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "psf/black",
+    "url": "https://github.com/psf/black",
+    "lang": "Python"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "lang": "Python"
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "lang": "HTML"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "lang": "Go"
+  },
+  {
+    "title": "acantril/learn-cantrill-io-labs",
+    "url": "https://github.com/acantril/learn-cantrill-io-labs",
+    "lang": "Python"
+  },
+  {
+    "title": "aws/aws-sdk-go",
+    "url": "https://github.com/aws/aws-sdk-go",
+    "lang": "Go"
+  },
+  {
+    "title": "nocobase/nocobase",
+    "url": "https://github.com/nocobase/nocobase",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "yaroslav-n/tweetGPT",
+    "url": "https://github.com/yaroslav-n/tweetGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "open-telemetry/opentelemetry-js",
+    "url": "https://github.com/open-telemetry/opentelemetry-js",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "alpkeskin/mosint",
+    "url": "https://github.com/alpkeskin/mosint",
+    "lang": "Go"
+  },
+  {
+    "title": "certsocietegenerale/IRM",
+    "url": "https://github.com/certsocietegenerale/IRM"
+  },
+  {
+    "title": "ReactiveX/RxSwift",
+    "url": "https://github.com/ReactiveX/RxSwift",
+    "lang": "Swift"
+  }
+]
