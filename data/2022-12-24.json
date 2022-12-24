@@ -1,0 +1,125 @@
+[
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "lang": "Python"
+  },
+  {
+    "title": "pocketbase/pocketbase",
+    "url": "https://github.com/pocketbase/pocketbase",
+    "lang": "Go"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "mprimi/portable-secret",
+    "url": "https://github.com/mprimi/portable-secret",
+    "lang": "HTML"
+  },
+  {
+    "title": "CVCUDA/CV-CUDA",
+    "url": "https://github.com/CVCUDA/CV-CUDA",
+    "lang": "C++"
+  },
+  {
+    "title": "YanG-1989/m3u",
+    "url": "https://github.com/YanG-1989/m3u"
+  },
+  {
+    "title": "AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "url": "https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "DataDog/go-profiler-notes",
+    "url": "https://github.com/DataDog/go-profiler-notes",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "BlackWatch0/JDspyder",
+    "url": "https://github.com/BlackWatch0/JDspyder",
+    "lang": "Python"
+  },
+  {
+    "title": "Tikam02/DevOps-Guide",
+    "url": "https://github.com/Tikam02/DevOps-Guide",
+    "lang": "HTML"
+  },
+  {
+    "title": "spantaleev/matrix-docker-ansible-deploy",
+    "url": "https://github.com/spantaleev/matrix-docker-ansible-deploy",
+    "lang": "Jinja"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "intel/neural-compressor",
+    "url": "https://github.com/intel/neural-compressor",
+    "lang": "Python"
+  },
+  {
+    "title": "JhumanJ/OpnForm",
+    "url": "https://github.com/JhumanJ/OpnForm",
+    "lang": "Vue"
+  },
+  {
+    "title": "m-bain/whisperX",
+    "url": "https://github.com/m-bain/whisperX",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "go-playground/validator",
+    "url": "https://github.com/go-playground/validator",
+    "lang": "Go"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "PhilJay/MPAndroidChart",
+    "url": "https://github.com/PhilJay/MPAndroidChart",
+    "lang": "Java"
+  },
+  {
+    "title": "Azure/azure-rest-api-specs",
+    "url": "https://github.com/Azure/azure-rest-api-specs"
+  },
+  {
+    "title": "THUDM/CodeGeeX",
+    "url": "https://github.com/THUDM/CodeGeeX",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  }
+]
