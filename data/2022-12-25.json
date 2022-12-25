@@ -1,0 +1,124 @@
+[
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "folke/lazy.nvim",
+    "url": "https://github.com/folke/lazy.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "rails/docked",
+    "url": "https://github.com/rails/docked",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "illacloud/illa-builder",
+    "url": "https://github.com/illacloud/illa-builder",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dotnet/maui",
+    "url": "https://github.com/dotnet/maui",
+    "lang": "C#"
+  },
+  {
+    "title": "TapXWorld/Math",
+    "url": "https://github.com/TapXWorld/Math"
+  },
+  {
+    "title": "CVCUDA/CV-CUDA",
+    "url": "https://github.com/CVCUDA/CV-CUDA",
+    "lang": "C++"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "kovidgoyal/kitty",
+    "url": "https://github.com/kovidgoyal/kitty",
+    "lang": "Python"
+  },
+  {
+    "title": "MichaelCade/90DaysOfDevOps",
+    "url": "https://github.com/MichaelCade/90DaysOfDevOps",
+    "lang": "Shell"
+  },
+  {
+    "title": "lucidrains/PaLM-rlhf-pytorch",
+    "url": "https://github.com/lucidrains/PaLM-rlhf-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/X-Decoder",
+    "url": "https://github.com/microsoft/X-Decoder",
+    "lang": "Python"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "certsocietegenerale/IRM",
+    "url": "https://github.com/certsocietegenerale/IRM"
+  },
+  {
+    "title": "0xmaximus/Galaxy-Bugbounty-Checklist",
+    "url": "https://github.com/0xmaximus/Galaxy-Bugbounty-Checklist"
+  },
+  {
+    "title": "huggingface/diffusion-models-class",
+    "url": "https://github.com/huggingface/diffusion-models-class",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "kentcdodds/react-fundamentals",
+    "url": "https://github.com/kentcdodds/react-fundamentals",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "lang": "Go"
+  },
+  {
+    "title": "prowler-cloud/prowler",
+    "url": "https://github.com/prowler-cloud/prowler",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/point-e",
+    "url": "https://github.com/openai/point-e",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/metaseq",
+    "url": "https://github.com/facebookresearch/metaseq",
+    "lang": "Python"
+  },
+  {
+    "title": "adobe-research/custom-diffusion",
+    "url": "https://github.com/adobe-research/custom-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "recloudstream/cloudstream",
+    "url": "https://github.com/recloudstream/cloudstream",
+    "lang": "Kotlin"
+  }
+]
