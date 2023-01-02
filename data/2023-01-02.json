@@ -1,0 +1,122 @@
+[
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "lang": "Python"
+  },
+  {
+    "title": "DarkFlippers/unleashed-firmware",
+    "url": "https://github.com/DarkFlippers/unleashed-firmware",
+    "lang": "C"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "google/osv-scanner",
+    "url": "https://github.com/google/osv-scanner",
+    "lang": "Go"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "lang": "Rust"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "lang": "Python"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "title": "Ebazhanov/linkedin-skill-assessments-quizzes",
+    "url": "https://github.com/Ebazhanov/linkedin-skill-assessments-quizzes",
+    "lang": "Python"
+  },
+  {
+    "title": "ocornut/imgui",
+    "url": "https://github.com/ocornut/imgui",
+    "lang": "C++"
+  },
+  {
+    "title": "AmruthPillai/Reactive-Resume",
+    "url": "https://github.com/AmruthPillai/Reactive-Resume",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "PRQL/prql",
+    "url": "https://github.com/PRQL/prql",
+    "lang": "Rust"
+  },
+  {
+    "title": "A-poc/RedTeam-Tools",
+    "url": "https://github.com/A-poc/RedTeam-Tools"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "lang": "Python"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+  },
+  {
+    "title": "aurae-runtime/aurae",
+    "url": "https://github.com/aurae-runtime/aurae",
+    "lang": "Rust"
+  },
+  {
+    "title": "zlib-searcher/zlib-searcher",
+    "url": "https://github.com/zlib-searcher/zlib-searcher",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "BrunoLevy/learn-fpga",
+    "url": "https://github.com/BrunoLevy/learn-fpga",
+    "lang": "C++"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "lang": "Go"
+  },
+  {
+    "title": "freeCodeCamp/freeCodeCamp",
+    "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Atlas-OS/Atlas",
+    "url": "https://github.com/Atlas-OS/Atlas",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "SheerSt/pokewilds",
+    "url": "https://github.com/SheerSt/pokewilds",
+    "lang": "Assembly"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  }
+]
