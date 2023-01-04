@@ -1,0 +1,123 @@
+[
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "neonbjb/tortoise-tts",
+    "url": "https://github.com/neonbjb/tortoise-tts",
+    "lang": "Python"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell"
+  },
+  {
+    "title": "mouredev/retos-programacion-2023",
+    "url": "https://github.com/mouredev/retos-programacion-2023",
+    "lang": "Python"
+  },
+  {
+    "title": "bigscience-workshop/petals",
+    "url": "https://github.com/bigscience-workshop/petals",
+    "lang": "Python"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-React",
+    "url": "https://github.com/Asabeneh/30-Days-Of-React",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "gluon-framework/gluon",
+    "url": "https://github.com/gluon-framework/gluon",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "lang": "Python"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "godly-devotion/MochiDiffusion",
+    "url": "https://github.com/godly-devotion/MochiDiffusion",
+    "lang": "Swift"
+  },
+  {
+    "title": "A-poc/RedTeam-Tools",
+    "url": "https://github.com/A-poc/RedTeam-Tools"
+  },
+  {
+    "title": "easychen/stack-roadmap",
+    "url": "https://github.com/easychen/stack-roadmap",
+    "lang": "PHP"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "pola-rs/polars",
+    "url": "https://github.com/pola-rs/polars",
+    "lang": "Rust"
+  },
+  {
+    "title": "mxssl/sre-interview-prep-guide",
+    "url": "https://github.com/mxssl/sre-interview-prep-guide"
+  },
+  {
+    "title": "priyankavergadia/GCPSketchnote",
+    "url": "https://github.com/priyankavergadia/GCPSketchnote"
+  },
+  {
+    "title": "ashemery/exploitation-course",
+    "url": "https://github.com/ashemery/exploitation-course",
+    "lang": "Python"
+  },
+  {
+    "title": "nvm-sh/nvm",
+    "url": "https://github.com/nvm-sh/nvm",
+    "lang": "Shell"
+  },
+  {
+    "title": "kubernetes/minikube",
+    "url": "https://github.com/kubernetes/minikube",
+    "lang": "Go"
+  },
+  {
+    "title": "starkoora/wanted-pre-onboarding-challenge-fe-1-api",
+    "url": "https://github.com/starkoora/wanted-pre-onboarding-challenge-fe-1-api",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "withastro/astro",
+    "url": "https://github.com/withastro/astro",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "github/docs",
+    "url": "https://github.com/github/docs",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "airbnb/javascript",
+    "url": "https://github.com/airbnb/javascript",
+    "lang": "JavaScript"
+  }
+]
