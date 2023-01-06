@@ -1,0 +1,123 @@
+[
+  {
+    "title": "gz-yami/mall4cloud",
+    "url": "https://github.com/gz-yami/mall4cloud",
+    "lang": "Vue"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "lang": "Python"
+  },
+  {
+    "title": "sourcegraph/conc",
+    "url": "https://github.com/sourcegraph/conc",
+    "lang": "Go"
+  },
+  {
+    "title": "ambrosiogabe/MathAnimation",
+    "url": "https://github.com/ambrosiogabe/MathAnimation",
+    "lang": "C++"
+  },
+  {
+    "title": "protocolbuffers/protobuf",
+    "url": "https://github.com/protocolbuffers/protobuf",
+    "lang": "C++"
+  },
+  {
+    "title": "score-spec/spec",
+    "url": "https://github.com/score-spec/spec"
+  },
+  {
+    "title": "papers-we-love/papers-we-love",
+    "url": "https://github.com/papers-we-love/papers-we-love",
+    "lang": "Shell"
+  },
+  {
+    "title": "testerSunshine/12306",
+    "url": "https://github.com/testerSunshine/12306",
+    "lang": "Python"
+  },
+  {
+    "title": "MuhammedKalkan/OpenLens",
+    "url": "https://github.com/MuhammedKalkan/OpenLens",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Z4nzu/hackingtool",
+    "url": "https://github.com/Z4nzu/hackingtool",
+    "lang": "Python"
+  },
+  {
+    "title": "alan2207/bulletproof-react",
+    "url": "https://github.com/alan2207/bulletproof-react",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "rmcelreath/stat_rethinking_2023",
+    "url": "https://github.com/rmcelreath/stat_rethinking_2023"
+  },
+  {
+    "title": "testcontainers/testcontainers-java",
+    "url": "https://github.com/testcontainers/testcontainers-java",
+    "lang": "Java"
+  },
+  {
+    "title": "confluentinc/librdkafka",
+    "url": "https://github.com/confluentinc/librdkafka",
+    "lang": "C"
+  },
+  {
+    "title": "itwanger/toBeBetterJavaer",
+    "url": "https://github.com/itwanger/toBeBetterJavaer",
+    "lang": "Java"
+  },
+  {
+    "title": "dotnet/aspnetcore",
+    "url": "https://github.com/dotnet/aspnetcore",
+    "lang": "C#"
+  },
+  {
+    "title": "hashicorp/nomad",
+    "url": "https://github.com/hashicorp/nomad",
+    "lang": "Go"
+  },
+  {
+    "title": "HalseySpicy/Geeker-Admin",
+    "url": "https://github.com/HalseySpicy/Geeker-Admin",
+    "lang": "Vue"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "swaggo/swag",
+    "url": "https://github.com/swaggo/swag",
+    "lang": "Go"
+  },
+  {
+    "title": "influxdata/telegraf",
+    "url": "https://github.com/influxdata/telegraf",
+    "lang": "Go"
+  },
+  {
+    "title": "Azure/azure-sdk-for-net",
+    "url": "https://github.com/Azure/azure-sdk-for-net"
+  },
+  {
+    "title": "kubernetes/minikube",
+    "url": "https://github.com/kubernetes/minikube",
+    "lang": "Go"
+  }
+]
