@@ -1,0 +1,119 @@
+[
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "Python"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "WhatsApp/proxy",
+    "url": "https://github.com/WhatsApp/proxy",
+    "lang": "Shell"
+  },
+  {
+    "title": "EddieHubCommunity/LinkFree",
+    "url": "https://github.com/EddieHubCommunity/LinkFree",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "jwasham/coding-interview-university",
+    "url": "https://github.com/jwasham/coding-interview-university"
+  },
+  {
+    "title": "XTLS/Xray-core",
+    "url": "https://github.com/XTLS/Xray-core",
+    "lang": "Go"
+  },
+  {
+    "title": "pi-apps/PiOS",
+    "url": "https://github.com/pi-apps/PiOS"
+  },
+  {
+    "title": "THUDM/GLM-130B",
+    "url": "https://github.com/THUDM/GLM-130B",
+    "lang": "Python"
+  },
+  {
+    "title": "krishnaik06/6-Months-Data-Science-Roadmap-",
+    "url": "https://github.com/krishnaik06/6-Months-Data-Science-Roadmap-"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "obsproject/obs-studio",
+    "url": "https://github.com/obsproject/obs-studio",
+    "lang": "C"
+  },
+  {
+    "title": "hyprwm/Hyprland",
+    "url": "https://github.com/hyprwm/Hyprland",
+    "lang": "C++"
+  },
+  {
+    "title": "OpenBB-finance/OpenBBTerminal",
+    "url": "https://github.com/OpenBB-finance/OpenBBTerminal",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "tw93/Pake",
+    "url": "https://github.com/tw93/Pake",
+    "lang": "Rust"
+  },
+  {
+    "title": "komeilmehranfar/visa-sponsers-companies-for-iranians",
+    "url": "https://github.com/komeilmehranfar/visa-sponsers-companies-for-iranians"
+  },
+  {
+    "title": "ACM-Alexandria-SC/Internships",
+    "url": "https://github.com/ACM-Alexandria-SC/Internships"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "qmk/qmk_firmware",
+    "url": "https://github.com/qmk/qmk_firmware",
+    "lang": "C"
+  },
+  {
+    "title": "Snapchat/KeyDB",
+    "url": "https://github.com/Snapchat/KeyDB",
+    "lang": "C++"
+  },
+  {
+    "title": "VoronDesign/VoronUsers",
+    "url": "https://github.com/VoronDesign/VoronUsers",
+    "lang": "GAP"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "lang": "JavaScript"
+  }
+]
