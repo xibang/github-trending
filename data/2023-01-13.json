@@ -1,0 +1,125 @@
+[
+  {
+    "title": "ultralytics/ultralytics",
+    "url": "https://github.com/ultralytics/ultralytics",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++"
+  },
+  {
+    "title": "shobrook/adrenaline",
+    "url": "https://github.com/shobrook/adrenaline",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pointfreeco/swift-dependencies",
+    "url": "https://github.com/pointfreeco/swift-dependencies",
+    "lang": "Swift"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "lang": "Python"
+  },
+  {
+    "title": "sismo-core/sismo-protocol",
+    "url": "https://github.com/sismo-core/sismo-protocol",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "Sanster/lama-cleaner",
+    "url": "https://github.com/Sanster/lama-cleaner",
+    "lang": "Python"
+  },
+  {
+    "title": "amitshekhariitbhu/go-backend-clean-architecture",
+    "url": "https://github.com/amitshekhariitbhu/go-backend-clean-architecture",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/Web-Dev-For-Beginners",
+    "url": "https://github.com/microsoft/Web-Dev-For-Beginners",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "dotnet/core",
+    "url": "https://github.com/dotnet/core",
+    "lang": "PowerShell"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "lang": "Go"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "lang": "Python"
+  },
+  {
+    "title": "odoo/odoo",
+    "url": "https://github.com/odoo/odoo",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "tallyhowallet/extension",
+    "url": "https://github.com/tallyhowallet/extension",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "JuanCrg90/Clean-Code-Notes",
+    "url": "https://github.com/JuanCrg90/Clean-Code-Notes"
+  },
+  {
+    "title": "gragland/chatgpt-chrome-extension",
+    "url": "https://github.com/gragland/chatgpt-chrome-extension",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "Python"
+  },
+  {
+    "title": "tweedegolf/101-rs",
+    "url": "https://github.com/tweedegolf/101-rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "Bssn520/AnimationAutoUpdate",
+    "url": "https://github.com/Bssn520/AnimationAutoUpdate"
+  },
+  {
+    "title": "ToolJet/ToolJet",
+    "url": "https://github.com/ToolJet/ToolJet",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "kubernetes/enhancements",
+    "url": "https://github.com/kubernetes/enhancements",
+    "lang": "Go"
+  },
+  {
+    "title": "vectordotdev/vector",
+    "url": "https://github.com/vectordotdev/vector",
+    "lang": "Rust"
+  }
+]
