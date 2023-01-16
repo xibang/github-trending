@@ -1,0 +1,125 @@
+[
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "lang": "Shell"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "lang": "Python"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "leptos-rs/leptos",
+    "url": "https://github.com/leptos-rs/leptos",
+    "lang": "Rust"
+  },
+  {
+    "title": "Slackadays/Clipboard",
+    "url": "https://github.com/Slackadays/Clipboard",
+    "lang": "C++"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "jart/blink",
+    "url": "https://github.com/jart/blink",
+    "lang": "C"
+  },
+  {
+    "title": "ventoy/Ventoy",
+    "url": "https://github.com/ventoy/Ventoy",
+    "lang": "C"
+  },
+  {
+    "title": "elk-zone/elk",
+    "url": "https://github.com/elk-zone/elk",
+    "lang": "Vue"
+  },
+  {
+    "title": "cloudflare/wildebeest",
+    "url": "https://github.com/cloudflare/wildebeest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "danielgross/whatsapp-gpt",
+    "url": "https://github.com/danielgross/whatsapp-gpt",
+    "lang": "Go"
+  },
+  {
+    "title": "tweedegolf/101-rs",
+    "url": "https://github.com/tweedegolf/101-rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "open-duelyst/duelyst",
+    "url": "https://github.com/open-duelyst/duelyst",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "ai-collection/ai-collection",
+    "url": "https://github.com/ai-collection/ai-collection"
+  },
+  {
+    "title": "ehulinsky/AnalogChess",
+    "url": "https://github.com/ehulinsky/AnalogChess",
+    "lang": "Python"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "lang": "Rust"
+  },
+  {
+    "title": "ryanmcdermott/clean-code-javascript",
+    "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "jucasoliveira/terminalGPT",
+    "url": "https://github.com/jucasoliveira/terminalGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "nocodb/nocodb",
+    "url": "https://github.com/nocodb/nocodb",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "lang": "Rust"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "lang": "Rust"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  }
+]
