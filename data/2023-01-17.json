@@ -1,0 +1,122 @@
+[
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "juspay/hyperswitch",
+    "url": "https://github.com/juspay/hyperswitch",
+    "lang": "Rust"
+  },
+  {
+    "title": "novuhq/novu",
+    "url": "https://github.com/novuhq/novu",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sveltejs/kit",
+    "url": "https://github.com/sveltejs/kit",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sickcodes/Docker-OSX",
+    "url": "https://github.com/sickcodes/Docker-OSX",
+    "lang": "Shell"
+  },
+  {
+    "title": "wangkechun/go-by-example",
+    "url": "https://github.com/wangkechun/go-by-example",
+    "lang": "Go"
+  },
+  {
+    "title": "williamyang1991/VToonify",
+    "url": "https://github.com/williamyang1991/VToonify",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "massgravel/Microsoft-Activation-Scripts",
+    "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "steven-tey/precedent",
+    "url": "https://github.com/steven-tey/precedent",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ai-collection/ai-collection",
+    "url": "https://github.com/ai-collection/ai-collection"
+  },
+  {
+    "title": "helium/denylist",
+    "url": "https://github.com/helium/denylist"
+  },
+  {
+    "title": "Slackadays/Clipboard",
+    "url": "https://github.com/Slackadays/Clipboard",
+    "lang": "C++"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "pi-hole/pi-hole",
+    "url": "https://github.com/pi-hole/pi-hole",
+    "lang": "Shell"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference"
+  },
+  {
+    "title": "jerryjliu/gpt_index",
+    "url": "https://github.com/jerryjliu/gpt_index",
+    "lang": "Python"
+  },
+  {
+    "title": "jucasoliveira/terminalGPT",
+    "url": "https://github.com/jucasoliveira/terminalGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "lang": "Rust"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "lang": "Python"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "lang": "HTML"
+  },
+  {
+    "title": "termux/termux-packages",
+    "url": "https://github.com/termux/termux-packages",
+    "lang": "Shell"
+  },
+  {
+    "title": "imDazui/Tvlist-awesome-m3u-m3u8",
+    "url": "https://github.com/imDazui/Tvlist-awesome-m3u-m3u8"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "Grasscutters/Grasscutter",
+    "url": "https://github.com/Grasscutters/Grasscutter",
+    "lang": "Java"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  }
+]
