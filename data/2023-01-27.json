@@ -1,0 +1,125 @@
+[
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "TheAppleTucker/backend-GPT",
+    "url": "https://github.com/TheAppleTucker/backend-GPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons"
+  },
+  {
+    "title": "dani-garcia/vaultwarden",
+    "url": "https://github.com/dani-garcia/vaultwarden",
+    "lang": "Rust"
+  },
+  {
+    "title": "DaviMarta/Automatiza-o",
+    "url": "https://github.com/DaviMarta/Automatiza-o",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "PowerShell/PowerShell",
+    "url": "https://github.com/PowerShell/PowerShell",
+    "lang": "C#"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "initialcommit-com/git-sim",
+    "url": "https://github.com/initialcommit-com/git-sim",
+    "lang": "Python"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/terminal",
+    "url": "https://github.com/microsoft/terminal",
+    "lang": "C++"
+  },
+  {
+    "title": "calcom/cal.com",
+    "url": "https://github.com/calcom/cal.com",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "bradtraversy/50projects50days",
+    "url": "https://github.com/bradtraversy/50projects50days",
+    "lang": "CSS"
+  },
+  {
+    "title": "deepmap/oapi-codegen",
+    "url": "https://github.com/deepmap/oapi-codegen",
+    "lang": "Go"
+  },
+  {
+    "title": "aptos-labs/aptos-core",
+    "url": "https://github.com/aptos-labs/aptos-core",
+    "lang": "Rust"
+  },
+  {
+    "title": "udlbook/udlbook",
+    "url": "https://github.com/udlbook/udlbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "n00mkrad/text2image-gui",
+    "url": "https://github.com/n00mkrad/text2image-gui",
+    "lang": "C#"
+  },
+  {
+    "title": "pytorch/pytorch",
+    "url": "https://github.com/pytorch/pytorch",
+    "lang": "C++"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "lang": "Lua"
+  },
+  {
+    "title": "Liuhaixv/Goose_Goose_Duck_Hack",
+    "url": "https://github.com/Liuhaixv/Goose_Goose_Duck_Hack",
+    "lang": "C++"
+  },
+  {
+    "title": "nuxt/nuxt",
+    "url": "https://github.com/nuxt/nuxt",
+    "lang": "TypeScript"
+  }
+]
