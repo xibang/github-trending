@@ -1,0 +1,125 @@
+[
+  {
+    "title": "shadcn/ui",
+    "url": "https://github.com/shadcn/ui",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheAppleTucker/backend-GPT",
+    "url": "https://github.com/TheAppleTucker/backend-GPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "AzeemIdrisi/PhoneSploit-Pro",
+    "url": "https://github.com/AzeemIdrisi/PhoneSploit-Pro",
+    "lang": "Python"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "flutter/news_toolkit",
+    "url": "https://github.com/flutter/news_toolkit",
+    "lang": "Dart"
+  },
+  {
+    "title": "HexRaysSA/goomba",
+    "url": "https://github.com/HexRaysSA/goomba",
+    "lang": "C++"
+  },
+  {
+    "title": "flutter/flutter",
+    "url": "https://github.com/flutter/flutter",
+    "lang": "Dart"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "karpathy/nn-zero-to-hero",
+    "url": "https://github.com/karpathy/nn-zero-to-hero",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "localsend/localsend",
+    "url": "https://github.com/localsend/localsend",
+    "lang": "Dart"
+  },
+  {
+    "title": "google/material-design-icons",
+    "url": "https://github.com/google/material-design-icons"
+  },
+  {
+    "title": "huggingface/transformers",
+    "url": "https://github.com/huggingface/transformers",
+    "lang": "Python"
+  },
+  {
+    "title": "dortania/OpenCore-Legacy-Patcher",
+    "url": "https://github.com/dortania/OpenCore-Legacy-Patcher",
+    "lang": "Python"
+  },
+  {
+    "title": "evrone/go-clean-template",
+    "url": "https://github.com/evrone/go-clean-template",
+    "lang": "Go"
+  },
+  {
+    "title": "daveshap/LongtermChatExternalSources",
+    "url": "https://github.com/daveshap/LongtermChatExternalSources",
+    "lang": "Python"
+  },
+  {
+    "title": "jlevy/the-art-of-command-line",
+    "url": "https://github.com/jlevy/the-art-of-command-line"
+  },
+  {
+    "title": "ripienaar/free-for-dev",
+    "url": "https://github.com/ripienaar/free-for-dev",
+    "lang": "HTML"
+  },
+  {
+    "title": "catchorg/Catch2",
+    "url": "https://github.com/catchorg/Catch2",
+    "lang": "C++"
+  },
+  {
+    "title": "dotnet/efcore",
+    "url": "https://github.com/dotnet/efcore",
+    "lang": "C#"
+  },
+  {
+    "title": "trufflesecurity/trufflehog",
+    "url": "https://github.com/trufflesecurity/trufflehog",
+    "lang": "Go"
+  },
+  {
+    "title": "facebook/jest",
+    "url": "https://github.com/facebook/jest",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "t3-oss/create-t3-turbo",
+    "url": "https://github.com/t3-oss/create-t3-turbo",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Mokshit06/typewind",
+    "url": "https://github.com/Mokshit06/typewind",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "bridgecrewio/checkov",
+    "url": "https://github.com/bridgecrewio/checkov",
+    "lang": "Python"
+  }
+]
