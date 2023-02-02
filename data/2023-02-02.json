@@ -1,0 +1,121 @@
+[
+  {
+    "title": "fathyb/carbonyl",
+    "url": "https://github.com/fathyb/carbonyl",
+    "lang": "Rust"
+  },
+  {
+    "title": "casey/ord",
+    "url": "https://github.com/casey/ord",
+    "lang": "Rust"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "lang": "C++"
+  },
+  {
+    "title": "helm/helm",
+    "url": "https://github.com/helm/helm",
+    "lang": "Go"
+  },
+  {
+    "title": "apitable/apitable",
+    "url": "https://github.com/apitable/apitable",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fish-shell/fish-shell",
+    "url": "https://github.com/fish-shell/fish-shell",
+    "lang": "C++"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide",
+    "url": "https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide"
+  },
+  {
+    "title": "cxasm/notepad--",
+    "url": "https://github.com/cxasm/notepad--",
+    "lang": "C++"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "ant-design/ant-design",
+    "url": "https://github.com/ant-design/ant-design",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "archinetai/audio-ai-timeline",
+    "url": "https://github.com/archinetai/audio-ai-timeline"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "goldbergyoni/nodebestpractices",
+    "url": "https://github.com/goldbergyoni/nodebestpractices",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "microsoft/Data-Science-For-Beginners",
+    "url": "https://github.com/microsoft/Data-Science-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Anduin2017/HowToCook",
+    "url": "https://github.com/Anduin2017/HowToCook",
+    "lang": "HTML"
+  },
+  {
+    "title": "Cysharp/SimdLinq",
+    "url": "https://github.com/Cysharp/SimdLinq",
+    "lang": "C#"
+  },
+  {
+    "title": "spring-projects/spring-boot",
+    "url": "https://github.com/spring-projects/spring-boot",
+    "lang": "Java"
+  },
+  {
+    "title": "lucidrains/musiclm-pytorch",
+    "url": "https://github.com/lucidrains/musiclm-pytorch",
+    "lang": "Python"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "iluwatar/java-design-patterns",
+    "url": "https://github.com/iluwatar/java-design-patterns",
+    "lang": "Java"
+  },
+  {
+    "title": "fuergaosi233/wechat-chatgpt",
+    "url": "https://github.com/fuergaosi233/wechat-chatgpt",
+    "lang": "TypeScript"
+  }
+]
