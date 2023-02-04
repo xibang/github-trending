@@ -1,0 +1,119 @@
+[
+  {
+    "title": "snesrev/zelda3",
+    "url": "https://github.com/snesrev/zelda3",
+    "lang": "C"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "microsoft/winget-cli",
+    "url": "https://github.com/microsoft/winget-cli",
+    "lang": "C++"
+  },
+  {
+    "title": "bnb-chain/greenfield-whitepaper",
+    "url": "https://github.com/bnb-chain/greenfield-whitepaper"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "lang": "Java"
+  },
+  {
+    "title": "damus-io/damus",
+    "url": "https://github.com/damus-io/damus",
+    "lang": "Swift"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path"
+  },
+  {
+    "title": "iperov/DeepFaceLive",
+    "url": "https://github.com/iperov/DeepFaceLive",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/BioGPT",
+    "url": "https://github.com/microsoft/BioGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "varunshenoy/GraphGPT",
+    "url": "https://github.com/varunshenoy/GraphGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "apitable/apitable",
+    "url": "https://github.com/apitable/apitable",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "golang/go",
+    "url": "https://github.com/golang/go",
+    "lang": "Go"
+  },
+  {
+    "title": "karpathy/nanoGPT",
+    "url": "https://github.com/karpathy/nanoGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mtdvio/every-programmer-should-know",
+    "url": "https://github.com/mtdvio/every-programmer-should-know"
+  },
+  {
+    "title": "studio-freight/lenis",
+    "url": "https://github.com/studio-freight/lenis",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "archinetai/audio-ai-timeline",
+    "url": "https://github.com/archinetai/audio-ai-timeline"
+  },
+  {
+    "title": "triggerdotdev/trigger.dev",
+    "url": "https://github.com/triggerdotdev/trigger.dev",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr"
+  },
+  {
+    "title": "waylaidwanderer/node-chatgpt-api",
+    "url": "https://github.com/waylaidwanderer/node-chatgpt-api",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "GitHubDaily/GitHubDaily",
+    "url": "https://github.com/GitHubDaily/GitHubDaily"
+  }
+]
