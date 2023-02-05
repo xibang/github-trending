@@ -1,0 +1,119 @@
+[
+  {
+    "title": "damus-io/damus",
+    "url": "https://github.com/damus-io/damus",
+    "lang": "Swift"
+  },
+  {
+    "title": "Cameri/nostream",
+    "url": "https://github.com/Cameri/nostream",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "nostr-protocol/nostr",
+    "url": "https://github.com/nostr-protocol/nostr"
+  },
+  {
+    "title": "A-poc/RedTeam-Tools",
+    "url": "https://github.com/A-poc/RedTeam-Tools"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide"
+  },
+  {
+    "title": "ben1234560/k8s_PaaS",
+    "url": "https://github.com/ben1234560/k8s_PaaS",
+    "lang": "Shell"
+  },
+  {
+    "title": "ossu/computer-science",
+    "url": "https://github.com/ossu/computer-science"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "daveshap/raven",
+    "url": "https://github.com/daveshap/raven",
+    "lang": "Python"
+  },
+  {
+    "title": "nostr-protocol/nips",
+    "url": "https://github.com/nostr-protocol/nips"
+  },
+  {
+    "title": "acheong08/ChatGPT",
+    "url": "https://github.com/acheong08/ChatGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "aljazceru/awesome-nostr",
+    "url": "https://github.com/aljazceru/awesome-nostr"
+  },
+  {
+    "title": "snesrev/zelda3",
+    "url": "https://github.com/snesrev/zelda3",
+    "lang": "C"
+  },
+  {
+    "title": "wangrongding/wechat-bot",
+    "url": "https://github.com/wangrongding/wechat-bot",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "vitorpamplona/amethyst",
+    "url": "https://github.com/vitorpamplona/amethyst",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "krahets/hello-algo",
+    "url": "https://github.com/krahets/hello-algo",
+    "lang": "Java"
+  },
+  {
+    "title": "xmrig/xmrig",
+    "url": "https://github.com/xmrig/xmrig",
+    "lang": "C"
+  },
+  {
+    "title": "apache/linkis",
+    "url": "https://github.com/apache/linkis",
+    "lang": "Java"
+  },
+  {
+    "title": "fffaraz/awesome-cpp",
+    "url": "https://github.com/fffaraz/awesome-cpp"
+  },
+  {
+    "title": "techiescamp/kubernetes-learning-path",
+    "url": "https://github.com/techiescamp/kubernetes-learning-path"
+  },
+  {
+    "title": "vitejs/vite",
+    "url": "https://github.com/vitejs/vite",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "lang": "C"
+  }
+]
