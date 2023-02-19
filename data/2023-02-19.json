@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "NAStool/nas-tools",
+    "url": "https://github.com/NAStool/nas-tools"
+  },
+  {
+    "title": "lllyasviel/style2paints",
+    "url": "https://github.com/lllyasviel/style2paints",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "lang": "Python"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "slawlor/ractor",
+    "url": "https://github.com/slawlor/ractor",
+    "lang": "Rust"
+  },
+  {
+    "title": "DrKLO/Telegram",
+    "url": "https://github.com/DrKLO/Telegram",
+    "lang": "Java"
+  },
+  {
+    "title": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "lang": "Python"
+  },
+  {
+    "title": "palera1n/palera1n",
+    "url": "https://github.com/palera1n/palera1n",
+    "lang": "Shell"
+  },
+  {
+    "title": "NvChad/NvChad",
+    "url": "https://github.com/NvChad/NvChad",
+    "lang": "Lua"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "lang": "Vue"
+  },
+  {
+    "title": "skywind3000/kcp",
+    "url": "https://github.com/skywind3000/kcp",
+    "lang": "C"
+  },
+  {
+    "title": "cfortuner/promptable",
+    "url": "https://github.com/cfortuner/promptable",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "realm/SwiftLint",
+    "url": "https://github.com/realm/SwiftLint",
+    "lang": "Swift"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "laravel/laravel",
+    "url": "https://github.com/laravel/laravel",
+    "lang": "PHP"
+  },
+  {
+    "title": "rerun-io/rerun",
+    "url": "https://github.com/rerun-io/rerun",
+    "lang": "Rust"
+  },
+  {
+    "title": "antlr/grammars-v4",
+    "url": "https://github.com/antlr/grammars-v4",
+    "lang": "ANTLR"
+  },
+  {
+    "title": "gradio-app/gradio",
+    "url": "https://github.com/gradio-app/gradio",
+    "lang": "HTML"
+  },
+  {
+    "title": "d2l-ai/d2l-zh",
+    "url": "https://github.com/d2l-ai/d2l-zh",
+    "lang": "Python"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  }
+]
