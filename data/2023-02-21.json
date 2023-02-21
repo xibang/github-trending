@@ -1,0 +1,124 @@
+[
+  {
+    "title": "askrella/whatsapp-chatgpt",
+    "url": "https://github.com/askrella/whatsapp-chatgpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "ytdl-org/youtube-dl",
+    "url": "https://github.com/ytdl-org/youtube-dl",
+    "lang": "Python"
+  },
+  {
+    "title": "yt-dlp/yt-dlp",
+    "url": "https://github.com/yt-dlp/yt-dlp",
+    "lang": "Python"
+  },
+  {
+    "title": "jaymody/picoGPT",
+    "url": "https://github.com/jaymody/picoGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "lllyasviel/ControlNet",
+    "url": "https://github.com/lllyasviel/ControlNet",
+    "lang": "Python"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "lang": "Python"
+  },
+  {
+    "title": "CompVis/stable-diffusion",
+    "url": "https://github.com/CompVis/stable-diffusion",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "trpc/trpc",
+    "url": "https://github.com/trpc/trpc",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "Astro"
+  },
+  {
+    "title": "hwchase17/langchainjs",
+    "url": "https://github.com/hwchase17/langchainjs",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "LazyVim/LazyVim",
+    "url": "https://github.com/LazyVim/LazyVim",
+    "lang": "Lua"
+  },
+  {
+    "title": "replicate/scribble-diffusion",
+    "url": "https://github.com/replicate/scribble-diffusion",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Free-TV/IPTV",
+    "url": "https://github.com/Free-TV/IPTV",
+    "lang": "Python"
+  },
+  {
+    "title": "nvim-lua/kickstart.nvim",
+    "url": "https://github.com/nvim-lua/kickstart.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "microsoft/hack-together",
+    "url": "https://github.com/microsoft/hack-together",
+    "lang": "C#"
+  },
+  {
+    "title": "practical-tutorials/project-based-learning",
+    "url": "https://github.com/practical-tutorials/project-based-learning"
+  },
+  {
+    "title": "huggingface/diffusers",
+    "url": "https://github.com/huggingface/diffusers",
+    "lang": "Python"
+  },
+  {
+    "title": "Learn-with-Sumit/think-in-a-redux-way",
+    "url": "https://github.com/Learn-with-Sumit/think-in-a-redux-way"
+  },
+  {
+    "title": "TencentARC/GFPGAN",
+    "url": "https://github.com/TencentARC/GFPGAN",
+    "lang": "Python"
+  },
+  {
+    "title": "civitai/sd_civitai_extension",
+    "url": "https://github.com/civitai/sd_civitai_extension",
+    "lang": "Python"
+  },
+  {
+    "title": "XTLS/REALITY",
+    "url": "https://github.com/XTLS/REALITY",
+    "lang": "Go"
+  },
+  {
+    "title": "sczhou/CodeFormer",
+    "url": "https://github.com/sczhou/CodeFormer",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "leptos-rs/leptos",
+    "url": "https://github.com/leptos-rs/leptos",
+    "lang": "Rust"
+  }
+]
