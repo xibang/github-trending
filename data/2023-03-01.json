@@ -1,0 +1,124 @@
+[
+  {
+    "title": "vlang/v",
+    "url": "https://github.com/vlang/v",
+    "lang": "V"
+  },
+  {
+    "title": "whitead/paper-qa",
+    "url": "https://github.com/whitead/paper-qa",
+    "lang": "Python"
+  },
+  {
+    "title": "usememos/memos",
+    "url": "https://github.com/usememos/memos",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "lang": "Python"
+  },
+  {
+    "title": "google/comprehensive-rust",
+    "url": "https://github.com/google/comprehensive-rust",
+    "lang": "Rust"
+  },
+  {
+    "title": "damo-vilab/composer",
+    "url": "https://github.com/damo-vilab/composer"
+  },
+  {
+    "title": "MakiNaruto/Automatic_ticket_purchase",
+    "url": "https://github.com/MakiNaruto/Automatic_ticket_purchase",
+    "lang": "Python"
+  },
+  {
+    "title": "AnTi-anti/damai_ticket",
+    "url": "https://github.com/AnTi-anti/damai_ticket",
+    "lang": "Python"
+  },
+  {
+    "title": "VinsonLaro/stable-diffusion-webui-chinese",
+    "url": "https://github.com/VinsonLaro/stable-diffusion-webui-chinese"
+  },
+  {
+    "title": "NVlabs/VoxFormer",
+    "url": "https://github.com/NVlabs/VoxFormer"
+  },
+  {
+    "title": "awesome-selfhosted/awesome-selfhosted",
+    "url": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+    "lang": "Makefile"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "lang": "Vue"
+  },
+  {
+    "title": "Infisical/infisical",
+    "url": "https://github.com/Infisical/infisical",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ntdevlabs/tiny11builder",
+    "url": "https://github.com/ntdevlabs/tiny11builder",
+    "lang": "Batchfile"
+  },
+  {
+    "title": "henryhu712/technote",
+    "url": "https://github.com/henryhu712/technote",
+    "lang": "HTML"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "immich-app/immich",
+    "url": "https://github.com/immich-app/immich",
+    "lang": "Dart"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "cloudquery/cloudquery",
+    "url": "https://github.com/cloudquery/cloudquery",
+    "lang": "Go"
+  },
+  {
+    "title": "memochou1993/gpt-ai-assistant",
+    "url": "https://github.com/memochou1993/gpt-ai-assistant",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "odomu/aliyunpan",
+    "url": "https://github.com/odomu/aliyunpan",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "vuejs/vue",
+    "url": "https://github.com/vuejs/vue",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gojue/ecapture",
+    "url": "https://github.com/gojue/ecapture",
+    "lang": "C"
+  }
+]
