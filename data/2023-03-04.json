@@ -1,0 +1,126 @@
+[
+  {
+    "title": "openai/openai-python",
+    "url": "https://github.com/openai/openai-python",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "zhayujie/chatgpt-on-wechat",
+    "url": "https://github.com/zhayujie/chatgpt-on-wechat",
+    "lang": "Python"
+  },
+  {
+    "title": "Chanzhaoyu/chatgpt-web",
+    "url": "https://github.com/Chanzhaoyu/chatgpt-web",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/unilm",
+    "url": "https://github.com/microsoft/unilm",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/whisper",
+    "url": "https://github.com/openai/whisper",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "mrsked/mrsk",
+    "url": "https://github.com/mrsked/mrsk",
+    "lang": "Ruby"
+  },
+  {
+    "title": "openai/openai-quickstart-python",
+    "url": "https://github.com/openai/openai-quickstart-python",
+    "lang": "CSS"
+  },
+  {
+    "title": "transitive-bullshit/chatgpt-api",
+    "url": "https://github.com/transitive-bullshit/chatgpt-api",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TheoKanning/openai-java",
+    "url": "https://github.com/TheoKanning/openai-java",
+    "lang": "Java"
+  },
+  {
+    "title": "mukulpatnaik/researchgpt",
+    "url": "https://github.com/mukulpatnaik/researchgpt",
+    "lang": "Python"
+  },
+  {
+    "title": "yihong0618/xiaogpt",
+    "url": "https://github.com/yihong0618/xiaogpt",
+    "lang": "Python"
+  },
+  {
+    "title": "ServiceWeaver/weaver",
+    "url": "https://github.com/ServiceWeaver/weaver",
+    "lang": "Go"
+  },
+  {
+    "title": "sashabaranov/go-gpt3",
+    "url": "https://github.com/sashabaranov/go-gpt3",
+    "lang": "Go"
+  },
+  {
+    "title": "openai/openai-node",
+    "url": "https://github.com/openai/openai-node",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "karfly/chatgpt_telegram_bot",
+    "url": "https://github.com/karfly/chatgpt_telegram_bot",
+    "lang": "Python"
+  },
+  {
+    "title": "betalgo/openai",
+    "url": "https://github.com/betalgo/openai",
+    "lang": "C#"
+  },
+  {
+    "title": "hiifeng/V2ray-for-Doprax",
+    "url": "https://github.com/hiifeng/V2ray-for-Doprax",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "microsoft/PowerToys",
+    "url": "https://github.com/microsoft/PowerToys",
+    "lang": "C#"
+  },
+  {
+    "title": "bregman-arie/devops-exercises",
+    "url": "https://github.com/bregman-arie/devops-exercises",
+    "lang": "Python"
+  },
+  {
+    "title": "willwulfken/MidJourney-Styles-and-Keywords-Reference",
+    "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference"
+  },
+  {
+    "title": "GrowingGit/GitHub-Chinese-Top-Charts",
+    "url": "https://github.com/GrowingGit/GitHub-Chinese-Top-Charts",
+    "lang": "Java"
+  },
+  {
+    "title": "Asabeneh/30-Days-Of-Python",
+    "url": "https://github.com/Asabeneh/30-Days-Of-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "CleverRaven/Cataclysm-DDA",
+    "url": "https://github.com/CleverRaven/Cataclysm-DDA",
+    "lang": "C++"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "lang": "Python"
+  }
+]
