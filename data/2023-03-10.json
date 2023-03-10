@@ -1,0 +1,117 @@
+[
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "lang": "Shell"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "TBXark/ChatGPT-Telegram-Workers",
+    "url": "https://github.com/TBXark/ChatGPT-Telegram-Workers",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "RustPython/RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "lang": "Rust"
+  },
+  {
+    "title": "Bearer/bearer",
+    "url": "https://github.com/Bearer/bearer",
+    "lang": "C"
+  },
+  {
+    "title": "DataTalksClub/data-engineering-zoomcamp",
+    "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "zinclabs/zincsearch",
+    "url": "https://github.com/zinclabs/zincsearch",
+    "lang": "Go"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "easychen/openai-gpt-dev-notes-for-cn-developer",
+    "url": "https://github.com/easychen/openai-gpt-dev-notes-for-cn-developer"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading"
+  },
+  {
+    "title": "boson-ai/homepage",
+    "url": "https://github.com/boson-ai/homepage",
+    "lang": "HTML"
+  },
+  {
+    "title": "NVlabs/prismer",
+    "url": "https://github.com/NVlabs/prismer",
+    "lang": "Python"
+  },
+  {
+    "title": "WordAsImage/Word-As-Image",
+    "url": "https://github.com/WordAsImage/Word-As-Image"
+  },
+  {
+    "title": "reorx/awesome-chatgpt-api",
+    "url": "https://github.com/reorx/awesome-chatgpt-api"
+  },
+  {
+    "title": "PlexPt/awesome-chatgpt-prompts-zh",
+    "url": "https://github.com/PlexPt/awesome-chatgpt-prompts-zh"
+  },
+  {
+    "title": "facebook/react-native",
+    "url": "https://github.com/facebook/react-native",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "moby/moby",
+    "url": "https://github.com/moby/moby",
+    "lang": "Go"
+  },
+  {
+    "title": "Blackymas/NSPanel_HA_Blueprint",
+    "url": "https://github.com/Blackymas/NSPanel_HA_Blueprint"
+  },
+  {
+    "title": "Avik-Jain/100-Days-Of-ML-Code",
+    "url": "https://github.com/Avik-Jain/100-Days-Of-ML-Code"
+  },
+  {
+    "title": "Developer-Y/cs-video-courses",
+    "url": "https://github.com/Developer-Y/cs-video-courses"
+  },
+  {
+    "title": "futantan/OpenGpt",
+    "url": "https://github.com/futantan/OpenGpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "fffaraz/awesome-cpp",
+    "url": "https://github.com/fffaraz/awesome-cpp"
+  },
+  {
+    "title": "alist-org/alist",
+    "url": "https://github.com/alist-org/alist",
+    "lang": "Go"
+  }
+]
