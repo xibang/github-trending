@@ -1,0 +1,122 @@
+[
+  {
+    "title": "davinci1010/pinduoduo_backdoor",
+    "url": "https://github.com/davinci1010/pinduoduo_backdoor"
+  },
+  {
+    "title": "TheLastBen/fast-stable-diffusion",
+    "url": "https://github.com/TheLastBen/fast-stable-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "anc95/writely",
+    "url": "https://github.com/anc95/writely",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Postcatlab/postcat",
+    "url": "https://github.com/Postcatlab/postcat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "RadekVyM/MarvelousMAUI",
+    "url": "https://github.com/RadekVyM/MarvelousMAUI",
+    "lang": "C#"
+  },
+  {
+    "title": "shawwn/llama-dl",
+    "url": "https://github.com/shawwn/llama-dl",
+    "lang": "Shell"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "nodejs/nodejs.org",
+    "url": "https://github.com/nodejs/nodejs.org",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "mli/paper-reading",
+    "url": "https://github.com/mli/paper-reading"
+  },
+  {
+    "title": "dpayne/CodeGPT.nvim",
+    "url": "https://github.com/dpayne/CodeGPT.nvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "openxla/xla",
+    "url": "https://github.com/openxla/xla",
+    "lang": "C++"
+  },
+  {
+    "title": "iptv-org/iptv",
+    "url": "https://github.com/iptv-org/iptv",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "qwopqwop200/GPTQ-for-LLaMa",
+    "url": "https://github.com/qwopqwop200/GPTQ-for-LLaMa",
+    "lang": "Python"
+  },
+  {
+    "title": "pydantic/pydantic",
+    "url": "https://github.com/pydantic/pydantic",
+    "lang": "Python"
+  },
+  {
+    "title": "OWASP/API-Security",
+    "url": "https://github.com/OWASP/API-Security"
+  },
+  {
+    "title": "yuezk/chatgpt-mirror",
+    "url": "https://github.com/yuezk/chatgpt-mirror",
+    "lang": "HTML"
+  },
+  {
+    "title": "jasontaylordev/CleanArchitecture",
+    "url": "https://github.com/jasontaylordev/CleanArchitecture",
+    "lang": "C#"
+  },
+  {
+    "title": "keijiro/AIShader",
+    "url": "https://github.com/keijiro/AIShader",
+    "lang": "C#"
+  },
+  {
+    "title": "webpack/webpack",
+    "url": "https://github.com/webpack/webpack",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "eugeneyan/applied-ml",
+    "url": "https://github.com/eugeneyan/applied-ml"
+  },
+  {
+    "title": "chibat/chrome-extension-typescript-starter",
+    "url": "https://github.com/chibat/chrome-extension-typescript-starter",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "guillaumekln/faster-whisper",
+    "url": "https://github.com/guillaumekln/faster-whisper",
+    "lang": "Python"
+  },
+  {
+    "title": "yuvalsuede/ai-component-generator",
+    "url": "https://github.com/yuvalsuede/ai-component-generator",
+    "lang": "TypeScript"
+  }
+]
