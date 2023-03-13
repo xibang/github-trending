@@ -1,0 +1,123 @@
+[
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "yetone/openai-translator",
+    "url": "https://github.com/yetone/openai-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "wong2/chatgpt-google-extension",
+    "url": "https://github.com/wong2/chatgpt-google-extension",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "caesarHQ/textSQL",
+    "url": "https://github.com/caesarHQ/textSQL",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "lang": "Java"
+  },
+  {
+    "title": "GanymedeNil/document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "lang": "Python"
+  },
+  {
+    "title": "camenduru/stable-diffusion-webui-colab",
+    "url": "https://github.com/camenduru/stable-diffusion-webui-colab",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ann-afame/DEVOPS-WORLD",
+    "url": "https://github.com/ann-afame/DEVOPS-WORLD"
+  },
+  {
+    "title": "web-infra-dev/rspack",
+    "url": "https://github.com/web-infra-dev/rspack",
+    "lang": "Rust"
+  },
+  {
+    "title": "kamranahmedse/developer-roadmap",
+    "url": "https://github.com/kamranahmedse/developer-roadmap",
+    "lang": "Astro"
+  },
+  {
+    "title": "randaller/llama-chat",
+    "url": "https://github.com/randaller/llama-chat",
+    "lang": "Python"
+  },
+  {
+    "title": "neovim/neovim",
+    "url": "https://github.com/neovim/neovim",
+    "lang": "VimScript"
+  },
+  {
+    "title": "IHP-GmbH/IHP-Open-PDK",
+    "url": "https://github.com/IHP-GmbH/IHP-Open-PDK",
+    "lang": "HTML"
+  },
+  {
+    "title": "butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "url": "https://github.com/butaixianran/Stable-Diffusion-Webui-Civitai-Helper",
+    "lang": "Python"
+  },
+  {
+    "title": "guillaumekln/faster-whisper",
+    "url": "https://github.com/guillaumekln/faster-whisper",
+    "lang": "Python"
+  },
+  {
+    "title": "pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "url": "https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111",
+    "lang": "Python"
+  },
+  {
+    "title": "geohot/tinygrad",
+    "url": "https://github.com/geohot/tinygrad",
+    "lang": "Python"
+  },
+  {
+    "title": "getaurora/download",
+    "url": "https://github.com/getaurora/download"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "lang": "Python"
+  }
+]
