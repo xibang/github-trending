@@ -1,0 +1,126 @@
+[
+  {
+    "title": "togethercomputer/OpenChatKit",
+    "url": "https://github.com/togethercomputer/OpenChatKit",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "AstroNvim/AstroNvim",
+    "url": "https://github.com/AstroNvim/AstroNvim",
+    "lang": "Lua"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "lang": "C++"
+  },
+  {
+    "title": "Azure-Samples/azure-search-openai-demo",
+    "url": "https://github.com/Azure-Samples/azure-search-openai-demo",
+    "lang": "Python"
+  },
+  {
+    "title": "davinci1012/pinduoduo_backdoor_unpacker",
+    "url": "https://github.com/davinci1012/pinduoduo_backdoor_unpacker",
+    "lang": "Java"
+  },
+  {
+    "title": "Postcatlab/postcat",
+    "url": "https://github.com/Postcatlab/postcat",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "midudev/openui.com",
+    "url": "https://github.com/midudev/openui.com",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "lang": "Shell"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "lang": "Python"
+  },
+  {
+    "title": "whoiskatrin/sql-translator",
+    "url": "https://github.com/whoiskatrin/sql-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "lang": "Python"
+  },
+  {
+    "title": "chathub-dev/chathub",
+    "url": "https://github.com/chathub-dev/chathub",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "ccfos/nightingale",
+    "url": "https://github.com/ccfos/nightingale",
+    "lang": "Go"
+  },
+  {
+    "title": "tangly1024/NotionNext",
+    "url": "https://github.com/tangly1024/NotionNext",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "svc-develop-team/so-vits-svc",
+    "url": "https://github.com/svc-develop-team/so-vits-svc",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "GanymedeNil/document.ai",
+    "url": "https://github.com/GanymedeNil/document.ai",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/whisper.cpp",
+    "url": "https://github.com/ggerganov/whisper.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "pgrok/pgrok",
+    "url": "https://github.com/pgrok/pgrok",
+    "lang": "Go"
+  },
+  {
+    "title": "ggerganov/ggml",
+    "url": "https://github.com/ggerganov/ggml",
+    "lang": "C"
+  }
+]
