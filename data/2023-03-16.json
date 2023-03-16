@@ -1,0 +1,121 @@
+[
+  {
+    "title": "tatsu-lab/stanford_alpaca",
+    "url": "https://github.com/tatsu-lab/stanford_alpaca",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "togethercomputer/OpenChatKit",
+    "url": "https://github.com/togethercomputer/OpenChatKit",
+    "lang": "Python"
+  },
+  {
+    "title": "kaixindelele/ChatPaper",
+    "url": "https://github.com/kaixindelele/ChatPaper",
+    "lang": "Python"
+  },
+  {
+    "title": "whoiskatrin/sql-translator",
+    "url": "https://github.com/whoiskatrin/sql-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "cogentapps/chat-with-gpt",
+    "url": "https://github.com/cogentapps/chat-with-gpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "exaloop/codon",
+    "url": "https://github.com/exaloop/codon",
+    "lang": "C++"
+  },
+  {
+    "title": "comfyanonymous/ComfyUI",
+    "url": "https://github.com/comfyanonymous/ComfyUI",
+    "lang": "Python"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "lang": "Shell"
+  },
+  {
+    "title": "pynecone-io/pynecone",
+    "url": "https://github.com/pynecone-io/pynecone",
+    "lang": "Python"
+  },
+  {
+    "title": "futantan/OpenGpt",
+    "url": "https://github.com/futantan/OpenGpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "ayaka14732/ChatGPTAPIFree",
+    "url": "https://github.com/ayaka14732/ChatGPTAPIFree",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "MasterBin-IIAU/UNINEXT",
+    "url": "https://github.com/MasterBin-IIAU/UNINEXT",
+    "lang": "Python"
+  },
+  {
+    "title": "cocktailpeanut/dalai",
+    "url": "https://github.com/cocktailpeanut/dalai",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "thu-ml/unidiffuser",
+    "url": "https://github.com/thu-ml/unidiffuser",
+    "lang": "Python"
+  },
+  {
+    "title": "xx025/carrot",
+    "url": "https://github.com/xx025/carrot"
+  },
+  {
+    "title": "Genymobile/scrcpy",
+    "url": "https://github.com/Genymobile/scrcpy",
+    "lang": "C"
+  },
+  {
+    "title": "upscayl/upscayl",
+    "url": "https://github.com/upscayl/upscayl",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "poorjobless/pinduoduo_backdoor_code",
+    "url": "https://github.com/poorjobless/pinduoduo_backdoor_code",
+    "lang": "C"
+  },
+  {
+    "title": "orhun/halp",
+    "url": "https://github.com/orhun/halp",
+    "lang": "Rust"
+  },
+  {
+    "title": "acheong08/EdgeGPT",
+    "url": "https://github.com/acheong08/EdgeGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "Const-me/Whisper",
+    "url": "https://github.com/Const-me/Whisper",
+    "lang": "C++"
+  },
+  {
+    "title": "facebookresearch/llama",
+    "url": "https://github.com/facebookresearch/llama",
+    "lang": "Python"
+  }
+]
