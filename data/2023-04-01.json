@@ -1,0 +1,125 @@
+[
+  {
+    "title": "hpcaitech/ColossalAI",
+    "url": "https://github.com/hpcaitech/ColossalAI",
+    "lang": "Python"
+  },
+  {
+    "title": "nomic-ai/gpt4all",
+    "url": "https://github.com/nomic-ai/gpt4all",
+    "lang": "Python"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "lang": "Python"
+  },
+  {
+    "title": "TaxyAI/browser-extension",
+    "url": "https://github.com/TaxyAI/browser-extension",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Kent0n-Li/ChatDoctor",
+    "url": "https://github.com/Kent0n-Li/ChatDoctor",
+    "lang": "Python"
+  },
+  {
+    "title": "binary-husky/chatgpt_academic",
+    "url": "https://github.com/binary-husky/chatgpt_academic",
+    "lang": "Python"
+  },
+  {
+    "title": "PaperMC/Folia",
+    "url": "https://github.com/PaperMC/Folia",
+    "lang": "Kotlin"
+  },
+  {
+    "title": "karpathy/minGPT",
+    "url": "https://github.com/karpathy/minGPT",
+    "lang": "Python"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "gkamradt/langchain-tutorials",
+    "url": "https://github.com/gkamradt/langchain-tutorials",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "vocodedev/vocode-python",
+    "url": "https://github.com/vocodedev/vocode-python",
+    "lang": "Python"
+  },
+  {
+    "title": "openai/openai-cookbook",
+    "url": "https://github.com/openai/openai-cookbook",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yzfly/awesome-chatgpt-zh",
+    "url": "https://github.com/yzfly/awesome-chatgpt-zh"
+  },
+  {
+    "title": "mouredev/Hello-Python",
+    "url": "https://github.com/mouredev/Hello-Python",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/visual-chatgpt",
+    "url": "https://github.com/microsoft/visual-chatgpt",
+    "lang": "Python"
+  },
+  {
+    "title": "osanseviero/ml_timeline",
+    "url": "https://github.com/osanseviero/ml_timeline"
+  },
+  {
+    "title": "immersive-translate/immersive-translate",
+    "url": "https://github.com/immersive-translate/immersive-translate",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "lang": "Python"
+  },
+  {
+    "title": "snipe/snipe-it",
+    "url": "https://github.com/snipe/snipe-it",
+    "lang": "PHP"
+  },
+  {
+    "title": "hashicorp/vault",
+    "url": "https://github.com/hashicorp/vault",
+    "lang": "Go"
+  },
+  {
+    "title": "mlfoundations/open_flamingo",
+    "url": "https://github.com/mlfoundations/open_flamingo",
+    "lang": "Python"
+  },
+  {
+    "title": "vfarid/cf-ip-scanner-py",
+    "url": "https://github.com/vfarid/cf-ip-scanner-py",
+    "lang": "Python"
+  },
+  {
+    "title": "lencx/ChatGPT",
+    "url": "https://github.com/lencx/ChatGPT",
+    "lang": "Rust"
+  },
+  {
+    "title": "di-sukharev/opencommit",
+    "url": "https://github.com/di-sukharev/opencommit",
+    "lang": "TypeScript"
+  }
+]
