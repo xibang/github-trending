@@ -1,0 +1,127 @@
+[
+  {
+    "title": "twitter/the-algorithm",
+    "url": "https://github.com/twitter/the-algorithm",
+    "lang": "Scala"
+  },
+  {
+    "title": "twitter/the-algorithm-ml",
+    "url": "https://github.com/twitter/the-algorithm-ml",
+    "lang": "Python"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "hahahumble/speechgpt",
+    "url": "https://github.com/hahahumble/speechgpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "lang": "Rust"
+  },
+  {
+    "title": "twitter/opensource-website",
+    "url": "https://github.com/twitter/opensource-website",
+    "lang": "SCSS"
+  },
+  {
+    "title": "Synaptrix/ChatGPT-Desktop",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
+    "lang": "Vue"
+  },
+  {
+    "title": "ZrrSkywalker/LLaMA-Adapter",
+    "url": "https://github.com/ZrrSkywalker/LLaMA-Adapter",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/kbd-audio",
+    "url": "https://github.com/ggerganov/kbd-audio",
+    "lang": "C++"
+  },
+  {
+    "title": "moeakwak/chatgpt-web-share",
+    "url": "https://github.com/moeakwak/chatgpt-web-share",
+    "lang": "Vue"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "Bin-Huang/chatbox",
+    "url": "https://github.com/Bin-Huang/chatbox",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "lang": "Python"
+  },
+  {
+    "title": "twitter/twemoji",
+    "url": "https://github.com/twitter/twemoji",
+    "lang": "HTML"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "lang": "Python"
+  },
+  {
+    "title": "twitter/rezolus",
+    "url": "https://github.com/twitter/rezolus",
+    "lang": "Rust"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "lang": "Lua"
+  },
+  {
+    "title": "twitter/GraphJet",
+    "url": "https://github.com/twitter/GraphJet",
+    "lang": "Java"
+  },
+  {
+    "title": "new-ai-company/ide",
+    "url": "https://github.com/new-ai-company/ide",
+    "lang": "Python"
+  },
+  {
+    "title": "twitter/finagle",
+    "url": "https://github.com/twitter/finagle",
+    "lang": "Scala"
+  },
+  {
+    "title": "curl/trurl",
+    "url": "https://github.com/curl/trurl",
+    "lang": "C"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  }
+]
