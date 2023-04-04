@@ -1,0 +1,125 @@
+[
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "lang": "Python"
+  },
+  {
+    "title": "apple/ml-stable-diffusion",
+    "url": "https://github.com/apple/ml-stable-diffusion",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "lang": "Python"
+  },
+  {
+    "title": "PathOfBuildingCommunity/PathOfBuilding",
+    "url": "https://github.com/PathOfBuildingCommunity/PathOfBuilding",
+    "lang": "Lua"
+  },
+  {
+    "title": "mckaywrigley/ai-code-translator",
+    "url": "https://github.com/mckaywrigley/ai-code-translator",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "sindresorhus/awesome",
+    "url": "https://github.com/sindresorhus/awesome"
+  },
+  {
+    "title": "hahahumble/speechgpt",
+    "url": "https://github.com/hahahumble/speechgpt",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "donnemartin/system-design-primer",
+    "url": "https://github.com/donnemartin/system-design-primer",
+    "lang": "Python"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "stochasticai/xturing",
+    "url": "https://github.com/stochasticai/xturing",
+    "lang": "Python"
+  },
+  {
+    "title": "rustformers/llama-rs",
+    "url": "https://github.com/rustformers/llama-rs",
+    "lang": "Rust"
+  },
+  {
+    "title": "helix-editor/helix",
+    "url": "https://github.com/helix-editor/helix",
+    "lang": "Rust"
+  },
+  {
+    "title": "ymcui/Chinese-LLaMA-Alpaca",
+    "url": "https://github.com/ymcui/Chinese-LLaMA-Alpaca",
+    "lang": "Python"
+  },
+  {
+    "title": "gothinkster/realworld",
+    "url": "https://github.com/gothinkster/realworld",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "DarkFlippers/unleashed-firmware",
+    "url": "https://github.com/DarkFlippers/unleashed-firmware",
+    "lang": "C"
+  },
+  {
+    "title": "OptimalScale/LMFlow",
+    "url": "https://github.com/OptimalScale/LMFlow",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "twitter/the-algorithm",
+    "url": "https://github.com/twitter/the-algorithm",
+    "lang": "Scala"
+  },
+  {
+    "title": "DeSinc/SallyBot",
+    "url": "https://github.com/DeSinc/SallyBot",
+    "lang": "C#"
+  },
+  {
+    "title": "terrastruct/d2",
+    "url": "https://github.com/terrastruct/d2",
+    "lang": "Go"
+  },
+  {
+    "title": "Synaptrix/ChatGPT-Desktop",
+    "url": "https://github.com/Synaptrix/ChatGPT-Desktop",
+    "lang": "Vue"
+  },
+  {
+    "title": "microsoft/ML-For-Beginners",
+    "url": "https://github.com/microsoft/ML-For-Beginners",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "twitter/the-algorithm-ml",
+    "url": "https://github.com/twitter/the-algorithm-ml",
+    "lang": "Python"
+  },
+  {
+    "title": "Yidadaa/ChatGPT-Next-Web",
+    "url": "https://github.com/Yidadaa/ChatGPT-Next-Web",
+    "lang": "TypeScript"
+  }
+]
