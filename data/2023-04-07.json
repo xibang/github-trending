@@ -1,0 +1,125 @@
+[
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "lang": "Python"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "lang": "Go"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "lang": "Python"
+  },
+  {
+    "title": "ai-forever/Kandinsky-2",
+    "url": "https://github.com/ai-forever/Kandinsky-2",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "lang": "Python"
+  },
+  {
+    "title": "e2b-dev/e2b",
+    "url": "https://github.com/e2b-dev/e2b",
+    "lang": "Python"
+  },
+  {
+    "title": "serverless-stack/sst",
+    "url": "https://github.com/serverless-stack/sst",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "public-apis/public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "lang": "Python"
+  },
+  {
+    "title": "nat/openplayground",
+    "url": "https://github.com/nat/openplayground",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "dair-ai/Prompt-Engineering-Guide",
+    "url": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "dice2o/BingGPT",
+    "url": "https://github.com/dice2o/BingGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "lm-sys/FastChat",
+    "url": "https://github.com/lm-sys/FastChat",
+    "lang": "Python"
+  },
+  {
+    "title": "SkalskiP/courses",
+    "url": "https://github.com/SkalskiP/courses",
+    "lang": "Python"
+  },
+  {
+    "title": "dair-ai/ML-Papers-of-the-Week",
+    "url": "https://github.com/dair-ai/ML-Papers-of-the-Week"
+  },
+  {
+    "title": "justjavac/free-programming-books-zh_CN",
+    "url": "https://github.com/justjavac/free-programming-books-zh_CN"
+  },
+  {
+    "title": "easychen/chatchan-dist",
+    "url": "https://github.com/easychen/chatchan-dist",
+    "lang": "Dockerfile"
+  },
+  {
+    "title": "curl/trurl",
+    "url": "https://github.com/curl/trurl",
+    "lang": "C"
+  },
+  {
+    "title": "emcf/engshell",
+    "url": "https://github.com/emcf/engshell",
+    "lang": "Python"
+  },
+  {
+    "title": "project-baize/baize-chatbot",
+    "url": "https://github.com/project-baize/baize-chatbot",
+    "lang": "Python"
+  },
+  {
+    "title": "OptimalScale/LMFlow",
+    "url": "https://github.com/OptimalScale/LMFlow",
+    "lang": "Python"
+  },
+  {
+    "title": "ggerganov/llama.cpp",
+    "url": "https://github.com/ggerganov/llama.cpp",
+    "lang": "C"
+  },
+  {
+    "title": "hwchase17/langchain",
+    "url": "https://github.com/hwchase17/langchain",
+    "lang": "Python"
+  },
+  {
+    "title": "imClumsyPanda/langchain-ChatGLM",
+    "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
+    "lang": "Python"
+  },
+  {
+    "title": "finos/perspective",
+    "url": "https://github.com/finos/perspective",
+    "lang": "C++"
+  },
+  {
+    "title": "Torantulino/AI-Functions",
+    "url": "https://github.com/Torantulino/AI-Functions",
+    "lang": "Python"
+  }
+]
