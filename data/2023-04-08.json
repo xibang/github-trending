@@ -1,0 +1,125 @@
+[
+  {
+    "title": "facebookresearch/segment-anything",
+    "url": "https://github.com/facebookresearch/segment-anything",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "lang": "Go"
+  },
+  {
+    "title": "Torantulino/Auto-GPT",
+    "url": "https://github.com/Torantulino/Auto-GPT",
+    "lang": "Python"
+  },
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "lang": "Python"
+  },
+  {
+    "title": "project-baize/baize-chatbot",
+    "url": "https://github.com/project-baize/baize-chatbot",
+    "lang": "Python"
+  },
+  {
+    "title": "bitloops/ddd-hexagonal-cqrs-es-eda",
+    "url": "https://github.com/bitloops/ddd-hexagonal-cqrs-es-eda",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "ArroyoSystems/arroyo",
+    "url": "https://github.com/ArroyoSystems/arroyo",
+    "lang": "Rust"
+  },
+  {
+    "title": "VideoCrafter/VideoCrafter",
+    "url": "https://github.com/VideoCrafter/VideoCrafter",
+    "lang": "Python"
+  },
+  {
+    "title": "microsoft/JARVIS",
+    "url": "https://github.com/microsoft/JARVIS",
+    "lang": "Python"
+  },
+  {
+    "title": "ViperX7/Alpaca-Turbo",
+    "url": "https://github.com/ViperX7/Alpaca-Turbo",
+    "lang": "Python"
+  },
+  {
+    "title": "imClumsyPanda/langchain-ChatGLM",
+    "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
+    "lang": "Python"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "lang": "Shell"
+  },
+  {
+    "title": "dair-ai/ML-Papers-of-the-Week",
+    "url": "https://github.com/dair-ai/ML-Papers-of-the-Week"
+  },
+  {
+    "title": "slint-ui/slint",
+    "url": "https://github.com/slint-ui/slint",
+    "lang": "Rust"
+  },
+  {
+    "title": "young-geng/EasyLM",
+    "url": "https://github.com/young-geng/EasyLM",
+    "lang": "Python"
+  },
+  {
+    "title": "corca-ai/EVAL",
+    "url": "https://github.com/corca-ai/EVAL",
+    "lang": "Python"
+  },
+  {
+    "title": "Torantulino/AI-Functions",
+    "url": "https://github.com/Torantulino/AI-Functions",
+    "lang": "Python"
+  },
+  {
+    "title": "easychen/chatchan-dist",
+    "url": "https://github.com/easychen/chatchan-dist",
+    "lang": "PHP"
+  },
+  {
+    "title": "EbookFoundation/free-programming-books",
+    "url": "https://github.com/EbookFoundation/free-programming-books"
+  },
+  {
+    "title": "SkalskiP/courses",
+    "url": "https://github.com/SkalskiP/courses",
+    "lang": "Python"
+  },
+  {
+    "title": "emcf/engshell",
+    "url": "https://github.com/emcf/engshell",
+    "lang": "Python"
+  },
+  {
+    "title": "topjohnwu/Magisk",
+    "url": "https://github.com/topjohnwu/Magisk",
+    "lang": "C++"
+  },
+  {
+    "title": "f/awesome-chatgpt-prompts",
+    "url": "https://github.com/f/awesome-chatgpt-prompts",
+    "lang": "HTML"
+  },
+  {
+    "title": "c121914yu/FastGPT",
+    "url": "https://github.com/c121914yu/FastGPT",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "barretlee/cloudflare-proxy",
+    "url": "https://github.com/barretlee/cloudflare-proxy",
+    "lang": "JavaScript"
+  }
+]
