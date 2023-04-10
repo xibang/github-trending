@@ -1,0 +1,127 @@
+[
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "lang": "Python"
+  },
+  {
+    "title": "facebookresearch/segment-anything",
+    "url": "https://github.com/facebookresearch/segment-anything",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nomic-ai/gpt4all-ui",
+    "url": "https://github.com/nomic-ai/gpt4all-ui",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "facebook/buck2",
+    "url": "https://github.com/facebook/buck2",
+    "lang": "Rust"
+  },
+  {
+    "title": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "url": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "lang": "HTML"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "chroma-core/chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "lang": "Python"
+  },
+  {
+    "title": "Akegarasu/ChatGLM-webui",
+    "url": "https://github.com/Akegarasu/ChatGLM-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "vcheckzen/KeepAliveE5",
+    "url": "https://github.com/vcheckzen/KeepAliveE5",
+    "lang": "Shell"
+  },
+  {
+    "title": "imClumsyPanda/langchain-ChatGLM",
+    "url": "https://github.com/imClumsyPanda/langchain-ChatGLM",
+    "lang": "Python"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "l15y/wenda",
+    "url": "https://github.com/l15y/wenda",
+    "lang": "CSS"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "lang": "Python"
+  },
+  {
+    "title": "TheAlgorithms/Python",
+    "url": "https://github.com/TheAlgorithms/Python",
+    "lang": "Python"
+  },
+  {
+    "title": "VideoCrafter/VideoCrafter",
+    "url": "https://github.com/VideoCrafter/VideoCrafter",
+    "lang": "Python"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "BuilderIO/ai-shell",
+    "url": "https://github.com/BuilderIO/ai-shell",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "AUTOMATIC1111/stable-diffusion-webui",
+    "url": "https://github.com/AUTOMATIC1111/stable-diffusion-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "ViperX7/Alpaca-Turbo",
+    "url": "https://github.com/ViperX7/Alpaca-Turbo",
+    "lang": "Python"
+  },
+  {
+    "title": "TabbyML/tabby",
+    "url": "https://github.com/TabbyML/tabby",
+    "lang": "Python"
+  },
+  {
+    "title": "THUDM/ChatGLM-6B",
+    "url": "https://github.com/THUDM/ChatGLM-6B",
+    "lang": "Python"
+  },
+  {
+    "title": "emcf/engshell",
+    "url": "https://github.com/emcf/engshell",
+    "lang": "Python"
+  },
+  {
+    "title": "iDvel/rime-ice",
+    "url": "https://github.com/iDvel/rime-ice",
+    "lang": "Go"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  }
+]
