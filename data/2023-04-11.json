@@ -1,0 +1,127 @@
+[
+  {
+    "title": "IDEA-Research/Grounded-Segment-Anything",
+    "url": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "oobabooga/text-generation-webui",
+    "url": "https://github.com/oobabooga/text-generation-webui",
+    "lang": "Python"
+  },
+  {
+    "title": "chroma-core/chroma",
+    "url": "https://github.com/chroma-core/chroma",
+    "lang": "Python"
+  },
+  {
+    "title": "vinta/awesome-python",
+    "url": "https://github.com/vinta/awesome-python",
+    "lang": "Python"
+  },
+  {
+    "title": "facebook/buck2",
+    "url": "https://github.com/facebook/buck2",
+    "lang": "Rust"
+  },
+  {
+    "title": "trekhleb/javascript-algorithms",
+    "url": "https://github.com/trekhleb/javascript-algorithms",
+    "lang": "JavaScript"
+  },
+  {
+    "title": "Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "url": "https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM",
+    "lang": "HTML"
+  },
+  {
+    "title": "Moonvy/OpenPromptStudio",
+    "url": "https://github.com/Moonvy/OpenPromptStudio",
+    "lang": "Vue"
+  },
+  {
+    "title": "yoheinakajima/babyagi",
+    "url": "https://github.com/yoheinakajima/babyagi",
+    "lang": "Python"
+  },
+  {
+    "title": "ArroyoSystems/arroyo",
+    "url": "https://github.com/ArroyoSystems/arroyo",
+    "lang": "Rust"
+  },
+  {
+    "title": "Mikubill/sd-webui-controlnet",
+    "url": "https://github.com/Mikubill/sd-webui-controlnet",
+    "lang": "Python"
+  },
+  {
+    "title": "ziglang/zig",
+    "url": "https://github.com/ziglang/zig",
+    "lang": "Zig"
+  },
+  {
+    "title": "jackfrued/Python-100-Days",
+    "url": "https://github.com/jackfrued/Python-100-Days",
+    "lang": "Python"
+  },
+  {
+    "title": "lvwerra/trl",
+    "url": "https://github.com/lvwerra/trl",
+    "lang": "Python"
+  },
+  {
+    "title": "WerWolv/ImHex",
+    "url": "https://github.com/WerWolv/ImHex",
+    "lang": "C++"
+  },
+  {
+    "title": "LAION-AI/Open-Assistant",
+    "url": "https://github.com/LAION-AI/Open-Assistant",
+    "lang": "Python"
+  },
+  {
+    "title": "abetlen/llama-cpp-python",
+    "url": "https://github.com/abetlen/llama-cpp-python",
+    "lang": "Python"
+  },
+  {
+    "title": "guangzhengli/ChatFiles",
+    "url": "https://github.com/guangzhengli/ChatFiles",
+    "lang": "TypeScript"
+  },
+  {
+    "title": "jpmorganchase/python-training",
+    "url": "https://github.com/jpmorganchase/python-training",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "nomic-ai/gpt4all-ui",
+    "url": "https://github.com/nomic-ai/gpt4all-ui",
+    "lang": "Python"
+  },
+  {
+    "title": "BlinkDL/ChatRWKV",
+    "url": "https://github.com/BlinkDL/ChatRWKV",
+    "lang": "Python"
+  },
+  {
+    "title": "base-org/node",
+    "url": "https://github.com/base-org/node",
+    "lang": "Shell"
+  },
+  {
+    "title": "prophesier/diff-svc",
+    "url": "https://github.com/prophesier/diff-svc",
+    "lang": "JupyterNotebook"
+  },
+  {
+    "title": "Winfredy/SadTalker",
+    "url": "https://github.com/Winfredy/SadTalker",
+    "lang": "Python"
+  },
+  {
+    "title": "dice2o/BingGPT",
+    "url": "https://github.com/dice2o/BingGPT",
+    "lang": "JavaScript"
+  }
+]
